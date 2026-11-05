@@ -1,0 +1,60 @@
+{
+ "id": "3f6dfc3ad19bda9c0f1f_r33",
+ "company": "InClick",
+ "lang": "en",
+ "paid": true,
+ "engine": "fish",
+ "hook": "POV: your posts become product pages",
+ "lines": [
+  "You already posted every product with photos and captions.",
+  "Connect Instagram, and the copilot pulls them into your store.",
+  "Check names and details, edit anything, then confirm it all.",
+  "Bring them over at dash.inclick.shop/create."
+ ],
+ "say": [
+  "You already posted every product with photos and captions.",
+  "Connect Instagram, and the copilot pulls them into your store.",
+  "Check names and details, edit anything, then confirm it all.",
+  "Bring them over at dash dot inclick dot shop slash create."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_38410501.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_6115070.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "clients/3f6dfc3ad19bda9c0f1f/s1.png",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "stock/pexels_7610992.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_7610987.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_8472307.mp4",
+   "ss": 1,
+   "dur": 2.4
+  }
+ ],
+ "end": "Start at dash.inclick.shop/create",
+ "caption": "Your posts already show your products. Bring them into a real store. Start at dash.inclick.shop/create #instagramshop #smallbusiness #handmade #ecommerce",
+ "date": "2026-11-14 09:37 UTC",
+ "why": "From Instagram to store series, POV mechanic of the best Reel plus the handmade seller footage (146M views). Goal: show Instagram import.",
+ "series": "From Instagram to store",
+ "rules": "Main on-screen person: a woman aged 35-50, business owner look. No religious or national attire (no hijab). No cartoon or 3D characters. No text over faces.",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89"
+}

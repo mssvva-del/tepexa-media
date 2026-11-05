@@ -1,0 +1,65 @@
+{
+ "id": "c2ae81d1e90ca2405331_r2",
+ "company": "BeaverCraft",
+ "lang": "en",
+ "paid": true,
+ "engine": "fish",
+ "hook": "Let's carve a bear. One knife.",
+ "lines": [
+  "Let's carve a little bear out of basswood together.",
+  "Basswood is soft, so beginners can shape it with one knife.",
+  "Start with the head, then round the ears with small cuts.",
+  "Find the bear kit at beavercrafttools.com and carve along."
+ ],
+ "say": [
+  "Let's carve a little bear out of basswood together.",
+  "Basswood is soft, so beginners can shape it with one knife.",
+  "Start with the head, then round the ears with small cuts.",
+  "Find the bear kit at beaver craft tools dot com and carve along."
+ ],
+ "shots": [
+  {
+   "src": "clients/c2ae81d1e90ca2405331/prod_223.jpg",
+   "dur": 2.4,
+   "zoom": 1.06,
+   "own": true
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/x_diy05-bear-c_3.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/x_diy05-bear-c_4.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/x_diy05-bear-c_2.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/prod_77.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/prod_175.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  }
+ ],
+ "end": "Shop at beavercrafttools.com",
+ "caption": "One block, one knife, one little bear. Grab the kit at beavercrafttools.com #whittling #woodcarving #forbeginners #basswood",
+ "date": "2026-11-06 09:07 UTC",
+ "why": "Серія «One knife, one animal». Формула «вирізаємо тварину з липи одним ножем» — ведмедик у Werewolf зібрав 1,3 млн. Мета: видимий результат за хвилину і перехід на набір «Bear».",
+ "series": "One knife, one animal",
+ "rules": "Show BeaverCraft products (kits, knives, finished figures) in the first seconds. Wood carving only — no other crafts (no straw, weaving, painting). No text over faces.",
+ "fish_voice": "933563129e564b19a115bedd57b7406a"
+}

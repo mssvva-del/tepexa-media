@@ -1,0 +1,71 @@
+{
+ "id": "c2ae81d1e90ca2405331_r1",
+ "company": "BeaverCraft",
+ "lang": "en",
+ "paid": true,
+ "engine": "fish",
+ "hook": "Your first carving kit. Nothing else to buy.",
+ "lines": [
+  "This is everything you need for your very first carving.",
+  "Inside the box: a basswood blank, a sharp knife, sandpaper and oil.",
+  "The tools arrive sharpened, and a video lesson walks you through.",
+  "Check our Black Friday kits at beavercrafttools.com today."
+ ],
+ "say": [
+  "This is everything you need for your very first carving.",
+  "Inside the box: a basswood blank, a sharp knife, sandpaper and oil.",
+  "The tools arrive sharpened, and a video lesson walks you through.",
+  "Check our Black Friday kits at beaver craft tools dot com today."
+ ],
+ "shots": [
+  {
+   "src": "clients/c2ae81d1e90ca2405331/prod_32.jpg",
+   "dur": 2.4,
+   "zoom": 1.06,
+   "own": true
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/x_diy09-family_2.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/x_diy05-bear-c_2.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/x_diy06-santa-_3.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/x_diy06-santa-_2.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/prod_223.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/prod_212.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  }
+ ],
+ "end": "Shop at beavercrafttools.com",
+ "caption": "Open the box and start carving tonight. Everything is already inside. Black Friday kits at beavercrafttools.com #woodcarving #blackfriday #whittling #diykit",
+ "date": "2026-11-05 09:53 UTC",
+ "why": "Серія «Black Friday: перший набір». Формула «що потрібно, щоб почати» з одним набором у кадрі — у Werewolf відео для новачків набрало 4,6 млн переглядів. Мета: показати, що в коробці вже все є, і привести на набори Black Friday.",
+ "series": "Black Friday: перший набір",
+ "rules": "Show BeaverCraft products (kits, knives, finished figures) in the first seconds. Wood carving only — no other crafts (no straw, weaving, painting). No text over faces.",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89"
+}

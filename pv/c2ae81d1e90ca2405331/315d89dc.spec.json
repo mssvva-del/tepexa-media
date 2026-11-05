@@ -1,0 +1,63 @@
+{
+ "id": "c2ae81d1e90ca2405331_r4",
+ "company": "BeaverCraft",
+ "lang": "en",
+ "paid": true,
+ "engine": "fish",
+ "hook": "Three cuts every beginner needs",
+ "lines": [
+  "There are three basic cuts every beginner carver should know.",
+  "The push cut, the pull cut and the gentle stop cut.",
+  "Practice each one slowly on a spare piece of basswood.",
+  "Get your beginner knife at beavercrafttools.com and practice tonight."
+ ],
+ "say": [
+  "There are three basic cuts every beginner carver should know.",
+  "The push cut, the pull cut and the gentle stop cut.",
+  "Practice each one slowly on a spare piece of basswood.",
+  "Get your beginner knife at beaver craft tools dot com and practice tonight."
+ ],
+ "shots": [
+  {
+   "src": "clients/c2ae81d1e90ca2405331/prod_242.jpg",
+   "dur": 2.4,
+   "zoom": 1.06,
+   "own": true
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/x_diy09-family_3.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/prod_64.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/prod_174.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "stock/pexels_6722190.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_5972909.mp4",
+   "ss": 1,
+   "dur": 2.6
+  }
+ ],
+ "end": "Shop at beavercrafttools.com",
+ "caption": "Learn these three cuts first. Everything else builds on them. Tools at beavercrafttools.com #whittling101 #woodcarving #beginner #carvingtips",
+ "date": "2026-11-08 09:43 UTC",
+ "why": "Серія «Start here». Формула «a few basic cuts» — 3,4 млн переглядів у Werewolf. Мета: корисний крок, який зберігають, і довіра до наборів BeaverCraft.",
+ "series": "Start here",
+ "rules": "Show BeaverCraft products (kits, knives, finished figures) in the first seconds. Wood carving only — no other crafts (no straw, weaving, painting). No text over faces.",
+ "fish_voice": "9259a7392c454a1eb6436141abb5a558"
+}

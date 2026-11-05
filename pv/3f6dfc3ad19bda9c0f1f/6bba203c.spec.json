@@ -1,0 +1,55 @@
+{
+ "id": "3f6dfc3ad19bda9c0f1f_r29",
+ "company": "InClick",
+ "lang": "en",
+ "paid": true,
+ "end": "Start at dash.inclick.shop/create",
+ "engine": "fish",
+ "hook": "POV: your store, built from one chat",
+ "lines": [
+  "You type what you sell, like you would text a friend.",
+  "The copilot adds products, photos and descriptions for you.",
+  "You review each step and confirm before anything goes live.",
+  "Start your store at dash.inclick.shop/create."
+ ],
+ "say": [
+  "You type what you sell, like you would text a friend.",
+  "The copilot adds products, photos and descriptions for you.",
+  "You review each step and confirm before anything goes live.",
+  "Start your store at dash dot inclick dot shop slash create."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_9898435.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_8784744.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "clients/3f6dfc3ad19bda9c0f1f/s1.png",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "stock/pexels_15689201.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_8472307.mp4",
+   "ss": 1,
+   "dur": 2.4
+  }
+ ],
+ "caption": "Tell it what you sell. It sets up the store. You confirm. Start at dash.inclick.shop/create #smallbusiness #ecommerce #AItools #onlinestore",
+ "date": "2026-11-12 09:13 UTC",
+ "series": "Tell, show",
+ "why": "Tell, show series using the POV format of our best Reel (reach 211) plus the 'time to store' hook from the research. Goal: show the core promise, chat becomes store.",
+ "rules": "Main on-screen person: a woman aged 35-50, business owner look. No religious or national attire (no hijab). No cartoon or 3D characters. No text over faces.",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89"
+}

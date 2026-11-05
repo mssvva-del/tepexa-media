@@ -1,0 +1,55 @@
+{
+ "id": "3f6dfc3ad19bda9c0f1f_r34",
+ "company": "InClick",
+ "lang": "en",
+ "paid": true,
+ "end": "Start at dash.inclick.shop/create",
+ "engine": "fish",
+ "hook": "New AI, same calm shop owner",
+ "lines": [
+  "New features keep arriving, and you don't have to learn them.",
+  "Ask for a sale banner or a new category in plain words.",
+  "The copilot makes the change and shows it for your approval.",
+  "Start chatting at dash.inclick.shop/create."
+ ],
+ "say": [
+  "New features keep arriving, and you don't have to learn them.",
+  "Ask for a sale banner or a new category in plain words.",
+  "The copilot makes the change and shows it for your approval.",
+  "Start chatting at dash dot inclick dot shop slash create."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_7970345.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_33913644.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "clients/3f6dfc3ad19bda9c0f1f/s1.png",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "stock/pexels_36025108.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_7568746.mp4",
+   "ss": 1,
+   "dur": 2.4
+  }
+ ],
+ "caption": "You run the business. InClick handles the tech. Start at dash.inclick.shop/create #smallbusiness #AIassistant #ecommerce #shopowner",
+ "date": "2026-11-14 16:47 UTC",
+ "series": "Ask your store",
+ "why": "Ask your store series, feature-news-with-light-humor formula (156.5M views in research). Goal: show running the store through chat.",
+ "rules": "Main on-screen person: a woman aged 35-50, business owner look. No religious or national attire (no hijab). No cartoon or 3D characters. No text over faces.",
+ "fish_voice": "933563129e564b19a115bedd57b7406a"
+}

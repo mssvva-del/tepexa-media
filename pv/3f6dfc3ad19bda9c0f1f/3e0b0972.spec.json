@@ -1,0 +1,60 @@
+{
+ "id": "3f6dfc3ad19bda9c0f1f_r32",
+ "company": "InClick",
+ "lang": "en",
+ "paid": true,
+ "engine": "fish",
+ "hook": "Grocery store online? Just describe it.",
+ "lines": [
+  "You run a grocery store and want online orders now?",
+  "Describe your aisles, delivery area and pickup times in chat.",
+  "The copilot builds a store with products and checkout ready.",
+  "See how at dash.inclick.shop/create."
+ ],
+ "say": [
+  "You run a grocery store and want online orders now?",
+  "Describe your aisles, delivery area and pickup times in chat.",
+  "The copilot builds a store with products and checkout ready.",
+  "See how at dash dot inclick dot shop slash create."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_7362703.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "clients/3f6dfc3ad19bda9c0f1f/s1.png",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "stock/pexels_7362665.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_15689201.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_8472307.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_6898096.mp4",
+   "ss": 1,
+   "dur": 2.4
+  }
+ ],
+ "end": "Start at dash.inclick.shop/create",
+ "caption": "Online orders with delivery or pickup, without a tech team. Start at dash.inclick.shop/create #grocery #localbusiness #smallbusiness #onlineorders",
+ "date": "2026-11-13 16:23 UTC",
+ "why": "Tell, show series for segment 2, speed-demo formula (Section Store demo, 9,723 likes). Goal: reach grocery and café owners with the food retail demo.",
+ "series": "Tell, show",
+ "rules": "Main on-screen person: a woman aged 35-50, business owner look. No religious or national attire (no hijab). No cartoon or 3D characters. No text over faces.",
+ "fish_voice": "9259a7392c454a1eb6436141abb5a558"
+}

@@ -1,0 +1,60 @@
+{
+ "id": "3f6dfc3ad19bda9c0f1f_r31",
+ "company": "InClick",
+ "lang": "en",
+ "paid": true,
+ "engine": "fish",
+ "hook": "200 orders, zero spreadsheets?",
+ "lines": [
+  "Busy week, and orders keep coming from every direction.",
+  "Your store collects them with Stripe payments in one place.",
+  "Shippo labels and delivery are connected inside the same chat.",
+  "Set it up at dash.inclick.shop/create."
+ ],
+ "say": [
+  "Busy week, and orders keep coming from every direction.",
+  "Your store collects them with Stripe payments in one place.",
+  "Shippo labels and delivery are connected inside the same chat.",
+  "Set it up at dash dot inclick dot shop slash create."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_7223587.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "clients/3f6dfc3ad19bda9c0f1f/s1.png",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "stock/pexels_6898096.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_15689201.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_8472307.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_7568746.mp4",
+   "ss": 1,
+   "dur": 2.4
+  }
+ ],
+ "end": "Start at dash.inclick.shop/create",
+ "caption": "Payments and delivery connected in one conversation. You only activate your own accounts. Start at dash.inclick.shop/create #smallbusiness #ecommerce #shipping #onlinestore",
+ "date": "2026-11-13 09:41 UTC",
+ "why": "Small store setup series, number-question hook like '50 orders sitting in your DMs?' (reach 111) with a new topic. Goal: show payments and delivery setup.",
+ "series": "Small store, real setup",
+ "rules": "Main on-screen person: a woman aged 35-50, business owner look. No religious or national attire (no hijab). No cartoon or 3D characters. No text over faces.",
+ "fish_voice": "536d3a5e000945adb7038665781a4aca"
+}

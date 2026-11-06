@@ -1,0 +1,64 @@
+{
+ "id": "b1581d1dfe72983eb2fc",
+ "company": "Ashpiz Tours",
+ "lang": "ru",
+ "hook": "Море детям, тишина родителям — 7 дней?",
+ "lines": [
+  "Семья просила отпуск, где детям весело, а родителям спокойно.",
+  "Мы подобрали билеты, отель у моря и удобный маршрут.",
+  "Один человек на связи от запроса до самой поездки.",
+  "Напишите в Direct, подберём под вас, без долгих поисков."
+ ],
+ "say": [
+  "Семья просила отпуск, где детям весело, а родителям спокойно.",
+  "Мы подобрали билеты, отель у моря и удобный маршрут.",
+  "Один человек на связи от запроса до самой поездки.",
+  "Напишите в Директ, подберём под вас, без долгих поисков."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_7850631.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_7423656.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_34782556.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_7849994.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_19017475.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_8045841.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "family with suitcase at airport",
+  "kids playing on beach by sea",
+  "hotel room with sea view balcony"
+ ],
+ "llm_usd": 0.0499,
+ "hookscore": 75.0,
+ "engine": "fish",
+ "fish_voice": "48ec28a45588422b977a86460c11977f",
+ "end_text": [
+  "Ещё 6 роликов",
+  "на этой неделе"
+ ],
+ "why": "Series #1 «Client request → what we picked», built on the real-agent-case formula from the research (an agent case TikTok gathered over 5.1 million views in three days), with a family conflict-of-needs hook. Goal: show the turnkey personal selection and drive requests to Instagram Direct; none of the viral list fits a travel agency, so no donor."
+}

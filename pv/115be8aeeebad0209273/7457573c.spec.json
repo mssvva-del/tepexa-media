@@ -1,0 +1,62 @@
+{
+ "id": "115be8aeeebad0209273",
+ "company": "Blue Bottle Coffee",
+ "lang": "en",
+ "hook": "You asked how we make NOLA",
+ "lines": [
+  "Café iced coffee at home always tastes flat, right?",
+  "Here is our NOLA iced coffee, step by step.",
+  "Our baristas brew it daily, now you can too.",
+  "Write us on WhatsApp and ask your coffee question."
+ ],
+ "say": [
+  "Café iced coffee at home always tastes flat, right?",
+  "Here is our NOH-lah iced coffee, step by step.",
+  "Our baristas brew it daily, now you can too.",
+  "Write us on WhatsApp and ask your coffee question."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_35035084.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_14993310.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_13737095.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_32543620.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_15033362.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_7597965.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "barista making iced coffee",
+  "pouring milk into iced coffee glass",
+  "home coffee brewing kitchen"
+ ],
+ "llm_usd": 0.023,
+ "hookscore": 66.5,
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "Series #1 \"You asked, we answered\" uses the reply-to-a-comment formula that gave the NOLA video 17.7K likes, opened with home iced-coffee footage in the style of the 67M-view at-home iced coffee Short. The goal is to show a real barista recipe and invite viewers to write on WhatsApp."
+}

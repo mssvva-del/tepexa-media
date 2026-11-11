@@ -1,0 +1,82 @@
+{
+ "id": "2974995f561e0310ba09",
+ "company": "Blue Bottle Coffee",
+ "lang": "en",
+ "hook": "How do you make NOLA at home?",
+ "lines": [
+  "You asked how to make our NOLA at home.",
+  "Cold brew, chicory and a little sweetness, poured slowly.",
+  "It's the same recipe we pour in our cafes.",
+  "Message us on WhatsApp and we'll send the steps."
+ ],
+ "say": [
+  "You asked how to make our NOH-lah at home.",
+  "Cold brew, chicory and a little sweetness, poured slowly.",
+  "It's the same recipe we pour in our cafes.",
+  "Message us on WhatsApp and we'll send the steps."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_35035084.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "clients/2974995f561e0310ba09/donor_Em-AJdTrK70.mp4",
+   "ss": 0,
+   "dur": 2.95,
+   "donor": {
+    "id": "Em-AJdTrK70",
+    "media": "",
+    "start": 15.5,
+    "dur": 3.0
+   },
+   "free": "bottom"
+  },
+  {
+   "src": "clients/2974995f561e0310ba09/donor_KgJqcssm39c.mp4",
+   "ss": 0,
+   "dur": 3.95,
+   "donor": {
+    "id": "KgJqcssm39c",
+    "media": "",
+    "start": 7.0,
+    "dur": 4.0
+   },
+   "free": "top"
+  },
+  {
+   "src": "clients/2974995f561e0310ba09/donor_KgJqcssm39c.mp4",
+   "ss": 0,
+   "dur": 3.95,
+   "donor": {
+    "id": "KgJqcssm39c",
+    "media": "",
+    "start": 9.5,
+    "dur": 4.0
+   }
+  },
+  {
+   "src": "stock/pexels_10894069.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_34506437.mp4",
+   "ss": 1,
+   "dur": 2.6
+  }
+ ],
+ "stock_queries": [
+  "iced coffee being poured at home kitchen",
+  "barista making cold brew in cafe",
+  "person enjoying iced latte in city"
+ ],
+ "llm_usd": 0.0235,
+ "hookscore": 71.2,
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "Series #1 \"Replying to you\": the reply-to-a-comment-then-recipe formula behind Blue Bottle's own NOLA at home TikTok (17.7K likes vs dozens on promo posts), opened like the 67M-view iced-coffee-at-home Short. The goal is to show the signature drink is easy to make at home and get viewers to message on WhatsApp."
+}

@@ -1,0 +1,62 @@
+{
+ "id": "b0edc3fe53a1e9790639",
+ "company": "Blue Bottle Coffee",
+ "lang": "en",
+ "hook": "You asked how we make NOLA",
+ "lines": [
+  "Coffee at home tastes flat or bitter again?",
+  "Here is how we make our NOLA at home.",
+  "Our baristas brew it daily in our own cafes.",
+  "Message us on WhatsApp and ask about beans."
+ ],
+ "say": [
+  "Coffee at home tastes flat or bitter again?",
+  "Here is how we make our NOH-lah at home.",
+  "Our baristas brew it daily in our own cafes.",
+  "Message us on WhatsApp and ask about beans."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_7930826.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_14993310.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_35035084.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_13737095.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_15033362.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_7597965.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "barista making iced coffee",
+  "pouring cold brew with milk",
+  "home coffee brewing kitchen"
+ ],
+ "llm_usd": 0.0232,
+ "hookscore": 65.0,
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "Series #1 \"Ask Blue Bottle\": a reply to a real viewer comment teaching the signature drink, the format behind the brand's own NOLA reply (17.7K likes vs 37–888 for product posts), opened like the 5.8M-view \"coffee to make at home\" Short. The goal is to show a warm, human how-to that invites viewers to message on WhatsApp."
+}

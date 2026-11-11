@@ -1,0 +1,57 @@
+{
+ "id": "006f53ff5dd53fa50d28",
+ "company": "Blue Bottle",
+ "lang": "en",
+ "hook": "New Orleans iced coffee, in 2 minutes?",
+ "lines": [
+  "Iced coffee at home never tastes like the cafe.",
+  "Our NOLA recipe brings that cold, creamy taste home.",
+  "We roast our beans and brew it daily ourselves.",
+  "Message us on WhatsApp and we'll send the recipe."
+ ],
+ "say": [
+  "Iced coffee at home never tastes like the cafe.",
+  "Our Noh-lah recipe brings that cold, creamy taste home.",
+  "We roast our beans and brew it daily ourselves.",
+  "Message us on Whats-app and we'll send the recipe."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_32543620.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_13737095.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_35035084.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_34506437.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_5674157.mp4",
+   "ss": 1,
+   "dur": 2.6
+  }
+ ],
+ "stock_queries": [
+  "iced coffee pouring milk glass",
+  "barista making cold brew cafe",
+  "person making coffee at home kitchen"
+ ],
+ "llm_usd": 0.025,
+ "hookscore": 82.5,
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "Serie 1 «Hazlo en casa»: receta del NOLA con el vaso terminado al inicio, la fórmula que en el TikTok de Blue Bottle alcanzó 2,6 M y 2,2 M de vistas, con el disparador de 'Comment Coffee' (3 M de vistas). El objetivo es que el espectador escriba por WhatsApp para pedir la receta."
+}

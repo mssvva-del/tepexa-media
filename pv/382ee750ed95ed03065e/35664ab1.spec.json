@@ -1,0 +1,64 @@
+{
+ "id": "382ee750ed95ed03065e",
+ "company": "Blue Bottle Coffee",
+ "lang": "en",
+ "hook": "You asked how to make NOLA",
+ "lines": [
+  "You keep asking how to make NOLA at home.",
+  "Cold brew, chicory, a little milk, poured over ice.",
+  "We roast our own beans, so it tastes right.",
+  "Write us on WhatsApp and we'll share the recipe."
+ ],
+ "say": [
+  "You keep asking how to make NOH-lah at home.",
+  "Cold brew, chicory, a little milk, poured over ice.",
+  "We roast our own beans, so it tastes right.",
+  "Write us on WhatsApp and we'll share the recipe."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_35035084.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "clients/382ee750ed95ed03065e/donor_Em-AJdTrK70.mp4",
+   "ss": 0,
+   "dur": 2.45,
+   "donor": {
+    "id": "Em-AJdTrK70",
+    "media": "",
+    "start": 15.5,
+    "dur": 2.5
+   },
+   "free": "top"
+  },
+  {
+   "src": "stock/pexels_14993310.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_4821910.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_3626971.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "barista pouring iced coffee",
+  "coffee roaster roasting beans",
+  "making cold brew at home kitchen"
+ ],
+ "llm_usd": 0.0247,
+ "hookscore": 65.0,
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "Серия №1 «Ответ на комментарий»: хук повторяет ваш лучший ролик про NOLA (17,7K лайков) и механику «айс-кофе дома» из ролика с 67M просмотров. Цель — дать домашним любителям кофе рецепт и привести их писать в WhatsApp."
+}

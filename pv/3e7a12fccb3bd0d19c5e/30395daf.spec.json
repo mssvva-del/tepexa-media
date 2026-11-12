@@ -1,0 +1,49 @@
+{
+ "id": "3e7a12fccb3bd0d19c5e",
+ "company": "Smrtlv.io",
+ "lang": "en",
+ "hook": "11pm. AC is out. Who answers?",
+ "lines": [
+  "Your phone rings at eleven at night, nobody picks up.",
+  "Our AI receptionist answers every call, day and night.",
+  "I'm Dmitry, Vegas based, monthly, no contract at all.",
+  "Message CHECK on WhatsApp and we test your line."
+ ],
+ "say": [
+  "Your phone rings at eleven at night, nobody picks up.",
+  "Our A I receptionist answers every call, day and night.",
+  "I'm Dmitry, Vegas based, monthly, no contract at all.",
+  "Message CHECK on WhatsApp and we test your line."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_39447506.mp4",
+   "ss": 1,
+   "dur": 3
+  },
+  {
+   "src": "clients/3e7a12fccb3bd0d19c5e/prod_0.jpg",
+   "dur": 2.4,
+   "zoom": 1.06,
+   "own": true
+  },
+  {
+   "src": "clients/3e7a12fccb3bd0d19c5e/gal_10.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "HVAC technician working on rooftop AC unit",
+  "phone ringing on table at night",
+  "small business owner answering phone in van"
+ ],
+ "llm_usd": 0.0273,
+ "hookscore": 84.8,
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "Серия №1 «Звоню в нашу AI-линию в 23:00»: хук-боль про ночной пропущенный звонок по механике POV «худший день сантехника» (26 млн просмотров) и формату живого демо звонка (@domricci_, 1 102 лайка). Цель — показать владельцам сервисного бизнеса, кто отвечает ночью, и привести их в WhatsApp на проверку линии."
+}

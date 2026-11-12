@@ -1,0 +1,55 @@
+{
+ "id": "578a4be93c0329a0db61_s3",
+ "company": "Glow Med Spa Brooklyn",
+ "lang": "en",
+ "hook": "First time thinking about Botox?",
+ "lines": [
+  "We start every first visit with a calm consultation.",
+  "Botox, fillers, laser hair removal and facials in Brooklyn.",
+  "We speak English and Russian, and never rush you.",
+  "Comment СТЕКЛО and we will call you to book."
+ ],
+ "say": [
+  "We start every first visit with a calm consultation.",
+  "Botox, fillers, laser hair removal and facials in Brooklyn.",
+  "We speak English and Russian, and never rush you.",
+  "Comment steklo and we will call you to book."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_8075143.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_8313054.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_6998341.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_6998179.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "med spa consultation room",
+  "woman talking with aesthetician",
+  "calm spa reception Brooklyn"
+ ],
+ "paid": true,
+ "end": "Comment СТЕКЛО below",
+ "caption": "New to Botox or fillers? Your first visit at Glow Med Spa Brooklyn starts with questions, not pressure. Comment СТЕКЛО and we will call you. #botoxbrooklyn #medspa #fillers #laserhairremoval\n\n👉 reels.tepexa.com/w/578a4be93c0329a0db61",
+ "series": "Primera visita",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "disc": "Results vary. Consultation with a licensed provider required.",
+ "why": "Serie «Primera visita», fórmula «This is your sign» de invitación suave (vistas no confirmadas en la estrategia). Objetivo: generar llamadas de nuevas pacientes.",
+ "date": "2026-11-13 11:07 ET"
+}

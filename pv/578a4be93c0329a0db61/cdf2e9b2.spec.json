@@ -1,0 +1,68 @@
+{
+ "id": "578a4be93c0329a0db61_s2",
+ "company": "Glow Med Spa Brooklyn",
+ "lang": "en",
+ "hook": "Dark under-eye circles? Ask us this first.",
+ "lines": [
+  "Not every dark circle needs the same treatment.",
+  "Comment СТЕКЛО to book a calm consultation."
+ ],
+ "say": [
+  "Not every dark circle needs the same treatment.",
+  "Comment steklo to book a calm consultation."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_6663993.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "clients/578a4be93c0329a0db61/donor_H7Yn2AQTL2s.mp4",
+   "ss": 0,
+   "dur": 2.45,
+   "donor": {
+    "id": "H7Yn2AQTL2s",
+    "media": "",
+    "start": 3.0,
+    "dur": 2.5
+   },
+   "free": "top"
+  },
+  {
+   "src": "stock/pexels_3763970.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_37142353.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_15731126.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_7582850.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "woman under eye skin closeup",
+  "facial treatment med spa",
+  "specialist examining skin"
+ ],
+ "paid": true,
+ "end": "Comment СТЕКЛО below",
+ "caption": "Dark circles have different causes, so we start with questions. Glow Med Spa Brooklyn, no pressure. Comment СТЕКЛО to book. #darkcircles #brooklynskincare #medspa #facials\n\n👉 reels.tepexa.com/w/578a4be93c0329a0db61",
+ "series": "Pregunta de la semana",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "disc": "Results vary. Consultation with a licensed provider required.",
+ "why": "Serie «Pregunta de la semana», mecánica de láser para ojeras (11 M de vistas). Objetivo: alcance entre quienes buscan tratamiento facial y generar consultas.",
+ "date": "2026-11-12 18:43 ET"
+}

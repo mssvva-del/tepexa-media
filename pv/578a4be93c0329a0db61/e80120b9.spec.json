@@ -1,0 +1,73 @@
+{
+ "id": "578a4be93c0329a0db61_s1",
+ "company": "Glow Med Spa Brooklyn",
+ "lang": "en",
+ "hook": "Laser recovery: worth it or myth?",
+ "lines": [
+  "Every laser has a recovery, we explain yours first.",
+  "Comment СТЕКЛО and we will call you back."
+ ],
+ "say": [
+  "Every laser has a recovery, we explain yours first.",
+  "Comment steklo and we will call you back."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_30978310.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "clients/578a4be93c0329a0db61/donor_H7Yn2AQTL2s.mp4",
+   "ss": 0,
+   "dur": 2.95,
+   "donor": {
+    "id": "H7Yn2AQTL2s",
+    "media": "",
+    "start": 11.0,
+    "dur": 3.0
+   },
+   "free": "top"
+  },
+  {
+   "src": "stock/pexels_31695472.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_7597242.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_9474154.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_7423552.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_7423545.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "laser skin treatment clinic",
+  "woman skin recovery mirror",
+  "aesthetician consultation face"
+ ],
+ "paid": true,
+ "end": "Comment СТЕКЛО below",
+ "caption": "Recovery is part of any laser treatment. At Glow Med Spa Brooklyn we talk it through before you book. Comment СТЕКЛО and we will reach out. #brooklynmedspa #laserskin #skincare #medspa\n\n👉 reels.tepexa.com/w/578a4be93c0329a0db61",
+ "series": "Mito o no",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "disc": "Results vary. Consultation with a licensed provider required.",
+ "why": "Serie «Mito o no», fórmula de recuperación tras láser CO2 (17 M de vistas). Objetivo: alcance y confianza explicando la recuperación sin promesas.",
+ "date": "2026-11-12 11:13 ET"
+}

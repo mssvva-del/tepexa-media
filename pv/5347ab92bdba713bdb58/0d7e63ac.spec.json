@@ -1,0 +1,86 @@
+{
+ "id": "5347ab92bdba713bdb58_s3_v3",
+ "company": "ArtVitrage",
+ "lang": "ru",
+ "hook": "Три ошибки, которые портят фартук",
+ "lines": [
+  "Вот три ошибки, из-за которых новый фартук разочаровывает.",
+  "Первая: выбирают рисунок по картинке, не видя свою кухню.",
+  "Вторая: не делают точный замер, и стекло встаёт с зазорами.",
+  "Третья: забывают про розетки. Пишите в WhatsApp, всё обсудим."
+ ],
+ "say": [
+  "Вот три ошибки, из-за которых новый фартук разочаровывает.",
+  "Первая: выбирают рисунок по картинке, не видя свою кухню.",
+  "Вторая: не делают точный замер, и стекло встаёт с зазорами.",
+  "Третья: забывают про розетки. Пишите в вотсап, всё обсудим."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/gal_2.jpg",
+   "dur": 2.4,
+   "zoom": 1.06,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1Awmrh6WEmtkgYwtqjtDJqHR5ecDoCr7G.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/166KkBcC5UvUxyGaxT2jqrl4fFTa5elPD.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/donor_KL3bRyF7Ghs.mp4",
+   "ss": 0,
+   "dur": 3.45,
+   "donor": {
+    "id": "KL3bRyF7Ghs",
+    "media": "",
+    "start": 9.5,
+    "dur": 3.5
+   },
+   "free": "top"
+  },
+  {
+   "src": "stock/pexels_39122178.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1luMJ-nzAf5G_C_eglci1Lno5yRTjnVfz.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/gal_3.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/gal_4.jpg",
+   "dur": 3,
+   "fit": "pad",
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "modern kitchen glass backsplash",
+  "worker measuring kitchen wall tape",
+  "family choosing kitchen design"
+ ],
+ "paid": true,
+ "end": "Пишите в WhatsApp: +972522887760",
+ "caption": "Три ошибки, которые портят новый стеклянный фартук. Сохраните перед ремонтом. Пишите в WhatsApp: +972522887760 #скинали #ошибкиремонта #кухня #фартук",
+ "series": "Ошибки и вопросы",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "why": "Рубрика «Ошибки и вопросы», формула «старая кухня → полная переделка» как в ролике «Старую кухню переделали полностью» (1 млн просмотров): ошибка превращается в правильный результат. Цель — помочь выбрать фартук и привести на консультацию.",
+ "date": "2026-11-15 16:43 UTC"
+}

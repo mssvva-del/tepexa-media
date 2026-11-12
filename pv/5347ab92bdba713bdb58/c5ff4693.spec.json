@@ -1,0 +1,86 @@
+{
+ "id": "5347ab92bdba713bdb58_s4_v4",
+ "company": "ArtVitrage",
+ "lang": "ru",
+ "hook": "Стеклянный фартук — это непрактично?",
+ "lines": [
+  "Нас часто спрашивают, практичен ли стеклянный фартук на кухне.",
+  "Стекло не боится жира, влаги и легко моется губкой.",
+  "Мы закаляем стекло, поэтому оно спокойно стоит рядом с плитой.",
+  "Хотите такой фартук у себя? Пишите нам в WhatsApp."
+ ],
+ "say": [
+  "Нас часто спрашивают, практичен ли стеклянный фартук на кухне.",
+  "Стекло не боится жира, влаги и легко моется губкой.",
+  "Мы закаляем стекло, поэтому оно спокойно стоит рядом с плитой.",
+  "Хотите такой фартук у себя? Пишите нам в вотсап."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/gal_2.jpg",
+   "dur": 2.4,
+   "zoom": 1.06,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1HXkthQHjU-LiTnm6o7b9Ggr6tmAGTQnc_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1PJLlIr9PCUBZtoK0vJpXd71WUBrecOFQ_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/donor_aWVzZgbOVhw.mp4",
+   "ss": 0,
+   "dur": 3.45,
+   "donor": {
+    "id": "aWVzZgbOVhw",
+    "media": "",
+    "start": 6.5,
+    "dur": 3.5
+   },
+   "free": "top"
+  },
+  {
+   "src": "stock/pexels_7219273.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1Hb1TJKzMhuJ1zeIji9ma_qRx2SwR_xhM_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/gal_3.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/gal_4.jpg",
+   "dur": 3,
+   "fit": "pad",
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "wiping glass kitchen backsplash",
+  "cooking on stove modern kitchen",
+  "craftsman installing glass panel"
+ ],
+ "paid": true,
+ "end": "Пишите в WhatsApp: +972522887760",
+ "caption": "Практичен ли стеклянный фартук? Отвечаем честно и показываем на наших работах. Пишите в WhatsApp: +972522887760 #скинали #кухня #фартукизстекла #вопросответ",
+ "series": "Ошибки и вопросы",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "why": "Рубрика «Ошибки и вопросы»: формула «вопрос клиента — честный ответ мастера», на YouTube лучше всего сработал голос мастера (2592 просмотра). Цель — снять сомнения семей перед заказом скинали.",
+ "date": "2026-11-17 09:17 UTC"
+}

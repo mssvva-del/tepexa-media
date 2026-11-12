@@ -1,0 +1,88 @@
+{
+ "id": "7f8f4e54681ef831c306",
+ "company": "Kolbassnik",
+ "lang": "ru",
+ "hook": "Три вещи для первой колбасы",
+ "lines": [
+  "Хотите домашнюю колбасу, но не знаете, что купить?",
+  "Возьмите оболочку, нитритную соль и хорошие специи для начала.",
+  "Мы объясняем технологию и привозим всё нужное по Израилю.",
+  "Напишите нам в WhatsApp, и мы подберём первый набор."
+ ],
+ "say": [
+  "Хотите домашнюю колбасу, но не знаете, что купить?",
+  "Возьмите оболочку, нитритную соль и хорошие специи для начала.",
+  "Мы объясняем технологию и привозим всё нужное по Израилю.",
+  "Напишите нам в вотсап, и мы подберём первый набор."
+ ],
+ "shots": [
+  {
+   "src": "clients/7f8f4e54681ef831c306/prod_69.jpg",
+   "dur": 2.4,
+   "zoom": 1.06,
+   "own": true
+  },
+  {
+   "src": "clients/7f8f4e54681ef831c306/donor_tt7234818812678376706.mp4",
+   "ss": 0,
+   "dur": 2.95,
+   "donor": {
+    "id": "tt7234818812678376706",
+    "media": "https://v16m.tiktokcdn-us.com/6ee7c24bd65bcba9ba6feaf97d74369c/6af68978/video/tos/alisg/tos-alisg-pve-0037c001/o0IFgWcekCMgnA5jSDMRLukAgzIiA32WeqePH8/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=2034&ft=BIcq8V~3wUxl7K2gUtIvk84jWLpiTm.5QjKJZl5hgG0P3-I&mime_type=video_mp4&rc=M2g5ZTZoPDozZTk7Zzk2OEBpajY1cmQ6Zm5tazMzODczNEAzXjE2YV5fXzQxX2JjMjExYSM0M2tfcjRnbmdgLS1kMS1zcw%3D%3D&vvpl=1&l=20261112215151DC79ACC0A0EAB80DC6B4&btag=e00088000",
+    "start": 24.5,
+    "dur": 3.0
+   }
+  },
+  {
+   "src": "clients/7f8f4e54681ef831c306/donor_tt7030797719811788034.mp4",
+   "ss": 0,
+   "dur": 3.45,
+   "donor": {
+    "id": "tt7030797719811788034",
+    "media": "https://v16m.tiktokcdn-us.com/51f151ca5ba2fbcdbf8209ee4b343e21/6af6897c/video/tos/alisg/tos-alisg-pve-0037c001/1dbf2f15de0b4f56993319accd195039/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=1553&ft=BIcq8V~3wUxl7K2gUtIvk84jWLpiTm.5QjKJZl5hgG0P3-I&mime_type=video_mp4&rc=M2Q6ZjM8NDM5OzszNTZoM0BpamZsdjg6ZnU5OTMzODczNEAwXjQwNGFfXjAxLTAxXzUxYSM0LjRqcjRfZTZgLS1kMS1zcw%3D%3D&vvpl=1&l=20261112215151DC79ACC0A0EAB80DC6B4&btag=e00088000",
+    "start": 6.0,
+    "dur": 3.5
+   }
+  },
+  {
+   "src": "clients/7f8f4e54681ef831c306/donor_tt7049183904372116737.mp4",
+   "ss": 0,
+   "dur": 3.45,
+   "donor": {
+    "id": "tt7049183904372116737",
+    "media": "https://v16m.tiktokcdn-us.com/fccd7f6b04a0d2df08e62770da92723b/6af68983/video/tos/alisg/tos-alisg-pve-0037c001/88f378361ff84feb85a50587e59357c0/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=1169&ft=BIcq8V~3wUxl7K2gUtIvk84jWLpiTm.5QjKJZl5hgG0P3-I&mime_type=video_mp4&rc=NTVoZmg8ZjdkZzg4NDM4OUBpanVqeTM6Zjd1OjMzODczNEBgXmIwMDReNjQxMDBjXzMwYSNoYDJycjRvajZgLS1kMS1zcw%3D%3D&vvpl=1&l=20261112215151DC79ACC0A0EAB80DC6B4&btag=e00088000",
+    "start": 15.0,
+    "dur": 3.5
+   }
+  },
+  {
+   "src": "clients/7f8f4e54681ef831c306/prod_65.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "clients/7f8f4e54681ef831c306/prod_52.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "stock/pexels_10277806.mp4",
+   "ss": 1,
+   "dur": 2.6
+  }
+ ],
+ "stock_queries": [
+  "homemade sausage making hands",
+  "stuffing sausage casing kitchen",
+  "sliced homemade sausage closeup"
+ ],
+ "llm_usd": 0.0364,
+ "hookscore": 64.2,
+ "end_text": [
+  "Ещё 6 роликов",
+  "на этой неделе"
+ ],
+ "why": "Серия №1 «С чего начать новичку»: хук на снятии страха новичка и формуле «домашняя колбаса своими руками», как в ролике про домашнюю варёную колбасу (20,7 млн просмотров), который открывает видео срезом. Цель — показать новичку три конкретных товара для старта и привести его в WhatsApp."
+}

@@ -1,0 +1,58 @@
+{
+ "id": "3f6dfc3ad19bda9c0f1f_s41",
+ "company": "InClick",
+ "lang": "en",
+ "hook": "I asked: what sold best?",
+ "lines": [
+  "I typed one question into my store chat.",
+  "It answered in plain words, no reports to read.",
+  "Comment STORE if you want answers like that."
+ ],
+ "say": [
+  "I typed one question into my store chat.",
+  "It answered in plain words, no reports to read.",
+  "Comment STORE if you want answers like that."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_8971233.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_36108509.mp4",
+   "ss": 1,
+   "dur": 3
+  },
+  {
+   "src": "stock/pexels_15689201.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_8472307.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_6898096.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "woman business owner reading phone in cafe",
+  "cafe owner behind counter",
+  "small shop shelves with products"
+ ],
+ "paid": true,
+ "end": "Comment STORE or WhatsApp us",
+ "caption": "Running the store after launch: ask, get a plain answer. Comment STORE. #shopowner #cafeowner #smallbusiness #AI\n\n👉 reels.tepexa.com/w/3f6dfc3ad19bda9c0f1f",
+ "series": "Ask your store",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "why": "Ask your store series; screen demo of Core service 2, the format leaders use. Goal: trust and comments.",
+ "rules": "Main on-screen person: a woman aged 35-50, business owner look. No religious or national attire (no hijab). No cartoon or 3D characters. No text over faces.",
+ "date": "2026-11-15 16:37 UTC"
+}

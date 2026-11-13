@@ -1,0 +1,65 @@
+{
+ "id": "3f6dfc3ad19bda9c0f1f_s42",
+ "company": "InClick",
+ "lang": "en",
+ "hook": "Selling without a website yet?",
+ "lines": [
+  "InClick builds your online store from a simple chat.",
+  "Made for US small businesses selling by DM or in person.",
+  "Products, payments and delivery set up without a developer.",
+  "Comment STORE or message us on WhatsApp to start."
+ ],
+ "say": [
+  "InClick builds your online store from a simple chat.",
+  "Made for U S small businesses selling by D M or in person.",
+  "Products, payments and delivery set up without a developer.",
+  "Comment STORE or message us on WhatsApp to start."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_8311919.mp4",
+   "ss": 1,
+   "dur": 3
+  },
+  {
+   "src": "stock/pexels_15689201.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_8472307.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_13736678.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_7680112.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_6898096.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "woman owner flipping open sign",
+  "small business owner at laptop in shop",
+  "customer picking up order at boutique"
+ ],
+ "paid": true,
+ "end": "Comment STORE or WhatsApp us",
+ "caption": "You run the business. InClick handles the tech. Comment STORE or WhatsApp us. #smallbusiness #onlinestore #ecommerce #AIassistant\n\n👉 reels.tepexa.com/w/3f6dfc3ad19bda9c0f1f",
+ "series": "Small store, real setup",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "why": "Small store, real setup series; direct offer of the core service for Segment 1. Goal: STORE inquiries.",
+ "rules": "Main on-screen person: a woman aged 35-50, business owner look. No religious or national attire (no hijab). No cartoon or 3D characters. No text over faces.",
+ "date": "2026-11-16 09:11 UTC"
+}

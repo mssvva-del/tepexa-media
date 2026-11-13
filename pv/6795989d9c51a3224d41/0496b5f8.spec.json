@@ -1,0 +1,65 @@
+{
+ "id": "6795989d9c51a3224d41_s1_v2",
+ "company": "SMRTLV",
+ "lang": "en",
+ "hook": "11 PM. AC is out. Who answers?",
+ "lines": [
+  "A customer calls at eleven, and nobody picks up.",
+  "Our AI receptionist answers, books the job, texts you.",
+  "Our team sets it up and tests it for you.",
+  "Comment DEMO and try the live demo at smrtlv.io."
+ ],
+ "say": [
+  "A customer calls at eleven, and nobody picks up.",
+  "Our A I receptionist answers, books the job, texts you.",
+  "Our team sets it up and tests it for you.",
+  "Comment DEMO and try the live demo at smart L V dot I O."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_6611951.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "clients/6795989d9c51a3224d41/prod_0.jpg",
+   "dur": 2.4,
+   "zoom": 1.06,
+   "own": true
+  },
+  {
+   "src": "stock/pexels_35206231.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_36167829.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_28048582.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_7924468.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "hvac technician working on outdoor ac unit fast",
+  "smartphone ringing on table at night dark",
+  "plumber on service call kitchen sink"
+ ],
+ "paid": true,
+ "end": "Comment DEMO below",
+ "caption": "It's 11 PM, the AC is out, and your phone rings. Hear the live demo answer it and book the job. Comment DEMO and try the live demo at smrtlv.io. #hvac #homeservices #smallbusiness #aireceptionist #missedcalls\n\n👉 reels.tepexa.com/w/6795989d9c51a3224d41",
+ "series": "#1 Live demo",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "why": "Series #1 Live demo, rebuilt per client feedback: fast 2-3 s cuts of contractors on jobs and a phone ringing at night, using the strategy's pain-first formula (\"The phone rings at 7 PM. Nobody picks up\"); the niche donor clips are product showcases that don't fit, so no donor. Goal: show who answers after hours and drive DEMO comments and demo visits.",
+ "date": "2026-11-13 11:13 ET"
+}

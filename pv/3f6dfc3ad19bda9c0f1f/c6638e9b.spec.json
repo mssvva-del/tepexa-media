@@ -1,0 +1,65 @@
+{
+ "id": "3f6dfc3ad19bda9c0f1f_s42",
+ "company": "InClick",
+ "lang": "en",
+ "hook": "No developer? You still get a store.",
+ "lines": [
+  "InClick builds your online store from a simple conversation.",
+  "It is for owners selling through Instagram, DMs, or a shop.",
+  "The co-pilot adds products, payments, delivery, and helps after launch.",
+  "Comment STORE and we will send you the start link."
+ ],
+ "say": [
+  "In Click builds your online store from a simple conversation.",
+  "It is for owners selling through Instagram, D Ms, or a shop.",
+  "The co-pilot adds products, payments, delivery, and helps after launch.",
+  "Comment STORE and we will send you the start link."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_6898096.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_15689201.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_7681483.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_7308299.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_5404975.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_8472307.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "woman entrepreneur coffee laptop morning",
+  "handmade products shop owner table",
+  "woman owner talking on phone shop"
+ ],
+ "paid": true,
+ "end": "Comment STORE below",
+ "caption": "You run the business. InClick handles the tech. Comment STORE for the link. #smallbusiness #ecommerce #AIassistant #shopowner\n\n👉 reels.tepexa.com/w/3f6dfc3ad19bda9c0f1f",
+ "series": "Tell, show",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "why": "Direct offer of core services 1 and 2 using the bold-claim hook, closing on the STORE lead word. Goal: inquiries to dash.inclick.shop/create.",
+ "rules": "Main on-screen person: a woman aged 35-50, business owner look. No religious or national attire (no hijab). No cartoon or 3D characters. No text over faces.",
+ "date": "2026-11-18 16:17 UTC"
+}

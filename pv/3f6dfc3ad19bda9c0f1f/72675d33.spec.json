@@ -1,0 +1,61 @@
+{
+ "id": "3f6dfc3ad19bda9c0f1f_s38",
+ "company": "InClick",
+ "lang": "en",
+ "hook": "POV: your store opened before lunch",
+ "lines": [
+  "She described her shop, the AI built it.",
+  "Comment STORE and we'll send the link."
+ ],
+ "say": [
+  "She described her shop, the A I built it.",
+  "Comment STORE and we'll send the link."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_7392948.mp4",
+   "ss": 1,
+   "dur": 3
+  },
+  {
+   "src": "stock/pexels_6115066.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_8472307.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_7680112.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_7667433.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_6898096.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "woman business owner laptop small shop",
+  "boutique owner smiling at counter",
+  "woman typing on phone in store"
+ ],
+ "paid": true,
+ "end": "Comment STORE below",
+ "caption": "Describe what you sell in plain words. The AI Co-pilot sets up the store, you confirm. Comment STORE for the link. #smallbusiness #ecommerce #AItools #onlinestore\n\n👉 reels.tepexa.com/w/3f6dfc3ad19bda9c0f1f",
+ "series": "Tell, show",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "why": "Tell, show series using the seller-story mechanic (135M-view small business story, Shopify teacher-to-CEO 171.5M) in the POV format of our best reel (456 reach). Goal: reach with a relatable owner moment.",
+ "rules": "Main on-screen person: a woman aged 35-50, business owner look. No religious or national attire (no hijab). No cartoon or 3D characters. No text over faces.",
+ "date": "2026-11-16 16:49 UTC"
+}

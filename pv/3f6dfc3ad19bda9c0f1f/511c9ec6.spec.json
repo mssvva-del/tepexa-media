@@ -1,0 +1,61 @@
+{
+ "id": "3f6dfc3ad19bda9c0f1f_s40",
+ "company": "InClick",
+ "lang": "en",
+ "hook": "Wait for it: checkout lights up",
+ "lines": [
+  "Payments and delivery, set up in one chat.",
+  "Comment STORE to see how it works."
+ ],
+ "say": [
+  "Payments and delivery, set up in one chat.",
+  "Comment STORE to see how it works."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_6898096.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_6214217.mp4",
+   "ss": 1,
+   "dur": 3
+  },
+  {
+   "src": "stock/pexels_15689201.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_6342199.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_6170315.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_8472307.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "woman packing order small business",
+  "courier picking up parcel shop",
+  "customer paying online phone closeup"
+ ],
+ "paid": true,
+ "end": "Comment STORE below",
+ "caption": "Stripe payments and Shippo delivery connected through one conversation. You only activate your own accounts. Comment STORE. #ecommerce #smallbusiness #shipping #onlinestore\n\n👉 reels.tepexa.com/w/3f6dfc3ad19bda9c0f1f",
+ "series": "Small store, real setup",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "why": "Small store, real setup series using the reveal-moment trigger of the LED faucet clips (171M views). Goal: reach with a satisfying 'it just works' payoff.",
+ "rules": "Main on-screen person: a woman aged 35-50, business owner look. No religious or national attire (no hijab). No cartoon or 3D characters. No text over faces.",
+ "date": "2026-11-17 16:19 UTC"
+}

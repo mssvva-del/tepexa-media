@@ -1,0 +1,61 @@
+{
+ "id": "3f6dfc3ad19bda9c0f1f_s39",
+ "company": "InClick",
+ "lang": "en",
+ "hook": "Things owners never want to do again:",
+ "lines": [
+  "Dig through dashboards just to see what sold.",
+  "Comment STORE and ask your store instead."
+ ],
+ "say": [
+  "Dig through dashboards just to see what sold.",
+  "Comment STORE and ask your store instead."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_8472307.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_15689201.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_7593327.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_34583554.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_13736697.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_6898096.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "tired woman shop owner spreadsheets night",
+  "woman owner checking shelves inventory",
+  "small shop counter evening"
+ ],
+ "paid": true,
+ "end": "Comment STORE below",
+ "caption": "Ask your store what sold this week and get a plain answer. Comment STORE to start. #shopowner #smallbusiness #AIassistant #retail\n\n👉 reels.tepexa.com/w/3f6dfc3ad19bda9c0f1f",
+ "series": "Ask your store",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "why": "Ask your store series built on the list-hook of our 'Things you say selling in DMs' (393 reach) with the satisfying-loop trigger of donor 3 (463M views). Goal: reach and relatability.",
+ "rules": "Main on-screen person: a woman aged 35-50, business owner look. No religious or national attire (no hijab). No cartoon or 3D characters. No text over faces.",
+ "date": "2026-11-17 09:17 UTC"
+}

@@ -1,0 +1,65 @@
+{
+ "id": "3f6dfc3ad19bda9c0f1f_s41",
+ "company": "InClick",
+ "lang": "en",
+ "hook": "My grocery went online in one chat",
+ "lines": [
+  "I showed the co-pilot our grocery and our locations.",
+  "It built the catalog and set up pickup and delivery.",
+  "I checked every product and confirmed with one reply.",
+  "Comment STORE and see the grocery demo store."
+ ],
+ "say": [
+  "I showed the co-pilot our grocery and our locations.",
+  "It built the catalog and set up pickup and delivery.",
+  "I checked every product and confirmed with one reply.",
+  "Comment STORE and see the grocery demo store."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_31858797.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_15689201.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_8472307.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_9474086.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_36108518.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_6898096.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "woman owner small grocery store aisle",
+  "fresh produce shelves local market",
+  "woman bagging grocery order pickup"
+ ],
+ "paid": true,
+ "end": "Comment STORE below",
+ "caption": "Our food retail demo store, built through conversation with pickup and delivery. Comment STORE to build yours. #grocery #localbusiness #onlineorders #smallbusiness\n\n👉 reels.tepexa.com/w/3f6dfc3ad19bda9c0f1f",
+ "series": "From Instagram to store",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "why": "Uses the real foodretail demo as a live screen demo (speed demo format, 9,723 likes in research) for segment 2. Goal: proof of the core promise.",
+ "rules": "Main on-screen person: a woman aged 35-50, business owner look. No religious or national attire (no hijab). No cartoon or 3D characters. No text over faces.",
+ "date": "2026-11-18 09:41 UTC"
+}

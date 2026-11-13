@@ -1,0 +1,80 @@
+{
+ "id": "7f8f4e54681ef831c306",
+ "company": "Kolbassnik",
+ "lang": "ru",
+ "hook": "Фарш не держится? Дело в соли",
+ "lines": [
+  "Фарш рассыпается, а оболочка рвётся прямо при набивке?",
+  "У нас оболочки, специи и стартовые культуры для домашней колбасы.",
+  "Объясняем технологию по делу и доставляем по всему Израилю.",
+  "Напишите нам в WhatsApp, подберём всё для вашей колбасы."
+ ],
+ "say": [
+  "Фарш рассыпается, а оболочка рвётся прямо при набивке?",
+  "У нас оболочки, специи и стартовые культуры для домашней колбасы.",
+  "Объясняем технологию по делу и доставляем по всему Израилю.",
+  "Напишите нам в вотсап, подберём всё для вашей колбасы."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_39519845.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "clients/7f8f4e54681ef831c306/prod_69.jpg",
+   "dur": 2.4,
+   "zoom": 1.06,
+   "own": true
+  },
+  {
+   "src": "clients/7f8f4e54681ef831c306/donor_tt7277932586155003178.mp4",
+   "ss": 0,
+   "dur": 2.95,
+   "donor": {
+    "id": "tt7277932586155003178",
+    "media": "https://v16m.tiktokcdn-us.com/51d59144763bb308d438b31e556940b3/6af79040/video/tos/useast5/tos-useast5-ve-0068c003-tx/okUaaQLLycBcUtDAABfhwSzoCgAIbIJEI9N0pD/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=1142&ft=arR-Iq4fmbdPD12mPKZI3wU.qi~AMeF~O5&mime_type=video_mp4&rc=N2ZlOzg2NTplZjdoNDNpM0BpamdpbzQ6Zm45bjMzZzczNEA1M18tYzAwXjYxX18wLzExYSMyNi1ycjQwZi1gLS1kMS9zcw%3D%3D&vvpl=1&l=20261113163216DE38DDE93091501A9A4F&btag=e00090000",
+    "start": 23.5,
+    "dur": 3.0
+   },
+   "free": "top"
+  },
+  {
+   "src": "clients/7f8f4e54681ef831c306/prod_26.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "clients/7f8f4e54681ef831c306/prod_8.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "stock/pexels_10277806.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_7237358.mp4",
+   "ss": 1,
+   "dur": 2.6
+  }
+ ],
+ "stock_queries": [
+  "hands stuffing sausage casing at home",
+  "raw minced meat with spices close up",
+  "homemade sausages smoking in smokehouse"
+ ],
+ "llm_usd": 0.039,
+ "hookscore": 69.9,
+ "engine": "fish",
+ "fish_voice": "48ec28a45588422b977a86460c11977f",
+ "end_text": [
+  "Ещё 6 роликов",
+  "на этой неделе"
+ ],
+ "why": "Серия №2 «Ошибки новичков»: хук на снятии страха и экспертном объяснении причины (формула «одна ошибка — одно решение», как у ЕМКОЛБАСКИ), без чужих кадров, так как вирусные ролики ниши показывают варёную колбасу, запрещённую клиентом. Цель — показать экспертность магазина и привести новичков писать в WhatsApp.",
+ "rules": "Только домашние колбасы и деликатесы, сделанные своими руками, сырое мясо, оболочки, специи, нитритная соль, процесс набивки и копчения. НИКОГДА не показывать розовую варёную колбасу (докторская, болонья, мортаделла) и промышленные колбасы из магазина."
+}

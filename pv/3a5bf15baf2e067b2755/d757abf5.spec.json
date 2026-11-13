@@ -1,0 +1,80 @@
+{
+ "id": "3a5bf15baf2e067b2755",
+ "company": "QA Test",
+ "lang": "he",
+ "hook": "גוש עץ אחד, כמה שעות עבודה?",
+ "lines": [
+  "נמאס לכם מעוד צעצועי פלסטיק שנשברים מהר?",
+  "אני מכינה צעצועי עץ בעבודת יד לילדים.",
+  "כל צעצוע נעשה בידיים שלי, מגוש עץ פשוט.",
+  "להזמנה או לשאלה, כתבו לנו בוואטסאפ עכשיו."
+ ],
+ "say": [
+  "נמאס לכם מעוד צעצועי פלסטיק שנשברים מהר?",
+  "אני מכינה צעצועי עץ בעבודת יד לילדים.",
+  "כל צעצוע נעשה בידיים שלי, מגוש עץ פשוט.",
+  "להזמנה או לשאלה, כתבו לנו בוואטסאפ עכשיו."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_5760715.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "clients/3a5bf15baf2e067b2755/donor_tt7165443134091037958.mp4",
+   "ss": 0,
+   "dur": 3.45,
+   "donor": {
+    "id": "tt7165443134091037958",
+    "media": "https://v45.tiktokcdn-us.com/372f53d9d224807085b38eae928a5213/6af77138/video/tos/useast2a/tos-useast2a-ve-0068c004/o0fJEJhDRJcbORjAiQgMtoXcQA3jBan1ztUBeB/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=1042&ft=aEKfuqT0mI2PD12naoZI3wUvXaGAMeF~O5&mime_type=video_mp4&rc=Zzs2ZTo4OTplaWdmNzRoN0BpMzc1dWc6ZnVmZzMzNzczM0BgMTIyL2BgNTUxLTRhMmJjYSNkYmRhcjRfNWxgLS1kMTZzcw%3D%3D&vvpl=1&l=20261113142035B346291E69DFC50C06A3&btag=e0008d000",
+    "start": 15.0,
+    "dur": 3.5
+   }
+  },
+  {
+   "src": "clients/3a5bf15baf2e067b2755/donor_tt7253291527865371950.mp4",
+   "ss": 0,
+   "dur": 3.45,
+   "donor": {
+    "id": "tt7253291527865371950",
+    "media": "https://v45.tiktokcdn-us.com/05ce4e786a8cfb3857c0c581d1fa9521/6af7712f/video/tos/useast5/tos-useast5-ve-0068c003-tx/o0uoIGJHyIpCCzBN3AVfJG5hUMzQgdAjCwtqmJ/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=822&ft=aEKfuqT0mI2PD12naoZI3wUvXaGAMeF~O5&mime_type=video_mp4&rc=Ojs1OWVkNDlnN2k2O2g2aUBpamhsNWc6ZjRnbDMzZzczNEBgMzZiX14xNjMxMWEuYV9iYSMxNDZkcjRfbWhgLS1kMS9zcw%3D%3D&vvpl=1&l=20261113142035B346291E69DFC50C06A3&btag=e000bd000",
+    "start": 15.0,
+    "dur": 3.5
+   }
+  },
+  {
+   "src": "clients/3a5bf15baf2e067b2755/donor_tt7585268967288229141.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "tt7585268967288229141",
+    "media": "https://v45.tiktokcdn-us.com/c91613976c9917217b4e9f25a17143a5/6af77133/video/tos/alisg/tos-alisg-pve-0037c001/ooAVACg0qi5QCI2ETCEfAiSopBUCEiIyWPaTTw/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=613&ft=aEKfuqT0mI2PD12naoZI3wUvXaGAMeF~O5&mime_type=video_mp4&rc=OTU4Z2g7MzdoZzU0NWZlZkBpM3BnN2w5cnY3ODMzODczNEAuYGMxMC1jXl4xXjA1YTJjYSMuaG4vMmRzZy9hLS1kMTFzcw%3D%3D&vvpl=1&l=20261113142035B346291E69DFC50C06A3&btag=e0008d000",
+    "start": 21.0,
+    "dur": 2.0
+   }
+  },
+  {
+   "src": "stock/pexels_4480603.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_3676906.mp4",
+   "ss": 1,
+   "dur": 2.6
+  }
+ ],
+ "stock_queries": [
+  "woodworker sanding wooden toy workshop",
+  "child playing with wooden toys",
+  "handmade wooden toy close up hands"
+ ],
+ "llm_usd": 0.0501,
+ "hookscore": 70.5,
+ "end_text": [
+  "עוד 6 רילס",
+  "השבוע"
+ ],
+ "why": "Series #1 'Meet the toy' built on the effort-reveal formula (200-hour wooden automata, 179.4K likes) and the process-first handmade toy short (44.6M views): the hook asks how many hours one block of wood takes. The goal is to show the real maker's work and lead parents to message on WhatsApp."
+}

@@ -1,0 +1,77 @@
+{
+ "id": "5347ab92bdba713bdb58_s11",
+ "company": "ArtVitrage",
+ "lang": "ru",
+ "hook": "Ваша кухня в 3D в подарок",
+ "lines": [
+  "Заказываете стеклянный фартук — 3D-визуализацию кухни дарим.",
+  "Консультация и замер для всех, кто делает ремонт.",
+  "Семья мастеров работает со стеклом с 1975 года.",
+  "Напишите СТЕКЛО в WhatsApp, и мы ответим."
+ ],
+ "say": [
+  "Заказываете стеклянный фартук — три-дэ визуализацию кухни дарим.",
+  "Консультация и замер для всех, кто делает ремонт.",
+  "Семья мастеров работает со стеклом с тысяча девятьсот семьдесят пятого года.",
+  "Напишите стекло в вотсап, и мы ответим."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/gal_2.jpg",
+   "dur": 2.4,
+   "zoom": 1.06,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1suBlFbPDtwjVLL6G1yTWadiN-lUZ0otT.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1odTW-KxhuAdaGV-J28hgeoBkwTWhHGj_.jpg",
+   "dur": 3,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1erK2K5Zw5I6ldg-xZyzUznFL_ihQtPK0.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1lFlmRwbsgSEAkJgkq4OJGaVnqpLPWRvq.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/13GDSuyGgHyRhmsiRIkyj_Z6GyJLFF4V8.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/gal_6.jpg",
+   "dur": 3,
+   "fit": "pad",
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "couple renovating kitchen planning",
+  "glass backsplash kitchen finished",
+  "craftsman measuring kitchen wall"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "При заказе фартука 3D-визуализация кухни в подарок. Напишите СТЕКЛО в WhatsApp. #скинали #фартукизстекла #кухня #израиль\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Фото → 3D → стекло",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "why": "Рубрика «Фото → 3D → стекло», прямой оффер из стратегии. Цель — заявки на скинали.",
+ "rules": "ArtVitrage works ONLY with glass: glass kitchen backsplashes (skinali), stained glass, decorative mirrors, glass partitions and panels. Never show or mention furniture, furniture assembly, cabinets being built, woodwork, tiles, plaster or other trades. No prices, no deadlines, no client names, no other companies' objects.",
+ "date": "2026-11-18 09:37 UTC"
+}

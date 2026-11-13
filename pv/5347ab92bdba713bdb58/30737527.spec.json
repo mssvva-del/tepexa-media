@@ -1,0 +1,58 @@
+{
+ "id": "5347ab92bdba713bdb58_s5",
+ "company": "ArtVitrage",
+ "lang": "ru",
+ "hook": "Стекло лопнуло само? Разберём почему",
+ "lines": [
+  "Кухонный фартук делаем из закалённого стекла.",
+  "Напишите СТЕКЛО в WhatsApp."
+ ],
+ "say": [
+  "Кухонный фартук делаем из закалённого стекла.",
+  "Напишите стекло в вотсап."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/donor_tt7257887332941008134.mp4",
+   "ss": 0,
+   "dur": 2.95,
+   "donor": {
+    "id": "tt7257887332941008134",
+    "media": "https://v19.tiktokcdn-us.com/41137d70482bf1b4cca2ff043e0b15af/6af755db/video/tos/alisg/tos-alisg-ve-0068c800-sg/okyXaO4MERJzAU9CITQ5kgAnQIfi8kNw7orzih/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=2646&ft=arR-IqGHmDgPD12OlZZI3wUs7a1AMeF~O5&mime_type=video_mp4&rc=NTQ6MzMzaDM6OjpoNDZpZEBpanJndmg6ZjxtbDMzNzczM0BfLl81NC0xXi0xYi80NDAyYSNtNjJycjRnL3BgLS1kMTZzcw%3D%3D&vvpl=1&l=202611131223369B6742A23D47B50B1EFC&btag=e00088000",
+    "start": 17.0,
+    "dur": 3.0
+   }
+  },
+  {
+   "src": "stock/pexels_7219277.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_7219273.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1dHpx6nLRRnI5wbhmgZZI4PFBsWslYMxU.jpg",
+   "dur": 3,
+   "zoom": 1.08,
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "tempered glass panel close up",
+  "kitchen glass backsplash reflection",
+  "glass craftsman inspecting sheet"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Почему стекло трескается от жара и какое стекло ставим на кухню. Напишите СТЕКЛО в WhatsApp. #скинали #закалённоестекло #кухня #израиль\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Ошибки и вопросы",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "why": "Рубрика «Ошибки и вопросы», формула «страх поломки» из ролика про лопнувшее стекло духовки (4,1 млн просмотров). Цель — снять сомнение в прочности фартука.",
+ "rules": "ArtVitrage works ONLY with glass: glass kitchen backsplashes (skinali), stained glass, decorative mirrors, glass partitions and panels. Never show or mention furniture, furniture assembly, cabinets being built, woodwork, tiles, plaster or other trades. No prices, no deadlines, no client names, no other companies' objects.",
+ "date": "2026-11-17 16:07 UTC"
+}

@@ -1,0 +1,66 @@
+{
+ "id": "6795989d9c51a3224d41_s1_v3",
+ "company": "SMRTLV",
+ "lang": "en",
+ "hook": "11 PM. AC's out. Phone rings.",
+ "lines": [
+  "It's eleven at night, and a customer's AC just quit.",
+  "Miss that call, and they dial the next company on Google.",
+  "Our live demo answers, asks the right questions, and books it.",
+  "Comment DEMO, then try the live demo at smrtlv.io."
+ ],
+ "say": [
+  "It's eleven at night... and a customer's AC just quit.",
+  "Miss that call, and they dial the next company on Google.",
+  "Our live demo answers, asks the right questions, and books the job.",
+  "So comment DEMO. Then try the live demo, at smart L V dot I O."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_28048582.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "clients/6795989d9c51a3224d41/prod_0.jpg",
+   "dur": 2.4,
+   "zoom": 1.06,
+   "own": true
+  },
+  {
+   "src": "clients/6795989d9c51a3224d41/gal_10.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "stock/pexels_35206231.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_8810534.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_7593905.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "HVAC technician working on outdoor AC unit",
+  "smartphone ringing on nightstand at night",
+  "tired contractor driving truck at night"
+ ],
+ "paid": true,
+ "end": "Comment DEMO below",
+ "caption": "It's 11 PM, the AC is out, and your phone rings. Hear our live demo answer it and book the job. Comment DEMO and try the live demo at smrtlv.io. #hvac #homeservices #smallbusiness #aireceptionist #missedcalls\n\n👉 reels.tepexa.com/w/6795989d9c51a3224d41",
+ "series": "#1 Try the live demo",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "why": "Series #1 Try the live demo, rebuilt for voiceover: an urgent, pain-first opening on missed after-hours calls (strategy formula 'Every missed call is a missed service call') and a short, final call to action written to end on a calm falling tone with a pause; niche donor clips are product showcases, so no donor. Goal: show who answers after hours and drive DEMO comments and demo visits.",
+ "date": "2026-11-14 11:19 ET"
+}

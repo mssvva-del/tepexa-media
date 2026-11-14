@@ -1,0 +1,75 @@
+{
+ "id": "5347ab92bdba713bdb58_s13",
+ "company": "ArtVitrage",
+ "lang": "ru",
+ "hook": "Увидеть кухню до того, как заказать?",
+ "lines": [
+  "Мы делаем стеклянные фартуки для кухонь по всему Израилю.",
+  "Сначала приедем, сделаем замеры и всё обсудим с вами.",
+  "Потом покажем 3D-визуализацию вашей кухни с новым фартуком.",
+  "Напишите СТЕКЛО в WhatsApp и запишитесь на консультацию."
+ ],
+ "say": [
+  "Мы делаем стеклянные фартуки для кухонь по всему Израилю.",
+  "Сначала приедем, сделаем замеры и всё обсудим с вами.",
+  "Потом покажем три дэ визуализацию вашей кухни с новым фартуком.",
+  "Напишите СТЕКЛО в вотсап и запишитесь на консультацию."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/gal_2.jpg",
+   "dur": 2.4,
+   "zoom": 1.06,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/13GDSuyGgHyRhmsiRIkyj_Z6GyJLFF4V8.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1RhZKNwIyRLs483UHrHAfO50P2AXvt9Cr.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "stock/pexels_17807161.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_33258811.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1aEMhVDhk6douPdpx3KvVuBGdX4ib7T6v.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/gal_4.jpg",
+   "dur": 3,
+   "fit": "pad",
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "designer showing 3d kitchen render laptop",
+  "couple choosing kitchen design",
+  "glass backsplash modern kitchen"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Консультация и замер, а 3D-визуализация кухни в подарок при заказе фартука. Напишите СТЕКЛО в WhatsApp. #скинали #3dвизуализация #кухня #израиль\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Фото → 3D → стекло",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "why": "Рубрика «Фото → 3D → стекло», формула «то, чего нет у других» из стратегии. Цель — заявки по акции с 3D-визуализацией.",
+ "rules": "ArtVitrage works ONLY with glass: glass kitchen backsplashes (skinali), stained glass, decorative mirrors, glass partitions and panels. Never show or mention furniture, furniture assembly, cabinets being built, woodwork, tiles, plaster or other trades. No prices, no deadlines, no client names, no other companies' objects.",
+ "date": "2026-11-20 16:47 UTC"
+}

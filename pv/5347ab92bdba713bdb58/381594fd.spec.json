@@ -1,0 +1,61 @@
+{
+ "id": "5347ab92bdba713bdb58_s7",
+ "company": "ArtVitrage",
+ "lang": "ru",
+ "hook": "Красивая кухня? Не хватает одной детали",
+ "lines": [
+  "Без стеклянного фартука стена выглядит пустой.",
+  "Напишите СТЕКЛО в WhatsApp, покажем вашу кухню."
+ ],
+ "say": [
+  "Без стеклянного фартука стена выглядит пустой.",
+  "Напишите СТЕКЛО в вотсап, покажем вашу кухню."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1erK2K5Zw5I6ldg-xZyzUznFL_ihQtPK0.jpg",
+   "dur": 3,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1odTW-KxhuAdaGV-J28hgeoBkwTWhHGj_.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1-EZyf8gUBDk1-M0dfN7AP0vh9iqiKTDI.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/donor_tt7373534517060963590.mp4",
+   "ss": 0,
+   "dur": 3,
+   "donor": {
+    "id": "tt7373534517060963590",
+    "media": "https://v45.tiktokcdn-us.com/8f1e4fd2fa7a713b923e14e762a4e796/6af87d10/video/tos/useast2a/tos-useast2a-ve-0068c001/o8nIYeBoIgUjGoGIg8eIAlCSHCqLQMeMMqyBLS/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=997&ft=aEKfuqT0mvRPD12ffvLI3wU1mgIVaeF~O5&mime_type=video_mp4&rc=ODY8OmU2PDhnZWlnaTg5N0BpM29yPHk5cm4zczMzNzczM0AwLjZiNTU0NWMxNF8tNmIwYSMzNWctMmRrcF5gLS1kMTZzcw%3D%3D&vvpl=1&l=20261114092334D89C2131484AB16149F4&btag=e000bd000",
+    "start": 11.0,
+    "dur": 3.0
+   },
+   "free": "top"
+  }
+ ],
+ "stock_queries": [
+  "modern kitchen interior glass backsplash",
+  "woman cooking bright kitchen",
+  "kitchen wall lighting evening"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Кухня собрана, а стена пустая? Стеклянный фартук под ваш интерьер. Напишите СТЕКЛО в WhatsApp. #скинали #кухня #фартукизстекла #израиль\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Фото → 3D → стекло",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "why": "Рубрика «Фото → 3D → стекло», формула «красивая кухня» донора с 60,7 млн просмотров. Цель — охват и интерес к скинали.",
+ "rules": "ArtVitrage works ONLY with glass: glass kitchen backsplashes (skinali), stained glass, decorative mirrors, glass partitions and panels. Never show or mention furniture, furniture assembly, cabinets being built, woodwork, tiles, plaster or other trades. No prices, no deadlines, no client names, no other companies' objects.",
+ "date": "2026-11-18 16:47 UTC"
+}

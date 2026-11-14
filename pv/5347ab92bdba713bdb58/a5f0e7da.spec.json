@@ -1,0 +1,73 @@
+{
+ "id": "5347ab92bdba713bdb58_s10",
+ "company": "ArtVitrage",
+ "lang": "ru",
+ "hook": "Прозрачная стена на кухне? Мы делаем",
+ "lines": [
+  "Стеклянная перегородка делит комнату, но не прячет свет.",
+  "Напишите СТЕКЛО в WhatsApp, обсудим вашу идею."
+ ],
+ "say": [
+  "Стеклянная перегородка делит комнату, но не прячет свет.",
+  "Напишите СТЕКЛО в вотсап, обсудим вашу идею."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1qWK2LJeasAbV-cydY4pzm203nyOqXck-_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1_0DBuy6DPzKYrWUHdEXA2ccpGSrWwguz.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/19KMtmpsdVXGub9c718W1G91yQD5BWmya.jpg",
+   "dur": 3,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1qoJWt-zjBjEdcIX5HoIMZq8ZLBEg5q1N_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1erK2K5Zw5I6ldg-xZyzUznFL_ihQtPK0.jpg",
+   "dur": 3,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1odTW-KxhuAdaGV-J28hgeoBkwTWhHGj_.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1zI5p5bXtwNMV2Rr3JJMc1HenHZaCsas0_720.mp4",
+   "ss": 1,
+   "dur": 3,
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "glass partition apartment interior",
+  "open plan living room light",
+  "family home bright interior"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Перегородка из стекла: зона отдельно, свет общий. Напишите СТЕКЛО в WhatsApp. #стекляннаяперегородка #интерьер #стекло #израиль\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Ошибки и вопросы",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "why": "Рубрика «Ошибки и вопросы», юмористический триггер «прозрачная стена» (650 тыс. просмотров). Цель — показать направление перегородок.",
+ "rules": "ArtVitrage works ONLY with glass: glass kitchen backsplashes (skinali), stained glass, decorative mirrors, glass partitions and panels. Never show or mention furniture, furniture assembly, cabinets being built, woodwork, tiles, plaster or other trades. No prices, no deadlines, no client names, no other companies' objects.",
+ "date": "2026-11-19 16:23 UTC"
+}

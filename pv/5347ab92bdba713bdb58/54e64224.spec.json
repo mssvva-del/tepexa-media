@@ -1,0 +1,65 @@
+{
+ "id": "5347ab92bdba713bdb58_s8",
+ "company": "ArtVitrage",
+ "lang": "ru",
+ "hook": "Маленькая кухня? Стекло делает её больше",
+ "lines": [
+  "Глянцевое стекло отражает свет и раздвигает стены.",
+  "Напишите СТЕКЛО в WhatsApp, подберём рисунок."
+ ],
+ "say": [
+  "Глянцевое стекло отражает свет и раздвигает стены.",
+  "Напишите СТЕКЛО в вотсап, подберём рисунок."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/donor_tt7023737300005801218.mp4",
+   "ss": 0,
+   "dur": 2.95,
+   "donor": {
+    "id": "tt7023737300005801218",
+    "media": "https://v45.tiktokcdn-us.com/5910f87aa62e5caaff710758936539c0/6af87d06/video/tos/alisg/tos-alisg-pve-0037/o8v6QQWIDkL1ABG4gEfsAKgDUFEgElBCUjuVfQ/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=1047&ft=aEKfuqT0mvRPD12ffvLI3wU1mgIVaeF~O5&mime_type=video_mp4&rc=ZmZmOzM2NDU1Mzo8NDc7OUBpanY7N2s5cm8zcTMzODgzNEAwLzZiYi8zXjQxLTVfLl5fYSNfaC9lMmRrbmhgLS1kLy1zcw%3D%3D&vvpl=1&l=20261114092334D89C2131484AB16149F4&btag=e000bd000",
+    "start": 13.0,
+    "dur": 3.0
+   },
+   "free": "top"
+  },
+  {
+   "src": "stock/pexels_7213848.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/13GDSuyGgHyRhmsiRIkyj_Z6GyJLFF4V8.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "stock/pexels_36643104.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1lFlmRwbsgSEAkJgkq4OJGaVnqpLPWRvq.jpg",
+   "dur": 3,
+   "zoom": 1.08,
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "small bright white kitchen",
+  "sunlight reflection glass surface",
+  "compact apartment kitchen"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Светлый стеклянный фартук визуально добавляет пространства маленькой кухне. Напишите СТЕКЛО в WhatsApp. #скинали #маленькаякухня #кухня #израиль\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Ошибки и вопросы",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "why": "Рубрика «Ошибки и вопросы», формула «светлая маленькая кухня» (5,5 млн просмотров). Цель — охват семей с небольшими кухнями.",
+ "rules": "ArtVitrage works ONLY with glass: glass kitchen backsplashes (skinali), stained glass, decorative mirrors, glass partitions and panels. Never show or mention furniture, furniture assembly, cabinets being built, woodwork, tiles, plaster or other trades. No prices, no deadlines, no client names, no other companies' objects.",
+ "date": "2026-11-19 09:49 UTC"
+}

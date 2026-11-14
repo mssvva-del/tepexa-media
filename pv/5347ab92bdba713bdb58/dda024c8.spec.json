@@ -1,0 +1,77 @@
+{
+ "id": "5347ab92bdba713bdb58_s11",
+ "company": "ArtVitrage",
+ "lang": "ru",
+ "hook": "Из кусочков стекла получится окно",
+ "lines": [
+  "Сначала рисую эскиз под стиль помещения.",
+  "Потом подбираю стекло и собираю витраж вручную.",
+  "Свет проходит через цвет, и окно оживает.",
+  "Напишите СТЕКЛО в WhatsApp, обсудим ваш витраж."
+ ],
+ "say": [
+  "Сначала рисую эскиз под стиль помещения.",
+  "Потом подбираю стекло и собираю витраж вручную.",
+  "Свет проходит через цвет, и окно оживает.",
+  "Напишите СТЕКЛО в вотсап, обсудим ваш витраж."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1-EZyf8gUBDk1-M0dfN7AP0vh9iqiKTDI.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1qoJWt-zjBjEdcIX5HoIMZq8ZLBEg5q1N_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1zI5p5bXtwNMV2Rr3JJMc1HenHZaCsas0_720.mp4",
+   "ss": 1,
+   "dur": 3,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1erK2K5Zw5I6ldg-xZyzUznFL_ihQtPK0.jpg",
+   "dur": 3,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/gal_5.jpg",
+   "dur": 2.4,
+   "zoom": 1.06,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1odTW-KxhuAdaGV-J28hgeoBkwTWhHGj_.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/gal_6.jpg",
+   "dur": 3,
+   "fit": "pad",
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "stained glass window light",
+  "colored glass pieces workshop",
+  "artisan hands stained glass"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Витраж от эскиза до окна, руками нашей семьи. Напишите СТЕКЛО в WhatsApp. #витраж #витражи #стекло #израиль\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Витраж с нуля",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "why": "Рубрика «Витраж с нуля», формула «процесс и эффекты» из стратегии. Цель — показать уникальную ручную работу для сегмента 2.",
+ "rules": "ArtVitrage works ONLY with glass: glass kitchen backsplashes (skinali), stained glass, decorative mirrors, glass partitions and panels. Never show or mention furniture, furniture assembly, cabinets being built, woodwork, tiles, plaster or other trades. No prices, no deadlines, no client names, no other companies' objects.",
+ "date": "2026-11-20 09:41 UTC"
+}

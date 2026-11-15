@@ -1,0 +1,79 @@
+{
+ "id": "491f5c54edaca8429990",
+ "company": "Beseder-WT",
+ "lang": "en",
+ "hook": "Still pumping your grease trap monthly?",
+ "lines": [
+  "Grease trap smells again and drains keep clogging up?",
+  "We offer bio tablets and sturdy HDPE grease traps.",
+  "HDPE does not rust, and tablets make routine care simple.",
+  "Message us on WhatsApp and we will help you choose."
+ ],
+ "say": [
+  "Grease trap smells again and drains keep clogging up?",
+  "We offer bio tablets and sturdy H D P E grease traps.",
+  "H D P E does not rust, and tablets make routine care simple.",
+  "Message us on WhatsApp and we will help you choose."
+ ],
+ "shots": [
+  {
+   "src": "clients/491f5c54edaca8429990/donor_tt7371424354724302112.mp4",
+   "ss": 0,
+   "dur": 2.95,
+   "donor": {
+    "id": "tt7371424354724302112",
+    "media": "https://v19.tiktokcdn-us.com/96ac34ad64222bc660f82ad524987485/6af9afaa/video/tos/useast2a/tos-useast2a-ve-68c810-euttp/okEBQhBaTM04wEzDtEvB3PYPGkHjIAyiEiZys/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=1377&ft=aEKfuqT0mmjPD12kDyLI3wUUYUKqjeF~O5&mime_type=video_mp4&rc=NTVlOWU4Nmg5O2k7ZDMzM0BpanRta205cnI7czMzZjczM0AuYjQ0Li8zNmExMjQvMTFfYSM0MWQtMmRrcjNgLS1kMWNzcw%3D%3D&vvpl=1&l=20261115071145C05712DE84CBFCA9AC11&btag=e000b8000",
+    "start": 20.5,
+    "dur": 3.0
+   }
+  },
+  {
+   "src": "clients/491f5c54edaca8429990/donor_tt7283117494070562081.mp4",
+   "ss": 0,
+   "dur": 3.95,
+   "donor": {
+    "id": "tt7283117494070562081",
+    "media": "https://v45.tiktokcdn-us.com/6c06171bd8f7c7e71b99e7cd7476abd7/6af9afc6/video/tos/useast2a/tos-useast2a-ve-68c810-euttp/oMsEPQZIndZStB1SQDbOAYgfKer4IlDERTiRUS/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=697&ft=aEKfuqT0mmjPD12kDyLI3wUUYUKqjeF~O5&mime_type=video_mp4&rc=Nzg7OzpkO2Y4ZTloM2Q5NEBpajx0eTw6ZjlnbjMzZjczM0AuNDJeY2ExXzMxXmBjNjVjYSM1Xi5ucjRfNjZgLS1kMWNzcw%3D%3D&vvpl=1&l=20261115071145C05712DE84CBFCA9AC11&btag=e0008d000",
+    "start": 24.5,
+    "dur": 4.0
+   }
+  },
+  {
+   "src": "stock/pexels_9462947.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_8084880.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_29980685.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_34510342.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_40753156.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "restaurant kitchen sink drain",
+  "commercial kitchen chef cleaning",
+  "plumber opening grease trap"
+ ],
+ "llm_usd": 0.0262,
+ "hookscore": 73.0,
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "Серия №1 «Биотаблетки для жироуловителя»: хук-вопрос владельцу кухни о регулярной откачке по механике ролика «Grease trap hasn’t been pumped in 2 years» (3 764 721 просмотров) и вопроса Poor Pumper Society. Цель — показать биотаблетки и жироуловители из HDPE как простой уход и привести владельцев кухонь в WhatsApp."
+}

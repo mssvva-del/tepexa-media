@@ -1,0 +1,71 @@
+{
+ "id": "38fac8b8b9bb8d17ca7b",
+ "company": "Made for Happy",
+ "lang": "en",
+ "hook": "This is Made for Happy",
+ "lines": [
+  "Finding something that truly makes people happy is hard.",
+  "We create little moments of joy right here in New York.",
+  "Every piece is made with care, by real people.",
+  "Send us a DM and tell us who it's for."
+ ],
+ "say": [
+  "Finding something that truly makes people happy is hard.",
+  "We create little moments of joy right here in New York.",
+  "Every piece is made with care, by real people.",
+  "Send us a dee em and tell us who it's for."
+ ],
+ "shots": [
+  {
+   "src": "clients/38fac8b8b9bb8d17ca7b/photo_0.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/38fac8b8b9bb8d17ca7b/photo_1.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/38fac8b8b9bb8d17ca7b/photo_2.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/38fac8b8b9bb8d17ca7b/photo_3.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "stock/pexels_7233781.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_7308233.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_7800145.mp4",
+   "ss": 1,
+   "dur": 2.6
+  }
+ ],
+ "stock_queries": [
+  "small business owner packing gift New York",
+  "friends smiling opening present",
+  "handmade crafts workshop hands"
+ ],
+ "llm_usd": 0.0234,
+ "hookscore": 61.2,
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "Серия №1 «Знакомство»: хук-заявление от первого лица по механике ролика «Proud to be THIS customizable» (34 млн просмотров) — гордое представление малого бизнеса с результатом в первом кадре. Цель — познакомить жителей Нью-Йорка с Made for Happy и привести их в личные сообщения."
+}

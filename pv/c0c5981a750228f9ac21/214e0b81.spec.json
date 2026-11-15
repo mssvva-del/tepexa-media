@@ -1,0 +1,75 @@
+{
+ "id": "c0c5981a750228f9ac21",
+ "company": "Madina Decor",
+ "lang": "ru",
+ "hook": "Пустая стена за 3 часа до праздника?",
+ "lines": [
+  "Праздник уже завтра, а зал совсем пустой?",
+  "Мы соберём гирлянду из шаров и живых цветов.",
+  "Шары, декор и флористика в одних руках рядом.",
+  "Напишите нам в вотсап и расскажите о празднике."
+ ],
+ "say": [
+  "Праздник уже завтра, а зал совсем пустой?",
+  "Мы соберём гирлянду из шаров и живых цветов.",
+  "Шары, декор и флористика в одних руках рядом.",
+  "Напишите нам в вотсап и расскажите о празднике."
+ ],
+ "shots": [
+  {
+   "src": "clients/c0c5981a750228f9ac21/donor_tt7670813514092809485.mp4",
+   "ss": 0,
+   "dur": 2.95,
+   "donor": {
+    "id": "tt7670813514092809485",
+    "media": "https://v45.tiktokcdn-us.com/8838f24fac3271d509fff45de85b7ca5/6af97e73/video/tos/useast5/tos-useast5-pve-0068-tx/oYI0EQB8INlOAjB1GihHfbEXDo5CxiDwpxhHA0/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=1158&ft=aEKfuqT0mIsPD12XL9LI3wUK6iMyMeF~O5&mime_type=video_mp4&rc=ZjU2OjY3OzszaGZlOTs3Z0BpanVxOHM5cnI2PDMzZzczNEBiLi9gXzEuNTQxYDFfYzQtYSMuL3AwMmRzNW5hLS1kMS9zcw%3D%3D&vvpl=1&l=202611150341420A71E141D938188406CB&btag=e000bd000",
+    "start": 24.5,
+    "dur": 3.0
+   },
+   "free": "top"
+  },
+  {
+   "src": "clients/c0c5981a750228f9ac21/donor_tt7678701036290231583.mp4",
+   "ss": 0,
+   "dur": 2.95,
+   "donor": {
+    "id": "tt7678701036290231583",
+    "media": "https://v45.tiktokcdn-us.com/797fe8e6b6e92bf0028f16a3eaaf705c/6af97e69/video/tos/useast8/tos-useast8-ve-0068c003-tx2/oUHIhIgeWXpeACqmvVVtjqADPQQy8IeMIQOhIu/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=811&ft=aEKfuqT0mIsPD12XL9LI3wUK6iMyMeF~O5&mime_type=video_mp4&rc=ZzxmaDg1aDhnZWZlZjU1ZEBpamlxZ3Q5cnc2ZDMzaTczNEBjNDQvLzAyNV4xMTAtMzI1YSNrbi5pMmRrZzVhLS1kMTJzcw%3D%3D&vvpl=1&l=202611150341420A71E141D938188406CB&btag=e000bd000",
+    "start": 3.0,
+    "dur": 3.0
+   }
+  },
+  {
+   "src": "stock/pexels_4684444.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_7119973.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_6434425.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_39114423.mp4",
+   "ss": 1,
+   "dur": 2.6
+  }
+ ],
+ "stock_queries": [
+  "balloon garland assembly timelapse",
+  "party balloon arch decorating venue",
+  "florist arranging fresh flowers event"
+ ],
+ "llm_usd": 0.0509,
+ "hookscore": 78.8,
+ "end_text": [
+  "Ещё 6 роликов",
+  "на этой неделе"
+ ],
+ "why": "Серия №1 «Как мы собираем гирлянду»: хук построен на механике ролика-лайфхака о шарах на стене (14,2 млн просмотров) и приёма houseofparty.co (26,2 млн) — боль «пустая стена» и конкретное время. Цель — показать процесс сборки и привести зрителя в WhatsApp."
+}

@@ -1,0 +1,67 @@
+{
+ "id": "578a4be93c0329a0db61_s1",
+ "company": "Glow Med Spa Brooklyn",
+ "lang": "en",
+ "hook": "Botox, and still 37 facial expressions?",
+ "lines": [
+  "Natural Botox should keep every expression yours.",
+  "Write GLOW in the comments to ask us."
+ ],
+ "say": [
+  "Natural Botox should keep every expression yours.",
+  "Write glow in the comments to ask us."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_6813036.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_30365541.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_8275551.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_10198773.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_37142353.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "woman laughing natural expressions close up",
+  "aesthetic injector consultation mirror",
+  "woman smiling in med spa"
+ ],
+ "paid": true,
+ "end": "Write GLOW in the comments",
+ "caption": "Botox should not freeze your face. At Glow Med Spa Brooklyn we start with what you actually want. Write GLOW in the comments. #botoxbrooklyn #naturalbotox #brooklynmedspa #medspa\n\n👉 reels.tepexa.com/w/578a4be93c0329a0db61",
+ "series": "Mito o no",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "disc": "Individual results vary. Consult a licensed provider.",
+ "why": "Serie «Mito o no», sobre la mecánica del video de 37 expresiones faciales (13,5 M de vistas): rompe el miedo a la cara congelada. Objetivo: alcance y primeras consultas.",
+ "qa": {
+  "score": 58,
+  "problems": [
+   "Caption 'Botox should' / 'expression' / 'in the' are single-word fragments that do not match the voice and are hard to follow",
+   "Captions and hook box sit over the woman's chest/hands area and overlap the face region in the first frames, crowding the visual",
+   "Frames at 0.7s and 2.1s are near-identical (same woman, same pose), so the opening feels static",
+   "Frame at 6.3s and 7.6s: blurry macro eye through a magnifier with flowers, out of focus, looks unrelated to Botox and no caption",
+   "The injection-like clip with a marker pen at 3.5-4.9s looks more like a procedure mapping, not clearly natural expression Botox"
+  ],
+  "fix": "Replace the blurry magnifier eye shots and the duplicate opening frame with sharp, varied med spa footage (smiling expressive face, treatment room in Brooklyn), use full-phrase captions synced to the voice, and give the end card one clear CTA with a logo and shorter hold."
+ },
+ "date": "2026-11-16 11:11 ET"
+}

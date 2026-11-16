@@ -1,0 +1,88 @@
+{
+ "id": "578a4be93c0329a0db61_s2",
+ "company": "Glow Med Spa Brooklyn",
+ "lang": "en",
+ "hook": "What happens at your first visit?",
+ "lines": [
+  "First, we sit down and talk about your goals.",
+  "I ask about your health, your worries, and what feels natural to you.",
+  "Then we plan together, and you decide at your own pace.",
+  "Write GLOW in the comments to ask about your first visit."
+ ],
+ "say": [
+  "First, we sit down and talk about your goals.",
+  "I ask about your health, your worries, and what feels natural to you.",
+  "Then we plan together, and you decide at your own pace.",
+  "Write glow in the comments to ask about your first visit."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_8313054.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "clients/578a4be93c0329a0db61/donor_tt7457579381964295467.mp4",
+   "ss": 0,
+   "dur": 2.95,
+   "donor": {
+    "id": "tt7457579381964295467",
+    "media": "https://v16m.tiktokcdn-us.com/e84944e76baf0be667ee4bb1c13f6845/6afb0235/video/tos/useast5/tos-useast5-pve-0068-tx/oUbA5vpjAkRIqpkOjwKCHLBVSEIBQgFe77SffD/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=1260&ft=BIcq8V~3wUxl7K2gUtIvk84jWLpiLfjqQjKJbrShgG0P3-I&mime_type=video_mp4&rc=PDw3NGRnaDMzODhnPDplM0BpanE1Om45cnJkdzMzZzczNEBfYTVfLy5eXjExYS80NTMuYSNmXzFtMmRzNXNgLS1kMS9zcw%3D%3D&vvpl=1&l=20261116071535C6472842ECB80E030D04&btag=e00090000",
+    "start": 24.0,
+    "dur": 3.0
+   },
+   "free": "top"
+  },
+  {
+   "src": "stock/pexels_8313344.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_34292214.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_6629704.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_3998273.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_6629663.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "med spa consultation room conversation",
+  "aesthetician taking notes with client",
+  "calm spa treatment room interior"
+ ],
+ "paid": true,
+ "end": "Write GLOW in the comments",
+ "caption": "Your first visit starts with a calm conversation, not pressure. Botox, fillers, laser hair removal and facials in Brooklyn. Write GLOW in the comments. #brooklynmedspa #firstvisit #fillers #laserhairremoval\n\n👉 reels.tepexa.com/w/578a4be93c0329a0db61",
+ "series": "Primera visita",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "disc": "Individual results vary. Consult a licensed provider.",
+ "why": "Serie «Primera visita», fórmula de análisis honesto de especialista del bloque de nicho; las vistas no están confirmadas. Objetivo: confianza de quien considera su primer procedimiento y consultas.",
+ "qa": {
+  "score": 64,
+  "problems": [
+   "Frames at 4.6s and 2.8s are near-identical (same close-up, same marker shot), so the middle feels repetitive",
+   "Caption at 2.8s and 4.6s sits close to the chin/lower face and the hook box overlaps the top of the frame, crowding the face",
+   "Frames at 8.3s and 10.1s show a generic office meeting with laptops, which looks like a corporate setting and not a med spa; it does not match 'we plan together, you decide at your own pace'",
+   "Frame at 12.0s is a dark, murky back-massage close-up with no caption text, and it does not relate to the voice or to botox/fillers/laser/facials",
+   "Frame at 6.4s shows a man in a robe sitting static, which is passive and a weak match for 'Then we plan'"
+  ],
+  "fix": "Replace the office-meeting, dark massage and duplicate marking shots with real spa footage (consult with a treatment plan on a tablet, treatment room, facial or laser in progress), and make the end card larger with the logo, location and a bold GLOW CTA."
+ },
+ "date": "2026-11-16 18:41 ET"
+}

@@ -1,0 +1,80 @@
+{
+ "id": "30a74a1814f17f17d3b6",
+ "company": "Лестницы ФЕБ",
+ "lang": "ru",
+ "hook": "Чем лестница на заказ лучше готовой?",
+ "lines": [
+  "Боитесь, что готовая лестница не впишется в дом?",
+  "Мы делаем деревянные лестницы на заказ под ваш интерьер.",
+  "Ступени, соединения и отделку дерева видно вблизи на фото.",
+  "Напишите нам и обсудим лестницу для вашего дома."
+ ],
+ "say": [
+  "Боитесь, что готовая лестница не впишется в дом?",
+  "Мы делаем деревянные лестницы на заказ под ваш интерьер.",
+  "Ступени, соединения и отделку дерева видно вблизи на фото.",
+  "Напишите нам и обсудим лестницу для вашего дома."
+ ],
+ "shots": [
+  {
+   "src": "clients/30a74a1814f17f17d3b6/photo_0.jpg",
+   "dur": 1.6,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/30a74a1814f17f17d3b6/photo_1.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/30a74a1814f17f17d3b6/photo_2.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/30a74a1814f17f17d3b6/photo_3.jpg",
+   "dur": 3,
+   "zoom": 1.08,
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "wooden staircase steps close up",
+  "stair joint woodwork detail",
+  "wood finish texture macro"
+ ],
+ "llm_usd": 0.0662,
+ "hookscore": 67.9,
+ "engine": "fish",
+ "fish_voice": "c962ed46edfd419abc530d1e33a7435f",
+ "end_text": [
+  "Ещё 6 роликов",
+  "на этой неделе"
+ ],
+ "why": "Серия 1 «Лестница целиком — и вблизи»: формат «итог целиком, потом детали», как у ролика lestnisa.uz (около 1,8 млн просмотров), с хуком-вопросом о боли владельца дома. Цель — показать по четырём фото одной лестницы реальные ступени, соединения и отделку, а видео K0057 подать отдельно с подписью «другой объект».",
+ "rules": "GEDA: only the client's own materials. 4 photos 001–004 show ONE finished staircase (dark steps, white elements, brick walls); the video K0057_Mikhail.mp4 is a DIFFERENT object without railing. Never present the photo staircase and the video as the same staircase: separate them clearly (e.g. a caption «другой объект»). No foreign footage, no stock, no AI presenter, no change of geometry. Overview first, then smooth movement to details: steps, joints, railing, wood texture.",
+ "qa": {
+  "score": 55,
+  "problems": [
+   "Frames 1-2 show the same shot with the same hook text, so a static, repeating picture runs for about 4 seconds",
+   "Frames 6-7 are near-identical, and frames 5-7 stay on the same angle with almost no movement",
+   "The captions are fragmented and out of sync with the picture: 'готовая лестница' is shown over a custom staircase, and 'видно вблизи' appears over a wide shot rather than a close-up",
+   "The video goes straight to a brand slate for 'Тереха / Лестницы ФЕБ' instead of GEDA, which is a wrong brand and a wrong name",
+   "The ending has no clear call to action and no contact details; 'Ещё 6 роликов за неделю' is irrelevant agency text for the viewer"
+  ],
+  "fix": "Rebuild it as a smooth overview-to-detail move over photos 001-004 (full staircase, then steps, joints, railing, wood texture), with captions in sync with the voice, GEDA branding, and a final frame saying 'Напишите нам' with contact details instead of the agency slate."
+ },
+ "cost": {
+  "usd": 0.091,
+  "calls": 5,
+  "by": {
+   "script": 0.0662,
+   "fit_filter": 0.0056,
+   "frame_check": 0.0094,
+   "judge": 0.0099
+  }
+ }
+}

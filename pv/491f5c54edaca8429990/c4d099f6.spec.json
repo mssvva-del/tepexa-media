@@ -1,0 +1,93 @@
+{
+ "id": "491f5c54edaca8429990",
+ "company": "Beseder-WT",
+ "lang": "ru",
+ "hook": "Жироуловитель снова пахнет на кухне?",
+ "lines": [
+  "Запах из жироуловителя мешает кухне работать спокойно.",
+  "Мы предлагаем жироуловители из пластика и биотаблетки.",
+  "Пластик HDPE не ржавеет, а таблетки помогают регулярно.",
+  "Напишите нам в вотсап, подскажем подходящий размер."
+ ],
+ "say": [
+  "Запах из жироуловителя мешает кухне работать спокойно.",
+  "Мы предлагаем жироуловители из пластика и биотаблетки.",
+  "Пластик эйч ди пи и не ржавеет, а таблетки помогают регулярно.",
+  "Напишите нам в вотсап, подскажем подходящий размер."
+ ],
+ "shots": [
+  {
+   "src": "clients/491f5c54edaca8429990/donor_tt7371424354724302112.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "tt7371424354724302112",
+    "media": "https://v16m.tiktokcdn-us.com/1650dc9a08a3a2d5b601c5a8498e2e72/6afb2a39/video/tos/useast2a/tos-useast2a-ve-68c810-euttp/okEBQhBaTM04wEzDtEvB3PYPGkHjIAyiEiZys/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=1377&ft=arR-Iq4fmbdPD12_udLI3wUhdMtwMeF~O5&mime_type=video_mp4&rc=NTVlOWU4Nmg5O2k7ZDMzM0BpanRta205cnI7czMzZjczM0AuYjQ0Li8zNmExMjQvMTFfYSM0MWQtMmRrcjNgLS1kMWNzcw%3D%3D&vvpl=1&l=20261116100656C5637C9BCD97B40081DD&btag=e000b8000",
+    "start": 20.0,
+    "dur": 3.5
+   }
+  },
+  {
+   "src": "clients/491f5c54edaca8429990/donor_igC65kV5xrr42.mp4",
+   "ss": 0,
+   "dur": 2.95,
+   "donor": {
+    "id": "igC65kV5xrr42",
+    "media": "https://scontent-bru2-1.cdninstagram.com/o1/v/t2/f2/m82/AQMkQRJ2PkD8ZPq2N3EqF3YRd0g3TkuudgleTGAs_5snsZ0dNPHoln5rC_Y7Bdnq5HEblMLNAo7Zm6c8x93tHozHgL3UMOSLOlo_dC0.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_ohc=c_cpI9l5wDoQ7kNvwE1_PyF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6ODE3MDQwODIwMzEzNDg1LCJhc3NldF9hZ2VfZGF5cyI6OTE3LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e12d01d545ca8c8a&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC81QzQ3QzgyOUQ4M0RBQTg5MUE1QjU2MDVDQkQzMDA4Ql92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTXdwVXhwcTJsVnBob0VEQUg1RUs5M2dRMHdZYnFfRUFBQUYVAgLIARIAKAAYABsDiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATESY29weV9zYW1wbGVfZ3JvdXBzATEVAAAmmvbkvYTG8wIVAigCQzMsF0BD5mZmZmZmGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&_nc_gid=lE9nk3flRPisZqRqjPYn6A&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQT2w9cG4luBhp6uQyTUNSOlfMdzl8YBTfNu_50uV2zycA&oe=6AFCC519",
+    "start": 20.0,
+    "dur": 3.0
+   }
+  },
+  {
+   "src": "stock/pexels_8086293.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_8084905.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_13736651.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "chef cleaning commercial kitchen sink",
+  "restaurant kitchen staff washing dishes",
+  "plumber opening drain in restaurant"
+ ],
+ "llm_usd": 0.0278,
+ "hookscore": 63.0,
+ "engine": "fish",
+ "fish_voice": "48ec28a45588422b977a86460c11977f",
+ "end_text": [
+  "Ещё 6 роликов",
+  "на этой неделе"
+ ],
+ "why": "Серия №1 «Биотаблетки для жироуловителя»: хук-вопрос о боли в формате «совет с кухни», как ролик «check the grease trap before cleaning» (4 281 178 просмотров). Цель — показать владельцу кухни в Израиле простой уход за жироуловителем и привести его в WhatsApp.",
+ "qa": {
+  "score": 50,
+  "problems": [
+   "Frames 6, 7 and 8 (10.9, 12.9, 14.9 s... frames 5-7) show the same man at the same sink, near-identical and static for about 6 seconds",
+   "The stock footage of a man washing dishes shows no grease trap, HDPE or biotablets, so it does not match the voice",
+   "Frames 3 and 4 show generic dishwashing and a sink; nothing shows a plastic HDPE trap or its non-rusting property",
+   "Subtitles are split into fragments (Напишите нам в, жироуловители из, Пластик HDPE не) that are unreadable as a sentence and sit over the hands and apron area",
+   "The final frame is a generic brand card with 'Тереха' and 'Ещё 6 роликов за неделю', not a call to action; no WhatsApp icon or contact is shown"
+  ],
+  "fix": "Replace the repeated man-at-sink stock shots with footage of a BSDR HDPE grease trap being installed or opened, biotablets dropping in, and a clean kitchen, and end on a clear WhatsApp call-to-action card with the number instead of the unrelated 'Тереха' brand card."
+ },
+ "cost": {
+  "usd": 0.13,
+  "calls": 10,
+  "by": {
+   "script": 0.0278,
+   "donor_clip": 0.0727,
+   "fit_filter": 0.0103,
+   "frame_check": 0.0096,
+   "judge": 0.0098
+  }
+ }
+}

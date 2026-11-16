@@ -1,0 +1,80 @@
+{
+ "id": "30a74a1814f17f17d3b6",
+ "company": "GEDA",
+ "lang": "ru",
+ "hook": "Посмотрите, как сделана каждая ступень",
+ "lines": [
+  "Боитесь, что готовая лестница не впишется в дом?",
+  "Мы делаем деревянные лестницы на заказ под ваш дом.",
+  "Ступени, перила, балясины и соединения делаем сами целиком.",
+  "Напишите нам и обсудим лестницу для вашего дома."
+ ],
+ "say": [
+  "Боитесь, что готовая лестница не впишется в дом?",
+  "Мы делаем деревянные лестницы на заказ под ваш дом.",
+  "Ступени, перила, балясины и соединения делаем сами целиком.",
+  "Напишите нам и обсудим лестницу для вашего дома."
+ ],
+ "shots": [
+  {
+   "src": "clients/30a74a1814f17f17d3b6/photo_1.jpg",
+   "dur": 1.6,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/30a74a1814f17f17d3b6/photo_0.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/30a74a1814f17f17d3b6/photo_2.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/30a74a1814f17f17d3b6/photo_3.jpg",
+   "dur": 3,
+   "zoom": 1.08,
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "client photo staircase overview slow zoom",
+  "client photo dark wooden steps close up",
+  "client video other staircase without railing"
+ ],
+ "llm_usd": 0.0269,
+ "hookscore": 62.0,
+ "engine": "fish",
+ "fish_voice": "48ec28a45588422b977a86460c11977f",
+ "end_text": [
+  "Ещё 6 роликов",
+  "на этой неделе"
+ ],
+ "why": "Серия 1 «Лестница целиком — и вблизи» по формату lestnisa.uz (около 1,8 млн просмотров): сначала готовая лестница с фото 001–004, затем медленные наезды на ступени, балясины, перила и дерево, а видео K0057 идёт отдельно с подписью «Другой объект». Только материалы клиента, без стока, людей и агентской заставки; цель — показать владельцам домов и дизайнерам качество деталей и побудить написать.",
+ "rules": "GEDA: only the client's own materials. 4 photos 001–004 show ONE finished staircase (dark steps, white elements, brick walls); the video K0057_Mikhail.mp4 is a DIFFERENT object without railing. Never present the photo staircase and the video as the same staircase: separate them clearly (e.g. a caption «другой объект»). No foreign footage, no stock, no AI presenter, no change of geometry. Overview first, then smooth movement to details: steps, joints, railing, wood texture.",
+ "qa": {
+  "score": 58,
+  "problems": [
+   "Frames 5-7 (8.1, 9.8, 11.6 s) show nearly the same static shot of the dark staircase with only the caption changing, so the video feels dead",
+   "Frames 1 and 2 repeat the same hook caption, and the second hook is on a different object, which adds no new information",
+   "Frames 3 and 4 are almost the same angle of the staircase, so the middle section repeats",
+   "Frames 1-4 may show a different object (the video without railing) than frames 5-7 (railing and balusters) with no «другой объект» label, which breaks the client's rule against mixing objects",
+   "Subtitles are cut into fragments ('Мы делаем', 'Ступени, перила,', 'Напишите нам и') and the caption text does not match the voice, so it reads as choppy"
+  ],
+  "fix": "Cut the repeated shots, shoot or choose different angles for each detail (step, joint, baluster, railing, wood texture), label the other object as «другой объект», use full-phrase captions, and end with a GEDA card with a clear CTA and contact details instead of the Тереха promo."
+ },
+ "cost": {
+  "usd": 0.053,
+  "calls": 4,
+  "by": {
+   "script": 0.0269,
+   "fit_filter": 0.0055,
+   "frame_check": 0.0101,
+   "judge": 0.0101
+  }
+ }
+}

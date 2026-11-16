@@ -1,0 +1,70 @@
+{
+ "id": "6795989d9c51a3224d41_s5",
+ "company": "SMRTLV",
+ "lang": "en",
+ "hook": "A customer calls at 6 p.m.",
+ "lines": [
+  "I built this receptionist to answer when you can't.",
+  "It hears the caller, replies, and logs the details.",
+  "Your team gets the lead, ready to follow up.",
+  "Comment DEMO and try the live demo at smrtlv.io."
+ ],
+ "say": [
+  "I built this receptionist to answer when you can't.",
+  "It hears the caller, replies, and logs the details.",
+  "Your team gets the lead, ready to follow up.",
+  "Comment demo and try the live demo at smart L V dot I O."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_39447506.mp4",
+   "ss": 1,
+   "dur": 1.6
+  },
+  {
+   "src": "stock/pexels_36178907.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_8888773.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_10374885.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_7821861.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "office phone ringing after hours",
+  "receptionist desk empty evening",
+  "owner reading phone notification"
+ ],
+ "paid": true,
+ "end": "Comment DEMO below",
+ "caption": "Real demo audio: a 6 p.m. call, the reply, and what the business receives. Comment DEMO to try it yourself. #aireceptionist #smallbusiness #missedcalls #crm\n\n👉 reels.tepexa.com/w/6795989d9c51a3224d41",
+ "series": "Live demo",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "why": "Live demo series, proof-first formula behind Dom Ricci's test with 1,102 likes and 130 comments. Goal: let viewers hear the product working.",
+ "qa": {
+  "score": 55,
+  "problems": [
+   "Captions don't match the voice: 'receptionist to' and 'Your team gets the' are fragments, and the hook is duplicated on frames 1 and 2",
+   "Footage is generic stock: a rotary phone, someone typing, a person in a dark room, and no AI receptionist, call UI, or CRM lead log is ever shown",
+   "Frames 6 and 7 are near-identical lock screens, and frame 5 is a dark blank phone, so the middle feels static",
+   "Frame 3 is blurry, dim and unrelated, with the hook text missing",
+   "Lock screen notification is a bank alert, which contradicts 'lead ready to follow up'"
+  ],
+  "fix": "Replace the stock clips with screen recordings of the AI receptionist answering a call and a CRM lead card appearing, keep one hook caption that matches the voice, and end on a clear card showing smrtlv.io and 'Comment DEMO'."
+ },
+ "date": "2026-11-16 11:41 ET"
+}

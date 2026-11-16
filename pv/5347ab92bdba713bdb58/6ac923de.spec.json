@@ -1,0 +1,83 @@
+{
+ "id": "5347ab92bdba713bdb58_s14",
+ "company": "ArtVitrage",
+ "lang": "ru",
+ "hook": "Стекло на балкон: шаг за шагом",
+ "lines": [
+  "Каждая панель встаёт ровно по замеру.",
+  "Напишите СТЕКЛО в WhatsApp."
+ ],
+ "say": [
+  "Каждая панель встаёт ровно по замеру.",
+  "Напишите СТЕКЛО в вотсап."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/donor_igDaIY7oFs6MM.mp4",
+   "ss": 0,
+   "dur": 3.45,
+   "donor": {
+    "id": "igDaIY7oFs6MM",
+    "media": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQNwvhqcLEMsN10cw0VR9r7127gzZY2BTZnhw0MaMJVNIJ0vUlT_Jb0oxSPME2g-obw-kmoIop51ExsL1TnQ8oWMmOw19Oy4bj7bQRQ.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=66vPFhRZU64Q7kNvwGLSpt4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTAzMDY5NTQxMjk5MjY2NiwiYXNzZXRfYWdlX2RheXMiOjE0MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjcwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=fd6e9062ec4a7f66&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DODQxREMyMjUxNzQ1NDcxOUZEOURENUIwODMxMThCNF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzhBNDAzNDg5RUU1ODU1QjVGQTJBNDk5RUNDQzJFRTg1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACa0qrSfr9rUAxUCKAJDMywXQFGiHKwIMScYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=A0i426b4L7XyufIqDwWgug&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=Us_U9xhhp6zk0ze4lH2Cg7OTthKTmiZzm9M7xUp636deYEvfuG_xfxOW5RTQ0KOfS_aNfVHxsqWSOzt9SqYijMMjZhHvy_EJ2Ip7mGO2BiG-lyUkVJyOhqMFomI&oh=00_AQTB1q5-OI7jrhfolZzdI-8rCkfe3nzAzMyCk36FMjkBRg&oe=6AFCACA2",
+    "start": 26.0,
+    "dur": 3.5
+   },
+   "free": "bottom"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1FC8zndNATBF_ZZxBvRO8c1KExYtYA0U4.jpg",
+   "dur": 1.6,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1Fo0O6BK9ZeNf8Ai0Ld51m7yg6JvdqsLL.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1LJ3iId-tTUL88x7oynHVHFFgWGIiTYeA.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1z7DhCSU8SVrEDccQNvexIUmr_j8ORiLH.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "stock/pexels_18523335.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "glass balcony installation workers",
+  "installer fixing glass panel",
+  "measuring balcony glass"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Монтаж стекла на балконе глазами мастера. Напишите СТЕКЛО в WhatsApp. #установка #остеклениебалкона #стекло #израиль\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Установка глазами мастера",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "why": "Серия «Установка глазами мастера», формат пошаговой установки (6,1 млн у донора). Цель — доверие к процессу и охват.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "qa": {
+  "score": 58,
+  "problems": [
+   "Frames 4-7 (4.5-8.4s) are near-identical static shots of the building facade, with no motion or new information",
+   "The finished glazing is tiny and far away on the facade, so the result is not shown clearly or up close",
+   "Install frames 1-3 are good, but they cover only about 4 seconds and the glass is hard to read against the cluttered background",
+   "Caption in frame 1 sits over the worker's hands and glass, and the hook text duplicates the on-screen subtitle",
+   "Subtitles are cut into fragments (Каждая панель / замеру / Напишите СТЕКЛО в) and the line 'по замеру' appears late relative to the picture"
+  ],
+  "fix": "Replace the four near-identical facade frames with varied close-ups of panels sliding in, leveling and the finished frameless balcony glazing, and show the result up close before the CTA end card."
+ },
+ "date": "2026-11-22 16:11 UTC"
+}

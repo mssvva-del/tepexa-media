@@ -1,0 +1,81 @@
+{
+ "id": "5347ab92bdba713bdb58_s13",
+ "company": "ArtVitrage",
+ "lang": "ru",
+ "hook": "Перила превращаются в стеклянную стену?",
+ "lines": [
+  "Стекло на балконе держит ветер, а вид остаётся.",
+  "Напишите СТЕКЛО в WhatsApp."
+ ],
+ "say": [
+  "Стекло на балконе держит ветер, а вид остаётся.",
+  "Напишите СТЕКЛО в вотсап."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_7496181.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_19039305.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1Fo0O6BK9ZeNf8Ai0Ld51m7yg6JvdqsLL.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1LJ3iId-tTUL88x7oynHVHFFgWGIiTYeA.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/158YH1jf-1_HBqsCUAiEbY_NHMXEXumTa.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1HEIl0MkGusWMW88ZOfdj7lW2uzxe122h.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "stock/pexels_37489628.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "frameless glass balcony sliding panels",
+  "glass balcony sea view",
+  "windy balcony glass panels"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Ветер на балконе больше не хозяин. Безрамное остекление по всей стране. Напишите СТЕКЛО в WhatsApp. #остеклениебалкона #безрамноеостекление #балкон #израиль\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Вопрос мастеру",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "why": "Серия «Вопрос мастеру», механика трансформации перил (6,9 млн просмотров у донора). Цель — охват на главной теме балкона.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "qa": {
+  "score": 55,
+  "problems": [
+   "Frames at 5.8s and 4.5s are near-identical exterior shots of the building, a static repeat",
+   "Frames at 7.1s and 8.4s are near-identical, the same man with a thumbs-up, so the video drags",
+   "Frame at 1.9s and 3.2s repeat the same dark balcony window with autumn leaves; glass is barely visible and the shot is dark and dim",
+   "Caption at 0.6s covers the glass and the couple; the text is cluttered at the top",
+   "The man's face sits right in the frame and the glass work is not the main subject, so the picture does not show wind protection"
+  ],
+  "fix": "Replace the repeated dark window and building frames with close, bright shots of a railing being turned into frameless glass (before/after, glass panels sliding), cut the duplicate thumbs-up shot to one, and end on a glass balcony with the WhatsApp call to action."
+ },
+ "date": "2026-11-22 09:49 UTC"
+}

@@ -1,0 +1,81 @@
+{
+ "id": "578a4be93c0329a0db61_s4",
+ "company": "Glow Med Spa Brooklyn",
+ "lang": "en",
+ "hook": "How many laser sessions do you need?",
+ "lines": [
+  "This is our laser room, ready for your session.",
+  "Most people need a series, not a single visit.",
+  "We plan the number of sessions at your consultation.",
+  "Write GLOW in the comments with your question."
+ ],
+ "say": [
+  "This is our laser room, ready for your session.",
+  "Most people need a series, not a single visit.",
+  "We plan the number of sessions at your consultation.",
+  "Write GLOW in the comments with your question."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_15731126.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_30978287.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_37142062.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_34232989.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_37141753.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_30365541.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_37142353.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "laser hair removal treatment room",
+  "aesthetician preparing laser device",
+  "woman consultation med spa clinic"
+ ],
+ "paid": true,
+ "end": "Write GLOW in the comments",
+ "caption": "Laser hair removal is a series of sessions, and we plan yours together at the consultation. Write GLOW in the comments. #laserhairremoval #brooklynmedspa #brooklyn #medspa\n\n👉 reels.tepexa.com/w/578a4be93c0329a0db61",
+ "series": "Question of the week",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "disc": "Individual results vary. Consult a licensed provider.",
+ "why": "Serie «Pregunta de la semana»: fórmula pregunta-dolor del bloque «Qué funciona», con imágenes propias del local. Objetivo: resolver una duda frecuente y generar consultas con la palabra GLOW.",
+ "qa": {
+  "score": 58,
+  "problems": [
+   "Hook card and caption overlap the woman's face and chin in the first two frames, so text covers a face",
+   "Frames 1 and 2 are near-identical (same clip, same hook), so the first 2.5s feels static",
+   "Caption 'room, ready for' covers the hook card at 0.8s and the stacked text looks cluttered",
+   "Caption fragments like 'series, not a' and 'question.' are split mid-sentence and are hard to follow",
+   "Visuals do not match the voice: no laser room establishing shot, and the tattoo-style pen at 11.0s reads as a different trade (tattoo/microblading)"
+  ],
+  "fix": "Open with one clear laser-room shot with the hook placed above the face, replace the duplicate handpiece, tattoo-like and pen clips with varied laser hair removal and consultation shots, and keep the captions in full phrases away from faces."
+ },
+ "date": "2026-11-17 18:43 ET"
+}

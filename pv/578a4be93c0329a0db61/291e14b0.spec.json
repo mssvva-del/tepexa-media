@@ -1,0 +1,84 @@
+{
+ "id": "578a4be93c0329a0db61_s3",
+ "company": "Glow Med Spa Brooklyn",
+ "lang": "en",
+ "hook": "Botox, and you can still smile?",
+ "lines": [
+  "Real expressions stay when the plan is careful.",
+  "Write GLOW in the comments to ask us."
+ ],
+ "say": [
+  "Real expressions stay when the plan is careful.",
+  "Write GLOW in the comments to ask us."
+ ],
+ "shots": [
+  {
+   "src": "clients/578a4be93c0329a0db61/donor_tt7457579381964295467.mp4",
+   "ss": 0,
+   "dur": 3.45,
+   "donor": {
+    "id": "tt7457579381964295467",
+    "media": "https://v16m.tiktokcdn-us.com/c9111c84785f198bc14e19e84f5b431c/6afb0566/video/tos/useast5/tos-useast5-pve-0068-tx/oUbA5vpjAkRIqpkOjwKCHLBVSEIBQgFe77SffD/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=1260&ft=WgSBMNl0VK6XUxbVKStG-XD5S_j_W1PXtaUlzFMyqF_4&mime_type=video_mp4&rc=PDw3NGRnaDMzODhnPDplM0BpanE1Om45cnJkdzMzZzczNEBfYTVfLy5eXjExYS80NTMuYSNmXzFtMmRzNXNgLS1kMS9zcw%3D%3D&vvpl=1&l=2026111607291273CD076C4F26D60302CC&btag=e00090000",
+    "start": 24.5,
+    "dur": 3.5
+   },
+   "free": "top"
+  },
+  {
+   "src": "stock/pexels_8724306.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_7593914.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_35088457.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_5937444.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_7615056.mp4",
+   "ss": 1,
+   "dur": 2.6
+  },
+  {
+   "src": "stock/pexels_8090729.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "woman laughing natural face closeup",
+  "friends smiling cafe Brooklyn",
+  "woman mirror expressions bathroom"
+ ],
+ "paid": true,
+ "end": "Write GLOW in the comments",
+ "caption": "Softening lines does not have to mean losing your expressions. We talk through your goals before anything else. Write GLOW in the comments. #botoxbrooklyn #brooklynmedspa #medspa #botox\n\n👉 reels.tepexa.com/w/578a4be93c0329a0db61",
+ "series": "Myth or not",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "disc": "Individual results vary. Consult a licensed provider.",
+ "why": "Serie «Mito o no»: la fórmula del video de las 37 expresiones (13,5 millones de vistas) aplicada a la duda sobre un rostro natural. Objetivo: alcance y confianza de quienes temen el bótox.",
+ "qa": {
+  "score": 58,
+  "problems": [
+   "Hook text 'Botox, and you can still smile?' is awkward and sits on top of the woman's forehead, close to her face",
+   "Frames at 0.6, 1.9 and 3.2s are near-identical (same injection-marking shot), so the video feels static",
+   "Stock footage of a worried woman in a yellow shirt and a woman smiling in a bathroom mirror is generic and not tied to the med spa or a treatment room",
+   "Captions are fragmented ('is careful.', 'us.') and the disclaimer is tiny, so the text is hard to read",
+   "Marker-on-face shot looks clinical and unclear, with no visible botox result or spa setting"
+  ],
+  "fix": "Replace the repeated marking shots and generic stock clips with varied real spa footage (consultation, injection, happy client with natural expression), place larger full-phrase captions away from faces, and finish with a branded end card with a bold GLOW CTA."
+ },
+ "date": "2026-11-17 11:13 ET"
+}

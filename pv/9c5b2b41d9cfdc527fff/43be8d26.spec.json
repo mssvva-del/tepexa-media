@@ -1,0 +1,98 @@
+{
+ "id": "9c5b2b41d9cfdc527fff",
+ "company": "Made for Happy NYC",
+ "lang": "en",
+ "hook": "Empty room. Two hours later.",
+ "lines": [
+  "Planning a party with no time to decorate?",
+  "We bring balloon garlands, arches and full party styling.",
+  "We set up in Brooklyn, Manhattan and nearby New Jersey.",
+  "Planning a party? Message us on WhatsApp today."
+ ],
+ "say": [
+  "Planning a party with no time to decorate?",
+  "We bring balloon garlands, arches and full party styling.",
+  "We set up in Brooklyn, Manhattan and nearby New Jersey.",
+  "Planning a party? Message us on WhatsApp today."
+ ],
+ "shots": [
+  {
+   "src": "clients/9c5b2b41d9cfdc527fff/donor_tt7673688220063894792.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "tt7673688220063894792",
+    "media": "https://v16m.tiktokcdn-us.com/35f13c6e8389547b4125047ff89d884c/6afb0a6e/video/tos/alisg/tos-alisg-pve-0037c001/oUjCqFDlgIxfThfGuUcgAqoevEQIIGoSDma1EA/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=541&ft=gKfIn8s6ogVP12NvedSKzIxRC-BO63_45SY&mime_type=video_mp4&rc=OTlmOWk7OjU7ZTQ6OTRnZkBpanQ4a2o5cmY5PDMzODczNEAtNC0wMGFjNTIxMWM1NWE1YSNuNS5lMmRjaXNhLS1kMTFzcw%3D%3D&vvpl=1&l=2026111607505662050622B7E4F805A60E&btag=e00088000",
+    "start": 20.0,
+    "dur": 3.5
+   },
+   "free": "bottom"
+  },
+  {
+   "src": "stock/pexels_4684232.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_4684444.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_8100933.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_6463583.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "clients/9c5b2b41d9cfdc527fff/donor_tt7646462709852114197.mp4",
+   "ss": 0,
+   "dur": 3,
+   "donor": {
+    "id": "tt7646462709852114197",
+    "media": "https://v16m.tiktokcdn-us.com/c5d1b1d81dbdced8fc8b0804ce7e8da0/6afb0a52/video/tos/alisg/tos-alisg-ve-0068c800-sg/o8uBhZbniQJLEWiw1YPAFstfpg0IAkCDdIAYza/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=333&ft=gKfIn8s6ogVP12NvedSKzIxRC-BO63_45SY&mime_type=video_mp4&rc=Zzc5O2VoPDY4MzU8OjdpZkBpamlvdm45cmx1OzMzODczNEAzMS02YS0vXjIxMzAyNTJhYSNkaGxoMmRjLWJhLS1kMWBzcw%3D%3D&vvpl=1&l=2026111607505662050622B7E4F805A60E&btag=e000b8000",
+    "start": 5.5,
+    "dur": 3.0
+   },
+   "free": "bottom"
+  }
+ ],
+ "stock_queries": [
+  "balloon garland setup living room party",
+  "kids birthday party balloon decoration",
+  "baby shower balloon arch backdrop"
+ ],
+ "llm_usd": 0.0237,
+ "hookscore": 68.8,
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "Series #1 \"Empty to Party\" uses the satisfying setup-to-reveal mechanic of the balloon wall prep Short (5,722,533 views) and the \"Typical Saturday Baby Shower\" format (1,951,378 views). The goal is to show real NYC setup work and lead busy parents straight to WhatsApp booking.",
+ "qa": {
+  "score": 58,
+  "problems": [
+   "Hook 'Empty room. Two hours later.' promises a before/after reveal, but the first frame shows only purple foil curtains and no real transformation",
+   "Captions are split mid-sentence ('with no time to', 'We set up in') and do not line up with the images",
+   "Frame at 5.9s shows kids jumping at a home party with no visible balloon decor, so it does not match 'We set up in' or the service",
+   "Frame at 2.5s shows a woman holding a gold confetti circle in a hammock, which is not balloon decor and shows no garlands or arches",
+   "Frame at 4.2s is a generic stock shot of a person lounging with balloons, not real work"
+  ],
+  "fix": "Replace the stock clips and the Tepexa end card with real Made for Happy NYC footage: an empty room, then the finished garland and arch, then a closing card with the brand name and a 'Message us on WhatsApp' CTA with the number."
+ },
+ "cost": {
+  "usd": 0.109,
+  "calls": 9,
+  "by": {
+   "script": 0.0237,
+   "donor_clip": 0.0477,
+   "fit_filter": 0.0105,
+   "frame_check": 0.0085,
+   "judge": 0.0188
+  }
+ }
+}

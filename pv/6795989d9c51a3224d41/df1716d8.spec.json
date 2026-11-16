@@ -1,0 +1,70 @@
+{
+ "id": "6795989d9c51a3224d41_s6",
+ "company": "SMRTLV",
+ "lang": "en",
+ "hook": "Here's how we build your system",
+ "lines": [
+  "I'm Dmitry, and our team builds these setups.",
+  "We connect your phone, website, CRM and reporting.",
+  "Then we customize and test it for your business.",
+  "Comment DEMO and try the live demo."
+ ],
+ "say": [
+  "I'm Dmitry, and our team builds these setups.",
+  "We connect your phone, website, CRM and reporting.",
+  "Then we customize and test it for your business.",
+  "Comment DEMO and try the live demo."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_5742408.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_8480282.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_38902001.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_31946407.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_5473802.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "developer working on laptop office",
+  "team testing software screens",
+  "las vegas small office"
+ ],
+ "paid": true,
+ "end": "Comment DEMO below",
+ "caption": "Founder Dmitry on how we build and test each setup. Start with one piece or connect it all. Comment DEMO to try the live demo. #smallbusiness #crm #aireceptionist #lasvegas\n\n👉 reels.tepexa.com/w/6795989d9c51a3224d41",
+ "series": "Connected systems",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "why": "Connected systems series using the owner-first story formula (Jobber owner story, 72,805 views). Goal: build trust in the team behind the setup.",
+ "qa": {
+  "score": 55,
+  "problems": [
+   "Frames at 5.9s and 7.6s show a night Eiffel Tower/Las Vegas-style cityscape that has nothing to do with CRM, reporting or testing",
+   "Opening hook shows generic typing stock footage with no AI receptionist, website or CRM visuals",
+   "Frames 0.8s and 2.5s are near-identical laptop typing shots with the same hook caption repeated",
+   "Picture does not match voice: 'phone, website' shows a task board and 'CRM and reporting' shows a city skyline",
+   "Laptop screens at 9.3s and 11.0s are unreadable white pages and near-identical, so there is no real demo shown"
+  ],
+  "fix": "Replace the cityscape and repeated typing clips with real SMRTLV visuals such as an AI call being answered, the website demo, a CRM dashboard and a reporting chart synced to the voice, and end with a bold DEMO comment CTA over a product screenshot."
+ },
+ "date": "2026-11-17 11:41 ET"
+}

@@ -1,0 +1,85 @@
+{
+ "id": "7d2b6bd31f6108ed06bb",
+ "company": "Anatoliy Basov Realty",
+ "lang": "en",
+ "hook": "Moving to Southwest Florida? Start here.",
+ "lines": [
+  "Buying a home in Florida feels confusing and risky.",
+  "I help people buy and sell homes here.",
+  "I explain Bonita Springs, Naples and Fort Myers simply.",
+  "Send me a message and ask your first question."
+ ],
+ "say": [
+  "Buying a home in Florida feels confusing and risky.",
+  "I help people buy and sell homes here.",
+  "I explain Bonita Springs, Naples and Fort Myers simply.",
+  "Send me a message and ask your first question."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_39576503.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_37343543.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_31663307.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_7817154.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_7646756.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "clients/7d2b6bd31f6108ed06bb/photo_3.jpg",
+   "dur": 3,
+   "zoom": 1.08,
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "Florida home tour pool lanai",
+  "Naples Florida neighborhood aerial",
+  "realtor meeting couple house keys"
+ ],
+ "llm_usd": 0.0247,
+ "hookscore": 72.8,
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "Серия №1 «Знакомьтесь: Анатолий»: механика ролика про Даллас (8,9 млн просмотров) — прямое обращение к переезжающим в конкретный регион и приглашение написать. Цель — представить Анатолия как понятного эксперта по Юго-Западной Флориде и получить первые сообщения в DM.",
+ "qa": {
+  "score": 50,
+  "problems": [
+   "Frames 3 and 4 (3.9s and 5.5s) are near-identical aerial shots of a neighborhood that looks Australian (red tile roofs, not Florida), so the visual repeats and doesn't match the location",
+   "Frames 1 and 2 show a different building and aerial that don't clearly read as Southwest Florida; the hook is generic stock",
+   "Subtitle in frame 5 (7.1s) sits over the face of the woman, and the key-handoff stock footage is unrelated to Fort Myers",
+   "Final frame is a Tepexa agency branding card with no phone, link or realtor contact; the real CTA 'Send me a message' appears on generic stock handshake footage",
+   "Frame 7 (10.2s) subtitle 'question.' covers the vintage poster's text and phone graphic; the poster is the only personal, on-brand shot but is shown too briefly"
+  ],
+  "fix": "Replace the duplicate non-Florida aerials and generic stock with real Southwest Florida footage (Bonita Springs, Naples, Fort Myers, palm-lined homes) and Anatoliy himself, keep captions off faces, and end on an Anatoliy Basov / Epique Realty card with contact details instead of the Tepexa agency sc"
+ },
+ "cost": {
+  "usd": 0.142,
+  "calls": 12,
+  "by": {
+   "script": 0.0247,
+   "donor_clip": 0.0765,
+   "fit_filter": 0.0125,
+   "frame_check": 0.0095,
+   "judge": 0.0183
+  }
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "id": "5347ab92bdba713bdb58_s7_v2",
+ "company": "Roman Group ArtVitrage",
+ "lang": "ru",
+ "hook": "Этот балкон был пустым и пыльным",
+ "lines": [
+  "Ветер, пыль и солнце теперь остаются за стеклом без рам.",
+  "Хотите так же — напишите СТЕКЛО в WhatsApp."
+ ],
+ "say": [
+  "Ветер, пыль и солнце теперь остаются за стеклом без рам.",
+  "Хотите так же — напишите СТЕКЛО в вотсап."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1z7DhCSU8SVrEDccQNvexIUmr_j8ORiLH.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1kHH--3zR7f5b3kLu8fKGNcSxc71UhxDe.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1wfHbmwhl1Pxg1cP9Ey4TvW7xyLEd4E8L_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1alunLNvKuoEKuaw7l8QKS80N2mCJwnK7.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1WetnGsQxNH3qG4ygIixoWAsclRAB0Znf.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1COLFyge_HShIrv3GlNEx7thJEqcarJjP.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1NOdhAw3zFCTBy-4ydbMvgpKAMiMasXPI.jpg",
+   "dur": 3,
+   "zoom": 1.08,
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "frameless glass balcony enclosure sunlight",
+  "open apartment balcony windy dusty day",
+  "glazed veranda calm evening light"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Открытый балкон: пыль, ветер и жара. Тот же балкон с безрамным остеклением: свет и тишина. Напишите СТЕКЛО в WhatsApp. #остеклениебалкона #безрамноеостекление #балкон #израиль\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Балкон до и после",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "why": "Серия «Балкон до и после», формула преображения «пустой балкон — уютное место» донора с 7,7 млн просмотров и ваш ролик «балкон + пергола» с 47 тыс. Цель — охват и заявки на замер балкона.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "qa": {
+  "score": 58,
+  "problems": [
+   "Frames at 7.1-8.4s show abstract pink/yellow smear and blurry glass close-ups with no clear balcony or glazing context, they look like a decorative glass panel or an unrelated product",
+   "Frames at 7.1-8.4s are near-identical soft-focus pictures, which feels static and out of focus",
+   "Frame at 8.4s with a dangling chain is unclear and off-topic, with no obvious glass work",
+   "Hook says the balcony was empty and dusty, but the first frames show an already glazed folded-glass balcony, so there is no before/after contrast",
+   "Subtitles at 4.5-5.8s are cut mid-phrase, and the end frame at 9.7s is a plain dark card with small CTA text"
+  ],
+  "fix": "Replace the abstract close-ups with clear shots of the glass sliding open and closed on the balcony, show the dusty before state in the first second, and end on a glazed balcony with a big WhatsApp CTA over it."
+ },
+ "date": "2026-11-21 09:47 UTC"
+}

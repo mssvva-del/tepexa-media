@@ -1,0 +1,84 @@
+{
+ "id": "5347ab92bdba713bdb58_s12",
+ "company": "ArtVitrage",
+ "lang": "ru",
+ "hook": "Пара метров стекла — и новая комната",
+ "lines": [
+  "Такой балкон можно получить и в Израиле.",
+  "Напишите СТЕКЛО в WhatsApp."
+ ],
+ "say": [
+  "Такой балкон можно получить и в Израиле.",
+  "Напишите стекло в вотсап."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1WetnGsQxNH3qG4ygIixoWAsclRAB0Znf.jpg",
+   "dur": 1.6,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1LJ3iId-tTUL88x7oynHVHFFgWGIiTYeA.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/158YH1jf-1_HBqsCUAiEbY_NHMXEXumTa.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1HEIl0MkGusWMW88ZOfdj7lW2uzxe122h.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1z7DhCSU8SVrEDccQNvexIUmr_j8ORiLH.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1ApF7hN275c6ObA0fSASgTk6ZrFavYOMz.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1Fo0O6BK9ZeNf8Ai0Ld51m7yg6JvdqsLL.jpg",
+   "dur": 3,
+   "zoom": 1.08,
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "frameless glass balcony sunset view",
+  "glazed veranda with plants",
+  "pergola terrace glass panels"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Даже маленький балкон может стать уютным уголком круглый год. Делаем безрамное остекление и перголы по всей стране. Напишите СТЕКЛО в WhatsApp. #остеклениебалкона #безрамноеостекление #пергола #израиль\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Балкон + пергола",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "why": "Серия «Балкон + пергола»: механика «пара метров как отдельный мир» из донора с 6,2 млн просмотров и ваш лучший ролик балкон+пергола (47 359). Цель — охват и заявки на остекление.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "qa": {
+  "score": 58,
+  "problems": [
+   "Frames 5, 6 and 7 (5.8–8.4s) are almost identical static shots of the same balcony facade, so the video feels frozen",
+   "Frame 4 (4.5s) repeats the same facade, adding to the long static stretch",
+   "The first frame is a wide facade with a small text card, so it is weak at stopping the thumb",
+   "The hook text is repeated on three frames in a row (1.9s, 3.2s) and sits over the building and the person's body area",
+   "Subtitles 'Израиле.' and 'Напишите СТЕКЛО в' overlap the man's hand and torso, and the 'Напишите СТЕКЛО в' frame lacks the 'WhatsApp' continuation"
+  ],
+  "fix": "Replace the repeated facade frames with varied close-ups of glass panels sliding, an interior view from the finished glazed balcony, and a before/after, and put the subtitles away from the man's body with a stronger CTA end card."
+ },
+ "date": "2026-11-22 09:11 UTC"
+}

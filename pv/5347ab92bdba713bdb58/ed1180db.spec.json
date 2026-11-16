@@ -1,0 +1,87 @@
+{
+ "id": "5347ab92bdba713bdb58_s8_v2",
+ "company": "Roman Group ArtVitrage",
+ "lang": "ru",
+ "hook": "Маленький балкон? Это ещё одна комната",
+ "lines": [
+  "Без рамы стекло почти не видно, а комната появляется.",
+  "Напишите СТЕКЛО в WhatsApp и обсудим ваш балкон."
+ ],
+ "say": [
+  "Без рамы стекло почти не видно, а комната появляется.",
+  "Напишите СТЕКЛО в вотсап и обсудим ваш балкон."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1kHH--3zR7f5b3kLu8fKGNcSxc71UhxDe.jpg",
+   "dur": 1.6,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "stock/pexels_6808079.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_6808082.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1alunLNvKuoEKuaw7l8QKS80N2mCJwnK7.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1WetnGsQxNH3qG4ygIixoWAsclRAB0Znf.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1COLFyge_HShIrv3GlNEx7thJEqcarJjP.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1FC8zndNATBF_ZZxBvRO8c1KExYtYA0U4.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "stock/pexels_7496181.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "frameless glass balcony enclosure apartment",
+  "small glazed balcony sunny morning",
+  "sliding glass panels balcony open close"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Маленький балкон можно превратить в ещё одну комнату. Безрамное остекление защищает от ветра, пыли и дождя, а света остаётся много. Напишите СТЕКЛО в WhatsApp. #остеклениебалкона #безрамноеостекление #балкон #израиль\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Балкон до и после",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "why": "Серия «Балкон до и после», формула преображения балкона «было обычно — стало уютно» (11,5 млн просмотров) и ваш ролик «балкон + пергола» (47 тыс.). Цель — охват владельцев небольших балконов и заявки на замер.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "qa": {
+  "score": 58,
+  "problems": [
+   "Frames 2 and 3 (1.9s and 3.2s) are near-identical: the same woman in a pink robe on a balcony, so the video feels static",
+   "The woman with a cup is generic lifestyle footage; the glass is barely visible and is not the subject",
+   "In frame 2 the caption 'комната' sits over the woman's body and the shot shows a railing and an open balcony, not glazing, so it contradicts the voice about a room appearing",
+   "In frame 4 (4.5s) the person is cropped from behind and the shot is dim with an overexposed window, so the glass is not clearly shown",
+   "Frames 6 and 7 (7.1s and 8.4s) are near-identical: the same building facade with a distant balcony, with no close-up of the glazing"
+  ],
+  "fix": "Replace the repeated woman-in-robe and facade shots with varied close-ups of Roman Group's own frameless glazing, such as sliding glass panels being opened and a before/after of an open balcony becoming a glazed room, and keep the captions off the people and the foliage."
+ },
+ "date": "2026-11-21 09:17 UTC"
+}

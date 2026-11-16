@@ -1,0 +1,85 @@
+{
+ "id": "c2ae81d1e90ca2405331_s10",
+ "company": "BeaverCraft",
+ "lang": "en",
+ "hook": "Wood shavings this satisfying should be illegal.",
+ "lines": [
+  "Your evening could sound exactly like this.",
+  "Comment CARVE and pick your first tool."
+ ],
+ "say": [
+  "Your evening could sound exactly like this.",
+  "Comment carve and pick your first tool."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_5972923.mp4",
+   "ss": 1,
+   "dur": 1.6
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/donor_tt7611632013275057430.mp4",
+   "ss": 0,
+   "dur": 2.95,
+   "donor": {
+    "id": "tt7611632013275057430",
+    "media": "https://v16m.tiktokcdn-us.com/12760a618ff9662d38ec22c6bcc8b823/6afb2f33/video/tos/useast2a/tos-useast2a-ve-68c810-euttp/oMlFimF0wlxIAIXy0CEukNiiCUChyPf8ArQcBB/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=1509&ft=aEKfuqT0mgdPD12G~dLI3wU0SS3qjeF~O5&mime_type=video_mp4&rc=OGg7OTg0ZGdmOzc3ZTdmO0BpM2V3PGs5cmx5OTMzbzczNUAzLTRiYWJgXjMxLjA1YzYyYSNiNi9nMmRzMmRhLS1kMTFzcw%3D%3D&vvpl=1&l=20261116102824123821985A2E0B027603&btag=e000b0000",
+    "start": 6.5,
+    "dur": 3.0
+   }
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/donor_bc16961838.mp4",
+   "ss": 0,
+   "dur": 3.45,
+   "donor": {
+    "id": "bc16961838",
+    "media": "https://raw.githubusercontent.com/mssvva-del/tepexa-media/main/pv/c2ae81d1e90ca2405331/own/own_7442051711616961838.mp4",
+    "start": 10.0,
+    "dur": 3.5
+   },
+   "free": "top"
+  },
+  {
+   "src": "stock/pexels_5973236.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_6790429.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_6810028.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "drawknife shaving wood workshop",
+  "wood shavings curling close up",
+  "hands carving wood workshop light"
+ ],
+ "paid": true,
+ "end": "Comment CARVE for details",
+ "caption": "Put down the phone, pick up the tool. Comment CARVE and we'll help you choose. #asmrwood #woodcarving #bushcraft #handtools\n\n👉 reels.tepexa.com/w/c2ae81d1e90ca2405331",
+ "series": "Carver problems",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "why": "Серія «Carver problems», тригер ASMR-стружки з відео про скобель на 39,6 млн переглядів. Мета: широке охоплення й переведення в заявки за словом CARVE.",
+ "rules": "Show BeaverCraft products (kits, knives, finished figures) in the first seconds. Wood carving only — no other crafts (no straw, weaving, painting), no stone or marble sculpture, no clay. Prefer BeaverCraft's own carving footage (hands carving wood, kits being opened, finished figures) over stock; no random stock people who are not carving wood. No text over faces.",
+ "qa": {
+  "score": 58,
+  "problems": [
+   "Frames 2-4 show a guy in a workshop spraying shavings with a rasp on a plank, not clearly BeaverCraft products or hand carving, and it looks like generic woodworking",
+   "Frames 3 and 4 are near-identical, so the middle drags",
+   "Hook text and subtitle boxes stack and the hook caption covers the hands and part of the tool in the first frame",
+   "First second shows a tool and blurry hands, not a clear BeaverCraft knife, kit or finished figure",
+   "Final two frames are identical static end cards with the same text for about 3 seconds"
+  ],
+  "fix": "Open with the finished gnome figure and a BeaverCraft knife cutting wood, replace the workshop rasp clips with close-up hand carving footage, and shorten the end card to one frame with the CARVE call to action."
+ },
+ "date": "2026-11-18 09:49 UTC"
+}

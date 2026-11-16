@@ -1,0 +1,70 @@
+{
+ "id": "c2ae81d1e90ca2405331_s12",
+ "company": "BeaverCraft",
+ "lang": "en",
+ "hook": "Gift ideas for curious hands?",
+ "lines": [
+  "Our holiday kits are made for complete carving beginners.",
+  "Each box has a basswood blank, sharp knife and lesson.",
+  "Open it together with family and carve the same evening.",
+  "Comment CARVE and we'll share this week's Black Friday kits."
+ ],
+ "say": [
+  "Our holiday kits are made for complete carving beginners.",
+  "Each box has a basswood blank, sharp knife and lesson.",
+  "Open it together with family and carve the same evening.",
+  "Comment carve and we'll share this week's Black Friday kits."
+ ],
+ "shots": [
+  {
+   "src": "clients/c2ae81d1e90ca2405331/prod_56.jpg",
+   "dur": 1.6,
+   "zoom": 1.06,
+   "own": true
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/prod_55.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/prod_54.jpg",
+   "dur": 2.2,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/prod_65.jpg",
+   "dur": 3,
+   "fit": "pad",
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "family opening carving kit together",
+  "parent and teen whittling wood",
+  "carved christmas ornaments on tree"
+ ],
+ "paid": true,
+ "end": "Comment CARVE for details",
+ "caption": "Holiday carving kits with everything inside, ready to share. Comment CARVE for Black Friday details. #blackfriday #giftideas #woodcarving #christmasdiy\n\n👉 reels.tepexa.com/w/c2ae81d1e90ca2405331",
+ "series": "Black Friday: перший набір",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "why": "Серія «Black Friday: перший набір», формула «один набір у кадрі» з відео наборів на 1,5 млн переглядів. Мета: заявки покупців подарунків, умови акції — після підтвердження клієнта.",
+ "rules": "Show BeaverCraft products (kits, knives, finished figures) in the first seconds. Wood carving only — no other crafts (no straw, weaving, painting), no stone or marble sculpture, no clay. Prefer BeaverCraft's own carving footage (hands carving wood, kits being opened, finished figures) over stock; no random stock people who are not carving wood. No text over faces.",
+ "qa": {
+  "score": 58,
+  "problems": [
+   "Frames at 9.8s and 11.6s are near-identical to the 0.9s hook frame, so the video feels static and repetitive",
+   "Frames at 6.3s and 8.0s are the same kit box shot, repeated with only a slight change",
+   "No hands carving or kit being opened by a family, so the 'open it together and carve the same evening' line is shown only by static still-life",
+   "Basswood blank, knife and lesson are not clearly shown inside the box; the 'each box has' line is only loosely matched",
+   "Hook text box sits close to the figures and the first frame shows no kit, only loose figures and knives"
+  ],
+  "fix": "Replace the repeated static stills with real footage of hands opening the kit, showing the basswood blank, knife and lesson, then carving, and end on a bold Black Friday kit shot with a large CARVE CTA."
+ },
+ "date": "2026-11-19 09:13 UTC"
+}

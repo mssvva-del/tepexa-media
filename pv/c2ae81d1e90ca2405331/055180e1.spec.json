@@ -1,0 +1,96 @@
+{
+ "id": "c2ae81d1e90ca2405331_s8",
+ "company": "BeaverCraft",
+ "lang": "en",
+ "hook": "Five basic cuts. Millions already watched.",
+ "lines": [
+  "Every carving you love starts with these cuts.",
+  "Comment CARVE and we'll help you start."
+ ],
+ "say": [
+  "Every carving you love starts with these cuts.",
+  "Comment carve and we'll help you start."
+ ],
+ "shots": [
+  {
+   "src": "clients/c2ae81d1e90ca2405331/donor_bc16961838.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "bc16961838",
+    "media": "https://raw.githubusercontent.com/mssvva-del/tepexa-media/main/pv/c2ae81d1e90ca2405331/own/own_7442051711616961838.mp4",
+    "start": 10.0,
+    "dur": 3.0
+   },
+   "free": "top"
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/donor_bc01720590.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "bc01720590",
+    "media": "https://raw.githubusercontent.com/mssvva-del/tepexa-media/main/pv/c2ae81d1e90ca2405331/own/own_7706602516401720590.mp4",
+    "start": 28.0,
+    "dur": 2.0
+   }
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/donor_bc10306318.mp4",
+   "ss": 0,
+   "dur": 3.95,
+   "donor": {
+    "id": "bc10306318",
+    "media": "https://raw.githubusercontent.com/mssvva-del/tepexa-media/main/pv/c2ae81d1e90ca2405331/own/own_7707343674610306318.mp4",
+    "start": 10.0,
+    "dur": 4.0
+   },
+   "free": "top"
+  },
+  {
+   "src": "stock/pexels_10473225.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_6719638.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_37864617.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_5972909.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_6789598.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "hands whittling basswood close up",
+  "carving knife stop cut wood",
+  "beginner carving wood at table"
+ ],
+ "paid": true,
+ "end": "Comment CARVE for details",
+ "caption": "Basic cuts first, beautiful figures later. Comment CARVE and we'll point you to the right kit. #whittling101 #woodcarving #beginnercarving #basswood\n\n👉 reels.tepexa.com/w/c2ae81d1e90ca2405331",
+ "series": "Start here",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "why": "Серія «Start here», формула «a few basic cuts» — власне відео BeaverCraft із 2,2 млн переглядів. Мета: охоплення новачків і перші заявки за словом CARVE.",
+ "rules": "Show BeaverCraft products (kits, knives, finished figures) in the first seconds. Wood carving only — no other crafts (no straw, weaving, painting), no stone or marble sculpture, no clay. Prefer BeaverCraft's own carving footage (hands carving wood, kits being opened, finished figures) over stock; no random stock people who are not carving wood. No text over faces.",
+ "qa": {
+  "score": null,
+  "problems": [],
+  "fix": ""
+ },
+ "date": "2026-11-17 09:11 UTC"
+}

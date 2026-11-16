@@ -1,0 +1,92 @@
+{
+ "id": "5347ab92bdba713bdb58_s11_v2",
+ "company": "Roman Group ArtVitrage",
+ "lang": "ru",
+ "hook": "Пергола и стекло — одним проектом?",
+ "lines": [
+  "Делаем перголу и безрамное остекление балкона как один проект.",
+  "Приезжаем на место, консультируем и делаем замеры без оплаты.",
+  "Семейная мастерская работает со стеклом с 1975 года.",
+  "Напишите СТЕКЛО в WhatsApp, и мы договоримся о встрече."
+ ],
+ "say": [
+  "Делаем перголу и безрамное остекление балкона как один проект.",
+  "Приезжаем на место, консультируем и делаем замеры без оплаты.",
+  "Семейная мастерская работает со стеклом с тысяча девятьсот семьдесят пятого года.",
+  "Напишите СТЕКЛО в вотсап, и мы договоримся о встрече."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1FC8zndNATBF_ZZxBvRO8c1KExYtYA0U4.jpg",
+   "dur": 1.6,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "stock/pexels_38413585.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_8853467.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1alunLNvKuoEKuaw7l8QKS80N2mCJwnK7.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1WetnGsQxNH3qG4ygIixoWAsclRAB0Znf.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1COLFyge_HShIrv3GlNEx7thJEqcarJjP.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/158YH1jf-1_HBqsCUAiEbY_NHMXEXumTa.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1LJ3iId-tTUL88x7oynHVHFFgWGIiTYeA.jpg",
+   "dur": 3,
+   "zoom": 1.08,
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "frameless glass balcony enclosure sunset",
+  "modern pergola over glazed terrace",
+  "installer measuring balcony opening tape"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Пергола и безрамное остекление балкона одним проектом: приезжаем, консультируем и делаем замеры на месте без оплаты. Напишите СТЕКЛО в WhatsApp. #остеклениебалкона #пергола #безрамноеостекление #балкон #израиль\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Балкон под ключ",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "why": "Серия «Балкон под ключ», формула «балкон как лучшая комната дома»: ролик «балкон + пергола» набрал 47 359 просмотров. Цель — заявки на консультацию и замер на месте.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "qa": {
+  "score": 58,
+  "problems": [
+   "Frames at 5.5s and 7.7s are near-identical (same balcony facade with the same crop), so the video looks static there",
+   "Frames at 9.9s and 12.1s are near-identical (same glazed tower), another repeat",
+   "The first frame shows a plain facade with a tiny balcony, no pergola and no clear glass work, so the hook is weak",
+   "The pergola frame at 3.3s is mostly a wooden slatted structure and a pool terrace, with little glass work visible",
+   "The captions are chopped into fragments (безрамное, консультируем и, договоримся о) and do not match the pictures"
+  ],
+  "fix": "Replace the repeated balcony shots with varied close-ups of frameless glass panels sliding, a pergola with glass, and a measuring visit, open on a strong pergola-plus-glazing shot, and use full-phrase captions."
+ },
+ "date": "2026-11-21 16:43 UTC"
+}

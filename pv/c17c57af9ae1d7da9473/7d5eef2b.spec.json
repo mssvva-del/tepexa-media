@@ -1,0 +1,85 @@
+{
+ "id": "c17c57af9ae1d7da9473",
+ "company": "Vela",
+ "lang": "ru",
+ "hook": "Что происходит на первом приёме?",
+ "lines": [
+  "Вы годами откладываете визит к проктологу из-за стеснения?",
+  "У нас приём ведут только женщины, от администратора до врача.",
+  "Врач объясняет каждый шаг и заранее называет план лечения.",
+  "Напишите нам в вотсап, администратор подберёт удобное время."
+ ],
+ "say": [
+  "Вы годами откладываете визит к проктологу из-за стеснения?",
+  "У нас приём ведут только женщины, от администратора до врача.",
+  "Врач объясняет каждый шаг и заранее называет план лечения.",
+  "Напишите нам в вотсап, администратор подберёт удобное время."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_7579840.mp4",
+   "ss": 1,
+   "dur": 1.6
+  },
+  {
+   "src": "stock/pexels_7579338.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_7579837.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_6010952.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_6763344.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_8375492.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "female doctor consultation clinic",
+  "woman talking to doctor calm",
+  "modern clinic reception woman"
+ ],
+ "llm_usd": 0.0274,
+ "hookscore": 70.5,
+ "disc": "Есть противопоказания, нужна консультация специалиста.",
+ "end_text": [
+  "Ещё 6 роликов",
+  "на этой неделе"
+ ],
+ "why": "Серия 1 «Первый приём»: хук-вопрос о скрытом процессе по механике ролика «This Happens Inside Your Body…» (25 млн просмотров) и формата «стыдная ситуация в лоб» TushyDoc (110 тыс. лайков). Цель — снять страх перед визитом и привести к сообщению в WhatsApp.",
+ "qa": {
+  "score": 55,
+  "problems": [
+   "Subtitles in frames 1 and 2 are placed over the doctor and patient's faces/torsos, and the hook text is duplicated in two consecutive frames",
+   "Frames 6 and 7 are near-identical (same doctor at the desk), so the video feels static",
+   "The end card has a weak call to action: no WhatsApp, phone or address, only 'Ещё 6 роликов за неделю', and the brand name 'Тереха' is wrong or irrelevant",
+   "Generic stock clinic footage with no proctology cues, and frame 4 shows a patient lying on a couch with no connection to the women-only reception",
+   "The subtitle 'вотсап,' on a doctor frame does not match the voice, and the small disclaimer text is unreadable"
+  ],
+  "fix": "Replace the men-at-reception and bed frames with women-only staff shots (female administrator, doctor explaining), cut the duplicate frames, move captions off faces, and end with a clear Vela card showing the WhatsApp number and 'Запишитесь в WhatsApp'."
+ },
+ "cost": {
+  "usd": 0.128,
+  "calls": 12,
+  "by": {
+   "script": 0.0274,
+   "donor_clip": 0.0641,
+   "fit_filter": 0.0084,
+   "frame_check": 0.0088,
+   "judge": 0.0188
+  }
+ }
+}

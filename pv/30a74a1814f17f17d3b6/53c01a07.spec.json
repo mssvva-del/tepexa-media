@@ -1,0 +1,81 @@
+{
+ "id": "30a74a1814f17f17d3b6",
+ "company": "GEDA",
+ "lang": "ru",
+ "hook": "Вот лестница целиком. Подойдём ближе?",
+ "lines": [
+  "Боитесь, что готовая лестница не впишется в дом?",
+  "Мы делаем деревянные лестницы на заказ под ваш дом.",
+  "Ступени, перила, балясины и соединения делаем сами, целиком.",
+  "Напишите нам и обсудим лестницу для вашего дома."
+ ],
+ "say": [
+  "Боитесь, что готовая лестница не впишется в дом?",
+  "Мы делаем деревянные лестницы на заказ под ваш дом.",
+  "Ступени, перила, балясины и соединения делаем сами, целиком.",
+  "Напишите нам и обсудим лестницу для вашего дома."
+ ],
+ "shots": [
+  {
+   "src": "clients/30a74a1814f17f17d3b6/photo_0.jpg",
+   "dur": 1.6,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "stock/pexels_35701084.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_39590040.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "stock/pexels_38413576.mp4",
+   "ss": 1,
+   "dur": 1.9
+  },
+  {
+   "src": "clients/30a74a1814f17f17d3b6/photo_2.jpg",
+   "dur": 3,
+   "zoom": 1.08,
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "client own staircase photos only",
+  "wooden staircase overview own photos",
+  "wooden stair details own photos"
+ ],
+ "llm_usd": 0.0254,
+ "hookscore": 64.5,
+ "end_text": [
+  "Ещё 6 роликов",
+  "на этой неделе"
+ ],
+ "why": "Серия 1 «Лестница целиком — и вблизи»: формат «сначала итог целиком, потом детали», как у ролика lestnisa.uz с готовой лестницей (около 1,8 млн просмотров). Цель — показать владельцам домов и дизайнерам качество ступеней, перил и соединений на ваших фото 001–004, без чужих кадров и стока, и побудить написать вам.",
+ "rules": "GEDA: only the client's own materials. 4 photos 001–004 show ONE finished staircase (dark steps, white elements, brick walls); the video K0057_Mikhail.mp4 is a DIFFERENT object without railing. Never present the photo staircase and the video as the same staircase: separate them clearly (e.g. a caption «другой объект»). No foreign footage, no stock, no AI presenter, no change of geometry. Overview first, then smooth movement to details: steps, joints, railing, wood texture.",
+ "qa": {
+  "score": 28,
+  "problems": [
+   "Frame 2 (2.8s) shows a woman in a black dress on a wrought-iron spiral staircase — foreign footage/stock, not the client's wooden staircase, and the caption «Мы делаем» claims it as GEDA's work",
+   "Frame 3 (4.6s) is an abstract blurry close-up of red-brown steps, a different object with no context, caption «лестницы на заказ» does not match the picture",
+   "Frame 4 (6.5s) shows a different object (stone wall, rope railing, glass floor), mixing objects without a «другой объект» label",
+   "Frames 5, 6, 7 (8.3, 10.2, 12.1s) are near-identical static shots of the same staircase, so the video feels dead with no smooth move to details",
+   "Hook text repeated in frames 1 and 2, and it sits over the staircase and the model's area; the repeat wastes time"
+  ],
+  "fix": "Use only the client's photos 001–004: show the whole staircase first, then smoothly zoom in on steps, joints, railing and wood texture with different crops; remove the woman, spiral and foreign objects (or label the video as «другой объект»), write complete captions that match the voice, and end wit"
+ },
+ "cost": {
+  "usd": 0.072,
+  "calls": 7,
+  "by": {
+   "script": 0.0254,
+   "fit_filter": 0.0164,
+   "frame_check": 0.0095,
+   "judge": 0.0206
+  }
+ }
+}

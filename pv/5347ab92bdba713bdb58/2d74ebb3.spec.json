@@ -1,0 +1,88 @@
+{
+ "id": "5347ab92bdba713bdb58_s7_v3",
+ "company": "Roman Group ArtVitrage",
+ "lang": "ru",
+ "hook": "3 беды балкона: решили одним стеклом",
+ "lines": [
+  "Пыль, ветер и жара: так выглядел этот открытый балкон.",
+  "Мы с сыном поставили безрамное остекление, без единой рамы.",
+  "Теперь здесь много света, а пыль и ветер снаружи.",
+  "Хотите так же? Напишите СТЕКЛО в WhatsApp."
+ ],
+ "say": [
+  "Пыль, ветер и жара: так выглядел этот открытый балкон.",
+  "Мы с сыном поставили безрамное остекление, без единой рамы.",
+  "Теперь здесь много света, а пыль и ветер снаружи.",
+  "Хотите так же? Напишите СТЕКЛО в вотсап."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/158YH1jf-1_HBqsCUAiEbY_NHMXEXumTa.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1HEIl0MkGusWMW88ZOfdj7lW2uzxe122h.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1alunLNvKuoEKuaw7l8QKS80N2mCJwnK7.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1WetnGsQxNH3qG4ygIixoWAsclRAB0Znf.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1COLFyge_HShIrv3GlNEx7thJEqcarJjP.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1FC8zndNATBF_ZZxBvRO8c1KExYtYA0U4.jpg",
+   "dur": 2.4,
+   "zoom": 1.08,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/gal_2.jpg",
+   "dur": 3,
+   "zoom": 1.06,
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "frameless glass balcony enclosure apartment",
+  "glazed veranda with pergola sunny day",
+  "sliding glass panels balcony sea view"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Три беды открытого балкона: пыль, ветер и жара. Показываем тот же балкон до и после нашего безрамного остекления. Напишите СТЕКЛО в WhatsApp. #остеклениебалкона #безрамноеостекление #балкон #израиль\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Балкон до и после",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "why": "Серия «Балкон до и после»: формула преображения с конкретной болью и числом, на которой ваш ролик «балкон + пергола» набрал 47 359 просмотров; в кадре только реальные застеклённые балконы, веранды и перголы. Цель — охват и заявки на замер балкона.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "qa": {
+  "score": 58,
+  "problems": [
+   "Frames 1-3 (0.9s, 2.8s, 4.6s) are near-identical static shots of the same balcony, so the opening feels slow and the thumb is not stopped",
+   "Frames 5-7 (8.3s, 10.1s, 12.0s) repeat the same building facade, so the video feels static",
+   "No before/after: the voice says 'open balcony, dust, wind, heat' but the picture only shows already glazed balconies",
+   "The glass is far away and small in the facade shots, with no close-up of frameless panels, sliding or the finished work",
+   "The 6.5s frame is a distant street shot with trees covering the balcony, so glass is barely visible"
+  ],
+  "fix": "Open with a dynamic before shot of an open balcony in dust or wind, then show close-ups of frameless glass panels being installed and sliding, then a bright finished balcony; use different angles instead of repeated facade shots, large full-sentence subtitles, and a CTA over a glass shot."
+ },
+ "date": "2026-11-21 16:43 UTC"
+}

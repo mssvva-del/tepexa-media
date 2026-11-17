@@ -1,0 +1,89 @@
+{
+ "id": "6795989d9c51a3224d41_s5",
+ "company": "SMRTLV",
+ "lang": "en",
+ "hook": "Your phone rings while you work",
+ "lines": [
+  "When you are on site, picking up calls is impossible.",
+  "Our AI receptionist answers immediately and captures every lead.",
+  "Our team configures and tests the entire workflow seamlessly.",
+  "Comment DEMO to try the live demo at smrtlv.io."
+ ],
+ "say": [
+  "When you are on site, picking up calls is impossible.",
+  "Our A I receptionist answers immediately and captures every lead.",
+  "Our team configures and tests the entire workflow seamlessly.",
+  "Comment DEMO to try the live demo at smart L V dot i o."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_6474269.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "contractor on phone at construction site"
+  },
+  {
+   "src": "stock/pexels_35168473.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "engineers reviewing construction site blueprints"
+  },
+  {
+   "src": "stock/pexels_8482293.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "real estate agent on phone outside"
+  },
+  {
+   "src": "stock/pexels_7706605.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "call center agents with headsets"
+  },
+  {
+   "src": "stock/pexels_8347693.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "businessmen working in office meeting"
+  },
+  {
+   "src": "clients/6795989d9c51a3224d41/prod_0.jpg",
+   "dur": 3,
+   "zoom": 1.06,
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "contractor answering phone on site",
+  "busy trade worker phone call",
+  "modern office crm dashboard"
+ ],
+ "paid": true,
+ "end": "Comment DEMO to test it",
+ "caption": "Never miss another customer while working on a job. See how our AI receptionist handles bookings and updates your CRM automatically. Comment DEMO to try the live demo. #aireceptionist #smallbusiness #contractor #crm #smrtlv\n\n👉 reels.tepexa.com/w/6795989d9c51a3224d41",
+ "series": "Live demo",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "own_voice": false,
+ "why": "From the Live Demo series, using the proof-first formula inspired by Dom Ricci's live demos (1,102 likes) to show trades and home services how calls get booked automatically.",
+ "hookscore": 60.5,
+ "qa": {
+  "score": 67,
+  "parts": {
+   "hook": 14,
+   "relevance": 10,
+   "alive": 12,
+   "text": 12,
+   "match": 10,
+   "cta": 8
+  },
+  "problems": [
+   "Stock footage overload with generic call center agents and corporate meetings instead of showing the actual AI receptionist interface or realistic customer workflow",
+   "The static top hook sticker stays on screen too long into the video",
+   "Text overlays and captions are word-by-word at the bottom, partially obstructed and unengaging"
+  ],
+  "fix": "Replace the generic stock clips of human call center operators and office executives with real screen recordings or animations of the AI receptionist answering calls, transcribing messages, and booking appointments."
+ },
+ "date": "2026-11-19 11:49 ET"
+}

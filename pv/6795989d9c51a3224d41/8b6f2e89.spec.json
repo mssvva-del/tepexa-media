@@ -1,0 +1,95 @@
+{
+ "id": "6795989d9c51a3224d41_s6",
+ "company": "SMRTLV",
+ "lang": "en",
+ "hook": "Can customers easily buy on mobile?",
+ "lines": [
+  "We audit and build smooth mobile flows for customers.",
+  "From browsing products to checkout, every tap is tested.",
+  "We connect your store and automated follow-ups seamlessly.",
+  "Comment DEMO to try the live demo at smrtlv.io."
+ ],
+ "say": [
+  "We audit and build smooth mobile flows for customers.",
+  "From browsing products to checkout, every tap is tested.",
+  "We connect your store and automated follow-ups seamlessly.",
+  "Comment DEMO to try the live demo at smart L V dot i o."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_6898100.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "shopping online using phone and card"
+  },
+  {
+   "src": "stock/pexels_7223989.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "browsing on smartphone screen"
+  },
+  {
+   "src": "stock/pexels_6353327.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "man holding phone outdoors"
+  },
+  {
+   "src": "stock/pexels_7568746.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "tapping mobile shopping website screen"
+  },
+  {
+   "src": "stock/pexels_6898096.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "person holding credit card and smartphone"
+  },
+  {
+   "src": "stock/pexels_10374885.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "person texting on phone desk"
+  },
+  {
+   "src": "stock/pexels_6764574.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "woman standing in flower shop"
+  }
+ ],
+ "stock_queries": [
+  "person shopping online mobile phone",
+  "e-commerce checkout on smartphone screen",
+  "retail boutique storefront florist"
+ ],
+ "paid": true,
+ "end": "Comment DEMO to test it",
+ "caption": "A great looking website means nothing if buying on a phone feels clunky. See how connected mobile commerce works. Comment DEMO to try the live demo. #ecommerce #shopify #smallbizowner #systems #smrtlv\n\n👉 reels.tepexa.com/w/6795989d9c51a3224d41",
+ "series": "Floral Lab on mobile",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "own_voice": false,
+ "why": "From the Floral Lab series, leveraging the real story formula (72,805 views on Jobber) to show owners the real friction-free customer checkout experience.",
+ "hookscore": 63.0,
+ "qa": {
+  "score": 69,
+  "parts": {
+   "hook": 14,
+   "relevance": 10,
+   "alive": 14,
+   "text": 12,
+   "match": 12,
+   "cta": 8
+  },
+  "problems": [
+   "Stock footage used throughout feels generic and detached from the actual service",
+   "Flower shop footage at the end does not match the mobile flow or tech narrative",
+   "AI voiceover sounds synthetic"
+  ],
+  "fix": "Replace generic mobile browsing clips with real screen recordings of your actual mobile UI audits and automated follow-up integrations."
+ },
+ "date": "2026-11-20 11:17 ET"
+}

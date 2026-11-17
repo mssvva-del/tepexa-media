@@ -1,0 +1,88 @@
+{
+ "id": "d7915be40b8c01d7604f",
+ "company": "Lenari Massage",
+ "lang": "en",
+ "hook": "Why light pressure won't fix tension",
+ "lines": [
+  "Do your neck and shoulders feel tight every day?",
+  "Our deep tissue therapy releases stubborn tension and knots.",
+  "We use focused techniques to restore your natural mobility.",
+  "Message us on WhatsApp to book your relaxing session."
+ ],
+ "say": [
+  "Do your neck and shoulders feel tight every day?",
+  "Our deep tissue therapy releases stubborn tension and knots.",
+  "We use focused techniques to restore your natural mobility.",
+  "Message us on Whats App to book your relaxing session."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_8313486.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_6629914.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_15013640.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_6628322.mp4",
+   "ss": 1,
+   "dur": 1.6
+  },
+  {
+   "src": "stock/pexels_4608535.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "deep tissue massage shoulders",
+  "masseuse hands back massage oil",
+  "upper back neck massage spa"
+ ],
+ "llm_usd": 0.0153,
+ "hookscore": 64.5,
+ "disc": "Wellness massage service, not medical advice.",
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "Ролик открывает серию «Anatomy of Tension» через механику ASMR-демонстрации глубокого массажа (референс донора с 26 млн просмотров). Цель — привлечь офисных работников с хроническим напряжением в шее и перевести их в WhatsApp для записи.",
+ "qa": {
+  "score": 75,
+  "parts": {
+   "hook": 14,
+   "relevance": 14,
+   "alive": 14,
+   "text": 12,
+   "match": 14,
+   "cta": 7
+  },
+  "problems": [
+   "Stock footage compilation featuring different therapists and settings instead of real authentic footage from Lenari Massage",
+   "First shot is repeated later in the video (0:00 and 0:07)",
+   "Hook text does not fully align with the voiceover question about tight neck and shoulders",
+   "Outro slide at the end dilutes the direct call to action"
+  ],
+  "fix": "Replace generic stock clips with original footage of the Lenari Massage specialist working on neck and shoulder tension, avoiding duplicated shots."
+ },
+ "cost": {
+  "usd": 0.023,
+  "calls": 8,
+  "by": {
+   "viral": 0.009,
+   "script": 0.0029,
+   "fit_filter": 0.0029,
+   "frame_check": 0.0024,
+   "edit_pass": 0.0021,
+   "once": 0.0039
+  }
+ }
+}

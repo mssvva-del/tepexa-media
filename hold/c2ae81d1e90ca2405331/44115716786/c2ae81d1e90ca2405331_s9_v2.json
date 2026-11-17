@@ -1,0 +1,108 @@
+{
+ "id": "c2ae81d1e90ca2405331_s9_v2",
+ "company": "BeaverCraft",
+ "lang": "en",
+ "hook": "Trade screen time for wood carving",
+ "lines": [
+  "Trade mindless screen time for quiet wood carving projects.",
+  "Comment CARVE and find your starter kit."
+ ],
+ "say": [
+  "Trade mindless screen time for quiet wood carving projects.",
+  "Comment CARVE and find your starter kit."
+ ],
+ "shots": [
+  {
+   "src": "clients/c2ae81d1e90ca2405331/donor_bc16961838_0.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "bc16961838",
+    "media": "https://raw.githubusercontent.com/mssvva-del/tepexa-media/main/pv/c2ae81d1e90ca2405331/own/own_7442051711616961838.mp4",
+    "start": 9.5,
+    "dur": 2.2
+   },
+   "free": "top",
+   "shows": "carving details on wooden gnome figure"
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/donor_bc16961838_2.mp4",
+   "ss": 0,
+   "dur": 3,
+   "donor": {
+    "id": "bc16961838",
+    "media": "https://raw.githubusercontent.com/mssvva-del/tepexa-media/main/pv/c2ae81d1e90ca2405331/own/own_7442051711616961838.mp4",
+    "start": 51.5,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "demonstrating wood carving cuts technique"
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/donor_bc16589098_1.mp4",
+   "ss": 0,
+   "dur": 2.15,
+   "donor": {
+    "id": "bc16589098",
+    "media": "https://raw.githubusercontent.com/mssvva-del/tepexa-media/main/pv/c2ae81d1e90ca2405331/own/own_7405237892416589098.mp4",
+    "start": 29.5,
+    "dur": 2.2
+   },
+   "free": "top",
+   "shows": "hands shaping wood with carving tool"
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/donor_bc16961838_1.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "bc16961838",
+    "media": "https://raw.githubusercontent.com/mssvva-del/tepexa-media/main/pv/c2ae81d1e90ca2405331/own/own_7442051711616961838.mp4",
+    "start": 34.0,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "whittling wood block with carving knife"
+  },
+  {
+   "src": "stock/pexels_6719638.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "carving tools on wooden workbench"
+  }
+ ],
+ "stock_queries": [
+  "hands wood carving knife basswood close up",
+  "whittling wood shavings falling hands safety tape",
+  "crafting wooden figure finish oil woodworker hands"
+ ],
+ "paid": true,
+ "end": "Comment CARVE for Black Friday",
+ "caption": "Trade screen scrolling for quiet hands-on carving. Everything you need to begin is in one box. Comment CARVE for our Black Friday kits! #carverproblems #woodcarving #whittling #diycrafts\n\n👉 reels.tepexa.com/w/c2ae81d1e90ca2405331",
+ "series": "Carver problems",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "own_voice": false,
+ "why": "Переробка за коментарем клієнта: серія «Carver problems», використовуємо власні вірусні кадри різьби BeaverCraft (донор 0 з 2,2 млн переглядів). Мета: залучити аудиторію, яка шукає спокійне хобі без екранів, і отримати ліди за словом CARVE.",
+ "rules": "Show BeaverCraft products (kits, knives, finished figures) in the first seconds. Wood carving only — no other crafts (no straw, weaving, painting), no stone or marble sculpture, no clay. Prefer BeaverCraft's own carving footage (hands carving wood, kits being opened, finished figures) over stock; no random stock people who are not carving wood. No text over faces.",
+ "hookscore": 58.2,
+ "qa": {
+  "score": 87,
+  "parts": {
+   "hook": 17,
+   "relevance": 18,
+   "alive": 16,
+   "text": 13,
+   "match": 14,
+   "cta": 9
+  },
+  "problems": [
+   "Voiceover cuts off abruptly at 00:04 with disjointed audio ('Comment carve and in no time... plus find your starter kit')",
+   "Double layer of captions cluttering the screen at 00:00-00:03",
+   "Pacing and shot repetition: returns to the exact same rough carving block angle at 00:06"
+  ],
+  "fix": "Re-record and cleanly edit the voiceover line to avoid audio overlap and sentence splicing, and remove the duplicated text sticker so only the main captions appear."
+ },
+ "date": "2026-11-20 09:19 UTC"
+}

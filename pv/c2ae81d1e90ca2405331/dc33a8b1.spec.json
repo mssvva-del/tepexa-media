@@ -1,0 +1,54 @@
+{
+ "company": "BeaverCraft",
+ "lang": "en",
+ "engine": "fish",
+ "paid": true,
+ "id": "c2ae81d1e90ca2405331_bc6",
+ "series": "Сезонні проєкти",
+ "kind": "work",
+ "hook": "Handmade ornaments hit different",
+ "lines": [
+  "Handmade ornaments hit different.",
+  "Start with one flat piece of basswood.",
+  "Carve the pattern with a gouge.",
+  "Find the ornament kit at beavercrafttools.com."
+ ],
+ "say": [
+  "Handmade ornaments hit different.",
+  "Start with one flat piece of basswood.",
+  "Carve the pattern with a gouge.",
+  "Find the ornament kit at beaver craft tools dot com."
+ ],
+ "shots": [
+  {
+   "src": "/Users/sergmols/Projects/tepexa-media/pv/c2ae81d1e90ca2405331/own/own_7707343674610306318.mp4",
+   "dur": 2.4,
+   "ss": 10.4
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-media/pv/c2ae81d1e90ca2405331/own/own_7707343674610306318.mp4",
+   "dur": 2.4,
+   "ss": 12.8
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-media/pv/c2ae81d1e90ca2405331/own/own_7707343674610306318.mp4",
+   "dur": 1.6,
+   "ss": 15.2
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-media/pv/c2ae81d1e90ca2405331/own/own_7707343674610306318.mp4",
+   "dur": 2.6,
+   "ss": 17.0
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/preview/clients/c2ae81d1e90ca2405331/orn_0.jpg",
+   "dur": 2.0,
+   "fit": "pad"
+  }
+ ],
+ "end": "Start carving at beavercrafttools.com",
+ "caption": "Handmade ornaments hit different. Start carving at beavercrafttools.com #christmasdiy #woodcarving #handmade #ornaments",
+ "date": "2026-11-10 09:53 UTC",
+ "why": "Series «Seasonal projects»: flat leaf-pattern carving from your own TikTok footage plus one photo of the ornament kit from the site.",
+ "gemini_voice": "Charon"
+}

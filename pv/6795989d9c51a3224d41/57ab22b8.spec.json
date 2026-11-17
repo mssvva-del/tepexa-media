@@ -1,0 +1,83 @@
+{
+ "id": "6795989d9c51a3224d41_s7",
+ "company": "SMRTLV",
+ "lang": "en",
+ "hook": "See your setup price upfront",
+ "lines": [
+  "Review data workflows built for your daily operations.",
+  "Calculate setups on digital dashboards with transparent pricing.",
+  "Our white-glove team handles complete configuration and testing.",
+  "Comment DEMO to try the live demo at smrtlv.io."
+ ],
+ "say": [
+  "Review data workflows built for your daily operations.",
+  "Calculate setups on digital dashboards with transparent pricing.",
+  "Our white glove team handles complete configuration and testing.",
+  "Comment DEMO to try the live demo at Smart L V dot io."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_9116968.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "person working on laptop keyboard"
+  },
+  {
+   "src": "stock/pexels_12894347.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "hands typing on laptop keyboard"
+  },
+  {
+   "src": "stock/pexels_40305641.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "close up typing on keyboard"
+  },
+  {
+   "src": "stock/pexels_7448471.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "project management software screen"
+  },
+  {
+   "src": "stock/pexels_38899338.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "tablet screen showing project timeline"
+  }
+ ],
+ "stock_queries": [
+  "business owner using laptop software",
+  "crm workflow dashboard interface",
+  "professional consultant reviewing automation"
+ ],
+ "paid": true,
+ "end": "Comment DEMO to get started",
+ "caption": "Compare configurations and see upfront setup and monthly costs directly on our site. Our team adapts every integration to your business. Comment DEMO to try the live demo at smrtlv.io. #crm #smallbiztech #automation #systems #smrtlv\n\n👉 reels.tepexa.com/w/6795989d9c51a3224d41",
+ "series": "Pricing and setup",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "own_voice": false,
+ "why": "Belongs to the Pricing and setup pilot series, using the 'problem-first / upfront proof' hook formula proven by top B2B tech creators to capture skeptical owners who want transparent pricing before booking a call.",
+ "hookscore": 60.5,
+ "qa": {
+  "score": 62,
+  "parts": {
+   "hook": 12,
+   "relevance": 9,
+   "alive": 12,
+   "text": 12,
+   "match": 9,
+   "cta": 8
+  },
+  "problems": [
+   "Repetitive, generic b-roll of generic hands typing on laptops across multiple cuts (0:00-0:06, 0:08-0:11)",
+   "Fails to show actual product UI, AI receptionist tools, or the pricing calculator mentioned in the voiceover",
+   "Pacing feels repetitive and visually dull due to multiple similar typing clips"
+  ],
+  "fix": "Replace the stock typing hands with direct screencasts of the actual SMRTLV live demo, interactive pricing calculator, and CRM dashboard interface."
+ },
+ "date": "2026-11-21 11:11 ET"
+}

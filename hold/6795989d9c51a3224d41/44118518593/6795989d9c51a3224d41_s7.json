@@ -1,0 +1,95 @@
+{
+ "id": "6795989d9c51a3224d41_s7",
+ "company": "SMRTLV",
+ "lang": "en",
+ "hook": "See your setup price upfront",
+ "lines": [
+  "SMRTLV calculates clear setup costs for your business workflow.",
+  "Our online calculator shows exact one-time setup and monthly costs.",
+  "Our white-glove team customizes and thoroughly tests everything.",
+  "Comment DEMO to try the live demo at smrtlv.io."
+ ],
+ "say": [
+  "Smart L V calculates clear setup costs for your business workflow.",
+  "Our online calculator shows exact one-time setup and monthly costs.",
+  "Our white-glove team customizes and thoroughly tests everything.",
+  "Comment DEMO to try the live demo at smart L V dot i o."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_6781912.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "reviewing accounting papers with calculator"
+  },
+  {
+   "src": "stock/pexels_7688135.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "hands using calculator near laptop"
+  },
+  {
+   "src": "stock/pexels_32259627.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "hand writing on tablet checklist"
+  },
+  {
+   "src": "stock/pexels_19532053.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "programmer working in the dark"
+  },
+  {
+   "src": "stock/pexels_8902271.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "woman working at laptop"
+  },
+  {
+   "src": "stock/pexels_6325839.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "woman working on office computer"
+  },
+  {
+   "src": "clients/6795989d9c51a3224d41/prod_0.jpg",
+   "dur": 3,
+   "zoom": 1.06,
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "business person checking laptop screen",
+  "calculator financial planning screen",
+  "modern business owner at desk"
+ ],
+ "paid": true,
+ "end": "Comment DEMO to test it",
+ "caption": "No hidden fees or vague quotes. Compare configurations and check real setup and monthly costs directly with our online calculator. Comment DEMO to try the live demo. #businessautomation #crmsystems #aireceptionist #pricing #smrtlv\n\n👉 reels.tepexa.com/w/6795989d9c51a3224d41",
+ "series": "Pricing and setup",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "own_voice": false,
+ "why": "From the Pricing and Setup series, fulfilling the offer requirement with transparent pricing exploration inspired by Dom Ricci's clear software breakdowns.",
+ "hookscore": 60.5,
+ "qa": {
+  "score": 62,
+  "parts": {
+   "hook": 11,
+   "relevance": 8,
+   "alive": 13,
+   "text": 12,
+   "match": 9,
+   "cta": 8
+  },
+  "problems": [
+   "Generic stock footage of calculators and offices instead of actual SMRTLV website UI or calculator screen recording",
+   "The hook visually is just paper and a calculator app, lacking punch or clear product identity",
+   "Voiceover is synthetic AI speech"
+  ],
+  "fix": "Show actual screen recordings of the online pricing calculator and AI demo interface in action instead of generic stock office clips."
+ },
+ "date": "2026-11-21 11:07 ET"
+}

@@ -1,0 +1,54 @@
+{
+ "company": "BeaverCraft",
+ "lang": "en",
+ "engine": "fish",
+ "paid": true,
+ "id": "c2ae81d1e90ca2405331_bc7",
+ "series": "Start here",
+ "kind": "work",
+ "hook": "Twenty quiet minutes, one block of wood",
+ "lines": [
+  "Twenty quiet minutes.",
+  "One block of wood, one knife.",
+  "Slow cuts, calm hands.",
+  "Find your set at beavercrafttools.com."
+ ],
+ "say": [
+  "Twenty quiet minutes.",
+  "One block of wood, one knife.",
+  "Slow cuts, calm hands.",
+  "Find your set at beaver craft tools dot com."
+ ],
+ "shots": [
+  {
+   "src": "/Users/sergmols/Projects/tepexa-media/pv/c2ae81d1e90ca2405331/own/own_7442051711616961838.mp4",
+   "dur": 2.4,
+   "ss": 4.2
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-media/pv/c2ae81d1e90ca2405331/own/own_7442051711616961838.mp4",
+   "dur": 2.4,
+   "ss": 7.0
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-media/pv/c2ae81d1e90ca2405331/own/own_7442051711616961838.mp4",
+   "dur": 0.9,
+   "ss": 10.0
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-media/pv/c2ae81d1e90ca2405331/own/own_7442051711616961838.mp4",
+   "dur": 2.4,
+   "ss": 14.0
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-media/pv/c2ae81d1e90ca2405331/own/own_7442051711616961838.mp4",
+   "dur": 1.56,
+   "ss": 20.0
+  }
+ ],
+ "end": "Find your set at beavercrafttools.com",
+ "caption": "Twenty quiet minutes, one piece of wood. Find your set at beavercrafttools.com #bushcraft #whittling #slowliving #woodcarving",
+ "date": "2026-11-11 09:47 UTC",
+ "why": "Series «Start here», calm hobby angle: slow carving from your own TikTok footage, no stock, no text on frames.",
+ "gemini_voice": "Charon"
+}

@@ -1,0 +1,53 @@
+{
+ "id": "7d2b6b_r2",
+ "company": "Anatoliy Basov · Epique",
+ "lang": "en",
+ "engine": "gemini",
+ "own_voice": true,
+ "gemini_voice": "Charon",
+ "hook": "Ask how old the A/C is.",
+ "hook_dur": 2.8,
+ "lines": [
+  "Ask how old the A/C is. Before you buy a home in Florida.",
+  "An A/C lasts 10 to 15 years. A tank water heater, 8 to 12.",
+  "Windows and doors, 15 to 30. Pool equipment, 8 to 15.",
+  "None of it is on the listing. A good realtor checks it before you buy.",
+  "I'm Anatoliy with Epique Realty. Send me a message."
+ ],
+ "say": [
+  "Ask how old the A C is. Before you buy a home in Florida.",
+  "An A C lasts ten to fifteen years. A tank water heater, eight to twelve.",
+  "Windows and doors, fifteen to thirty. Pool equipment, eight to fifteen.",
+  "None of it is on the listing. A good realtor checks it before you buy.",
+  "I'm Anatoliy with Epique Realty. Send me a message."
+ ],
+ "shots": [
+  {
+   "src": "clients/7d2b6bd31f6108ed06bb/a.jpg",
+   "dur": 3.43,
+   "zoom": 1.12
+  },
+  {
+   "src": "clients/7d2b6bd31f6108ed06bb/b.jpg",
+   "dur": 4.7,
+   "zoom": 1.08
+  },
+  {
+   "src": "clients/7d2b6bd31f6108ed06bb/c.jpg",
+   "dur": 4.29,
+   "zoom": 1.08
+  },
+  {
+   "src": "clients/7d2b6bd31f6108ed06bb/d.jpg",
+   "dur": 4.11,
+   "zoom": 1.1
+  },
+  {
+   "src": "clients/7d2b6bd31f6108ed06bb/f.jpg",
+   "dur": 3.8,
+   "zoom": 1.1
+  }
+ ],
+ "why": "Хук с фактом из его собственной шпаргалки про срок службы A/C и техники; его фото и графики как основной материал.",
+ "series": "Переделка №1"
+}

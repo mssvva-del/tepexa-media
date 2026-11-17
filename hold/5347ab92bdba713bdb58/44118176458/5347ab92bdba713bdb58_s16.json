@@ -1,0 +1,98 @@
+{
+ "id": "5347ab92bdba713bdb58_s16",
+ "company": "Roman Group",
+ "lang": "ru",
+ "hook": "Монтаж безрамного остекления изнутри балкона",
+ "lines": [
+  "Мы устанавливаем закаленные стеклянные створки на надежные направляющие.",
+  "Система дарит балкону отличную защиту и панорамный обзор.",
+  "Все конструкции производим точно под размеры вашего балкона.",
+  "Напишите СТЕКЛО в WhatsApp для консультации."
+ ],
+ "say": [
+  "Мы устанавливаем закаленные стеклянные створки на надежные направляющие.",
+  "Система дарит балкону отличную защиту и панорамный обзор.",
+  "Все конструкции производим точно под размеры вашего балкона.",
+  "Напишите СТЕКЛО в вотсап для консультации."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/donor_ot7708503648262737159_0.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "ot7708503648262737159",
+    "media": "https://v45.tiktokcdn-eu.com/a3425dae76f96d6d9f46815bae6b6ee1/6afdca61/video/tos/alisg/tos-alisg-pve-0037c001/o8NhVDIjsgDdAbAvQlvIC140i4FqjeEEiFe7fY/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&&bt=633&ft=I3zigtjAD9EMGRfr9ElbLnG2Yl-KmzN1Gbi-13gp8Z4ka&mime_type=video_mp4&rc=NTY2ODk7Z2g2N2VmZmhoaEBpajVweWs5cmU0ZTMzODczNEAxYTNgLjQzXi8xMWJjYWJeYSM1cS5yMmRzanFhLS1kMWBzcw%3D%3D&vvpl=1&l=2026111715543897B62BA81A8A29DE8E3E&btag=e0008d000",
+    "start": 16.0,
+    "dur": 2.0
+   },
+   "own": true,
+   "shows": "man adjusting frameless balcony glazing"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1NOdhAw3zFCTBy-4ydbMvgpKAMiMasXPI.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "frameless balcony glass panoramic view"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/donor_ot7614233875182570759_0.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "ot7614233875182570759",
+    "media": "https://v16m.tiktokcdn-eu.com/e46bffbd5508e9b330605dbfbfacd500/6afdca2f/video/tos/alisg/tos-alisg-ve-0068c800-sg/o4CIeMZXIfRI4AVC1rEGeDdjHrALQpmAH7NTEO/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&&bt=1269&ft=td_Ls8s6ogVP12NvbFkXzIxRi4BO63_45SY&mime_type=video_mp4&rc=aWZoaWhpZzU6OmZoaDM1N0Bpam9zc245cndtOTMzODczNEBgLS41YDMzX18xLTJgXjUzYSNiZ29jMmRjLmlhLS1kMWBzcw%3D%3D&vvpl=1&l=20261117155334A58DA88BFD95E4D7FCF5&btag=e00088000",
+    "start": 26.0,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "balcony glass glazing under pergola"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1kHH--3zR7f5b3kLu8fKGNcSxc71UhxDe.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "balcony with clear glass panels"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1CkK3WBzjTOaC-T7BwdqUDJrej_AUkndU.jpg",
+   "dur": 3,
+   "own": true,
+   "shows": "glazed balcony looking at landscape"
+  }
+ ],
+ "stock_queries": [
+  "worker installing frameless glass balcony",
+  "sliding glass panels balcony installation",
+  "measuring balcony terrace glass installation"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Показываем процесс монтажа безрамного остекления мастерами нашей мастерской. Напишите СТЕКЛО в WhatsApp. #безрамноеостекление #остеклениебалкона #мастерская #израиль #монтаж\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Установка глазами мастера",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия «Установка глазами мастера». Формат Weglass (10 тыс. просмотров) и собственного топа автора (47 тыс. просмотров) для демонстрации качества монтажа.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "hookscore": 55.5,
+ "qa": {
+  "score": 72,
+  "parts": {
+   "hook": 13,
+   "relevance": 18,
+   "alive": 10,
+   "text": 9,
+   "match": 13,
+   "cta": 9
+  },
+  "problems": [
+   "Overlapping captions and watermarks in 00:00-00:05 (layered title over subtitle over existing sticker)",
+   "Video hangs on a single static wide angle of windows for way too long (00:05-00:13) with no dynamic cuts or action",
+   "Hook text is purely technical description rather than customer pain or benefit"
+  ],
+  "fix": "Cut up the long static shot (00:05-00:13) with close-ups of sliding mechanism or glass folding, and clean up overlapping text layers in the beginning."
+ },
+ "date": "2026-11-23 16:43 UTC"
+}

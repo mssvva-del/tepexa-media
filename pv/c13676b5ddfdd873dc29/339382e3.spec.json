@@ -1,0 +1,74 @@
+{
+ "company": "Natalia Fitness",
+ "lang": "en",
+ "engine": "fish",
+ "fish_voice": "f429c1a684c64a0ea4545e149d2106ba",
+ "paid": true,
+ "id": "c13676b5ddfdd873dc29_s3",
+ "series": "No time, mama",
+ "kind": "work",
+ "hook": "10 minutes. 3 stretches. Kids still asleep.",
+ "lines": [
+  "No time, mama? You don't need an hour.",
+  "Wide fold. One minute, just breathe into it.",
+  "Straddle reach. One minute each side.",
+  "Side split fold. Easy does it, never force it.",
+  "Done. Now go lift."
+ ],
+ "shots": [
+  {
+   "src": "clients/c13676b5ddfdd873dc29/d6.mp4",
+   "ss": 1.0,
+   "dur": 1.3,
+   "line": 0
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/d4.mp4",
+   "ss": 1.0,
+   "dur": 0.9,
+   "line": 0
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/d4.mp4",
+   "ss": 17.0,
+   "dur": 0.55,
+   "line": 0
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/d6.mp4",
+   "ss": 3.0,
+   "dur": 3.3,
+   "line": 1
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/d6.mp4",
+   "ss": 7.0,
+   "dur": 3.12,
+   "line": 2
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/d6.mp4",
+   "ss": 12.0,
+   "dur": 3.8,
+   "line": 3
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/d6.mp4",
+   "ss": 25.0,
+   "dur": 2.35,
+   "line": 4
+  }
+ ],
+ "end": "Save it for tomorrow morning",
+ "caption": "No time? 10 minutes before the kids wake up is enough to move well. Save this for tomorrow morning and follow for part 2 🤍\n\n#mobility #busymom #strengthtraining #personaltrainersingapore #fitmom",
+ "say": [
+  "No time, mama? You don't need an hour.",
+  "Wide fold. One minute, just breathe into it.",
+  "Straddle reach. One minute each side.",
+  "Side split fold. Easy does it, never force it.",
+  "Done. Now go lift."
+ ],
+ "own_voice": true,
+ "date": "2026-11-19 03:23 UTC",
+ "why": "Series No time, mama: 3 moves / 10 minutes for busy mums."
+}

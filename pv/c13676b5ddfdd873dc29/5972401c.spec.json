@@ -1,0 +1,86 @@
+{
+ "company": "Natalia Fitness",
+ "lang": "en",
+ "engine": "fish",
+ "fish_voice": "f429c1a684c64a0ea4545e149d2106ba",
+ "paid": true,
+ "id": "c13676b5ddfdd873dc29_s1",
+ "series": "Fix this",
+ "kind": "work",
+ "hook": "Rushing your reps? Watch this first",
+ "lines": [
+  "Most women rush every single rep.",
+  "Slow down on the way back. That's where the work is.",
+  "Step-ups: push through your whole front foot.",
+  "Dips: take three seconds on the way down.",
+  "Go lighter. More control."
+ ],
+ "shots": [
+  {
+   "src": "clients/c13676b5ddfdd873dc29/d5.mp4",
+   "ss": 24.0,
+   "dur": 1.2,
+   "line": 0
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/d7.mp4",
+   "ss": 2.0,
+   "dur": 1.12,
+   "line": 0
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/d5.mp4",
+   "ss": 14.0,
+   "dur": 2.36,
+   "line": 1
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/d5.mp4",
+   "ss": 24.4,
+   "dur": 0.62,
+   "line": 1
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/d5.mp4",
+   "ss": 7.0,
+   "dur": 2.2,
+   "line": 2
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/d7.mp4",
+   "ss": 1.0,
+   "dur": 1.07,
+   "line": 2
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/d7.mp4",
+   "ss": 5.0,
+   "dur": 2.12,
+   "line": 3
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/d7.mp4",
+   "ss": 15.1,
+   "dur": 0.47,
+   "line": 3
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/d7.mp4",
+   "ss": 11.2,
+   "dur": 2.29,
+   "line": 4
+  }
+ ],
+ "end": "Save this for your next session",
+ "caption": "Rushing your reps? Slow down on the way back, push through the whole foot, drop the ego weight. Save this for your next session and follow for part 2 💪\n\n#strengthtraining #womenwholift #gymtips #personaltrainersingapore #fitmom",
+ "say": [
+  "Most women rush every single rep.",
+  "Slow down on the way back. That's where the work is.",
+  "Step-ups: push through your whole front foot.",
+  "Dips: take three seconds on the way down.",
+  "Go lighter. More control."
+ ],
+ "own_voice": true,
+ "date": "2026-11-18 03:23 UTC",
+ "why": "Series Fix this: a technique mistake and the fix, your own gym footage."
+}

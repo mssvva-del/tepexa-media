@@ -1,0 +1,68 @@
+{
+ "company": "Natalia Fitness",
+ "lang": "en",
+ "engine": "fish",
+ "fish_voice": "f429c1a684c64a0ea4545e149d2106ba",
+ "paid": true,
+ "id": "c13676b5ddfdd873dc29_s2",
+ "series": "Be honest",
+ "kind": "work",
+ "hook": "Be honest: how long is your “quick” rest?",
+ "lines": [
+  "Set one: full focus.",
+  "Set two: just one quick message.",
+  "Set three: finding the perfect song.",
+  "Twelve minutes later… still resting.",
+  "Tag the friend who does this."
+ ],
+ "shots": [
+  {
+   "src": "clients/c13676b5ddfdd873dc29/d7.mp4",
+   "ss": 5.0,
+   "dur": 2.2,
+   "line": 0
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/d7.mp4",
+   "ss": 15.1,
+   "dur": 0.28,
+   "line": 0
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/d7.mp4",
+   "ss": 11.1,
+   "dur": 2.52,
+   "line": 1
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/d7.mp4",
+   "ss": 11.5,
+   "dur": 2.3,
+   "line": 2
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/d7.mp4",
+   "ss": 1.0,
+   "dur": 2.47,
+   "line": 3
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/d7.mp4",
+   "ss": 8.0,
+   "dur": 1.85,
+   "line": 4
+  }
+ ],
+ "end": "Follow for more gym truth",
+ "caption": "Be honest… how long is YOUR “quick” rest between sets? 😂 Tag the friend who needs to see this.\n\n#gymhumor #gymlife #womenwholift #personaltrainersingapore #fitmom",
+ "say": [
+  "Set one: full focus.",
+  "Set two: just one quick message.",
+  "Set three: finding the perfect song.",
+  "Twelve minutes later… still resting.",
+  "Tag the friend who does this."
+ ],
+ "own_voice": true,
+ "date": "2026-11-18 10:41 UTC",
+ "why": "Series Be honest: relatable gym humour, your top-performing style on Instagram."
+}

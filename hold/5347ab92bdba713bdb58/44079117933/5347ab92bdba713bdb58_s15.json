@@ -1,0 +1,88 @@
+{
+ "id": "5347ab92bdba713bdb58_s15",
+ "company": "Roman Group",
+ "lang": "ru",
+ "hook": "Балкон мечты без капли пыли",
+ "lines": [
+  "Так выглядит терраса, защищенная надежным безрамным остеклением от ветра.",
+  "Напишите СТЕКЛО в WhatsApp, приедем на замер."
+ ],
+ "say": [
+  "Так выглядит терраса, защищенная надежным безрамным остеклением от ветра.",
+  "Напишите СТЕКЛО в вотсап, приедем на замер."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1ApF7hN275c6ObA0fSASgTk6ZrFavYOMz.jpg",
+   "dur": 1.6,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1CkK3WBzjTOaC-T7BwdqUDJrej_AUkndU.jpg",
+   "dur": 1.5,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1yEFzOjDY2OKkzZk73VoF19c_z4zWQ2MR.jpg",
+   "dur": 1.5,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1Ec-7f3pxNCY8nIRMX8JLZtaPeMi1L-4E.jpg",
+   "dur": 1.5,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1dlF5oNch9oHq1ZFRD6LG9eJOwzGuceYg.jpg",
+   "dur": 1.5,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1_mMvMk68sEAwwj8YL1D5CioNaR32pGTL.jpg",
+   "dur": 1.5,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1w7pax0forflTGiTqtHTSSNEJOglbiQ2K.jpg",
+   "dur": 1.5,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/donor_ot7614233875182570759_0.mp4",
+   "ss": 0,
+   "dur": 3,
+   "donor": {
+    "id": "ot7614233875182570759",
+    "media": "https://v45.tiktokcdn-eu.com/4f5ea306b809ac6c1e93889c8948feaa/6afd94b5/video/tos/alisg/tos-alisg-ve-0068c800-sg/o4CIeMZXIfRI4AVC1rEGeDdjHrALQpmAH7NTEO/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&&bt=1269&ft=td_Lr8QLodzR12NvYgcXzIxRFBn.xq_45SY&mime_type=video_mp4&rc=aWZoaWhpZzU6OmZoaDM1N0Bpam9zc245cndtOTMzODczNEBgLS41YDMzX18xLTJgXjUzYSNiZ29jMmRjLmlhLS1kMWBzcw%3D%3D&vvpl=1&l=20261117120524204AC4FB8B095876589B&btag=e0008d000",
+    "start": 25.0,
+    "dur": 2.2
+   },
+   "free": "top"
+  }
+ ],
+ "stock_queries": [
+  "modern frameless glass balcony",
+  "sliding glass terrace sliding door",
+  "luxury apartment balcony sea view"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Превращаем открытую террасу в любимую комнату дома. Защита от израильского ветра и пыли. Напишите СТЕКЛО в WhatsApp. #остеклениебалкона #безрамноеостекление #балкон #пергола #израиль\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Балкон + пергола",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия Балкон + пергола. Вирусный донор с 11 млн просмотров о преображении неиспользуемого пространства балкона для привлечения охватов.\nЧасть кадров — из вирусного ролика вашей ниши (240.0 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "qa": {
+  "score": 68,
+  "problems": [
+   "Frames 4.5 through 8.4 are nearly identical static angles of the same empty balcony with minimal movement",
+   "Pacing drops severely after frame 2 with slow, repetitive panning across the same glass panes",
+   "Final end screen at 9.7 is a plain solid graphic card rather than showcasing finished glass projects behind the CTA"
+  ],
+  "fix": "Replace the static repeating views of the balcony with dynamic clips showing the glass sliding open/shut smoothly and put the final WhatsApp CTA over real video footage of a finished glazed terrace."
+ },
+ "date": "2026-11-23 09:11 UTC"
+}

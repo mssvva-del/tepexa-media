@@ -1,0 +1,121 @@
+{
+ "id": "7f8f4e54681ef831c306",
+ "company": "Kolbassnik.com",
+ "lang": "ru",
+ "hook": "Секрет идеальной сочной домашней колбасы",
+ "lines": [
+  "Мечтаете готовить такую сочную колбасу своими руками дома?",
+  "Соберите правильный стартовый набор специй и прочной оболочки.",
+  "Мы доставляем проверенные ингредиенты по всему Израилю напрямую.",
+  "Напишите в наш удобный чат для быстрого заказа."
+ ],
+ "say": [
+  "Мечтаете готовить такую сочную колбасу своими руками дома?",
+  "Соберите правильный стартовый набор специй и прочной оболочки.",
+  "Мы доставляем проверенные ингредиенты по всему Израилю напрямую.",
+  "Напишите в наш удобный вотсап для быстрого заказа."
+ ],
+ "shots": [
+  {
+   "src": "clients/7f8f4e54681ef831c306/donor_tt7541467201488850206_0.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "tt7541467201488850206",
+    "media": "https://v16m.tiktokcdn-us.com/fb714eb74c3c0e1dc4087ca64a57785d/6afcd42e/video/tos/useast8/tos-useast8-pve-0068-tx2/o8lgqaJEviwKiAMilBB6sRAFIQVCoWrAEoxdI/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=1404&ft=gKfIn8buoTfR12NvbLkXzIxRQ6PhZQ_45SY&mime_type=video_mp4&rc=NWVpO2lmNjhkOGhkNjU2ZEBpM3c1NXQ5cjhkNTMzaTczNEAzNi5eNi02NTAxMC8uNmE1YSNsaDJkMmRrbGhhLS1kMTJzcw%3D%3D&vvpl=1&l=202611171624292EA02129713DB4002A70&btag=e000b8000",
+    "start": 10.5,
+    "dur": 2.2
+   },
+   "free": "bottom",
+   "shows": "man biting cheesy smoked sausage"
+  },
+  {
+   "src": "clients/7f8f4e54681ef831c306/donor_12IREeFIbmw_1.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "12IREeFIbmw",
+    "media": "",
+    "start": 16.0,
+    "dur": 2.0
+   },
+   "free": "bottom",
+   "shows": "stuffing handmade sausage casing"
+  },
+  {
+   "src": "clients/7f8f4e54681ef831c306/prod_75.jpg",
+   "dur": 1.5,
+   "zoom": 1.06,
+   "own": true,
+   "shows": "sausage casings and spice packages"
+  },
+  {
+   "src": "stock/pexels_10277806.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "clients/7f8f4e54681ef831c306/prod_25.jpg",
+   "dur": 1.5,
+   "fit": "pad",
+   "own": true,
+   "shows": "collagen sausage casings isolated"
+  },
+  {
+   "src": "stock/pexels_5615169.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "clients/7f8f4e54681ef831c306/prod_51.jpg",
+   "dur": 3,
+   "fit": "pad",
+   "own": true,
+   "shows": "jars of sausage seasoning"
+  }
+ ],
+ "stock_queries": [
+  "stuffing homemade sausage stuffer artisan",
+  "spices seasoning jars rustic kitchen cooking",
+  "curing meat butcher twine natural casing"
+ ],
+ "llm_usd": 0.0288,
+ "hookscore": 72.0,
+ "engine": "fish",
+ "fish_voice": "c962ed46edfd419abc530d1e33a7435f",
+ "end_text": [
+  "Ещё 6 рилс",
+  "на этой неделе"
+ ],
+ "why": "Серия №1 «С чего начать новичку». Используем формулу пошагового входа в крафтовый процесс (как в ролике-доноре №8 с 83 млн просмотров), чтобы снять страх первой попытки и направить новичка за набором в WhatsApp.\nЧасть кадров — из вирусного ролика вашей ниши (83.0 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "rules": "Только домашние колбасы и деликатесы, сделанные своими руками, сырое мясо, оболочки, специи, нитритная соль, процесс набивки и копчения. НИКОГДА не показывать розовую варёную колбасу (докторская, болонья, мортаделла) и промышленные колбасы из магазина.",
+ "qa": {
+  "score": 78,
+  "parts": {
+   "hook": 16,
+   "relevance": 16,
+   "alive": 11,
+   "text": 13,
+   "match": 14,
+   "cta": 8
+  },
+  "problems": [
+   "На 00:06-00:08 и 00:09-00:14 показаны полностью статичные картинки/фото товаров на размытом фоне вместо живого видео",
+   "Качество стартового хука низкое (пиксели, пересвет) на первых секундах"
+  ],
+  "fix": "Замените статичные фото упаковок и оболочек на динамичные кадры распаковки, отмеривания специй или подготовки оболочки в руках."
+ },
+ "cost": {
+  "usd": 0.039,
+  "calls": 17,
+  "by": {
+   "script": 0.0054,
+   "donor_clips": 0.014,
+   "clean_windows": 0.0058,
+   "fit_filter": 0.0028,
+   "frame_check": 0.0039,
+   "edit_pass": 0.0026,
+   "once": 0.0044
+  }
+ }
+}

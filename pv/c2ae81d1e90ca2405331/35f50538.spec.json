@@ -1,0 +1,54 @@
+{
+ "company": "BeaverCraft",
+ "lang": "en",
+ "engine": "fish",
+ "paid": true,
+ "id": "c2ae81d1e90ca2405331_bc9",
+ "series": "Carver problems",
+ "kind": "work",
+ "hook": "Hear a leaf get carved",
+ "lines": [
+  "Put down the phone.",
+  "Hear every cut of the gouge.",
+  "One leaf, one blade, one cut at a time.",
+  "Comment CARVE and we will help you choose."
+ ],
+ "say": [
+  "Put down the phone.",
+  "Hear every cut of the gouge.",
+  "One leaf, one blade, one cut at a time.",
+  "Comment CARVE and we will help you choose."
+ ],
+ "shots": [
+  {
+   "src": "/Users/sergmols/Projects/tepexa-media/pv/c2ae81d1e90ca2405331/own/own_7707343674610306318.mp4",
+   "dur": 2.3,
+   "ss": 3.2
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-media/pv/c2ae81d1e90ca2405331/own/own_7707343674610306318.mp4",
+   "dur": 2.3,
+   "ss": 5.6
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-media/pv/c2ae81d1e90ca2405331/own/own_7707343674610306318.mp4",
+   "dur": 2.3,
+   "ss": 8.0
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-media/pv/c2ae81d1e90ca2405331/own/own_7707343674610306318.mp4",
+   "dur": 2.3,
+   "ss": 10.4
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-media/pv/c2ae81d1e90ca2405331/own/own_7707343674610306318.mp4",
+   "dur": 0.65,
+   "ss": 12.8
+  }
+ ],
+ "end": "Comment CARVE for details",
+ "caption": "Put down the phone, pick up the tool. Comment CARVE and we'll help you choose. #asmrwood #woodcarving #bushcraft #handtools",
+ "date": "2026-11-18 09:49 UTC",
+ "why": "Series «Carver problems»: ASMR of a gouge on a maple leaf, your own TikTok footage (no on-screen text, no stock).",
+ "gemini_voice": "Charon"
+}

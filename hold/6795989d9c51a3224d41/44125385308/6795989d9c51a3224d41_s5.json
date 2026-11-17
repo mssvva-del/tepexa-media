@@ -1,0 +1,89 @@
+{
+ "id": "6795989d9c51a3224d41_s5",
+ "company": "SMRTLV",
+ "lang": "en",
+ "hook": "Stop losing your business leads",
+ "lines": [
+  "We handle incoming calls and connect leads into your system.",
+  "Our team configures and tests every workflow for your business.",
+  "Track your growth with clear reporting right on your screen.",
+  "Comment DEMO to try the live demo at smrtlv.io."
+ ],
+ "say": [
+  "We handle incoming calls and connect leads into your system.",
+  "Our team configures and tests every workflow for your business.",
+  "Track your growth with clear reporting right on your screen.",
+  "Comment DEMO to try the live demo at Smart L V dot i o."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_12896413.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "developer coding on laptop screen"
+  },
+  {
+   "src": "stock/pexels_10374885.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Hands scrolling on mobile smartphone"
+  },
+  {
+   "src": "stock/pexels_6927284.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Businesswoman holding phone in office"
+  },
+  {
+   "src": "stock/pexels_7652163.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Man working on laptop computer"
+  },
+  {
+   "src": "stock/pexels_12893579.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Colleagues reviewing code on laptop"
+  },
+  {
+   "src": "stock/pexels_38992894.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "pointing at digital bar chart graph"
+  }
+ ],
+ "stock_queries": [
+  "business owner checking smartphone in modern office",
+  "software engineer configuring automated workflow on computer",
+  "customer service dashboard with incoming leads data"
+ ],
+ "paid": true,
+ "end": "Comment DEMO to see how",
+ "caption": "Your website, phone, and CRM should speak the same language. We build and connect the full system for you. Comment DEMO to try our live demo. #businessautomation #crm #smallbiz #workflow #systems\n\n👉 reels.tepexa.com/w/6795989d9c51a3224d41",
+ "series": "Connected systems workflow",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "own_voice": false,
+ "why": "Belongs to the Connected Systems series, using the 'problem in the first line' hook formula identified in the strategy. It highlights the full integration service and drives inquiries through the online demo CTA.",
+ "hookscore": 66.8,
+ "qa": {
+  "score": 63,
+  "parts": {
+   "hook": 12,
+   "relevance": 9,
+   "alive": 12,
+   "text": 12,
+   "match": 10,
+   "cta": 8
+  },
+  "problems": [
+   "Generic stock footage of programmers/office workers scrolling social media instead of actual AI receptionist/CRM software",
+   "Repeated footage used multiple times (laptop coding scene and phone scrolling scene both repeat)",
+   "Mismatched voiceover and visuals showing coding lines rather than CRM dashboards or incoming call workflows"
+  ],
+  "fix": "Replace generic stock coding and phone-scrolling clips with real UI screen recordings of the AI receptionist dashboard, incoming call logs, and CRM lead workflows."
+ },
+ "date": "2026-11-19 11:49 ET"
+}

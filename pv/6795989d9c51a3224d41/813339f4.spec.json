@@ -1,0 +1,76 @@
+{
+ "id": "6795989d9c51a3224d41_s5",
+ "company": "SMRTLV",
+ "lang": "en",
+ "hook": "Biggest breakthrough for your missed calls",
+ "lines": [
+  "Every missed call is instantly captured and booked.",
+  "Comment DEMO to see our setup and pricing."
+ ],
+ "say": [
+  "Every missed call is instantly captured and booked.",
+  "Comment DEMO to see our setup and pricing."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_6927284.mp4",
+   "ss": 1,
+   "dur": 1.6
+  },
+  {
+   "src": "stock/pexels_34664964.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_10374885.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_7392953.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_38992894.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_5647324.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_8682314.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "modern technology abstract server",
+  "business owner checking smartphone",
+  "customer service dashboard typing"
+ ],
+ "paid": true,
+ "end": "Comment DEMO to test it",
+ "caption": "Stop losing revenue to unanswered phones. Comment DEMO to see our setup and test the calculator. #smallbiz #callhandling #businessowner #automation\n\n👉 reels.tepexa.com/w/6795989d9c51a3224d41",
+ "series": "Pricing and setup",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "own_voice": false,
+ "why": "Borrows the viral breakthrough trigger from the 7.4M video to highlight lead capture and direct viewers to the calculator.\nSome shots come from a viral video in your niche (7.4M views) to boost reach; your product and call to action open and close the video.",
+ "qa": {
+  "score": 62,
+  "problems": [
+   "Repetitive nearly identical frames at 5.9s and 7.2s pointing at a generic stock bar chart",
+   "Missing visual demonstration of actual AI phone answering or booking software interface",
+   "Text overlays are small, generic, and awkwardly placed across the bottom",
+   "Second half feels disconnected from missed call handling"
+  ],
+  "fix": "Replace the static duplicate chart and keyboard shots with actual UI recordings of incoming missed calls turning into automated bookings and CRM lead notifications."
+ },
+ "date": "2026-11-18 11:07 ET"
+}

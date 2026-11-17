@@ -1,0 +1,134 @@
+{
+ "id": "5347ab92bdba713bdb58_s16",
+ "company": "Roman Group",
+ "lang": "ru",
+ "hook": "Как ставится безрамное остекление",
+ "lines": [
+  "Монтируем направляющие профили точно по уровню балкона.",
+  "Каждую стеклянную створку подгоняем вручную для плавного хода.",
+  "В итоге балкон защищен от уличной пыли и сильного ветра.",
+  "Напишите СТЕКЛО в WhatsApp."
+ ],
+ "say": [
+  "Монтируем направляющие профили точно по уровню балкона.",
+  "Каждую стеклянную створку подгоняем вручную для плавного хода.",
+  "В итоге балкон защищен от уличной пыли и сильного ветра.",
+  "Напишите СТЕКЛО в вотсап."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1NOdhAw3zFCTBy-4ydbMvgpKAMiMasXPI.jpg",
+   "dur": 1.6,
+   "own": true,
+   "shows": "frameless glass balcony enclosure view"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/donor_ot7614233875182570759_0.mp4",
+   "ss": 0,
+   "dur": 2.15,
+   "donor": {
+    "id": "ot7614233875182570759",
+    "media": "https://v45.tiktokcdn-eu.com/0fd23457a7360f67139229f3166ed274/6afdc16a/video/tos/alisg/tos-alisg-ve-0068c800-sg/o4CIeMZXIfRI4AVC1rEGeDdjHrALQpmAH7NTEO/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&&bt=1269&ft=td_Ls8s6oA-O12NvQL~XzIxR~Qx0~3_45SY&mime_type=video_mp4&rc=aWZoaWhpZzU6OmZoaDM1N0Bpam9zc245cndtOTMzODczNEBgLS41YDMzX18xLTJgXjUzYSNiZ29jMmRjLmlhLS1kMWBzcw%3D%3D&vvpl=1&l=202611171516091A75553F16C025DC3CF6&btag=e0008d000",
+    "start": 13.0,
+    "dur": 2.2
+   },
+   "free": "top",
+   "shows": "balcony frameless glazing pergola view"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/donor_ot7614233875182570759_1.mp4",
+   "ss": 0,
+   "dur": 2.15,
+   "donor": {
+    "id": "ot7614233875182570759",
+    "media": "https://v45.tiktokcdn-eu.com/0fd23457a7360f67139229f3166ed274/6afdc16a/video/tos/alisg/tos-alisg-ve-0068c800-sg/o4CIeMZXIfRI4AVC1rEGeDdjHrALQpmAH7NTEO/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&&bt=1269&ft=td_Ls8s6oA-O12NvQL~XzIxR~Qx0~3_45SY&mime_type=video_mp4&rc=aWZoaWhpZzU6OmZoaDM1N0Bpam9zc245cndtOTMzODczNEBgLS41YDMzX18xLTJgXjUzYSNiZ29jMmRjLmlhLS1kMWBzcw%3D%3D&vvpl=1&l=202611171516091A75553F16C025DC3CF6&btag=e0008d000",
+    "start": 25.5,
+    "dur": 2.2
+   },
+   "free": "top",
+   "shows": "balcony glass enclosure under pergola"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/donor_ot7197699171187510529_1.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "ot7197699171187510529",
+    "media": "https://v45.tiktokcdn-eu.com/4fa76338c5e209637babaf1ed365c5f0/6afdc190/video/tos/alisg/tos-alisg-pve-0037/oIpbQFDOVCBpmEBwk2EIoKBAkQVgr7CfNmf39c/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&&bt=1083&ft=td_Ls8s6oA-O12NvkfkXzIxRF-jyO3_45SY&mime_type=video_mp4&rc=N2U2PGY7Zzk6NGQ7PDQzNkBpand3d3c5cmY8cjMzODgzNEA2YzFjYWNeNi4xNTY2My5iYSNvXzBqMmQ0Mm9gLS1kLy1zcw%3D%3D&vvpl=1&l=2026111715172048D3A50F13EEEC35DBA3&btag=e000bd000",
+    "start": 10.5,
+    "dur": 2.0
+   },
+   "free": "top",
+   "own": true,
+   "shows": "printed glass kitchen backsplash installed"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/donor_ot7400865238737833233_0.mp4",
+   "ss": 0,
+   "dur": 2.15,
+   "donor": {
+    "id": "ot7400865238737833233",
+    "media": "https://v45.tiktokcdn-eu.com/da4eae2dbb49355be5c44e5751d6e9e3/6afdc1bd/video/tos/alisg/tos-alisg-pve-0037c001/ooscEXoI8CpppGB8AHwiVW9xIfJozaiAEQMy1A/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&&bt=1076&ft=td_Ls8s6oA-O12NvkfkXzIxRF-jyO3_45SY&mime_type=video_mp4&rc=NWRpNDw3NjU1ZWQ7aWdkN0Bpam82a2w5cmdsdDMzODczNEA0MjYzNS1iXjUxYDQzNGMuYSNfbDJoMmRjYG5gLS1kMS1zcw%3D%3D&vvpl=1&l=2026111715172048D3A50F13EEEC35DBA3&btag=e00095000",
+    "start": 0.5,
+    "dur": 2.2
+   },
+   "free": "bottom",
+   "own": true,
+   "shows": "balcony glass railing view"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/donor_ot7400865238737833233_1.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "ot7400865238737833233",
+    "media": "https://v45.tiktokcdn-eu.com/da4eae2dbb49355be5c44e5751d6e9e3/6afdc1bd/video/tos/alisg/tos-alisg-pve-0037c001/ooscEXoI8CpppGB8AHwiVW9xIfJozaiAEQMy1A/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&&bt=1076&ft=td_Ls8s6oA-O12NvkfkXzIxRF-jyO3_45SY&mime_type=video_mp4&rc=NWRpNDw3NjU1ZWQ7aWdkN0Bpam82a2w5cmdsdDMzODczNEA0MjYzNS1iXjUxYDQzNGMuYSNfbDJoMmRjYG5gLS1kMS1zcw%3D%3D&vvpl=1&l=2026111715172048D3A50F13EEEC35DBA3&btag=e00095000",
+    "start": 21.0,
+    "dur": 2.0
+   },
+   "free": "top",
+   "own": true,
+   "shows": "man demonstrating frameless balcony glazing"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1CkK3WBzjTOaC-T7BwdqUDJrej_AUkndU.jpg",
+   "dur": 3,
+   "own": true,
+   "shows": "glazed balcony panels overlooking landscape"
+  }
+ ],
+ "stock_queries": [
+  "worker installing frameless glass",
+  "sliding glass terrace installation",
+  "glazier fitting glass panel"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Показываем процесс монтажа безрамного остекления. Чистый обзор и защита балкона круглый год. Напишите СТЕКЛО в WhatsApp. #безрамноеостекление #балкон #работасостеклом #стекломастер #израиль\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Установка глазами мастера",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия Установка глазами мастера. Формат честного процесса застекления от первого лица укрепляет доверие и конвертирует просмотры в заявки на замер.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "hookscore": 60.4,
+ "qa": {
+  "score": 66,
+  "parts": {
+   "hook": 14,
+   "relevance": 12,
+   "alive": 13,
+   "text": 9,
+   "match": 10,
+   "cta": 9
+  },
+  "problems": [
+   "На 00:05-00:07 вставлен совершенно посторонний кадр кухни с газовой плитой и обычным окном, что нарушает правила и тему ролика о балконах",
+   "На видео видны чужие/старые титры и водяные знаки снизу и сверху («Качество, опыт...», «угу видишь», «ОТ ПРОСТО СДВИНЬ...»)",
+   "Голос говорит про монтаж направляющих и подгонку створок, но видео показывает уже готовое остекление балкона или чужую кухню вместо самого процесса монтажа"
+  ],
+  "fix": "Удалите кадр с кухней на 5-7 секундах, очистите видеоряд от посторонних титров и покажите реальный процесс установки направляющих и створок балкона."
+ },
+ "date": "2026-11-23 16:19 UTC"
+}

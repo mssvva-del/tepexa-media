@@ -1,0 +1,133 @@
+{
+ "id": "5347ab92bdba713bdb58_s15",
+ "company": "Roman Group",
+ "lang": "ru",
+ "hook": "Балкон мечты за секунду",
+ "lines": [
+  "Стеклянная пергола превращает открытую террасу в защищенное пространство.",
+  "Напишите СТЕКЛО в WhatsApp."
+ ],
+ "say": [
+  "Стеклянная пергола превращает открытую террасу в защищенное пространство.",
+  "Напишите СТЕКЛО в вотсап."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/donor_ot7400865238737833233_0.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "ot7400865238737833233",
+    "media": "https://v45.tiktokcdn-eu.com/da4eae2dbb49355be5c44e5751d6e9e3/6afdc1bd/video/tos/alisg/tos-alisg-pve-0037c001/ooscEXoI8CpppGB8AHwiVW9xIfJozaiAEQMy1A/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&&bt=1076&ft=td_Ls8s6oA-O12NvkfkXzIxRF-jyO3_45SY&mime_type=video_mp4&rc=NWRpNDw3NjU1ZWQ7aWdkN0Bpam82a2w5cmdsdDMzODczNEA0MjYzNS1iXjUxYDQzNGMuYSNfbDJoMmRjYG5gLS1kMS1zcw%3D%3D&vvpl=1&l=2026111715172048D3A50F13EEEC35DBA3&btag=e00095000",
+    "start": 0.5,
+    "dur": 2.2
+   },
+   "free": "bottom",
+   "own": true,
+   "shows": "balcony glass railing view"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/donor_G8-l0YXZeYM_0.mp4",
+   "ss": 0,
+   "dur": 2.15,
+   "donor": {
+    "id": "G8-l0YXZeYM",
+    "media": "",
+    "start": 0.0,
+    "dur": 2.2
+   },
+   "free": "bottom",
+   "shows": "retractable glass balcony enclosure structure"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/donor_Vxu5vkYgZjw_0.mp4",
+   "ss": 0,
+   "dur": 2.15,
+   "donor": {
+    "id": "Vxu5vkYgZjw",
+    "media": "",
+    "start": 0.0,
+    "dur": 2.2
+   },
+   "free": "bottom",
+   "shows": "artisan cutting glass sheet manually"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/donor_21lE-WOA0IY_0.mp4",
+   "ss": 0,
+   "dur": 2.15,
+   "donor": {
+    "id": "21lE-WOA0IY",
+    "media": "",
+    "start": 0.0,
+    "dur": 2.2
+   },
+   "shows": "glass patio enclosure sliding open"
+  },
+  {
+   "src": "stock/pexels_7496181.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "people leaning against glass railing balcony"
+  },
+  {
+   "src": "stock/pexels_35386928.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "covered patio terrace with pergola"
+  },
+  {
+   "src": "stock/pexels_34941081.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "modern apartment building glass balconies"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/donor_21lE-WOA0IY_1.mp4",
+   "ss": 0,
+   "dur": 3,
+   "donor": {
+    "id": "21lE-WOA0IY",
+    "media": "",
+    "start": 3.0,
+    "dur": 2.2
+   },
+   "free": "top",
+   "shows": "various glass patio enclosures montage"
+  }
+ ],
+ "stock_queries": [
+  "modern glass pergola terrace",
+  "frameless glass balcony patio",
+  "sliding glass panels patio"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Стеклянная пергола укрывает от непогоды и сохраняет панорамный обзор. Напишите СТЕКЛО в WhatsApp. #остекление #пергола #балкон #стекло #израиль\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Балкон + пергола",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия Балкон + пергола. Вирусный ролик опирается на тренд эстетичных стеклянных террас (донор 128 млн просмотров) для привлечения охватов домовладельцев Израиля.\nЧасть кадров — из вирусного ролика вашей ниши (128.0 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "hookscore": 56.8,
+ "qa": {
+  "score": 64,
+  "parts": {
+   "hook": 12,
+   "relevance": 9,
+   "alive": 13,
+   "text": 12,
+   "match": 10,
+   "cta": 8
+  },
+  "problems": [
+   "Кадр 00:04 с резкой стекла на улице выглядит кустарно, снят в другой стране и не соответствует премиальному остеклению террас",
+   "Видеоряд в нарезке выглядит как разрозненный чужой стоковый контент низкого качества",
+   "Статичный черный финальный экран с 00:08 обрывает динамику"
+  ],
+  "fix": "Замените кустарный кадр резки стекла на 00:04 и размытую концовку на реальные видео готовых стеклянных пергол и раздвижного остекления от Roman Group."
+ },
+ "date": "2026-11-23 09:41 UTC"
+}

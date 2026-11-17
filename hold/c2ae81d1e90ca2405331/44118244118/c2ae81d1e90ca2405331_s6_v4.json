@@ -1,0 +1,123 @@
+{
+ "id": "c2ae81d1e90ca2405331_s6_v4",
+ "company": "BeaverCraft",
+ "lang": "en",
+ "hook": "Carve your own holiday magic today",
+ "lines": [
+  "Carve your own holiday ornaments right out of this box.",
+  "Basswood blanks, razor sharp BeaverCraft blades, and step-by-step guides are ready.",
+  "Skip screen time this holiday and shape something real with family.",
+  "Comment CARVE now to get your Black Friday ornament set."
+ ],
+ "say": [
+  "Carve your own holiday ornaments right out of this box.",
+  "Basswood blanks, razor sharp BeaverCraft blades, and step-by-step guides are ready.",
+  "Skip screen time this holiday and shape something real with family.",
+  "Comment CARVE now to get your Black Friday ornament set."
+ ],
+ "shots": [
+  {
+   "src": "clients/c2ae81d1e90ca2405331/donor_bc16961838_0.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "bc16961838",
+    "media": "https://raw.githubusercontent.com/mssvva-del/tepexa-media/main/pv/c2ae81d1e90ca2405331/own/own_7442051711616961838.mp4",
+    "start": 9.5,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "carving wooden gnome figure details"
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/prod_66.jpg",
+   "dur": 1.5,
+   "zoom": 1.06,
+   "own": true
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/donor_bc16589098_0.mp4",
+   "ss": 0,
+   "dur": 2.15,
+   "donor": {
+    "id": "bc16589098",
+    "media": "https://raw.githubusercontent.com/mssvva-del/tepexa-media/main/pv/c2ae81d1e90ca2405331/own/own_7405237892416589098.mp4",
+    "start": 13.0,
+    "dur": 2.2
+   },
+   "free": "top",
+   "shows": "hands whittling wooden bird blank"
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/donor_bc16589098_1.mp4",
+   "ss": 0,
+   "dur": 2.15,
+   "donor": {
+    "id": "bc16589098",
+    "media": "https://raw.githubusercontent.com/mssvva-del/tepexa-media/main/pv/c2ae81d1e90ca2405331/own/own_7405237892416589098.mp4",
+    "start": 32.0,
+    "dur": 2.2
+   },
+   "free": "top",
+   "shows": "whittling and sanding wooden craft"
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/prod_57.jpg",
+   "dur": 1.5,
+   "fit": "pad",
+   "own": true
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/donor_bc16961838_1.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "bc16961838",
+    "media": "https://raw.githubusercontent.com/mssvva-del/tepexa-media/main/pv/c2ae81d1e90ca2405331/own/own_7442051711616961838.mp4",
+    "start": 19.5,
+    "dur": 2.0
+   },
+   "free": "bottom",
+   "shows": "carving cat outline into wood"
+  },
+  {
+   "src": "clients/c2ae81d1e90ca2405331/prod_56.jpg",
+   "dur": 3,
+   "fit": "pad",
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "hands in carving safety gloves whittling basswood block",
+  "opening DIY wood carving craft box with wooden blanks",
+  "finished hand carved wooden tree ornament on wooden table"
+ ],
+ "paid": true,
+ "end": "Comment CARVE for Black Friday",
+ "caption": "Handmade ornaments hit different when you carve them yourself. Everything you need arrives sharp and ready in one box. Comment CARVE for our Black Friday holiday set! #woodcarving #christmasdiy #whittling #handmadeornaments #blackfriday\n\n👉 reels.tepexa.com/w/c2ae81d1e90ca2405331",
+ "series": "Сезонні проєкти",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "own_voice": false,
+ "why": "Серія «Сезонні проєкти»: перезапуск відхиленого відео з фокусом виключно на власних матеріалах BeaverCraft (ножі, рукавички, заготовки) без сторонніх інструментів. Формула сезонного декору веде глядача на прямий Black Friday офер через кодове слово CARVE.",
+ "rules": "Show BeaverCraft products (kits, knives, finished figures) in the first seconds. Wood carving only — no other crafts (no straw, weaving, painting), no stone or marble sculpture, no clay. Prefer BeaverCraft's own carving footage (hands carving wood, kits being opened, finished figures) over stock; no random stock people who are not carving wood. No text over faces.",
+ "hookscore": 62.0,
+ "qa": {
+  "score": 87,
+  "parts": {
+   "hook": 17,
+   "relevance": 18,
+   "alive": 15,
+   "text": 14,
+   "match": 14,
+   "cta": 9
+  },
+  "problems": [
+   "Static product photo placed with blurred pillarbox borders disrupts video flow",
+   "Long static end shot on product kit photo"
+  ],
+  "fix": "Replace the static 1:1 ratio product photos with dynamic macro B-roll of hands assembling or unboxing the ornament kits to keep the pacing engaging."
+ },
+ "date": "2026-11-20 09:41 UTC"
+}

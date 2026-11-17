@@ -1,0 +1,89 @@
+{
+ "id": "30a74a1814f17f17d3b6",
+ "company": "Лестницы ФЕБ",
+ "lang": "ru",
+ "hook": "Ищете идеальную лестницу под свой интерьер?",
+ "lines": [
+  "Готовая лестница редко идеально встаёт в готовый интерьер.",
+  "Мастерская ФЕБ проектирует деревянные лестницы точно под дом.",
+  "Каждую ступень и плотное соединение видно вблизи.",
+  "Напишите нам для расчёта лестницы под проект."
+ ],
+ "say": [
+  "Готовая лестница редко идеально встаёт в готовый интерьер.",
+  "Мастерская ФЕБ проектирует деревянные лестницы точно под дом.",
+  "Каждую ступень и плотное соединение видно вблизи.",
+  "Напишите нам для расчёта лестницы под проект."
+ ],
+ "shots": [
+  {
+   "src": "clients/30a74a1814f17f17d3b6/own_1.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "own": true,
+   "shows": "light wood staircase without handrails indoors"
+  },
+  {
+   "src": "clients/30a74a1814f17f17d3b6/photo_0.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "wooden staircase with black steps and railing"
+  },
+  {
+   "src": "clients/30a74a1814f17f17d3b6/photo_2.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "wooden stairs with black railing indoors"
+  },
+  {
+   "src": "clients/30a74a1814f17f17d3b6/photo_3.jpg",
+   "dur": 3,
+   "own": true,
+   "shows": "top view looking down wooden stairs"
+  }
+ ],
+ "stock_queries": [
+  "wooden staircase dark treads white balusters closeup",
+  "wooden stairs interior brick wall detail architecture",
+  "timber staircase woodwork craftsmanship close shot"
+ ],
+ "llm_usd": 0.018,
+ "hookscore": 61.0,
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "end_text": [
+  "Ещё 6 Reels",
+  "на этой неделе"
+ ],
+ "why": "Серия 1 «Лестница целиком — и вблизи», опирающаяся на вирусный формат показа готового объекта с переходом в макро-детали (lestnisa.uz, 1,8 млн просмотров). Ролик демонстрирует качество реальной работы ФЕБ и закрывает на обращение.",
+ "rules": "Brand on screen and in the voice: FEB / «Лестницы ФЕБ» (never GEDA). ONLY the client's own materials: the 4 photos 001–004 (ONE finished staircase: dark steps, white elements, brick walls) and the video K0057_Mikhail.mp4 (a DIFFERENT object without railing). Never mix them into one staircase, no morphing transitions between them; show the video object as a separate part. No foreign footage, no stock, no people or presenter, no AI-generated details, keep the real geometry, colours and construction, never draw a missing railing. Product presentation: overview first, then close-ups of real steps, joints, finish and wood texture; benefits only through visible details, no invented specs or promises.",
+ "qa": {
+  "score": 75,
+  "parts": {
+   "hook": 13,
+   "relevance": 14,
+   "alive": 14,
+   "text": 13,
+   "match": 13,
+   "cta": 8
+  },
+  "problems": [
+   "Объекты перемешаны в хаотичном порядке (видео объекта без перил чередуется с фото готовой лестницы с кирпичом)",
+   "Хук показывает недострой со строительным мусором вместо эстетичного общего плана готовой работы",
+   "На словах про соединение вблизи показан общий вид лестницы сверху вниз без макродеталей узлов"
+  ],
+  "fix": "Не смешивайте два разных объекта внарезку: сначала последовательно покажите готовую лестницу (общий план, затем реальные макро-детали стыков и ступеней), а второй объект покажите отдельно без скачков туда-обратно."
+ },
+ "cost": {
+  "usd": 0.021,
+  "calls": 7,
+  "by": {
+   "script": 0.0034,
+   "fit_filter": 0.0021,
+   "person_check": 0.0053,
+   "frame_check": 0.0032,
+   "edit_pass": 0.0024,
+   "once": 0.0047
+  }
+ }
+}

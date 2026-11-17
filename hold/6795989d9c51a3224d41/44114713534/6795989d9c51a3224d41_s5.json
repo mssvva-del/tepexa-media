@@ -1,0 +1,95 @@
+{
+ "id": "6795989d9c51a3224d41_s5",
+ "company": "SMRTLV",
+ "lang": "en",
+ "hook": "Your phone rings while you work",
+ "lines": [
+  "We set up your incoming calls to answer instantly without extra staff.",
+  "The caller details and job notes sync straight into your dispatch system.",
+  "Our team configures and tests the entire workflow for your trade.",
+  "Comment DEMO to test the live workflow."
+ ],
+ "say": [
+  "We set up your incoming calls to answer instantly without extra staff.",
+  "The caller details and job notes sync straight into your dispatch system.",
+  "Our team configures and tests the entire workflow for your trade.",
+  "Comment DEMO to test the live workflow."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_6474269.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "contractor on phone holding tablet"
+  },
+  {
+   "src": "clients/6795989d9c51a3224d41/prod_0.jpg",
+   "dur": 2.4,
+   "zoom": 1.06,
+   "own": true
+  },
+  {
+   "src": "stock/pexels_6170781.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "person using phone in vehicle"
+  },
+  {
+   "src": "stock/pexels_35206231.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "technician working on electrical box"
+  },
+  {
+   "src": "stock/pexels_36179462.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "worker cutting metal with sparks"
+  },
+  {
+   "src": "stock/pexels_6169405.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "warehouse worker checking inventory clipboard"
+  },
+  {
+   "src": "stock/pexels_5054864.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "courier sitting in delivery van"
+  }
+ ],
+ "stock_queries": [
+  "contractor phone van",
+  "technician busy working",
+  "hvac service dispatch"
+ ],
+ "paid": true,
+ "end": "Comment DEMO to test it",
+ "caption": "Never miss another inquiry while on a job. We connect call handling and dispatch directly to your business workflow. Comment DEMO to try it yourself. #smallbusiness #homeservices #automation #workflow\n\n👉 reels.tepexa.com/w/6795989d9c51a3224d41",
+ "series": "Live demo",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "own_voice": false,
+ "why": "Live demo series. Borrows the proof-first formula from Dom Ricci's home service reception test with 1.1k likes by demonstrating immediate workflow capture without hype.",
+ "hookscore": 60.5,
+ "qa": {
+  "score": 74,
+  "parts": {
+   "hook": 16,
+   "relevance": 11,
+   "alive": 15,
+   "text": 13,
+   "match": 11,
+   "cta": 8
+  },
+  "problems": [
+   "Generic stock footage across different unrelated trades instead of demonstrating the actual software/AI interface",
+   "Office meeting shot at 0:02 feels disconnected from field trades",
+   "No visual demonstration of incoming calls answering, transcribing, or syncing to CRM dispatch systems"
+  ],
+  "fix": "Replace random generic stock clips with screen recordings or side-by-side mockups showing an incoming call being answered by AI and live syncing notes into dispatch software."
+ },
+ "date": "2026-11-19 11:11 ET"
+}

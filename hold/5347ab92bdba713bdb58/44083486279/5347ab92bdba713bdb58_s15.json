@@ -1,0 +1,89 @@
+{
+ "id": "5347ab92bdba713bdb58_s15",
+ "company": "Roman Group",
+ "lang": "ru",
+ "hook": "Балкон или отдельная комната с видом?",
+ "lines": [
+  "Сдвижные стеклянные панели полностью закрывают балкон от ветра и пыли за пару секунд.",
+  "Напишите СТЕКЛО в WhatsApp для консультации."
+ ],
+ "say": [
+  "Сдвижные стеклянные панели полностью закрывают балкон от ветра и пыли за пару секунд.",
+  "Напишите СТЕКЛО в вотсап для консультации."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1ApF7hN275c6ObA0fSASgTk6ZrFavYOMz.jpg",
+   "dur": 1.6,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/donor_21lE-WOA0IY_0.mp4",
+   "ss": 0,
+   "dur": 2.15,
+   "donor": {
+    "id": "21lE-WOA0IY",
+    "media": "",
+    "start": 0.0,
+    "dur": 2.2
+   },
+   "free": "bottom"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1JfSq8YNWBgxMSI-4qQMeBnXaXhbXT5EZ.jpg",
+   "dur": 1.5,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1TObQtkSI0QbeaU1qeHqKCvPstBE7GhTb.jpg",
+   "dur": 1.5,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1yEFzOjDY2OKkzZk73VoF19c_z4zWQ2MR.jpg",
+   "dur": 1.5,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1Ec-7f3pxNCY8nIRMX8JLZtaPeMi1L-4E.jpg",
+   "dur": 1.5,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1dlF5oNch9oHq1ZFRD6LG9eJOwzGuceYg.jpg",
+   "dur": 1.5,
+   "own": true
+  },
+  {
+   "src": "stock/pexels_34237018.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "modern frameless glass terrace sliding system",
+  "sliding glass panels balcony scenic view luxury",
+  "glass veranda terrace patio closing doors"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Безрамное остекление балконов и террас: чистый панорамный вид и надежная защита от ветра и пыли. Напишите СТЕКЛО в WhatsApp. #безрамноеостекление #балкон #пергола #израиль\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Балкон + пергола",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия Балкон + пергола. Вирусный донор под номером 2 набрал 69 миллионов просмотров благодаря залипательному преображению открытого пространства стеклянными раздвижными конструкциями.\nЧасть кадров — из вирусного ролика вашей ниши (69.0 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "qa": {
+  "score": 62,
+  "problems": [
+   "Frame 2 shows an office terrace where the furniture dominates more than the glass mechanism.",
+   "Frames 3 through 7 are visually repetitive, showing nearly identical static camera angles of the empty glazed balcony.",
+   "The video lacks human presence or hand movement demonstrating the sliding mechanism in action.",
+   "Frame 8 ends on an empty, sterile solid dark slide rather than keeping a high-value project visual behind the CTA."
+  ],
+  "fix": "Replace the repetitive static balcony shots and the plain outro slide with dynamic clips showing hands effortlessly sliding and opening the glass panels, keeping the real installation visible behind the final call-to-action."
+ },
+ "date": "2026-11-23 09:11 UTC"
+}

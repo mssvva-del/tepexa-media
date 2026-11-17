@@ -1,0 +1,80 @@
+{
+ "id": "5347ab92bdba713bdb58_s16",
+ "company": "Roman Group",
+ "lang": "ru",
+ "hook": "Монтируем безрамное стекло до 1 мм",
+ "lines": [
+  "Смотрите, как наши мастера крепят направляющие профили для безрамной системы.",
+  "Мы используем усиленное закаленное стекло и выверяем каждый миллиметр по уровню.",
+  "В итоге балкон защищен от осадков, а вид остается полностью открытым.",
+  "Напишите СТЕКЛО в WhatsApp."
+ ],
+ "say": [
+  "Смотрите, как наши мастера крепят направляющие профили для безрамной системы.",
+  "Мы используем усиленное закаленное стекло и выверяем каждый миллиметр по уровню.",
+  "В итоге балкон защищен от осадков, а вид остается полностью открытым.",
+  "Напишите СТЕКЛО в вотсап."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1yEFzOjDY2OKkzZk73VoF19c_z4zWQ2MR.jpg",
+   "dur": 1.6,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1CkK3WBzjTOaC-T7BwdqUDJrej_AUkndU.jpg",
+   "dur": 1.5,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1ApF7hN275c6ObA0fSASgTk6ZrFavYOMz.jpg",
+   "dur": 1.6,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1NOdhAw3zFCTBy-4ydbMvgpKAMiMasXPI.jpg",
+   "dur": 1.5,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1kHH--3zR7f5b3kLu8fKGNcSxc71UhxDe.jpg",
+   "dur": 1.5,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1JfSq8YNWBgxMSI-4qQMeBnXaXhbXT5EZ.jpg",
+   "dur": 1.5,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1TObQtkSI0QbeaU1qeHqKCvPstBE7GhTb.jpg",
+   "dur": 3,
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "installing glass balcony railings construction",
+  "worker measuring level glass architectural installation",
+  "clean balcony glass terrace modern apartment"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Показываем реальный процесс монтажа безрамного остекления от семейной мастерской Roman Group. Напишите СТЕКЛО в WhatsApp. #остеклениебалкона #безрамноеостекление #ремонт #стекло #хайфа\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Установка глазами мастера",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия Установка глазами мастера. Опирается на успешный формат честного процесса монтажа (у Weglass 10 тысяч просмотров и у собственного ролика 47 тысяч), демонстрируя надежность и мастерство.\nЧасть кадров — из вирусного ролика вашей ниши (32.0 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "qa": {
+  "score": 45,
+  "problems": [
+   "Nearly all frames are identical static shots of the same finished balcony glazing with minor panning",
+   "Voiceover speaks about active installation process (mounting profiles, leveling), but zero installation work or craftsmen are shown",
+   "The video lacks visual dynamics and feels like a looped slideshow",
+   "Hook claims 'до 1 мм' but nothing visually demonstrates precision or measurement"
+  ],
+  "fix": "Replace the repetitive static balcony shots with live video footage of masters actively mounting profiles, checking levels, and sliding the glass panels open and closed."
+ }
+}

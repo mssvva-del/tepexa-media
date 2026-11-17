@@ -1,0 +1,49 @@
+{
+ "company": "BeaverCraft",
+ "lang": "en",
+ "engine": "fish",
+ "paid": true,
+ "id": "c2ae81d1e90ca2405331_bc10",
+ "series": "Black Friday: перший набір",
+ "kind": "work",
+ "hook": "Black Friday: a kit for their first carve",
+ "lines": [
+  "Looking for a gift for a beginner?",
+  "A carving kit gets them started.",
+  "Everything inside, ready to share.",
+  "Comment CARVE for Black Friday details."
+ ],
+ "say": [
+  "Looking for a gift for a beginner?",
+  "A carving kit gets them started.",
+  "Everything inside, ready to share.",
+  "Comment CARVE for Black Friday details."
+ ],
+ "shots": [
+  {
+   "src": "/Users/sergmols/Projects/tepexa-media/pv/c2ae81d1e90ca2405331/own/own_7442051711616961838.mp4",
+   "dur": 2.4,
+   "ss": 24.0
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-media/pv/c2ae81d1e90ca2405331/own/own_7442051711616961838.mp4",
+   "dur": 2.4,
+   "ss": 30.0
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-media/pv/c2ae81d1e90ca2405331/own/own_7442051711616961838.mp4",
+   "dur": 2.4,
+   "ss": 33.0
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/preview/clients/c2ae81d1e90ca2405331/x_diy05-bear-c_1.jpg",
+   "dur": 1.06,
+   "fit": "pad"
+  }
+ ],
+ "end": "Comment CARVE for Black Friday details",
+ "caption": "Holiday carving kits with everything inside, ready to share. Comment CARVE for Black Friday details. #blackfriday #giftideas #woodcarving #christmasdiy",
+ "date": "2026-11-19 09:13 UTC",
+ "why": "Series «Black Friday: first kit»: your own carving footage plus one kit photo from the site.",
+ "gemini_voice": "Charon"
+}

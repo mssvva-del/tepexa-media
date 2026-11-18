@@ -1,0 +1,88 @@
+{
+ "id": "3f6dfc3ad19bda9c0f1f_s25_v2",
+ "company": "InClick",
+ "lang": "en",
+ "hook": "Still tracking orders in paper notebooks?",
+ "lines": [
+  "Still writing down your customer orders in paper notebooks?",
+  "InClick builds your complete online store through simple conversation.",
+  "Your checkout and parcel shipping connect without complex settings.",
+  "Comment STORE below to launch your shop today without hassle."
+ ],
+ "say": [
+  "Still writing down your customer orders in paper notebooks?",
+  "In Click builds your complete online store through simple conversation.",
+  "Your checkout and parcel shipping connect without complex settings.",
+  "Comment STORE below to launch your shop today without hassle."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_3256849.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "woman smiling writing in notebook"
+  },
+  {
+   "src": "stock/pexels_7854916.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "woman working near boxes laptop"
+  },
+  {
+   "src": "stock/pexels_8472307.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_6898096.mp4",
+   "ss": 1,
+   "dur": 3
+  },
+  {
+   "src": "stock/pexels_6342201.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "woman packing cardboard shipping box"
+  },
+  {
+   "src": "stock/pexels_7223587.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "delivery person handing cardboard package"
+  }
+ ],
+ "stock_queries": [
+  "woman 40 business owner writing customer notebook counter",
+  "hands packing shipping box retail orders close up",
+  "mature female entrepreneur 45 using laptop packaging orders"
+ ],
+ "paid": true,
+ "end": "Comment STORE for the link",
+ "caption": "Tired of tracking orders by hand in a notebook? Let AI set up your online store, payments, and shipping in minutes. Comment STORE to get started! #smallbusiness #ecommerce #shopowner #onlinebusiness\n\n👉 reels.tepexa.com/w/3f6dfc3ad19bda9c0f1f",
+ "series": "Small shop, real setup",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "own_voice": false,
+ "why": "Серия «Маленький магазин, реальная настройка». Переделка ролика: сохраняем тему ручного учета заказов против готового магазина с автоматической оплатой и доставкой. В кастинге строго женщина 35-50 лет и предметные планы без молодых или неоднозначных лиц.",
+ "rules": "Main on-screen person: a woman aged 35-50, business owner look. No religious or national attire (no hijab). No cartoon or 3D characters. No text over faces.",
+ "hookscore": 70.8,
+ "qa": {
+  "score": 74,
+  "parts": {
+   "hook": 14,
+   "relevance": 12,
+   "alive": 14,
+   "text": 13,
+   "match": 12,
+   "cta": 9
+  },
+  "problems": [
+   "Actor in the hook looks younger than the required 35-50 age range and smiles while writing down orders instead of showing the pain of manual tracking",
+   "Generic stock footage of typing on a keyboard and holding a blank phone screen fails to demonstrate InClick's conversational AI interface",
+   "Voiceover mentions building an online store through conversation, but visuals show packing boxes and a plain keyboard rather than UI or conversational workflow"
+  ],
+  "fix": "Cast an actress aged 35-50 looking overwhelmed by paper receipts, and replace generic keyboard/packing b-roll with mockups or screen recordings of building a store via conversation."
+ },
+ "date": "2026-11-20 09:07 UTC"
+}

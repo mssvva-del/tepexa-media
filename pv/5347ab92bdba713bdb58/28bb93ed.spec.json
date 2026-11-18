@@ -1,0 +1,82 @@
+{
+ "id": "5347ab92bdba713bdb58_s18",
+ "company": "Roman Group ArtVitrage",
+ "lang": "ru",
+ "hook": "Идеальный рез стекла для балкона",
+ "lines": [
+  "Точный рез толстого стекла требует опыта и правильного станка.",
+  "Напишите СТЕКЛО в WhatsApp."
+ ],
+ "say": [
+  "Точный рез толстого стекла требует опыта и правильного станка.",
+  "Напишите СТЕКЛО в вотсап."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1dlF5oNch9oHq1ZFRD6LG9eJOwzGuceYg.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "balcony glass enclosure wide panorama"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1uTFPoeBlrkqITlBhAGx3aJ6G8mDVvyB-.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "balcony sliding glass system overview"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1Hb1TJKzMhuJ1zeIji9ma_qRx2SwR_xhM_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true,
+   "shows": "decorative geometric mirrored wall panels"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1hLfwfb03LXZjY4nay26VoIisIhTmhGKj_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true,
+   "shows": "tall stained glass window design"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1s9qmAfr8dTXnBM2DszBgJ5Zg1cVhNcSV.jpg",
+   "dur": 3,
+   "own": true,
+   "shows": "building facade with glazed balconies"
+  }
+ ],
+ "stock_queries": [
+  "glass cutting factory worker",
+  "precision glass panel edge",
+  "glazing master workshop"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Работа со стеклом требует ювелирной точности. Напишите СТЕКЛО в WhatsApp. #стекло #мастерская #остекление #израиль\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Установка глазами мастера",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия Установка глазами мастера. Донор с 32 млн просмотров держит внимание завораживающим процессом резки стеклянных панелей.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "hookscore": 56.8,
+ "qa": {
+  "score": 63,
+  "parts": {
+   "hook": 11,
+   "relevance": 13,
+   "alive": 12,
+   "text": 13,
+   "match": 6,
+   "cta": 8
+  },
+  "problems": [
+   "Голос и хук говорят про 'рез стекла и станок', но процесса резки вообще нет — показывают готовый балкон, зеркала и шкаф",
+   "На 00:03 показана корпусная мебель/шкаф с зеркальной отделкой, что размывает позиционирование стекольной мастерской",
+   "Несоответствие между текстом хука и видеорядом снижает удержание"
+  ],
+  "fix": "Покажите в начале реальный процесс точной резки толстого стекла на станке под слова диктора, либо замените текст на демонстрацию готового безрамного остекления балкона."
+ },
+ "date": "2026-11-24 16:07 UTC"
+}

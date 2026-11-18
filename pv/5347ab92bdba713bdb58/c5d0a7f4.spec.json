@@ -1,0 +1,93 @@
+{
+ "id": "5347ab92bdba713bdb58_s23",
+ "company": "Roman Group ArtVitrage",
+ "lang": "ru",
+ "hook": "Как стильно остеклить балкон и кухню?",
+ "lines": [
+  "Мы создаем надежное безрамное остекление по вашим параметрам.",
+  "Наша семейная мастерская работает со стеклом любого типа.",
+  "Приедем на объект, проведем точные замеры и подробную консультацию.",
+  "Напишите СТЕКЛО в WhatsApp."
+ ],
+ "say": [
+  "Мы создаем надежное безрамное остекление по вашим параметрам.",
+  "Наша семейная мастерская работает со стеклом любого типа.",
+  "Приедем на объект, проведем точные замеры и подробную консультацию.",
+  "Напишите СТЕКЛО в вотсап."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1y1noM_N7J4stAwaCoP8GFL9nRjzrDD5-_720.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "own": true,
+   "shows": "enclosed glass balcony seaside view"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/gal_3.jpg",
+   "dur": 1.5,
+   "zoom": 1.06,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1Hb1TJKzMhuJ1zeIji9ma_qRx2SwR_xhM_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true,
+   "shows": "decorative geometric mirrored wall panels"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1hLfwfb03LXZjY4nay26VoIisIhTmhGKj_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true,
+   "shows": "tall stained glass window design"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1yEFzOjDY2OKkzZk73VoF19c_z4zWQ2MR.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "balcony frameless glazing overlooking field"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1w7pax0forflTGiTqtHTSSNEJOglbiQ2K.jpg",
+   "dur": 3,
+   "own": true,
+   "shows": "frameless glass panels on balcony"
+  }
+ ],
+ "stock_queries": [
+  "measuring glass terrace balcony",
+  "glazing master measuring balcony",
+  "modern glass balcony view"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Индивидуальное безрамное остекление и перголы по всему Израилю. Напишите СТЕКЛО в WhatsApp. #безрамноеостекление #пергола #остеклениебалкона #израиль\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "без оплаты замер и 3D",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Прямой оффер на выезд и консультацию по балконам и перголам без запрещенных слов, привлекает прямые заявки.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "hookscore": 62.7,
+ "qa": {
+  "score": 74,
+  "parts": {
+   "hook": 12,
+   "relevance": 13,
+   "alive": 14,
+   "text": 13,
+   "match": 12,
+   "cta": 9
+  },
+  "problems": [
+   "Кадр 0:02-0:03 показывает обычные кухонные шкафы и вытяжку вместо четкого акцента на стекле/скинали (нарушение правил)",
+   "Кадр 0:03-0:05 сфокусирован на мебели/шкафу с зеркальными фасадами, а не на остеклении балкона или четком изделии из стекла",
+   "Хук в начале слабо привлекает визуально и обещает кухню, которой почти нет в кадре"
+  ],
+  "fix": "Замените кадры с кухонной мебелью и шкафом на процесс открывания безрамного остекления балкона и детальный показ качественного стеклянного фартука."
+ },
+ "date": "2026-11-26 16:11 UTC"
+}

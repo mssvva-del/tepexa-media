@@ -1,0 +1,81 @@
+{
+ "id": "5347ab92bdba713bdb58_s20",
+ "company": "Roman Group ArtVitrage",
+ "lang": "ru",
+ "hook": "Почему безрамное стекло не дрожит",
+ "lines": [
+  "Специальные направляющие профили гасят порывы даже сильного ветра.",
+  "Напишите СТЕКЛО в WhatsApp."
+ ],
+ "say": [
+  "Специальные направляющие профили гасят порывы даже сильного ветра.",
+  "Напишите СТЕКЛО в вотсап."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1DOdVY9UBcir5WiGV-jvslHZaXVHAdZ2A.jpg",
+   "dur": 1.6,
+   "own": true,
+   "shows": "frameless glass railing corner detail"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1s9qmAfr8dTXnBM2DszBgJ5Zg1cVhNcSV.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "building facade with glazed balconies"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1Hb1TJKzMhuJ1zeIji9ma_qRx2SwR_xhM_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true,
+   "shows": "decorative geometric mirrored wall panels"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1yEFzOjDY2OKkzZk73VoF19c_z4zWQ2MR.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "balcony frameless glazing overlooking field"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/15_5TW65nuzMAAnB7r3ZaAfrQro1i_Fna.jpg",
+   "dur": 3,
+   "own": true,
+   "shows": "balcony frameless glass overlooking city"
+  }
+ ],
+ "stock_queries": [
+  "frameless glass balcony close up",
+  "windproof glass terrace apartment",
+  "sliding glass panels high floor"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Надежность безрамных систем при ветре и непогоде. Напишите СТЕКЛО в WhatsApp. #остеклениебалкона #безрамноеостекление #стекло #хайфа\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Вопрос мастеру",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия Вопрос мастеру. Донор со 128 млн просмотров цепляет архитектурной эстетикой и снимает сомнения насчет прочности конструкции.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "hookscore": 67.3,
+ "qa": {
+  "score": 70,
+  "parts": {
+   "hook": 14,
+   "relevance": 10,
+   "alive": 13,
+   "text": 14,
+   "match": 10,
+   "cta": 9
+  },
+  "problems": [
+   "Кадр со шкафом в прихожей на 0:03 совершенно не относится к теме ролика о безрамном остеклении и ветроустойчивости",
+   "Голос рассказывает о направляющих профилях безрамного остекления, а на экране появляется мебель с зеркалами",
+   "Не показана крупным планом работа направляющих или жесткость стекла при ветре"
+  ],
+  "fix": "Замените кадр со шкафом на 00:03 крупным планом направляющих профилей балкона или демонстрацией надежного прилегания безрамных створок."
+ },
+ "date": "2026-11-25 09:23 UTC"
+}

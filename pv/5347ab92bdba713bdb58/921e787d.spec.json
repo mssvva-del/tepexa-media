@@ -1,0 +1,81 @@
+{
+ "id": "5347ab92bdba713bdb58_s17",
+ "company": "Roman Group ArtVitrage",
+ "lang": "ru",
+ "hook": "Как закрыть террасу стеклом от ветра",
+ "lines": [
+  "Стеклянная система сдвигается за секунды и сохраняет панораму.",
+  "Напишите СТЕКЛО в WhatsApp."
+ ],
+ "say": [
+  "Стеклянная система сдвигается за секунды и сохраняет панораму.",
+  "Напишите СТЕКЛО в вотсап."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1yEFzOjDY2OKkzZk73VoF19c_z4zWQ2MR.jpg",
+   "dur": 1.6,
+   "own": true,
+   "shows": "balcony frameless glazing overlooking field"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1dlF5oNch9oHq1ZFRD6LG9eJOwzGuceYg.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "balcony glass enclosure wide panorama"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1Ec-7f3pxNCY8nIRMX8JLZtaPeMi1L-4E.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "frameless glass balcony panoramic view"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1_mMvMk68sEAwwj8YL1D5CioNaR32pGTL.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "glazed balcony terrace open landscape"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1y1noM_N7J4stAwaCoP8GFL9nRjzrDD5-_720.mp4",
+   "ss": 1,
+   "dur": 3,
+   "own": true,
+   "shows": "enclosed glass balcony seaside view"
+  }
+ ],
+ "stock_queries": [
+  "frameless sliding glass terrace",
+  "modern glass balcony patio",
+  "folding glass doors outdoor"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Защитите балкон от ветра и пыли без потери света. Напишите СТЕКЛО в WhatsApp. #безрамноеостекление #балкон #пергола #израиль\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Балкон + пергола",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия Балкон + пергола. Вирусный донор с 69 млн просмотров показывает эффект открытой стеклянной веранды для привлечения владельцев террас.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "hookscore": 60.3,
+ "qa": {
+  "score": 74,
+  "parts": {
+   "hook": 13,
+   "relevance": 18,
+   "alive": 11,
+   "text": 13,
+   "match": 10,
+   "cta": 9
+  },
+  "problems": [
+   "Голос говорит 'сдвигается за секунды', но стекло в кадре статично стоит, никто не показывает процесс открывания/сдвигания створок",
+   "Слишком длинные статичные планы балкона без динамики и демонстрации механики работы системы",
+   "Финальный экран с 00:08 до 00:10 слишком затянут на затемнении"
+  ],
+  "fix": "Покажите руками процесс легкого сдвигания стеклянных створок гармошкой прямо под слова диктора 'сдвигается за секунды'."
+ },
+ "date": "2026-11-24 09:49 UTC"
+}

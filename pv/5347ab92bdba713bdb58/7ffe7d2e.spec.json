@@ -1,0 +1,85 @@
+{
+ "id": "5347ab92bdba713bdb58_s22",
+ "company": "Roman Group ArtVitrage",
+ "lang": "ru",
+ "hook": "Как ухаживать за стеклянным фартуком",
+ "lines": [
+  "Сплошное стекло не имеет швов и пор.",
+  "Поэтому жир и налет не въедаются глубже.",
+  "Глянцевую поверхность легко протереть салфеткой до блеска.",
+  "Напишите СТЕКЛО в WhatsApp."
+ ],
+ "say": [
+  "Сплошное стекло не имеет швов и пор.",
+  "Поэтому жир и налет не въедаются глубже.",
+  "Глянцевую поверхность легко протереть салфеткой до блеска.",
+  "Напишите СТЕКЛО в вотсап."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/gal_4.jpg",
+   "dur": 1.5,
+   "zoom": 1.06,
+   "own": true
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1Hb1TJKzMhuJ1zeIji9ma_qRx2SwR_xhM_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true,
+   "shows": "decorative geometric mirrored wall panels"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1Ec-7f3pxNCY8nIRMX8JLZtaPeMi1L-4E.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "frameless glass balcony panoramic view"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1dlF5oNch9oHq1ZFRD6LG9eJOwzGuceYg.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "balcony glass enclosure wide panorama"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1yEFzOjDY2OKkzZk73VoF19c_z4zWQ2MR.jpg",
+   "dur": 3,
+   "own": true,
+   "shows": "balcony frameless glazing overlooking field"
+  }
+ ],
+ "stock_queries": [
+  "cleaning glass splashback kitchen",
+  "kitchen glass wall panel shiny",
+  "tempered glass surface wipe"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Стеклянный фартук на кухне: простота ухода и идеальная чистота. Напишите СТЕКЛО в WhatsApp. #скинали #стеклянныйфартук #кухня #интерьер\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Вопрос мастеру",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия Вопрос мастеру. Развивает самый успешный угол по фартукам (охват 1060), снимая бытовые страхи клиентов перед заказом.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "hookscore": 57.6,
+ "qa": {
+  "score": 62,
+  "parts": {
+   "hook": 12,
+   "relevance": 12,
+   "alive": 12,
+   "text": 13,
+   "match": 6,
+   "cta": 8
+  },
+  "problems": [
+   "Полное несовпадение видеоряда и закадрового голоса: текст про уход за кухонным фартуком, а на видео показаны зеркало в прихожей и остекление балкона",
+   "Тема ролика про фартук, но сам фартук показан только на первых 2 секундах",
+   "Видеоряд не иллюстрирует процесс ухода (протирание салфеткой)"
+  ],
+  "fix": "Замените кадры с зеркалом и балконом на реальные кадры кухонных фартуков из стекла и процесс их легкой очистки тряпкой до блеска, чтобы видеоряд полностью соответствовал закадровому тексту."
+ },
+ "date": "2026-11-26 09:07 UTC"
+}

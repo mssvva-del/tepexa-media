@@ -1,0 +1,85 @@
+{
+ "id": "5347ab92bdba713bdb58_s21",
+ "company": "Roman Group ArtVitrage",
+ "lang": "ru",
+ "hook": "Безрамное остекление балкона с панорамой",
+ "lines": [
+  "Безрамное остекление сохраняет великолепный вид на город.",
+  "Мы работаем с любыми стеклянными конструкциями.",
+  "Прочные панели открывают чистую панораму горизонта.",
+  "Напишите СТЕКЛО в WhatsApp."
+ ],
+ "say": [
+  "Безрамное остекление сохраняет великолепный вид на город.",
+  "Мы работаем с любыми стеклянными конструкциями.",
+  "Прочные панели открывают чистую панораму горизонта.",
+  "Напишите СТЕКЛО в вотсап."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/15_5TW65nuzMAAnB7r3ZaAfrQro1i_Fna.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "balcony frameless glass overlooking city"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1Hb1TJKzMhuJ1zeIji9ma_qRx2SwR_xhM_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true,
+   "shows": "decorative geometric mirrored wall panels"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1dv9CIOftKB1PVJT4FAZYIuIQRKPvL466.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "glass balcony panels corner view"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1hLfwfb03LXZjY4nay26VoIisIhTmhGKj_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true,
+   "shows": "tall stained glass window design"
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1yEFzOjDY2OKkzZk73VoF19c_z4zWQ2MR.jpg",
+   "dur": 3,
+   "own": true,
+   "shows": "balcony frameless glazing overlooking field"
+  }
+ ],
+ "stock_queries": [
+  "installing glass balcony panels",
+  "glazier mounting glass railing",
+  "balcony renovation glass work"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Показываем процесс монтажа безрамного остекления. Напишите СТЕКЛО в WhatsApp. #остеклениебалкона #монтажстекла #мастерская #хайфа\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Установка глазами мастера",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия Установка глазами мастера на базе собственного успешного ролика на 47 тыс. просмотров, вызывает максимальное доверие к квалификации мастеров.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "hookscore": 53.6,
+ "qa": {
+  "score": 74,
+  "parts": {
+   "hook": 13,
+   "relevance": 16,
+   "alive": 13,
+   "text": 13,
+   "match": 10,
+   "cta": 9
+  },
+  "problems": [
+   "At 00:06-00:08 voice speaks about durable panels opening clean panorama, but video shows a stained-glass window in an interior instead of frameless panels",
+   "Hook headline is generic and static, lacks an emotional pain or strong benefit hook"
+  ],
+  "fix": "Replace the stained glass shot with a dynamic demonstration of frameless balcony glass sliding open to match the voiceover about panoramic panels."
+ },
+ "date": "2026-11-25 16:13 UTC"
+}

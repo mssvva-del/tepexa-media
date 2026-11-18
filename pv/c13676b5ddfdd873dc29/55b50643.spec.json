@@ -1,0 +1,93 @@
+{
+ "id": "c13676b5ddfdd873dc29_s3_v3",
+ "company": "Natalia Fitness",
+ "lang": "en",
+ "hook": "3 moves before kids wake up",
+ "lines": [
+  "Three focused dumbbell moves right before morning chaos begins.",
+  "Control your bodyweight movements to build real strength quickly.",
+  "Keep your pull-up reps clean and stay consistent.",
+  "Comment GUIDE in the comments to receive this complete busy mom routine."
+ ],
+ "say": [
+  "Three focused dumbbell moves right before morning chaos begins.",
+  "Control your bodyweight movements to build real strength quickly.",
+  "Keep your pull-up reps clean and stay consistent.",
+  "Comment GUIDE in the comments to receive this complete busy mom routine."
+ ],
+ "shots": [
+  {
+   "src": "clients/c13676b5ddfdd873dc29/drive/1f3GnVOtit7cqDvjWquWSV4ZZRDLnXapq_720.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "own": true,
+   "shows": "woman doing dumbbell shoulder press"
+  },
+  {
+   "src": "stock/pexels_8893509.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "woman doing kettlebell squats indoors"
+  },
+  {
+   "src": "stock/pexels_8026940.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "woman doing lunges at home"
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/drive/1CkAd1otQPWzMKRHJcYDZW8ZxmsThg2eb_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true,
+   "shows": "woman doing assisted pull-ups in gym"
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/drive/1tbKLw7dc85j3Tv6r8NBVkxTIKArMnSs8.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "fit woman in gym wear standing"
+  },
+  {
+   "src": "stock/pexels_20535458.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "woman doing overhead dumbbell presses"
+  }
+ ],
+ "stock_queries": [
+  "woman kettlebell goblet squat living room morning",
+  "mother dumbbell shoulder press early gym",
+  "athletic woman Romanian deadlift focused workout"
+ ],
+ "paid": true,
+ "end": "Comment GUIDE in comments",
+ "caption": "Three moves and twenty minutes before the chaos begins. Keep it simple, move with intention, and build your strength week by week. Comment GUIDE in the comments for the full routine.\n\n#strengthtrainingforwomen #sgfitness #busywomenworkout #fitmomsover30\n\n👉 reels.tepexa.com/w/c13676b5ddfdd873dc29",
+ "series": "No time, mama",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "f429c1a684c64a0ea4545e149d2106ba",
+ "own_voice": true,
+ "why": "Series 'No time, mama'. Rebuilt to eliminate extraneous talking-head interview clips at the end as requested, keeping the visual strictly focused on Natalia's clean workout demonstration and natural voiceover tailored for time-poor women 30+.",
+ "rules": "Videos in English. Series (strategy 17.11): Fix this (technique mistake + fix), No time mama (3 moves / 20 min), Coach truth (Natalia's own talk), Strong journey (assistant gets stronger - strength milestones, never kilos), Be honest (relatable gym humour), Myth vs fact. Natalia's own Instagram footage comes first; world viral training footage only as support and only women's strength / gym. Main on-screen people: Natalia and her assistant (a plus-size woman) - always respectful and supportive, never shame about weight, no before/after bodies, no mocking. Audience: women 30+, many mums. Never promise weight loss, kilos, results or health outcomes; no medical or nutrition claims, no diet pills or supplements. Never write the word 'free'. Weeks 1-2 CTA: 'Save this + follow for part 2'. No guide, prices or course dates unless the team adds them. Tone: warm, motivating, real, a coach-mum who tells the truth. Hooks: short, concrete, a mistake / question / number in the first 2 seconds.\n- Never use robotic AI voiceover with unnatural pauses between words; use natural pacing or Natalia's real voice notes.",
+ "hookscore": 68.8,
+ "qa": {
+  "score": 58,
+  "parts": {
+   "hook": 14,
+   "relevance": 10,
+   "alive": 12,
+   "text": 8,
+   "match": 10,
+   "cta": 4
+  },
+  "problems": [
+   "Used forbidden CTA asking for 'GUIDE' instead of 'Save this + follow for part 2' per current rules",
+   "Shot at 00:05 has heavy pre-existing text baked into the footage covering the screen",
+   "Stock fitness footage used featuring random models instead of prioritizing Natalia and her assistant",
+   "Robotic, unnatural AI voiceover cadence"
+  ],
+  "fix": "Replace the stock footage and text-overlayed clip with original training videos of Natalia, re-record voiceover naturally, and change the CTA to 'Save this + follow for part 2'."
+ },
+ "date": "2026-11-20 03:19 UTC"
+}

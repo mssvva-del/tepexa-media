@@ -1,0 +1,109 @@
+{
+ "id": "9c575ca75e5bd7ef963c",
+ "company": "Чистота та Затишок",
+ "lang": "uk",
+ "hook": "Як швидко відмити складний бруд?",
+ "lines": [
+  "Брудні плями на підлозі та плиті складно відмити.",
+  "Ми дбайливо прибираємо будь-який бруд безпечними професійними засобами.",
+  "Зберігаємо первинний вигляд поверхонь і ваш вільний час.",
+  "Напишіть нам у WhatsApp та розрахуйте точну вартість."
+ ],
+ "say": [
+  "Брудні плями на підлозі та плиті складно відмити.",
+  "Ми дбайливо прибираємо будь-який бруд безпечними професійними засобами.",
+  "Зберігаємо первинний вигляд поверхонь і ваш вільний час.",
+  "Напишіть нам у Вотсап та розрахуйте точну вартість."
+ ],
+ "shots": [
+  {
+   "src": "clients/9c575ca75e5bd7ef963c/donor_tt7350082988857625861_2.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "tt7350082988857625861",
+    "media": "https://v19.tiktokcdn-us.com/eb17d2471419e2ca5fb0d84e80a0aeb4/6afda593/video/tos/useast2a/tos-useast2a-ve-0068c001/owIAJIdEDXNdLBvCQEfaAuQzxFieQmBEchURpA/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=1730&ft=aEKfuqT0mmjPD12ATypI3wUSaVLxaeF~O5&mime_type=video_mp4&rc=NzdpODkzO2RoPDQ4Ojk8aEBpMzV5cWo5cnFlcjMzNzczM0A2Mi8yYmBgNTQxNDEvLV5eYSNeL2ZsMmRjYi1gLS1kMTZzcw%3D%3D&vvpl=1&l=202611180716512277F77B6F3B83059ED1&btag=e00090000",
+    "start": 62.0,
+    "dur": 2.0
+   },
+   "free": "bottom",
+   "shows": "cleaning dirty tiled floor rags"
+  },
+  {
+   "src": "stock/pexels_9462909.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_9462938.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "person wiping kitchen counter surface"
+  },
+  {
+   "src": "stock/pexels_9473223.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "gloved hand cleaning stovetop burners"
+  },
+  {
+   "src": "stock/pexels_6196270.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "cleaner wringing cloth into bucket"
+  },
+  {
+   "src": "stock/pexels_6195521.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "cleaning team working in modern room"
+  },
+  {
+   "src": "stock/pexels_6195942.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "professional cleaning kitchen stove",
+  "cleaner wiping kitchen counter",
+  "satisfied woman clean living room"
+ ],
+ "llm_usd": 0.0179,
+ "hookscore": 60.5,
+ "end_text": [
+  "Ще 6 Reels",
+  "цього тижня"
+ ],
+ "why": "Ролик по первой серии стратегии («Анатомия чистки») использует механику экстремальной трансформации сложных загрязнений кухни (донор №0 с 10,9 млн просмотров). Цель — показать экспертный и бережный подход к поверхностям и перевести зрителя в WhatsApp для расчета стоимости уборки.\nЧасть кадров — из вирусного ролика вашей ниши (7.5 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "qa": {
+  "score": 70,
+  "parts": {
+   "hook": 13,
+   "relevance": 14,
+   "alive": 14,
+   "text": 12,
+   "match": 12,
+   "cta": 6
+  },
+  "problems": [
+   "CTA packshot is completely generic agency branding ('Тереха') instead of cleaning service contacts/logo",
+   "Voiceover has unnatural pronunciation/accents ('пліті', 'поверьконь')",
+   "Visual at 00:01 shows wiping an already clean plate while voice speaks of floor and stove stains"
+  ],
+  "fix": "Replace the final agency placeholder screen with the cleaning company's WhatsApp CTA and re-record the voiceover with natural Ukrainian pronunciation."
+ },
+ "cost": {
+  "usd": 0.033,
+  "calls": 16,
+  "by": {
+   "script": 0.0034,
+   "donor_clips": 0.0089,
+   "clean_windows": 0.0038,
+   "fit_filter": 0.0042,
+   "frame_check": 0.0013,
+   "edit_pass": 0.0026,
+   "once": 0.0085
+  }
+ }
+}

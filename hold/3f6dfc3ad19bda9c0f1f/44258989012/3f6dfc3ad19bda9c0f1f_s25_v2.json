@@ -1,0 +1,87 @@
+{
+ "id": "3f6dfc3ad19bda9c0f1f_s25_v2",
+ "company": "InClick",
+ "lang": "en",
+ "hook": "Notebook orders or real store?",
+ "lines": [
+  "Writing down customer orders in a paper notebook takes hours.",
+  "With InClick you simply chat with our AI copilot.",
+  "Your storefront goes live with secure online checkout instantly.",
+  "Comment STORE below to launch your online shop without any complicated setup."
+ ],
+ "say": [
+  "Writing down customer orders in a paper notebook takes hours.",
+  "With InClick you simply chat with our AI copilot.",
+  "Your storefront goes live with secure online checkout instantly.",
+  "Comment STORE below to launch your online shop without any complicated setup."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_3256849.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "woman smiling writing in notebook"
+  },
+  {
+   "src": "stock/pexels_7423509.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "businesswoman talking happily on phone"
+  },
+  {
+   "src": "stock/pexels_15689201.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_8472307.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_6898096.mp4",
+   "ss": 1,
+   "dur": 3
+  },
+  {
+   "src": "stock/pexels_6347121.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "woman packing clothes into boxes"
+  }
+ ],
+ "stock_queries": [
+  "female small business owner 40 writing orders notebook smiling",
+  "mature businesswoman talking to smartphone retail store",
+  "woman entrepreneur 40s packing boxes in boutique shop"
+ ],
+ "paid": true,
+ "end": "Comment STORE in the comments",
+ "caption": "Tired of tracking customer orders manually in a notebook? Let our AI co-pilot set up your online store with built-in payments and shipping in minutes. Comment STORE to get started! #smallbusiness #shopowner #ecommerce #onlinebusiness\n\n👉 reels.tepexa.com/w/3f6dfc3ad19bda9c0f1f",
+ "series": "Small shop, real setup",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "own_voice": false,
+ "why": "Серия «Маленький магазин, реальная настройка». Переделка ролика по замечаниям клиента: противопоставление ручной записи заказов в блокнот и готового магазина с встроенной оплатой и доставкой. Опирается на успешный формат DM/рутины (лучшие ролики с охватом до 838).",
+ "rules": "Main on-screen person: a woman aged 35-50, business owner look. No religious or national attire (no hijab). No cartoon or 3D characters. No text over faces.",
+ "hookscore": 64.5,
+ "qa": {
+  "score": 71,
+  "parts": {
+   "hook": 14,
+   "relevance": 12,
+   "alive": 15,
+   "text": 10,
+   "match": 11,
+   "cta": 8
+  },
+  "problems": [
+   "Main on-screen persons look much younger than the required age of 35-50",
+   "Generic stock footage used instead of real AI copilot interface demo",
+   "Hook card badge covers the notebook/actor slightly in the center"
+  ],
+  "fix": "Feature a mature 35-50 business owner and show actual screen recordings of chatting with the AI copilot to build an instant online store."
+ },
+ "date": "2026-11-19 16:11 UTC"
+}

@@ -1,0 +1,91 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s3",
+ "company": "Ilya Vainshtein",
+ "lang": "ru",
+ "hook": "Сила Слова меняет вашу жизнь",
+ "lines": [
+  "Когда Писание оживает в сердце, любые сомнения отступают навсегда.",
+  "Напишите СЛОВО в WhatsApp чтобы присоединиться к нашему служению."
+ ],
+ "say": [
+  "Когда Писание оживает в сердце, любые сомнения отступают навсегда.",
+  "Напишите СЛОВО в вотсап чтобы присоединиться к нашему служению."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_8720496.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "man holding prayer beads outdoors"
+  },
+  {
+   "src": "stock/pexels_7218311.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "hands holding a Christian rosary"
+  },
+  {
+   "src": "stock/pexels_5366778.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "woman praying with crucifix necklace"
+  },
+  {
+   "src": "stock/pexels_38036672.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "blue sky with white clouds"
+  },
+  {
+   "src": "stock/pexels_8720495.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "hands praying with prayer beads"
+  },
+  {
+   "src": "stock/pexels_8165170.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "man holding holy religious book"
+  },
+  {
+   "src": "stock/pexels_5366832.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "woman raising hands with rosary"
+  }
+ ],
+ "stock_queries": [
+  "light breaking through clouds",
+  "person praying outdoors",
+  "hands holding scripture"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Главная сила веры кроется в глубоком знании Божьего Слова. Откройте его заново. Напишите СЛОВО в WhatsApp! #проповедь #надежда #евангелие #духовность\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc",
+ "series": "Суть проповеди",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия «Суть проповеди». Опирается на популярную формулу духовного подъема (донор №4, 13 млн просмотров).",
+ "hookscore": 60.5,
+ "qa": {
+  "score": 62,
+  "parts": {
+   "hook": 12,
+   "relevance": 8,
+   "alive": 12,
+   "text": 12,
+   "match": 10,
+   "cta": 8
+  },
+  "problems": [
+   "Использованы несоответствующие стоковые кадры: показаны католические четки/розарий и книга с арабской/восточной вязью (Коран), что противоречит мессианскому евангельскому движению",
+   "Слишком абстрактные стоковые видео вместо реальных лиц общины и мессианского служения",
+   "Хук слабый и общий, нет фокуса на боли или ценности верующего"
+  ],
+  "fix": "Замените чужеродные стоковые кадры с четками и восточной книгой на реальные съемки общины, мессианского богослужения, изучения Танаха и Нового Завета."
+ },
+ "date": "2026-11-20 09:11 UTC"
+}

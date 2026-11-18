@@ -1,0 +1,91 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s4",
+ "company": "Ilya Vainshtein",
+ "lang": "ru",
+ "hook": "Одно слово на иврите меняет все",
+ "lines": [
+  "Древнееврейский язык открывает неожиданный смысл в привычных библейских стихах.",
+  "Напишите СЛОВО в WhatsApp и читайте первоисточник вместе с нами."
+ ],
+ "say": [
+  "Древнееврейский язык открывает неожиданный смысл в привычных библейских стихах.",
+  "Напишите СЛОВО в вотсап и читайте первоисточник вместе с нами."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_5986554.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "man near Torah scrolls in synagogue"
+  },
+  {
+   "src": "stock/pexels_9080217.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "flipping pages of a thick book"
+  },
+  {
+   "src": "stock/pexels_9080221.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "hand resting on open book pages"
+  },
+  {
+   "src": "stock/pexels_36864123.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Flipping pages of a book"
+  },
+  {
+   "src": "stock/pexels_39425776.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Hands typing on laptop keyboard"
+  },
+  {
+   "src": "stock/pexels_36314084.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Handwriting script text with pen"
+  },
+  {
+   "src": "stock/pexels_11384843.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "turning pages of ancient book"
+  }
+ ],
+ "stock_queries": [
+  "torah scroll closeup",
+  "hands turning antique book pages",
+  "warm light on manuscript"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Как одно слово на иврите полностью меняет взгляд на текст. Погружаемся в глубину контекста. Напишите СЛОВО в WhatsApp! #библиянаиврите #танах #вера #изучениебиблии\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc",
+ "series": "Слово в оригинале",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия «Слово в оригинале». Вовлекает через интерес к контексту языков оригинала (донор №1, 18 млн просмотров).",
+ "hookscore": 53.8,
+ "qa": {
+  "score": 72,
+  "parts": {
+   "hook": 14,
+   "relevance": 11,
+   "alive": 14,
+   "text": 13,
+   "match": 12,
+   "cta": 8
+  },
+  "problems": [
+   "Generic stock footage used instead of real ministry/Messianic community content",
+   "Writing shot at 00:07 shows Arabic/Persian calligraphy, not Hebrew, contradicting the voiceover",
+   "Static robotic AI voiceover"
+  ],
+  "fix": "Replace the Arabic calligraphy and generic stock videos with authentic footage of Hebrew Torah study, actual community members, or an on-camera speaker demonstrating a specific Hebrew word's meaning."
+ },
+ "date": "2026-11-20 16:53 UTC"
+}

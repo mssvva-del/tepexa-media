@@ -1,0 +1,91 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s1",
+ "company": "Ilya Vainshtein",
+ "lang": "ru",
+ "hook": "Почему этот стих понимают неверно?",
+ "lines": [
+  "В оригинале на иврите этот библейский текст звучит совсем иначе.",
+  "Напишите СЛОВО в WhatsApp чтобы получить подробный разбор стиха."
+ ],
+ "say": [
+  "В оригинале на иврите этот библейский текст звучит совсем иначе.",
+  "Напишите СЛОВО в вотсап чтобы получить подробный разбор стиха."
+ ],
+ "shots": [
+  {
+   "src": "clients/e4e1d2e481db7a9640dc/donor_igDF7NVbvNzXP_1.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "igDF7NVbvNzXP",
+    "media": "https://scontent-bru2-1.cdninstagram.com/o1/v/t2/f2/m367/AQNogiTegBb9eQb0bNzHP9stxySCNsBAgsqU0Wm2PnpGTG5_YqYfyHA9yjw1UBjzg1nopsCdG-vnY_kOsO7mDFnFeubukaayQ71DPA0.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_ohc=rFfo0fu9P-QQ7kNvwF0dZXf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTE0NTY4OTQ5Mzc3MTIxOCwiYXNzZXRfYWdlX2RheXMiOjY0NSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=20b6bec510280be0&_nc_vs=HBksFQIYQGlnX2VwaGVtZXJhbC8wRjQ3NDM1NkM2ODM4NDlCQkJGMUNFQjlCNEE3MjdCRV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85MjYxMTY4MDAzOTY0MTMxXzgyNzAzNTc4NjAzMTMzODExOTcubXA0FQICyAESACgAGAAbA4gHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExEmNvcHlfc2FtcGxlX2dyb3VwcwExFQAAJqTP5PTz_4gEFQIoAkMzLBdAJN2yLQ5WBBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gdl5p0BAA&_nc_gid=IwQgqLxJJadTN5QmmKf50Q&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=UnE7RPV5aVlGoX0klnlzrMSRuUtwSS76xV-pQBJ339nL7ZTsxr0W7TSIVw6kYzKxDWLSHBO7Qj8cLTvWV1LebcNhly5JUFW3iC_YYTeqJw0cCD6itoHpqSR-tP0&oh=00_AQSPjmJD9iElM36GBou2FHeWMmp5sRnCG7maJLToWmJ5QQ&oe=6B03D912",
+    "start": 7.0,
+    "dur": 2.0
+   },
+   "free": "bottom",
+   "shows": "Jesus hugging woman in clouds"
+  },
+  {
+   "src": "stock/pexels_5986566.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "Hebrew scripture scroll close up"
+  },
+  {
+   "src": "stock/pexels_5986561.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Reading open Torah scroll"
+  },
+  {
+   "src": "stock/pexels_5975332.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "turning pages of Hebrew scripture"
+  },
+  {
+   "src": "stock/pexels_5975317.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "pointing at Hebrew prayer text"
+  },
+  {
+   "src": "stock/pexels_5206104.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "Man studying bible at desk"
+  }
+ ],
+ "stock_queries": [
+  "hebrew bible reading",
+  "ancient parchment scroll",
+  "man studying scripture"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Трудности перевода часто скрывают истинную глубину Писания. Разбираем стих в оригинале на иврите. Напишите СЛОВО в WhatsApp! #библия #иврит #писание #вера\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc",
+ "series": "Слово в оригинале",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия «Слово в оригинале». Построено на формуле разбора сложного текста (донор №3, 11,4 млн просмотров) для привлечения ищущей и верующей аудитории.\nЧасть кадров — из вирусного ролика вашей ниши (18.1 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "hookscore": 70.8,
+ "qa": {
+  "score": 82,
+  "parts": {
+   "hook": 14,
+   "relevance": 17,
+   "alive": 16,
+   "text": 13,
+   "match": 14,
+   "cta": 8
+  },
+  "problems": [
+   "Первый кадр со сгенерированным Иисусом на лестнице выглядит клишированно и дешево",
+   "Не указано конкретное кодовое слово вместо заглушки 'СЛОВО'"
+  ],
+  "fix": "Замените первый сгенерированный кадр на реальное видео спикера или фрагмент манускрипта и укажите точное кодовое слово для отправки в WhatsApp."
+ },
+ "date": "2026-11-19 09:41 UTC"
+}

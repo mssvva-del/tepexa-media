@@ -1,0 +1,95 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s7",
+ "company": "Ilya Vainshtein",
+ "lang": "ru",
+ "hook": "Глубокое изучение Священного Писания",
+ "lines": [
+  "Откройте глубокое изучение первоисточников Библии.",
+  "Разбирайте древние священные тексты и важные смыслы.",
+  "Получите системные знания и разбор контекста глав.",
+  "Напишите СЛОВО в WhatsApp чтобы узнать все подробности программы."
+ ],
+ "say": [
+  "Откройте глубокое изучение первоисточников Библии.",
+  "Разбирайте древние священные тексты и важные смыслы.",
+  "Получите системные знания и разбор контекста глав.",
+  "Напишите СЛОВО в вотсап чтобы узнать все подробности программы."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_5199836.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "woman reading Bible at desk"
+  },
+  {
+   "src": "stock/pexels_39425781.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "person writing in journal closeup"
+  },
+  {
+   "src": "stock/pexels_7698438.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "person writing notes during sermon"
+  },
+  {
+   "src": "stock/pexels_7857453.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "close up of writing in notebook"
+  },
+  {
+   "src": "stock/pexels_5875579.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "people sitting in church pews"
+  },
+  {
+   "src": "stock/pexels_28144843.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "congregation raising hands in worship"
+  },
+  {
+   "src": "stock/pexels_6266114.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "people sitting on white church pews"
+  }
+ ],
+ "stock_queries": [
+  "bible study seminar presentation",
+  "holding pen writing in notebook",
+  "welcoming church fellowship"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Стартует новое направление библейского служения. Изучаем Писание в оригинале вместе! Напишите СЛОВО в WhatsApp. #новое #служение #библия #изучение\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc",
+ "series": "Рубрика о текущем предложении",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Рубрика о текущем предложении. Прямой оффер с четким объяснением ценности программы и призывом зафиксировать интерес.",
+ "hookscore": 54.2,
+ "qa": {
+  "score": 64,
+  "parts": {
+   "hook": 12,
+   "relevance": 9,
+   "alive": 12,
+   "text": 12,
+   "match": 11,
+   "cta": 8
+  },
+  "problems": [
+   "Stock footage used throughout instead of real congregation, leaders, or study groups",
+   "Weak hook visual: generic stock woman reading a book",
+   "Voiceover sounds like generic AI narration rather than a personal invite"
+  ],
+  "fix": "Replace generic stock clips of random people writing and European church benches with real footage of Ilya Vainshtein, actual bible study classes, and genuine messianic community gatherings."
+ },
+ "date": "2026-11-22 09:11 UTC"
+}

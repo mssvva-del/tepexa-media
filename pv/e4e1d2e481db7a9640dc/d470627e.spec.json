@@ -1,0 +1,89 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s5",
+ "company": "Ilya Vainshtein",
+ "lang": "ru",
+ "hook": "Как понять подлинный смысл Писания",
+ "lines": [
+  "Каждую неделю мы открываем и подробно исследуем Писание.",
+  "Мы сопоставляем строки текста с древней библейской историей.",
+  "Так раскрывается подлинная глубина священного учения в размышлениях.",
+  "Напишите СЛОВО в WhatsApp чтобы изучать эти тексты вместе."
+ ],
+ "say": [
+  "Каждую неделю мы открываем и подробно исследуем Писание.",
+  "Мы сопоставляем строки текста с древней библейской историей.",
+  "Так раскрывается подлинная глубина священного учения в размышлениях.",
+  "Напишите СЛОВО в вотсап чтобы изучать эти тексты вместе."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_39341009.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Pencil pointing at Bible text"
+  },
+  {
+   "src": "stock/pexels_5676112.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Two young men studying scripture"
+  },
+  {
+   "src": "stock/pexels_5206014.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "Hands holding open Bible Chronicles"
+  },
+  {
+   "src": "stock/pexels_8343702.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "woman talking during discussion indoors"
+  },
+  {
+   "src": "stock/pexels_8187130.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "people having discussion around table"
+  },
+  {
+   "src": "stock/pexels_5206027.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "studying open books at desk"
+  }
+ ],
+ "stock_queries": [
+  "pastor teaching small group",
+  "table with open books notes",
+  "close up studying bible"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Наш подход к изучению Писания: контекст первоисточников и верность истине. Присоединяйтесь! Напишите СЛОВО в WhatsApp. #библеистика #исследование #служение #истина\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc",
+ "series": "Суть проповеди",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия «Суть проповеди». Показывает внутреннюю экспертную работу служения и формирует доверие к компетентности общины.",
+ "hookscore": 60.5,
+ "qa": {
+  "score": 66,
+  "parts": {
+   "hook": 12,
+   "relevance": 10,
+   "alive": 12,
+   "text": 12,
+   "match": 12,
+   "cta": 8
+  },
+  "problems": [
+   "Generic stock footage of random people and hands turning pages instead of actual community/pastor footage",
+   "Weak hook visual showing an indistinct blurry book closeup",
+   "Robot-like AI voiceover without emotional connection"
+  ],
+  "fix": "Замените обезличенные стоковые кадры на живые съемки реальных встреч вашей общины с Ильей Вайнштейном и запишите живую озвучку с настоящими эмоциями."
+ },
+ "date": "2026-11-21 09:11 UTC"
+}

@@ -1,0 +1,84 @@
+{
+ "id": "3f6dfc3ad19bda9c0f1f_s19_v2",
+ "company": "InClick",
+ "lang": "en",
+ "hook": "Selling through direct messages wastes hours",
+ "lines": [
+  "Manage your growing orders directly from your mobile phone.",
+  "Review shipping papers and package parcels with complete ease.",
+  "InClick prepares your boutique orders through natural chat commands.",
+  "Comment STORE below to launch your online shop today."
+ ],
+ "say": [
+  "Manage your growing orders directly from your mobile phone.",
+  "Review shipping papers and package parcels with complete ease.",
+  "In Click prepares your boutique orders through natural chat commands.",
+  "Comment STORE below to launch your online shop today."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_7971669.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "stylish business owner typing on phone"
+  },
+  {
+   "src": "stock/pexels_6347122.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "woman reviewing paperwork by shipping box"
+  },
+  {
+   "src": "stock/pexels_6424081.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "woman packaging handmade goods order"
+  },
+  {
+   "src": "stock/pexels_40233180.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "shop owner in textile store"
+  },
+  {
+   "src": "stock/pexels_7423509.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "businesswoman speaking on phone"
+  }
+ ],
+ "stock_queries": [
+  "woman 40 boutique owner packing order smiling",
+  "female business owner smiling holding mobile phone",
+  "small business founder standing in retail studio smiling"
+ ],
+ "paid": true,
+ "end": "Comment STORE to get started",
+ "caption": "Stop handling payments and addresses manually in customer messages. Set up your checkout and shipping seamlessly in one chat. Comment STORE to get started! #smallbusiness #ecommerce #checkout #shopowner #onlinebusiness\n\n👉 reels.tepexa.com/w/3f6dfc3ad19bda9c0f1f",
+ "series": "Small store, real setup",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "own_voice": false,
+ "why": "Серия «Маленький магазин, реальная настройка». Переработка отклоненного ролика: тема перехода от хаоса в переписках к реальному чекауту с подключенными платежами и доставкой через AI Co-pilot без упоминания сторонних брендов.",
+ "rules": "Main on-screen person: a woman aged 35-50, business owner look. No religious or national attire (no hijab). No cartoon or 3D characters. No text over faces.",
+ "hookscore": 58.2,
+ "qa": {
+  "score": 70,
+  "parts": {
+   "hook": 14,
+   "relevance": 12,
+   "alive": 14,
+   "text": 10,
+   "match": 10,
+   "cta": 9
+  },
+  "problems": [
+   "Persistent hook card blocks the bottom-center throughout the first 3 seconds and clashes with kinetic subtitles",
+   "Stock footage at 00:06-00:08 is generic fabric retail rather than managing online store orders with AI",
+   "No actual interface or demonstration of AI chat commands managing orders"
+  ],
+  "fix": "Remove the redundant static hook badge overlay and insert actual screen recordings of conversational chat commands managing boutique orders."
+ },
+ "date": "2026-11-19 09:43 UTC"
+}

@@ -1,0 +1,110 @@
+{
+ "id": "3f6dfc3ad19bda9c0f1f_s26_v2",
+ "company": "InClick",
+ "lang": "en",
+ "hook": "Packing endless orders by hand?",
+ "lines": [
+  "Still awake packing items and manually checking messages?",
+  "InClick sets up your store through simple conversation.",
+  "Easily manage orders while typing on your laptop.",
+  "Comment STORE below to launch your own store without any hassle."
+ ],
+ "say": [
+  "Still awake packing items and manually checking messages?",
+  "In-Click sets up your store through simple conversation.",
+  "Easily manage orders while typing on your laptop.",
+  "Comment STORE below to launch your own store without any hassle."
+ ],
+ "shots": [
+  {
+   "src": "clients/3f6dfc3ad19bda9c0f1f/donor_tt7640073412504784129_1.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "tt7640073412504784129",
+    "media": "https://v16m.tiktokcdn-us.com/023d022f99c74f91070a9ea4cc96c16f/6afdaa19/video/tos/alisg/tos-alisg-ve-0068c800-sg/o4eufe4tGRQpAN1qA9LAgNNfyLeDQUMgI6AAiN/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=584&ft=gKfIn8QLodzR12NvZq8XzIxRT66_g3_45SY&mime_type=video_mp4&rc=ZWVkZDc2OThmNGZmNDQ1OEBpM3Zobnc5cmVpOzMzODczNEA1L2IwLjBhXzAxYS01NS42YSNkci5hMmRzaTBhLS1kMWBzcw%3D%3D&vvpl=1&l=2026111807361501056895FD945A04C57F&btag=e00090000",
+    "start": 44.5,
+    "dur": 2.0
+   },
+   "free": "bottom",
+   "shows": "Inspecting diamond bracelet for sale"
+  },
+  {
+   "src": "clients/3f6dfc3ad19bda9c0f1f/donor_tt7640073412504784129_2.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "tt7640073412504784129",
+    "media": "https://v16m.tiktokcdn-us.com/023d022f99c74f91070a9ea4cc96c16f/6afdaa19/video/tos/alisg/tos-alisg-ve-0068c800-sg/o4eufe4tGRQpAN1qA9LAgNNfyLeDQUMgI6AAiN/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=584&ft=gKfIn8QLodzR12NvZq8XzIxRT66_g3_45SY&mime_type=video_mp4&rc=ZWVkZDc2OThmNGZmNDQ1OEBpM3Zobnc5cmVpOzMzODczNEA1L2IwLjBhXzAxYS01NS42YSNkci5hMmRzaTBhLS1kMWBzcw%3D%3D&vvpl=1&l=2026111807361501056895FD945A04C57F&btag=e00090000",
+    "start": 57.5,
+    "dur": 2.0
+   },
+   "free": "bottom",
+   "shows": "Packaging gold bracelet for order"
+  },
+  {
+   "src": "clients/3f6dfc3ad19bda9c0f1f/donor_tt7640073412504784129_0.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "tt7640073412504784129",
+    "media": "https://v16m.tiktokcdn-us.com/023d022f99c74f91070a9ea4cc96c16f/6afdaa19/video/tos/alisg/tos-alisg-ve-0068c800-sg/o4eufe4tGRQpAN1qA9LAgNNfyLeDQUMgI6AAiN/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=584&ft=gKfIn8QLodzR12NvZq8XzIxRT66_g3_45SY&mime_type=video_mp4&rc=ZWVkZDc2OThmNGZmNDQ1OEBpM3Zobnc5cmVpOzMzODczNEA1L2IwLjBhXzAxYS01NS42YSNkci5hMmRzaTBhLS1kMWBzcw%3D%3D&vvpl=1&l=2026111807361501056895FD945A04C57F&btag=e00090000",
+    "start": 27.5,
+    "dur": 2.0
+   },
+   "free": "bottom",
+   "shows": "Opening drawer filled with packaged products"
+  },
+  {
+   "src": "stock/pexels_6927284.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "businesswoman looking at mobile phone"
+  },
+  {
+   "src": "stock/pexels_8472307.mp4",
+   "ss": 1,
+   "dur": 3
+  },
+  {
+   "src": "stock/pexels_8373736.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "woman working on sofa with laptop"
+  }
+ ],
+ "stock_queries": [
+  "tired business woman 40s checking phone late night boutique",
+  "female entrepreneur 40s closing laptop peaceful smile cozy workshop",
+  "modern retail shelf packaged goods aesthetic small store woman"
+ ],
+ "paid": true,
+ "end": "Comment STORE for the link",
+ "caption": "Stop wasting late nights copying addresses from your DMs. Let an AI Co-pilot build your store and handle checkout automatically. Comment STORE to get started! #smallbusiness #ecommerce #shopowner #onlinebusiness\n\n👉 reels.tepexa.com/w/3f6dfc3ad19bda9c0f1f",
+ "series": "Small business owner, 11 PM",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "own_voice": false,
+ "why": "Серия «Small business owner, 11 PM». Опирается на топовые форматы аккаунта (боль ночных заказов в DM с охватами 838 и 504), решая прямую задачу оффера без сторонних логотипов и с актрисой 35-50 лет по правилам клиента.\nЧасть кадров — из вирусного ролика вашей ниши (7.0 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "rules": "Main on-screen person: a woman aged 35-50, business owner look. No religious or national attire (no hijab). No cartoon or 3D characters. No text over faces.",
+ "hookscore": 64.5,
+ "qa": {
+  "score": 71,
+  "parts": {
+   "hook": 15,
+   "relevance": 11,
+   "alive": 13,
+   "text": 13,
+   "match": 10,
+   "cta": 9
+  },
+  "problems": [
+   "Product interface demo is completely missing; it claims to build stores via chat but shows generic stock clips of laptops and jewelry packing.",
+   "Voiceover phrasing 'manage orders while typing on your laptop' is awkward and doesn't showcase the conversational AI feature.",
+   "The shot from 00:09-00:12 is static and feels disconnected from e-commerce store management."
+  ],
+  "fix": "Replace the generic stock footage of typing and sitting on the sofa with screen recordings showing InClick's chat interface creating a store and managing orders."
+ },
+ "date": "2026-11-19 16:53 UTC"
+}

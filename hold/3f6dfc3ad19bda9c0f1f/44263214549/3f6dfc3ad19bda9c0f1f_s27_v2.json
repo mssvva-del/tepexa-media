@@ -1,0 +1,88 @@
+{
+ "id": "3f6dfc3ad19bda9c0f1f_s27_v2",
+ "company": "InClick",
+ "lang": "en",
+ "hook": "Your Instagram is already a catalog",
+ "lines": [
+  "Your Instagram profile already showcases all your products beautifully.",
+  "Our AI Co-pilot turns your posts into a store.",
+  "Payments and shipping connect automatically without complex tech setup.",
+  "Comment STORE below to get your store link today."
+ ],
+ "say": [
+  "Your Instagram profile already showcases all your products beautifully.",
+  "Our A I Co-pilot turns your posts into a store.",
+  "Payments and shipping connect automatically without complex tech setup.",
+  "Comment STORE below to get your store link today."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_8472307.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_10374888.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "browsing online shop on mobile phone"
+  },
+  {
+   "src": "stock/pexels_7308370.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "packing goods into padded shipping envelope"
+  },
+  {
+   "src": "stock/pexels_8496473.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "woman smiling looking at camera"
+  },
+  {
+   "src": "stock/pexels_7148143.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "portrait of mature female entrepreneur"
+  },
+  {
+   "src": "stock/pexels_7308367.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "man taping cardboard delivery box"
+  }
+ ],
+ "stock_queries": [
+  "hands holding smartphone scrolling shop feed closeup",
+  "woman 40 boutique owner packing parcel counter",
+  "confident businesswoman 45 smiling in retail studio"
+ ],
+ "paid": true,
+ "end": "Comment STORE for the link",
+ "caption": "Turn your social feed into a full online shop in minutes. No complex dashboard or manual data entry needed. Comment STORE to get started! #smallbusiness #ecommerce #shopowner #onlineboutique\n\n👉 reels.tepexa.com/w/3f6dfc3ad19bda9c0f1f",
+ "series": "Из Instagram в магазин",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "own_voice": false,
+ "why": "Серия «Из Instagram в магазин». Офферное видео, исправленное по требованиям клиента: открытие с крупного плана рук без лиц, исключающее перекрытие текста, героиня строго 35-50 лет в деловом стиле, акцент на легкий перенос товаров и лидогенерацию через слово STORE.",
+ "rules": "Main on-screen person: a woman aged 35-50, business owner look. No religious or national attire (no hijab). No cartoon or 3D characters. No text over faces.",
+ "hookscore": 62.0,
+ "qa": {
+  "score": 72,
+  "parts": {
+   "hook": 13,
+   "relevance": 12,
+   "alive": 14,
+   "text": 13,
+   "match": 11,
+   "cta": 9
+  },
+  "problems": [
+   "Rule violation: Client specified main on-screen person must be a woman aged 35-50, but video cuts between unrelated generic stock characters including a man taping boxes at the end.",
+   "B-roll feels like disconnected generic stock footage rather than demonstrating the InClick AI Co-pilot interface or actual Instagram-to-store conversion."
+  ],
+  "fix": "Focus on a single consistent 35-50 year old female business owner interacting with the AI Co-pilot interface and showing her actual Instagram turning into an e-commerce store."
+ },
+ "date": "2026-11-20 09:49 UTC"
+}

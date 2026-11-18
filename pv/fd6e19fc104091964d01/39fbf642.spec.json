@@ -1,0 +1,103 @@
+{
+ "id": "fd6e19fc104091964d01",
+ "company": "maris.kaba",
+ "lang": "en",
+ "hook": "How real Italian silk flows",
+ "lines": [
+  "Tired of buying fabrics that disappoint after draping?",
+  "Discover exclusive Italian silks and delicate French lace.",
+  "We test real drape and texture before purchase.",
+  "Send us a WhatsApp message to reserve cuts."
+ ],
+ "say": [
+  "Tired of buying fabrics that disappoint after draping?",
+  "Discover exclusive Italian silks and delicate French lace.",
+  "We test real drape and texture before purchase.",
+  "Send us a Whats-App message to reserve cuts."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_7677835.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "luxurious purple silk fabric folding"
+  },
+  {
+   "src": "stock/pexels_7677767.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "creamy satin textile waving softly"
+  },
+  {
+   "src": "stock/pexels_7998251.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "tailor marking fabric with chalk"
+  },
+  {
+   "src": "stock/pexels_4620563.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "designer draping fabric on mannequin"
+  },
+  {
+   "src": "stock/pexels_7946013.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "draped elegant black silk fabric"
+  },
+  {
+   "src": "stock/pexels_7998247.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "designers working with pattern layout"
+  },
+  {
+   "src": "stock/pexels_8516588.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "luxury silk fabric drape close up",
+  "couture dressmaker fabric table",
+  "tailor mannequin draping silk cloth"
+ ],
+ "llm_usd": 0.0155,
+ "hookscore": 65.0,
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "Серия «Новое поступление»: визуальный хук на динамику и пластику полотна, вдохновленный форматом демонстрации драпировки у Mood Fabrics (до 573 000 просмотров), с целью привлечь дизайнеров и стимулировать заявки в WhatsApp.\nЧасть кадров — из вирусного ролика вашей ниши (103.3 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "qa": {
+  "score": 66,
+  "parts": {
+   "hook": 12,
+   "relevance": 11,
+   "alive": 14,
+   "text": 12,
+   "match": 12,
+   "cta": 6
+  },
+  "problems": [
+   "Generic stock footage instead of real showroom cuts and authentic shop interior",
+   "Hook footage is bland computer-generated or stock satin ripple rather than tactile premium silk demonstration",
+   "Outro ends on a generic app screen instead of branded store contact details"
+  ],
+  "fix": "Replace stock video clips with authentic, high-definition macro videos of your actual Italian silks and French laces being draped and handled in your Riga showroom, and end with your actual WhatsApp contact card."
+ },
+ "cost": {
+  "usd": 0.037,
+  "calls": 18,
+  "by": {
+   "script": 0.0029,
+   "donor_clips": 0.0051,
+   "clean_windows": 0.0056,
+   "fit_filter": 0.0063,
+   "frame_check": 0.0031,
+   "edit_pass": 0.0022,
+   "once": 0.0115
+  }
+ }
+}

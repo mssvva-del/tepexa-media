@@ -1,0 +1,99 @@
+{
+ "id": "3f6dfc3ad19bda9c0f1f_s27_v2",
+ "company": "InClick",
+ "lang": "en",
+ "hook": "Your feed is already your catalog",
+ "lines": [
+  "Your boutique photos already showcase every single product beautifully.",
+  "Stop manually answering messages and typing out prices constantly.",
+  "Let buyers complete mobile checkouts straight from their phones.",
+  "Comment STORE below to launch your online shop today."
+ ],
+ "say": [
+  "Your boutique photos already showcase every single product beautifully.",
+  "Stop manually answering messages and typing out prices constantly.",
+  "Let buyers complete mobile checkouts straight from their phones.",
+  "Comment STORE below to launch your online shop today."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_7679838.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "store owner hanging floral dress"
+  },
+  {
+   "src": "stock/pexels_7669201.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "taking photo of clothing store"
+  },
+  {
+   "src": "stock/pexels_7392948.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "woman texting on smartphone"
+  },
+  {
+   "src": "stock/pexels_8472307.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_15689201.mp4",
+   "ss": 1,
+   "dur": 2.4
+  },
+  {
+   "src": "stock/pexels_6898096.mp4",
+   "ss": 1,
+   "dur": 3
+  },
+  {
+   "src": "stock/pexels_7308233.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "woman packing order into paper"
+  },
+  {
+   "src": "stock/pexels_7308234.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "entrepreneur checking orders on tablet"
+  }
+ ],
+ "stock_queries": [
+  "woman small business owner smiling at smartphone in modern boutique shop 40s",
+  "mature female boutique owner reviewing products and packages on counter",
+  "confident business woman forty years old typing message on smartphone indoors"
+ ],
+ "paid": true,
+ "end": "Comment STORE to get started",
+ "caption": "Your Instagram already holds all your photos and product details. Turn your posts into a real online checkout without manual setups. Comment STORE to get started! #smallbusiness #ecommerce #shopowner #onlinebusiness #checkout\n\n👉 reels.tepexa.com/w/3f6dfc3ad19bda9c0f1f",
+ "series": "Из Instagram в магазин",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "own_voice": false,
+ "why": "Серия «Из Instagram в магазин». Опирается на механику вирусных роликов по переходу от ручных продаж в директе к автоматической витрине (лучшие результаты аккаунта с охватом до 838). Цель — конверсия владельцев шоурумов в создание магазина по кодовому слову STORE.",
+ "rules": "Main on-screen person: a woman aged 35-50, business owner look. No religious or national attire (no hijab). No cartoon or 3D characters. No text over faces.",
+ "hookscore": 65.8,
+ "qa": {
+  "score": 82,
+  "parts": {
+   "hook": 16,
+   "relevance": 14,
+   "alive": 16,
+   "text": 13,
+   "match": 14,
+   "cta": 9
+  },
+  "problems": [
+   "The client requested a woman aged 35-50 with a business owner look, but the hook and finale feature much younger women or generic hands.",
+   "The hook title sticker covers the upper face/eyes of the person in the opening shot.",
+   "Stock footage feels slightly generic (hands typing on laptop, hands holding phone) rather than showing the unique AI Co-pilot interface."
+  ],
+  "fix": "Cast an authentic boutique owner aged 35-50 actively curating her inventory and demonstrating the InClick interface rather than using generic stock hands and younger models."
+ },
+ "date": "2026-11-20 09:37 UTC"
+}

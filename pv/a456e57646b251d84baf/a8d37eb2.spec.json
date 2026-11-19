@@ -1,0 +1,108 @@
+{
+ "id": "a456e57646b251d84baf",
+ "pv": "viral",
+ "plan_usd": 0.0283,
+ "company": "Dentovox",
+ "lang": "en",
+ "hook": "Losing 30% of dental calls?",
+ "lines": [
+  "Most dental patients hang up instead of leaving voicemail.",
+  "Dentovox answers every missed clinic call immediately twenty-four-seven.",
+  "It books appointments straight into your schedule in two languages.",
+  "Call us now to protect your front desk revenue."
+ ],
+ "say": [
+  "Most dental patients hang up instead of leaving voicemail.",
+  "Dentovox answers every missed clinic call immediately twenty-four seven.",
+  "It books appointments straight into your schedule in two languages.",
+  "Call us now to protect your front desk revenue."
+ ],
+ "shots": [
+  {
+   "src": "clients/a456e57646b251d84baf/donor_igDSqSqr4Atlb_0.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "igDSqSqr4Atlb",
+    "media": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQM1fFxiYzYctSh5H0unMT4GtYEB6KWcbIFmXh-0hxNBPTJ1oIO0m6NMSpI5XvReGTy0CW--jhHbbLrm6WZDqxJx7qD3Q-rH3zxvaEM.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=Hev4A4ATS8oQ7kNvwH4VUF2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQUQuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTM0ODMzNDYwMDEwOTIzNiwiYXNzZXRfYWdlX2RheXMiOjMyOSwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjM2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b3f9d5f04f228c1&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FODRBMkVGOEY3MjdBRjdFOTZFNzJEMzQ4QUI4NTc4Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMjE4OTc3NzYzNDc1NDU5XzQyNDE1NjkxNTAwMzM1MTI2MjQubXA0FQICyAESACgAGAAbA4gHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExEmNvcHlfc2FtcGxlX2dyb3VwcwExFQAAJujyhc6zk-UEFQIoAkMzLBdAQkAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB18AdlrMEBAA&_nc_gid=BALVVGvM2WHleE4mA8KQtw&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSQ0dFEdgZvnlnFSoGrvZHKF_hzQMQx0xuS3EEWFrGfXw&oe=6B0121E1",
+    "start": 6.5,
+    "dur": 2.0
+   },
+   "free": "bottom",
+   "shows": "Patient relaxing in dental chair",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_6763347.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "clients/a456e57646b251d84baf/donor_igDSqSqr4Atlb_2.mp4",
+   "ss": 0,
+   "dur": 2.15,
+   "donor": {
+    "id": "igDSqSqr4Atlb",
+    "media": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQM1fFxiYzYctSh5H0unMT4GtYEB6KWcbIFmXh-0hxNBPTJ1oIO0m6NMSpI5XvReGTy0CW--jhHbbLrm6WZDqxJx7qD3Q-rH3zxvaEM.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=Hev4A4ATS8oQ7kNvwH4VUF2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQUQuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTM0ODMzNDYwMDEwOTIzNiwiYXNzZXRfYWdlX2RheXMiOjMyOSwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjM2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b3f9d5f04f228c1&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FODRBMkVGOEY3MjdBRjdFOTZFNzJEMzQ4QUI4NTc4Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMjE4OTc3NzYzNDc1NDU5XzQyNDE1NjkxNTAwMzM1MTI2MjQubXA0FQICyAESACgAGAAbA4gHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExEmNvcHlfc2FtcGxlX2dyb3VwcwExFQAAJujyhc6zk-UEFQIoAkMzLBdAQkAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB18AdlrMEBAA&_nc_gid=BALVVGvM2WHleE4mA8KQtw&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSQ0dFEdgZvnlnFSoGrvZHKF_hzQMQx0xuS3EEWFrGfXw&oe=6B0121E1",
+    "start": 21.5,
+    "dur": 2.2
+   },
+   "free": "top",
+   "shows": "Dental equipment and xray monitor",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_6630464.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_6631697.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "dental clinic receptionist phone",
+  "busy dental office front desk",
+  "dentist talking to patient"
+ ],
+ "llm_usd": 0.0373,
+ "hookscore": 76.5,
+ "disc": "Industry estimates. Individual clinic results may vary.",
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "Series 1 from the strategy addressing after-hours and missed call leakage with a specific data-driven pain hook (addressing previous score deficit). Uses viral front-desk dynamics seen in dental office shorts (donor 6, 9.6M views) to drive clinic owners to test the AI phone system.\nSome shots come from a viral video in your niche (7.4M views) to boost reach; your product and call to action open and close the video.",
+ "qa": {
+  "score": 72,
+  "parts": {
+   "hook": 14,
+   "relevance": 15,
+   "alive": 14,
+   "text": 12,
+   "match": 10,
+   "cta": 6
+  },
+  "problems": [
+   "Generic dental clinic b-roll instead of demonstrating the AI receptionist interface or an incoming call handling",
+   "The ending logo screen shows 'Tepexa' prominently instead of Dentovox, confusing the brand identity",
+   "Repetitive front desk and dentist shots at 00:06-00:10 that don't visualize booking into software or speaking two languages"
+  ],
+  "fix": "Show screen recordings or mobile mockups of the AI receptionist answering calls and syncing with clinic scheduling software instead of generic dental footage, and replace the Tepexa end card with Dentovox branding."
+ },
+ "cost": {
+  "usd": 0.038,
+  "calls": 13,
+  "by": {
+   "script": 0.0102,
+   "donor_clips": 0.0106,
+   "clean_windows": 0.0015,
+   "fit_filter": 0.0048,
+   "frame_check": 0.0042,
+   "edit_pass": 0.0023,
+   "judge_once": 0.0043
+  }
+ }
+}

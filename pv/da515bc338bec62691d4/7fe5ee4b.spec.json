@@ -1,0 +1,100 @@
+{
+ "id": "da515bc338bec62691d4",
+ "company": "Cocktail Bar",
+ "lang": "he",
+ "hook": "מחפשים את המקום הנכון להערב?",
+ "lines": [
+  "נמאס לכם ממקומות רועשים עם קוקטיילים בינוניים ורגילים?",
+  "אצלנו תיהנו מרכיבים מובחרים וטכניקות ערבוב מקצועיות במיוחד.",
+  "הברמנים שלנו מכינים עבורכם משקה מדויק לטעמכם.",
+  "שלחו לנו הודעה בוואטסאפ ושמרו מקום על הבר."
+ ],
+ "say": [
+  "נמאס לכם ממקומות רועשים עם קוקטיילים בינוניים ורגילים?",
+  "אצלנו תיהנו מרכיבים מובחרים וטכניקות ערבוב מקצועיות במיוחד.",
+  "הברמנים שלנו מכינים עבורכם משקה מדויק לטעמכם.",
+  "שלחו לנו הודעה בוואטסאפ ושמרו מקום על הבר."
+ ],
+ "shots": [
+  {
+   "src": "clients/da515bc338bec62691d4/donor_tt7703957716833717517_0.mp4",
+   "ss": 0,
+   "dur": 1.45,
+   "donor": {
+    "id": "tt7703957716833717517",
+    "media": "https://v16m.tiktokcdn-us.com/ffe1bb27a54cbf281c16e682a56c070d/6aff617b/video/tos/useast5/tos-useast5-ve-0068c004-tx/oAapvAC1PI4uLBU0B3ik0ibQEE9kBkUgn6yKk/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=1245&ft=arR-Iq4fmbdPD12.zZpI3wU1Jgx5jeF~O5&mime_type=video_mp4&rc=NTM3ZDxnZjM7ODZpNDxmOkBpM29sc2w5cjd5ZTMzZzczNEBjXy5fNDA0X2ExYDZiYGE2YSMyNjMyMmRrNmhhLS1kMS9zcw%3D%3D&vvpl=1&l=202611191451555FD688518289BD0A5D02&btag=e000b8000",
+    "start": 2.0,
+    "dur": 1.5
+   },
+   "free": "top",
+   "shows": "blue cocktail in goblet glass"
+  },
+  {
+   "src": "stock/pexels_30197464.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_30243621.mp4",
+   "ss": 1,
+   "dur": 3
+  },
+  {
+   "src": "stock/pexels_27846186.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_29532480.mp4",
+   "ss": 1,
+   "dur": 1.6
+  },
+  {
+   "src": "stock/pexels_16664747.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "bartender pouring cocktail bar aesthetic",
+  "friends relaxing evening cocktail bar",
+  "craft cocktail preparation moody lighting"
+ ],
+ "llm_usd": 0.0179,
+ "hookscore": 63.0,
+ "end_text": [
+  "עוד 6 סרטונים",
+  "השבוע"
+ ],
+ "why": "Сценарий основан на первой серии стратегии «Наш вечерний бар» с формулой вовлекающего вопроса, вдохновленной динамичным форматом барных роликов из подборки вирусных трендов (донор #4 с 31M просмотров). Цель — погрузить гостя в атмосферу заведения и побудить написать в WhatsApp для бронирования места.\nЧасть кадров — из вирусного ролика вашей ниши (31.0 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "qa": {
+  "score": 46,
+  "parts": {
+   "hook": 7,
+   "relevance": 14,
+   "alive": 12,
+   "text": 0,
+   "match": 9,
+   "cta": 4
+  },
+  "problems": [
+   "כל הטקסטים והכתוביות בעברית מוצגים בכתב ראי הפוך לחלוטין (משמאל לימין במקום מימין לשמאל)",
+   "כתוביות הכותרת בראש המסך פגומות והפוכות ומכסות את המשקה",
+   "ההוק לא עומד בדרישות הלקוח מבחינת טקסט קריא ומושך"
+  ],
+  "fix": "יש לתקן באופן מיידי את כל הכתוביות וההוק כך שייכתבו בעברית תקינה ולא בכתב ראי הפוך."
+ },
+ "cost": {
+  "usd": 0.04,
+  "calls": 19,
+  "by": {
+   "script": 0.0034,
+   "donor_clips": 0.0085,
+   "clean_windows": 0.0077,
+   "fit_filter": 0.0062,
+   "frame_check": 0.005,
+   "edit_pass": 0.0027,
+   "once": 0.0068
+  }
+ }
+}

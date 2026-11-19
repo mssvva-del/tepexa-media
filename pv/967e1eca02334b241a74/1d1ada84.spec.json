@@ -1,0 +1,121 @@
+{
+ "id": "967e1eca02334b241a74",
+ "pv": "viral",
+ "company": "Death Wish Coffee",
+ "lang": "en",
+ "hook": "Stop drinking watered down weak coffee ☕",
+ "lines": [
+  "Most commercial roasts leave your morning feeling utterly drained.",
+  "Our certified organic dark roast delivers bold, clean energy.",
+  "Fair Trade beans give you maximum strength without bitterness.",
+  "Message us on WhatsApp to get your roast today."
+ ],
+ "say": [
+  "Most commercial roasts leave your morning feeling utterly drained.",
+  "Our certified organic dark roast delivers bold, clean energy.",
+  "Fair Trade beans give you maximum strength without bitterness.",
+  "Message us on WhatsApp to get your roast today."
+ ],
+ "shots": [
+  {
+   "src": "clients/967e1eca02334b241a74/donor_igDe1__rftOrm_0.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "igDe1__rftOrm",
+    "media": "https://scontent-cph2-1.cdninstagram.com/o1/v/t2/f2/m86/AQNg-h9Jw1mHcOJWdPRUf1H2EVP_LRkLo9eXovetHquNNI0ZISHsJqw2n69FxcKKV0jt4FxrfKtecnAvisLDcQUB7tNiowP56abD9_E.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_ohc=uN7DzS_-86UQ7kNvwHbzkeJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgzNjE0MzA5MDg1Mjc3MywiYXNzZXRfYWdlX2RheXMiOjI3LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=68f114e1f15ae4c6&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9CMzNBQjg0OUJEOUQ0OTA1ODE1MTY2QkFBRDBBNUQ2Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0MyNTdFMDlEQUUyNTRBNzlCRUYzN0M0QUNGQjM0OTIyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbKjv-KzP3CBhUCKAJDMywXQEHMzMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=9IUv1fvNgR4wYmLEK5ia4Q&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQuI71AAS5CsP7vJhpsyggunZxij6BlFtD2eUYfzNmA9A&oe=6B0146B2",
+    "start": 26.5,
+    "dur": 2.2
+   },
+   "free": "top",
+   "shows": "coffee brewing inside moka pot",
+   "cam": null
+  },
+  {
+   "src": "clients/967e1eca02334b241a74/donor_igDdEdkhqI-xa_2.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "igDdEdkhqI-xa",
+    "media": "https://scontent-cph2-1.cdninstagram.com/o1/v/t2/f2/m86/AQOSC0svveyiQUpIR_6Movmjj69GCHsQWv6Dz5NKpP2SPpa2WE5bJyr_-TlPYTgqKg4LKLuUlrfoYoyXiVWvB-vO6pyGjw1PoTPrlY8.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_ohc=THngMFXpa_IQ7kNvwGFuaXW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgyMzI1MTc5NTUwNjIzMiwiYXNzZXRfYWdlX2RheXMiOjcxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=cd919874c2cbf63e&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BNDQzMkNGM0I1RTQwQkRBRkQyMzcwQjE4RjM4MUI5Q192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0YxNENCQTc3QjFEMzYzNkJFNEJEOEUxMTlCNzFBNEFBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbw0Nu5nI-9BhUCKAJDMywXQESzMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=9IUv1fvNgR4wYmLEK5ia4Q&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTYwBJK_QBoC0j_xve1O7aMHfbMODHA404wSVRLZWlPiw&oe=6B011C9F",
+    "start": 33.5,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "pouring coffee shot into glasses",
+   "cam": null
+  },
+  {
+   "src": "clients/967e1eca02334b241a74/prod_1.jpg",
+   "dur": 1.5,
+   "zoom": 1.06,
+   "own": true,
+   "shows": "Death Wish coffee packages display",
+   "cam": null
+  },
+  {
+   "src": "clients/967e1eca02334b241a74/donor_tt7653149441393708320_1.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "tt7653149441393708320",
+    "media": "https://v16m.tiktokcdn-us.com/8c1ad71d19a68f038627cd7c41582ae3/6affa3be/video/tos/useast2a/tos-useast2a-ve-0068-euttp/ogGrXfA8ggfBKfdNc5oRqYrG1RLcYve4AApvZG/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=851&ft=gKfIn8s6ogVP12NvsIhXzIxR3cBO63_45SY&mime_type=video_mp4&rc=M2Q4Ozw1Z2dlODg2NTU2aEBpankzbHk5cnhxOzMzZjczNUBjYDBeL2EtNmExMi41XjM1YSNzb3ByMmRrL25hLS1kMTNzcw%3D%3D&vvpl=1&l=202611191933428894118D401B62180100&btag=e00090000",
+    "start": 61.5,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "man pouring milk into coffee",
+   "cam": null
+  },
+  {
+   "src": "clients/967e1eca02334b241a74/prod_76.jpg",
+   "dur": 3,
+   "fit": "pad",
+   "own": true,
+   "shows": "Power Surge coffee box packaging",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "espresso brewing dark roast",
+  "tired morning kitchen coffee",
+  "pouring fresh rich coffee"
+ ],
+ "llm_usd": 0.0191,
+ "hookscore": 64.5,
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "Series 1 opener using the high-energy sensory contrast hook proven by the 45.3M-view coffee ritual donor to drive immediate WhatsApp inquiries.\nSome shots come from a viral video in your niche (45.3M views) to boost reach; your product and call to action open and close the video.",
+ "qa": {
+  "score": 68,
+  "parts": {
+   "hook": 14,
+   "relevance": 12,
+   "alive": 12,
+   "text": 13,
+   "match": 11,
+   "cta": 6
+  },
+  "problems": [
+   "Static stock packshots at 00:03-00:05 and 00:08-00:13 lack motion and feel like flat catalogue cutouts",
+   "Unrealistic CTA asking international/Israeli web customers to message on WhatsApp instead of visiting the site or link in bio",
+   "Hook visually shows moka pot coffee brewing, which contrasts confusingly with the claim of 'weak watered down coffee'"
+  ],
+  "fix": "Replace the static product images with dynamic video of Death Wish Coffee beans and packaging in action, and update the call-to-action to direct viewers to order online via the website."
+ },
+ "cost": {
+  "usd": 0.041,
+  "calls": 19,
+  "by": {
+   "script": 0.007,
+   "donor_clips": 0.0053,
+   "clean_windows": 0.0047,
+   "fit_filter": 0.01,
+   "frame_check": 0.0011,
+   "edit_pass": 0.0022,
+   "once": 0.0109
+  }
+ }
+}

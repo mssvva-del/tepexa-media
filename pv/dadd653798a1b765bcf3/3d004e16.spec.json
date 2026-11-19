@@ -1,0 +1,113 @@
+{
+ "id": "dadd653798a1b765bcf3",
+ "pv": "viral",
+ "plan_usd": 0.0153,
+ "company": "Death Wish Coffee",
+ "lang": "en",
+ "hook": "Tired of weak morning coffee? ☕",
+ "lines": [
+  "Most store coffee brews weak and turns instantly bitter.",
+  "Our bold organic roast delivers rich smooth morning intensity.",
+  "Certified fair trade beans give clean focus without acidity.",
+  "Message us on WhatsApp now to get your roast."
+ ],
+ "say": [
+  "Most store coffee brews weak and turns instantly bitter.",
+  "Our bold organic roast delivers rich smooth morning intensity.",
+  "Certified fair trade beans give clean focus without acidity.",
+  "Message us on WhatsApp now to get your roast."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_32543620.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "clients/dadd653798a1b765bcf3/donor_igDdEdkhqI-xa_1.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "igDdEdkhqI-xa",
+    "media": "https://scontent-bru2-1.cdninstagram.com/o1/v/t2/f2/m86/AQOSC0svveyiQUpIR_6Movmjj69GCHsQWv6Dz5NKpP2SPpa2WE5bJyr_-TlPYTgqKg4LKLuUlrfoYoyXiVWvB-vO6pyGjw1PoTPrlY8.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_ohc=THngMFXpa_IQ7kNvwFc5maw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgyMzI1MTc5NTUwNjIzMiwiYXNzZXRfYWdlX2RheXMiOjcxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=cd919874c2cbf63e&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BNDQzMkNGM0I1RTQwQkRBRkQyMzcwQjE4RjM4MUI5Q192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0YxNENCQTc3QjFEMzYzNkJFNEJEOEUxMTlCNzFBNEFBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbw0Nu5nI-9BhUCKAJDMywXQESzMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=VVhc4izE6A4Ubf1erUm2Aw&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQR1BvMmWwLUyi8M4IjNfrZSvV8nEM78G-lRdCTVIgp-Lw&oe=6B0154DF",
+    "start": 37.5,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "Person pouring brewed coffee into glasses",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_34907989.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_27917076.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_37434226.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "clients/dadd653798a1b765bcf3/prod_47.jpg",
+   "dur": 1.5,
+   "fit": "pad",
+   "own": true,
+   "shows": "Death Wish cold brew bottles",
+   "cam": null
+  },
+  {
+   "src": "clients/dadd653798a1b765bcf3/prod_26.jpg",
+   "dur": 3,
+   "fit": "pad",
+   "own": true,
+   "shows": "Death Wish Coffee mug on counter",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "dark espresso pour over ice close up",
+  "barista grinding fresh coffee beans slow motion",
+  "brewing fresh rich coffee in glass cup"
+ ],
+ "llm_usd": 0.0199,
+ "hookscore": 70.8,
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "Series 1 (The Heavy Pour), leveraging the viral cold pour aesthetic of donor #2 (11.9M views) and Tanner Colson's ASMR extraction style to convert tired morning coffee drinkers via WhatsApp.\nSome shots come from a viral video in your niche (45.3M views) to boost reach; your product and call to action open and close the video.",
+ "qa": {
+  "score": 80,
+  "parts": {
+   "hook": 17,
+   "relevance": 16,
+   "alive": 14,
+   "text": 13,
+   "match": 14,
+   "cta": 6
+  },
+  "problems": [
+   "Static stock-like product renders at the end break the dynamic live-action flow",
+   "No visual CTA graphic or contact info on screen during the call to action",
+   "End card displays third-party watermark/logo"
+  ],
+  "fix": "Replace the static product renders with dynamic brewing/pouring video showing Death Wish packaging, and add an on-screen WhatsApp CTA button."
+ },
+ "cost": {
+  "usd": 0.004,
+  "calls": 13,
+  "by": {
+   "script": 0.0073,
+   "donor_clips": 0.0047,
+   "clean_windows": 0.0017,
+   "fit_filter": 0.0051,
+   "edit_pass": 0.0042,
+   "judge_once": 0.0059
+  }
+ }
+}

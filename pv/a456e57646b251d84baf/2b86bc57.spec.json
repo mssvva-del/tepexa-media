@@ -1,0 +1,106 @@
+{
+ "id": "a456e57646b251d84baf",
+ "pv": "viral",
+ "plan_usd": 0.0147,
+ "company": "Dentovox",
+ "lang": "en",
+ "hook": "Stop losing late-night callers today",
+ "lines": [
+  "Patients in pain call when clinic doors close.",
+  "Dentovox answers every single incoming call twenty-four seven.",
+  "Our smart front desk manages appointments and visits smoothly.",
+  "Call us right now to hear the live demo."
+ ],
+ "say": [
+  "Patients in pain call when clinic doors close.",
+  "Dentovox answers every single incoming call 24/7.",
+  "Our smart front desk manages appointments and visits smoothly.",
+  "Call us right now to hear the live demo."
+ ],
+ "shots": [
+  {
+   "src": "clients/a456e57646b251d84baf/donor_igDekBNAYtN4x_0.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "igDekBNAYtN4x",
+    "media": "https://scontent-cph2-1.cdninstagram.com/o1/v/t2/f2/m367/AQPMigVIuzM6uzWxLCVYE1QssNsMlAtW-blxppVRbFcq4Zbb9OvUWmJiyECsBY0lHsQ9j7R70rLmPYiYOGay0mAPPo0RhRjb6uhZ1QdM7g.mp4?_nc_cat=108&_nc_sid=8bf8fe&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_ohc=tQv10knn8YQQ7kNvwE0iqYk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxODYwODIzNDc4NjAwMTQyLCJhc3NldF9hZ2VfZGF5cyI6MzQsInZpX3VzZWNhc2VfaWQiOjEwODI3LCJkdXJhdGlvbl9zIjoyMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=87Ddeuluv1iDUGcKrsefEw&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTRESp1VHMWX8OAOiIHE2U2wD7boC5BNIRtd_7GwFXQEg&oe=6B0541CE",
+    "start": 5.0,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "animated tooth getting drilled",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_7578634.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_6763403.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_6763344.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_6192962.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "clients/a456e57646b251d84baf/prod_0.jpg",
+   "dur": 3,
+   "fit": "pad",
+   "own": true,
+   "shows": "AI front office website hero",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "dental clinic empty reception",
+  "dentist office phone ringing",
+  "busy dental receptionist desk"
+ ],
+ "llm_usd": 0.0187,
+ "hookscore": 73.3,
+ "disc": "Industry estimates, results vary by practice volume.",
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "This script uses Series 1 ('The 9:40 PM Call') and the viral 'missed calls are lost revenue' pain point from the strategy to target overloaded clinic owners. The goal is to prompt dental practice managers to call the live demo line and discover the automated 24/7 receptionist.\nSome shots come from a viral video in your niche (35.6M views) to boost reach; your product and call to action open and close the video.",
+ "qa": {
+  "score": 71,
+  "parts": {
+   "hook": 15,
+   "relevance": 13,
+   "alive": 13,
+   "text": 11,
+   "match": 12,
+   "cta": 7
+  },
+  "problems": [
+   "Generic stock footage of receptionists and patients",
+   "Persistent fine print disclaimer covers the video lower middle area",
+   "Weak ending slide showing Tepexa branding instead of Dentovox clear CTA"
+  ],
+  "fix": "Replace generic stock clips with actual UI demonstrations of Dentovox booking appointments and end with a clear branded Dentovox call to action."
+ },
+ "cost": {
+  "usd": 0.02,
+  "calls": 9,
+  "by": {
+   "script": 0.0035,
+   "donor_clips": 0.0036,
+   "clean_windows": 0.002,
+   "fit_filter": 0.0054,
+   "edit_pass": 0.0022,
+   "judge_once": 0.0038
+  }
+ }
+}

@@ -1,0 +1,156 @@
+{
+ "id": "a456e57646b251d84baf",
+ "pv": "viral",
+ "company": "Dentovox",
+ "lang": "en",
+ "hook": "Can your clinic answer tonight? 🦷",
+ "lines": [
+  "Late night callers hang up on clinic voicemails.",
+  "Dentovox answers instantly during every late night hour.",
+  "Our smart voice assistant books visits directly into Dentrix.",
+  "Call our demo line today to hear how it works."
+ ],
+ "say": [
+  "Late night callers hang up on clinic voicemails.",
+  "Dentovox answers instantly during every late night hour.",
+  "Our smart voice assistant books visits directly into Dentrix.",
+  "Call our demo line today to hear how it works."
+ ],
+ "shots": [
+  {
+   "src": "clients/a456e57646b251d84baf/donor_igDfUU_bfIDOT_0.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "igDfUU_bfIDOT",
+    "media": "https://scontent-fra5-1.cdninstagram.com/o1/v/t2/f2/m367/AQP8QWpwrnvZdpnabVrEp7fqQS3X3cprxqbmHi5T-u7C5cOt5838YRucsK_m886gZiktubIGn3bESf8uu3WwI8LtKLXBYpJ5PmQmAjsWtA.mp4?_nc_cat=106&_nc_sid=8bf8fe&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_ohc=Umne8u7qsPcQ7kNvwGWXIt1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyOTE2ODM5OTQ4Mjc5MDc3NywiYXNzZXRfYWdlX2RheXMiOjE1LCJ2aV91c2VjYXNlX2lkIjoxMDgyNywiZHVyYXRpb25fcyI6MTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=QIfo03Dnj-BmzZ_SV5ZFoQ&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQRxIlF8aed3T3N9qtgz1et5vORH4vCNo7GCSw93PxMAA&oe=6B051E18",
+    "start": 4.0,
+    "dur": 1.8
+   },
+   "free": "top",
+   "shows": "animated cartoon teeth drill treatment",
+   "cam": null
+  },
+  {
+   "src": "clients/a456e57646b251d84baf/donor_tt7085418076425981227_1.mp4",
+   "ss": 0,
+   "dur": 2.15,
+   "donor": {
+    "id": "tt7085418076425981227",
+    "media": "https://v16m.tiktokcdn-us.com/c116364e0339290ca270b7cbd3c9a757/6affad0b/video/tos/useast5/tos-useast5-ve-0068c003-tx/31549616afc14af7926dd3295eed9fb9/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=801&ft=gKfIn8QLodzR12Nvqs6XzIxRKOobiq_45SY&mime_type=video_mp4&rc=PDw3ZTxpaDlpOzVpaGg1O0BpMzpnMzU6ZnU6PDMzZzczNEA0NTEzLTFgXzUxY2I2MDEtYSNhZDVwcjQwM15gLS1kMS9zcw%3D%3D&vvpl=1&l=20261119201407310D4CA9B8BB1C21B013&btag=e000b8000",
+    "start": 14.5,
+    "dur": 2.2
+   },
+   "free": "bottom",
+   "shows": "dentist and patient in operatory",
+   "cam": null
+  },
+  {
+   "src": "clients/a456e57646b251d84baf/donor_igDfUU_bfIDOT_1.mp4",
+   "ss": 0,
+   "dur": 1.55,
+   "donor": {
+    "id": "igDfUU_bfIDOT",
+    "media": "https://scontent-fra5-1.cdninstagram.com/o1/v/t2/f2/m367/AQP8QWpwrnvZdpnabVrEp7fqQS3X3cprxqbmHi5T-u7C5cOt5838YRucsK_m886gZiktubIGn3bESf8uu3WwI8LtKLXBYpJ5PmQmAjsWtA.mp4?_nc_cat=106&_nc_sid=8bf8fe&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_ohc=Umne8u7qsPcQ7kNvwGWXIt1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyOTE2ODM5OTQ4Mjc5MDc3NywiYXNzZXRfYWdlX2RheXMiOjE1LCJ2aV91c2VjYXNlX2lkIjoxMDgyNywiZHVyYXRpb25fcyI6MTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=QIfo03Dnj-BmzZ_SV5ZFoQ&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQRxIlF8aed3T3N9qtgz1et5vORH4vCNo7GCSw93PxMAA&oe=6B051E18",
+    "start": 12.0,
+    "dur": 1.6
+   },
+   "free": "top",
+   "shows": "animated teeth model light cure",
+   "cam": null
+  },
+  {
+   "src": "clients/a456e57646b251d84baf/donor_igDVEH2CqDLsK_0.mp4",
+   "ss": 0,
+   "dur": 2.15,
+   "donor": {
+    "id": "igDVEH2CqDLsK",
+    "media": "https://scontent-fra5-1.cdninstagram.com/o1/v/t16/f2/m69/AQOdqk6z5Lqx5f2UoEJman8hbrC4xO1PIre5YIMe8Ko3y2ePG0la6YE3UrzxvxJ6e5IxS1kjsPhCwQ0BwELrPgQo.mp4?strext=1&_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_ohc=kwa-JEUnvT0Q7kNvwH0gznr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc4NjYwMDg4ODI1NzgxODAsImFzc2V0X2FnZV9kYXlzIjoyNzAsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=45a15ebb4b0194c2&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTEprLXlYMmVYaGVjRjREQUpMbEhERnFEWXR4YnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzNBNDU4NUE5MkY1OUZFODM1MDY2MDUyMUMxRjNCMjgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaIjICQy8K8PxUCKAJDMywXQCLul41P3zsYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=QIfo03Dnj-BmzZ_SV5ZFoQ&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQS0qjeIZ5DRpunB4s7r75TYVcS9pfaTJEnVUgmX9OE8AQ&oe=6B05133A",
+    "start": 0.0,
+    "dur": 2.2
+   },
+   "free": "bottom",
+   "shows": "toy character on dental spittoon",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_6763344.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Receptionist assisting patient at counter",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_6763403.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Patient talking with receptionist at desk",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_6763345.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Dental receptionist writing in notebook",
+   "cam": null
+  },
+  {
+   "src": "clients/a456e57646b251d84baf/donor_igDVEH2CqDLsK_1.mp4",
+   "ss": 0,
+   "dur": 3,
+   "donor": {
+    "id": "igDVEH2CqDLsK",
+    "media": "https://scontent-fra5-1.cdninstagram.com/o1/v/t16/f2/m69/AQOdqk6z5Lqx5f2UoEJman8hbrC4xO1PIre5YIMe8Ko3y2ePG0la6YE3UrzxvxJ6e5IxS1kjsPhCwQ0BwELrPgQo.mp4?strext=1&_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_ohc=kwa-JEUnvT0Q7kNvwH0gznr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc4NjYwMDg4ODI1NzgxODAsImFzc2V0X2FnZV9kYXlzIjoyNzAsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=45a15ebb4b0194c2&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTEprLXlYMmVYaGVjRjREQUpMbEhERnFEWXR4YnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzNBNDU4NUE5MkY1OUZFODM1MDY2MDUyMUMxRjNCMjgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaIjICQy8K8PxUCKAJDMywXQCLul41P3zsYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=QIfo03Dnj-BmzZ_SV5ZFoQ&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQS0qjeIZ5DRpunB4s7r75TYVcS9pfaTJEnVUgmX9OE8AQ&oe=6B05133A",
+    "start": 3.5,
+    "dur": 2.2
+   },
+   "free": "bottom",
+   "shows": "toy figure on dental equipment",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "dental clinic reception night",
+  "dentist office front desk telephone",
+  "dental software computer appointment screen"
+ ],
+ "llm_usd": 0.0191,
+ "hookscore": 69.0,
+ "disc": "Industry estimates, results may vary by dental clinic practice.",
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "This video launches series #1 ('The 9:40 PM Call'), leveraging the proven niche pain of missed after-hours revenue highlighted in front-desk content (such as @mcarthurdental's 150k likes video). The goal is to drive dental clinic owners to dial the demo line to experience the bilingual AI receptionist firsthand.\nSome shots come from a viral video in your niche (181.6M views) to boost reach; your product and call to action open and close the video.",
+ "qa": {
+  "score": 64,
+  "parts": {
+   "hook": 14,
+   "relevance": 12,
+   "alive": 14,
+   "text": 10,
+   "match": 9,
+   "cta": 5
+  },
+  "problems": [
+   "First 2 seconds have overlapping text where the bottom caption covers the hook text",
+   "Random clips like dancing dentist and glove puppet don't match AI receptionist theme",
+   "Voice assistant booking Dentrix is shown with someone handwriting in a physical paper book",
+   "Demo phone number is not displayed during the CTA to call our demo line"
+  ],
+  "fix": "Remove the overlapping captions, replace the unrelated clips and paper reception book with a modern dental front desk screen showing digital scheduling, and add the demo phone number on screen at the end."
+ },
+ "cost": {
+  "usd": 0.053,
+  "calls": 24,
+  "by": {
+   "script": 0.0101,
+   "donor_clips": 0.0105,
+   "clean_windows": 0.0082,
+   "fit_filter": 0.0097,
+   "frame_check": 0.0047,
+   "edit_pass": 0.0023,
+   "judge": 0.0076
+  }
+ }
+}

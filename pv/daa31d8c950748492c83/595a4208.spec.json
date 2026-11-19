@@ -1,0 +1,131 @@
+{
+ "id": "daa31d8c950748492c83_own",
+ "pv": "own",
+ "plan_usd": 0.0257,
+ "company": "Death Wish Coffee",
+ "lang": "en",
+ "hook": "Still overpaying for weak coffee?",
+ "lines": [
+  "Most store shelf coffee tastes thin and quite bitter.",
+  "Our organic roasts deliver maximum strength without bitterness.",
+  "Subscribing gets you fresh coffee with serious savings.",
+  "Send us a WhatsApp message to get started."
+ ],
+ "say": [
+  "Most store shelf coffee tastes thin and quite bitter.",
+  "Our organic roasts deliver maximum strength without bitterness.",
+  "Subscribing gets you fresh coffee with serious savings.",
+  "Send us a WhatsApp message to get started."
+ ],
+ "shots": [
+  {
+   "src": "clients/daa31d8c950748492c83/donor_oiDfP36guEuv2_0.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "oiDfP36guEuv2",
+    "media": "https://scontent-bru2-1.cdninstagram.com/o1/v/t2/f2/m86/AQP35wZ6sUtiRrqUlHkoVz0lzYZYRAgf0HAOy8hdWwS9JrpIMjUHapYOhPPQUz85KX3MCO642YxsRXClSUbHtbDZyV9E-recWZR8MSc.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_ohc=jAzd4LSPOooQ7kNvwHoA-vn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTg2NTI0NzQxODMwMDY4ODgsImFzc2V0X2FnZV9kYXlzIjoxNywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjIwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6e83c4e6dbabdf87&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82NEJFNUNFRDI1Mjc0MTBEOUM1MzJENzIxOTgzRjkzNF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzQ0MzVDMzgzMTNCMzRFODk4NjVDOUQ3RUVCREMzODBFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbQ6uGd8pSiQhUCKAJDMywXQDR3S8an754YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=_wvkKoRpdsPeZfcGDvmtDQ&_nc_ss=7a3ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSMqRjR6CYXY93freWJb0KcQIOYQvp6HxUKKMHL5zw_Sw&oe=6B013D2D",
+    "start": 5.5,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "death wish coffee shopping haul",
+   "cam": null
+  },
+  {
+   "src": "clients/daa31d8c950748492c83/prod_30.jpg",
+   "dur": 1.5,
+   "zoom": 1.06,
+   "own": true,
+   "shows": "branded coffee flight tasting board",
+   "cam": null
+  },
+  {
+   "src": "clients/daa31d8c950748492c83/donor_oiDfP36guEuv2_1.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "oiDfP36guEuv2",
+    "media": "https://scontent-bru2-1.cdninstagram.com/o1/v/t2/f2/m86/AQP35wZ6sUtiRrqUlHkoVz0lzYZYRAgf0HAOy8hdWwS9JrpIMjUHapYOhPPQUz85KX3MCO642YxsRXClSUbHtbDZyV9E-recWZR8MSc.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_ohc=jAzd4LSPOooQ7kNvwHoA-vn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTg2NTI0NzQxODMwMDY4ODgsImFzc2V0X2FnZV9kYXlzIjoxNywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjIwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6e83c4e6dbabdf87&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82NEJFNUNFRDI1Mjc0MTBEOUM1MzJENzIxOTgzRjkzNF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzQ0MzVDMzgzMTNCMzRFODk4NjVDOUQ3RUVCREMzODBFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbQ6uGd8pSiQhUCKAJDMywXQDR3S8an754YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=_wvkKoRpdsPeZfcGDvmtDQ&_nc_ss=7a3ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSMqRjR6CYXY93freWJb0KcQIOYQvp6HxUKKMHL5zw_Sw&oe=6B013D2D",
+    "start": 10.5,
+    "dur": 2.0
+   },
+   "free": "bottom",
+   "shows": "brewing coffee and preparing breakfast",
+   "cam": null
+  },
+  {
+   "src": "clients/daa31d8c950748492c83/prod_0.jpg",
+   "dur": 1.5,
+   "fit": "pad",
+   "own": true,
+   "shows": "three bags of packaged coffee",
+   "cam": null
+  },
+  {
+   "src": "clients/daa31d8c950748492c83/donor_oiDf2OwBFvZGu_0.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "oiDf2OwBFvZGu",
+    "media": "https://scontent-bru2-1.cdninstagram.com/o1/v/t2/f2/m86/AQOTlAOevOacd9zLZ99xvxe0_Bz297jNwnP5LVJl0z2XPD9kJUh7Kn9dz71HvwMJGQHStwD2I-yihlJyV9vz-l9WeWpT4M9Rn_LhzI4.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_ohc=JS74_Edi4moQ7kNvwGMjr33&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTYwMjk1ODg0NTM0MzkzOSwiYXNzZXRfYWdlX2RheXMiOjUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=a80dcbf7871a079f&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DNzYyM0UwQUM3NDQ0NzhBQkY5OUQ4NTUzRUM5RDc5OF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzFEODk2M0Y3NkVEQjQ4ODE4N0I5Q0I1RDdEM0I1RjBBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaG44eJvvjYBRUCKAJDMywXQC6IMSbpeNUYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=_wvkKoRpdsPeZfcGDvmtDQ&_nc_ss=7a3ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRcqvrkjFdJGLP0DVoG9y9g5ImnQ1rpeNprAxZrYOHG2w&oe=6B014ABF",
+    "start": 13.0,
+    "dur": 2.0
+   },
+   "free": "bottom",
+   "shows": "valhalla java mugs with coffee",
+   "cam": null
+  },
+  {
+   "src": "clients/daa31d8c950748492c83/prod_1.jpg",
+   "dur": 3,
+   "fit": "pad",
+   "own": true,
+   "shows": "coffee bag and tumbler merchandise",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "pouring hot dark coffee mug",
+  "coffee grounds French press preparation",
+  "person drinking strong morning espresso"
+ ],
+ "llm_usd": 0.0194,
+ "hookscore": 70.8,
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "Series 1 Subscribe and Save angle utilizing the high-retention callout format seen in donor #0 (17,607 views) targeting consumers tired of weak supermarket beans, driving direct conversions to WhatsApp.",
+ "qa": {
+  "score": 74,
+  "parts": {
+   "hook": 14,
+   "relevance": 18,
+   "alive": 12,
+   "text": 13,
+   "match": 12,
+   "cta": 4
+  },
+  "problems": [
+   "Voiceover mentions generic/weak grocery store coffee while the screen shows Death Wish Coffee bags on the shelf and in the cart, implying Death Wish is weak/bitter",
+   "Static still images of products are used instead of dynamic video footage",
+   "Call to action asks to send a WhatsApp message, which makes no sense for a major US e-commerce direct-to-consumer brand",
+   "Ending cuts abruptly to an agency template screen instead of a branded outro"
+  ],
+  "fix": "Replace the opening grocery store clips with generic commodity coffee brands, eliminate static mockups at 0:05 and 0:09 with dynamic brewing footage, and update the CTA to direct users to the website."
+ },
+ "cost": {
+  "usd": 0.056,
+  "calls": 23,
+  "by": {
+   "script": 0.0071,
+   "donor_clips": 0.0206,
+   "clean_windows": 0.0075,
+   "fit_filter": 0.006,
+   "frame_check": 0.0069,
+   "edit_pass": 0.0043,
+   "judge_once": 0.004
+  }
+ }
+}

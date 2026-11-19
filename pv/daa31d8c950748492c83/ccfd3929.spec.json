@@ -1,0 +1,99 @@
+{
+ "id": "daa31d8c950748492c83",
+ "pv": "viral",
+ "plan_usd": 0.0267,
+ "company": "Death Wish Coffee",
+ "lang": "en",
+ "hook": "Stop settling for weak coffee.",
+ "lines": [
+  "Most store bought coffee leaves you feeling drained.",
+  "Freshly grinding bold beans delivers maximum daily energy.",
+  "Brewing rich coffee gives you smooth morning focus.",
+  "Message us on WhatsApp to upgrade your morning cup."
+ ],
+ "say": [
+  "Most store bought coffee leaves you feeling drained.",
+  "Freshly grinding bold beans delivers maximum daily energy.",
+  "Brewing rich coffee gives you smooth morning focus.",
+  "Message us on What's App to upgrade your morning cup."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_16760711.mp4",
+   "ss": 1,
+   "dur": 1.6
+  },
+  {
+   "src": "stock/pexels_13736544.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_5446639.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_12421612.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "pouring hot coffee into mug",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_27938665.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "pouring fresh coffee into cup",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_6263193.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "pouring fresh black coffee mug",
+  "coffee beans grinding close up",
+  "person drinking coffee morning light"
+ ],
+ "llm_usd": 0.0185,
+ "hookscore": 64.5,
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "Series 1 Subscribe & Save addresses the common frustration of weak supermarket coffee using the high-engagement opening mechanic of viral coffee ritual videos (8.5M+ views). It drives direct customer inquiries via WhatsApp for subscription setup.\nSome shots come from a viral video in your niche (21.5M views) to boost reach; your product and call to action open and close the video.",
+ "qa": {
+  "score": 60,
+  "parts": {
+   "hook": 12,
+   "relevance": 8,
+   "alive": 12,
+   "text": 13,
+   "match": 10,
+   "cta": 4
+  },
+  "problems": [
+   "WhatsApp CTA makes no sense for a major US e-commerce brand like Death Wish Coffee",
+   "Generic stock footage throughout; no branded Death Wish packaging or products shown",
+   "Three repetitive pouring shots in a row (0:03-0:08)",
+   "AI generated voice sounds robotic"
+  ],
+  "fix": "Feature real Death Wish Coffee packaging and beans, cut the repetitive pouring b-roll, and update the CTA to direct viewers to the website instead of WhatsApp."
+ },
+ "cost": {
+  "usd": 0.008,
+  "calls": 27,
+  "by": {
+   "script": 0.0071,
+   "donor_clips": 0.0206,
+   "clean_windows": 0.0075,
+   "fit_filter": 0.0079,
+   "frame_check": 0.0069,
+   "edit_pass": 0.0043,
+   "judge_once": 0.0099
+  }
+ }
+}

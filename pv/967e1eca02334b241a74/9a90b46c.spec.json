@@ -1,0 +1,134 @@
+{
+ "id": "967e1eca02334b241a74",
+ "pv": "viral",
+ "company": "Death Wish Coffee",
+ "lang": "en",
+ "hook": "Stop drinking watery morning coffee",
+ "lines": [
+  "Weak watered down coffee leaves you tired all morning.",
+  "Death Wish Coffee delivers certified organic extreme caffeine depth.",
+  "Our dark roasts taste incredibly bold and never bitter.",
+  "Message us on WhatsApp right now to order today."
+ ],
+ "say": [
+  "Weak watered down coffee leaves you tired all morning.",
+  "Death Wish Coffee delivers certified organic extreme caffeine depth.",
+  "Our dark roasts taste incredibly bold and never bitter.",
+  "Message us on What's App right now to order today."
+ ],
+ "shots": [
+  {
+   "src": "clients/967e1eca02334b241a74/donor_igDeEWktos5dD_0.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "igDeEWktos5dD",
+    "media": "https://scontent-bru2-1.cdninstagram.com/o1/v/t2/f2/m86/AQNh25D7bDaWrl7AfwH0XoLCR90EGL6Q7KszJ2ODbELVYUautRLHLgrPVDN-8abHcOCqXe4kSM543gJbL-g_Dm29dZyskWQPgMvlwqk.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_ohc=vsYUPZY4Vl8Q7kNvwEf8rHJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjMyNjMxNTUwODE5OTY0NiwiYXNzZXRfYWdlX2RheXMiOjQ2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=573a9da0e04d5e5a&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wMTFCOTIxQjFGOTI0MjMyOTlBNEFGRjkxNTIyRDA3RV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0IxQzg0Mjg1OTA2MDRGODk4QkFFMEY1NTgzMTQwQTM4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACa8w4OYsfGhCBUCKAJDMywXQEEiDEm6XjUYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=hqZ8mXXObegMx2_s_97Oeg&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTjbUmnoOqWzI8rDpnF9Qcv931m0ckPl3MK34gz0XsJ0g&oe=6B011BC4",
+    "start": 29.5,
+    "dur": 2.2
+   },
+   "free": "top",
+   "shows": "pouring thick coffee foam cream",
+   "cam": null
+  },
+  {
+   "src": "clients/967e1eca02334b241a74/donor_tt7346488393381006598_0.mp4",
+   "ss": 0,
+   "dur": 1.75,
+   "donor": {
+    "id": "tt7346488393381006598",
+    "media": "https://v16m.tiktokcdn-us.com/3b673c4df8e94d27df9e8f2950fbc391/6affa65b/video/tos/useast2a/tos-useast2a-ve-0068c003/o8IiyCQgSlAF2Ef8nejix5fYTdD2CCCI6gJLnn/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=496&ft=WgSBMNdkVcy5Uxl7KStG-XD5S1qQI1PXt3q1zFMyqF_4&mime_type=video_mp4&rc=aGQ1aTc5OjdmNzhpN2Q4PEBpams4dXI5cmp5cTMzNzczM0AuMC5eM181XmMxYTUuMGMtYSNhbi9tMmRrYm1gLS1kMTZzcw%3D%3D&vvpl=1&l=2026111919454372E8F2320AD1D0182662&btag=e000b8000",
+    "start": 8.0,
+    "dur": 1.8
+   },
+   "free": "bottom",
+   "shows": "frothing instant coffee in glass",
+   "cam": null
+  },
+  {
+   "src": "clients/967e1eca02334b241a74/prod_48.jpg",
+   "dur": 1.5,
+   "zoom": 1.06,
+   "own": true,
+   "shows": "Death Wish cold brew coffee bottle",
+   "cam": null
+  },
+  {
+   "src": "clients/967e1eca02334b241a74/donor_tt7346488393381006598_1.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "tt7346488393381006598",
+    "media": "https://v16m.tiktokcdn-us.com/3b673c4df8e94d27df9e8f2950fbc391/6affa65b/video/tos/useast2a/tos-useast2a-ve-0068c003/o8IiyCQgSlAF2Ef8nejix5fYTdD2CCCI6gJLnn/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=496&ft=WgSBMNdkVcy5Uxl7KStG-XD5S1qQI1PXt3q1zFMyqF_4&mime_type=video_mp4&rc=aGQ1aTc5OjdmNzhpN2Q4PEBpams4dXI5cmp5cTMzNzczM0AuMC5eM181XmMxYTUuMGMtYSNhbi9tMmRrYm1gLS1kMTZzcw%3D%3D&vvpl=1&l=2026111919454372E8F2320AD1D0182662&btag=e000b8000",
+    "start": 12.5,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "pouring milk into iced coffee",
+   "cam": null
+  },
+  {
+   "src": "clients/967e1eca02334b241a74/donor_igCq0dwc2KWTM_0.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "igCq0dwc2KWTM",
+    "media": "https://scontent-fra3-1.cdninstagram.com/o1/v/t2/f2/m82/AQPPrcyz7CJd9Qstb94BgGDoT4Ld4eEZ-73PO0gNJ_YZqfMGpNshF3okSDQJ5recohLr6zXeeEr68H0ZHLBkNMz5BnngJEMRqW5tPH4.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_ohc=H7tjgkZf5RIQ7kNvwFtdtqv&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6NjYzMzEyNzI4ODkxMTgxLCJhc3NldF9hZ2VfZGF5cyI6MTMyMCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjEyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=90ffb0bf31d52827&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC9CRDQwQTg4MjQ0OTQwOTA1Qjk2OTJDMDBBQThBMTNBMF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HT0tsU2hRaExudEoxdE1BQUdaTHA3VGFzaXBPYnFfRUFBQUYVAgLIARIAKAAYABsDiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATESY29weV9zYW1wbGVfZ3JvdXBzATEVAAAm2vyk-fDRrQIVAigCQzMsF0Aod0vGp--eGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&_nc_gid=YKa9cG0jLS57wqqvdg_UIw&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTIoqYZq0jCAsl6gpCZyrOjUwmFDansYmAywNoIz-GZew&oe=6B01319F",
+    "start": 10.0,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "pouring milk over iced coffee",
+   "cam": null
+  },
+  {
+   "src": "clients/967e1eca02334b241a74/prod_1.jpg",
+   "dur": 3,
+   "fit": "pad",
+   "own": true,
+   "shows": "Death Wish coffee canisters products",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "pouring hot black coffee",
+  "tired man waking up kitchen",
+  "barista grinding fresh dark coffee"
+ ],
+ "llm_usd": 0.0198,
+ "hookscore": 63.0,
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "This script executes Series 1 ('The Strongest Morning Fuel') leveraging the sensory home-brew hook mechanic seen in viral daily-coffee shorts (such as 15.6M views on ASMR coffee routines). The goal is to hook tired high-caffeine drinkers and drive direct inquiries via WhatsApp.\nSome shots come from a viral video in your niche (73.8M views) to boost reach; your product and call to action open and close the video.",
+ "qa": {
+  "score": 83,
+  "parts": {
+   "hook": 17,
+   "relevance": 18,
+   "alive": 15,
+   "text": 13,
+   "match": 14,
+   "cta": 6
+  },
+  "problems": [
+   "WhatsApp call to action feels unusual and mismatched for an e-commerce coffee brand like Death Wish Coffee",
+   "End card is cut off with agency branding rather than brand logo/URL"
+  ],
+  "fix": "Replace the WhatsApp ordering call to action and ending screen with a direct link to the online store deathwishcoffee.com."
+ },
+ "cost": {
+  "usd": 0.002,
+  "calls": 30,
+  "by": {
+   "script": 0.0074,
+   "donor_clips": 0.0318,
+   "clean_windows": 0.0116,
+   "fit_filter": 0.0064,
+   "frame_check": 0.0057,
+   "edit_pass": 0.0044,
+   "once": 0.0062
+  }
+ }
+}

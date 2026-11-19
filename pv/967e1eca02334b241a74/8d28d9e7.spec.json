@@ -1,0 +1,112 @@
+{
+ "id": "967e1eca02334b241a74_own",
+ "pv": "own",
+ "company": "Death Wish Coffee",
+ "lang": "en",
+ "hook": "Stop drinking watery morning coffee",
+ "lines": [
+  "Most commercial roasts taste weak and leave you exhausted.",
+  "Death Wish delivers intense organic coffee with maximum kick.",
+  "Our Fair Trade beans stay bold without bitter aftertaste.",
+  "Message us on WhatsApp to grab your fresh roast."
+ ],
+ "say": [
+  "Most commercial roasts taste weak and leave you exhausted.",
+  "Death Wish delivers intense organic coffee with maximum kick.",
+  "Our Fair Trade beans stay bold without bitter aftertaste.",
+  "Message us on WhatsApp to grab your fresh roast."
+ ],
+ "shots": [
+  {
+   "src": "clients/967e1eca02334b241a74/donor_oiDfkPeVpjmeS_0.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "oiDfkPeVpjmeS",
+    "media": "https://scontent-cph2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMLWWGEeEiliM9M-cH_bYBIRjAtbvVymPl4tIjo1FRbCX3yMKYRJsULUkEgfOZQlzOerw2NrQRt0VFgYZLFCSg8yIsTykc-iE6LADk.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_ohc=7PTgK_d5IA0Q7kNvwFUTB7X&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTg2NTUyMDYyODkwMDY4ODgsImFzc2V0X2FnZV9kYXlzIjo5LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=6b9b030a531d7077&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xM0UxMzQwNDQ1RTM0QzVGQjQ3NzZEQ0YzNjg5MzFCRF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzFCNTkyNTA4QTI0QjQxRTJBMjFCMzM1RUY3QjhGODBFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbQhIuB9rOjQhUCKAJDMywXQDAAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=kBo7tmHNCPAe9picZaym2g&_nc_ss=7a3ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRshVxbUF3rD-uMdv8mjrFmKuVar0Ht0flkB858-krBIQ&oe=6B013CA1",
+    "start": 5.0,
+    "dur": 2.0
+   },
+   "free": "bottom",
+   "shows": "pouring espresso into iced milk",
+   "cam": null
+  },
+  {
+   "src": "clients/967e1eca02334b241a74/donor_oiDfH0gMRDHfk_0.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "oiDfH0gMRDHfk",
+    "media": "https://scontent-cph2-1.cdninstagram.com/o1/v/t2/f2/m86/AQNas-gdGKPtWPaFLXQPqrhNioxWGyV3ISgznH7cmYv06qdnDPnAGqbKmFn7CKxgKxpt3GTeUSeDisl0B7zgS_S7h1hETqu3JWCOdpk.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_ohc=z6kNro-nSmUQ7kNvwH1QAyq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTg2NTEyMjY3NTYwMDY4ODgsImFzc2V0X2FnZV9kYXlzIjoyMCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=21bfd093ab70a540&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GQjc4OEFDN0Q0RUY0MjE3QUY2RkFGODU1MTgxNTYwM192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzJGRUNENkQ4MzY5RjRGMTg4MDAyRjAxRTNFQTlGNTVBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbQj9aWpMyhQhUCKAJDMywXQC0Q5WBBiTcYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=kBo7tmHNCPAe9picZaym2g&_nc_ss=7a3ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQ3myauj8wRqTSRcMag53u3-HeTK9yF5locSlgxx6qGkA&oe=6B0139BA",
+    "start": 5.0,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "pouring iced coffee in jar",
+   "cam": null
+  },
+  {
+   "src": "clients/967e1eca02334b241a74/donor_oiDfkPeVpjmeS_1.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "oiDfkPeVpjmeS",
+    "media": "https://scontent-cph2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMLWWGEeEiliM9M-cH_bYBIRjAtbvVymPl4tIjo1FRbCX3yMKYRJsULUkEgfOZQlzOerw2NrQRt0VFgYZLFCSg8yIsTykc-iE6LADk.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_ohc=7PTgK_d5IA0Q7kNvwFUTB7X&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTg2NTUyMDYyODkwMDY4ODgsImFzc2V0X2FnZV9kYXlzIjo5LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=6b9b030a531d7077&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xM0UxMzQwNDQ1RTM0QzVGQjQ3NzZEQ0YzNjg5MzFCRF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzFCNTkyNTA4QTI0QjQxRTJBMjFCMzM1RUY3QjhGODBFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbQhIuB9rOjQhUCKAJDMywXQDAAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=kBo7tmHNCPAe9picZaym2g&_nc_ss=7a3ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRshVxbUF3rD-uMdv8mjrFmKuVar0Ht0flkB858-krBIQ&oe=6B013CA1",
+    "start": 12.0,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "pouring foamy milk into iced coffee",
+   "cam": null
+  },
+  {
+   "src": "clients/967e1eca02334b241a74/prod_48.jpg",
+   "dur": 3,
+   "zoom": 1.06,
+   "own": true,
+   "shows": "Death Wish cold brew bottle product",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "dark roast coffee brewing espresso machine",
+  "steaming black coffee pour into dark mug",
+  "barista grinding fresh dark coffee beans"
+ ],
+ "llm_usd": 0.0198,
+ "hookscore": 64.5,
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "Series 1 opener built on the viral sensory fatigue opener (17,607 views on donor #0) to challenge weak standard coffee and direct viewers to order via WhatsApp.",
+ "qa": {
+  "score": 76,
+  "parts": {
+   "hook": 14,
+   "relevance": 18,
+   "alive": 12,
+   "text": 13,
+   "match": 13,
+   "cta": 8
+  },
+  "problems": [
+   "The static product bottle shot from 00:05 to 00:13 stays on screen for 8 seconds without any motion or cuts",
+   "Hook starts on a plain glass of ice before coffee is poured"
+  ],
+  "fix": "Cut the 8-second static packshot into quick dynamic clips of coffee brewing, pouring, and coffee beans being ground every 1.5 to 2 seconds."
+ },
+ "cost": {
+  "usd": 0.072,
+  "calls": 29,
+  "by": {
+   "script": 0.0074,
+   "donor_clips": 0.0318,
+   "clean_windows": 0.0116,
+   "fit_filter": 0.0064,
+   "frame_check": 0.0057,
+   "edit_pass": 0.0044,
+   "once": 0.0044
+  }
+ }
+}

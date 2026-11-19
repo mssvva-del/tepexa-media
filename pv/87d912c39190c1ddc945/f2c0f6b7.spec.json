@@ -1,0 +1,94 @@
+{
+ "id": "87d912c39190c1ddc945",
+ "company": "KOOS",
+ "lang": "ru",
+ "hook": "Как найти легальную работу в Европе?",
+ "lines": [
+  "Найти надежную вакансию на собеседовании бывает непросто.",
+  "Платформа Koos открывает базу вакансий в 50 странах.",
+  "Здесь собраны прозрачные условия и проверенные зарубежные контракты.",
+  "Напишите нам в вотсап для получения актуальной подборки."
+ ],
+ "say": [
+  "Найти надежную вакансию на собеседовании бывает непросто.",
+  "Платформа Коос открывает базу вакансий в пятидесяти странах.",
+  "Здесь собраны прозрачные условия и проверенные зарубежные контракты.",
+  "Напишите нам в вотсап для получения актуальной подборки."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_7644024.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_7643444.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_8937988.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_8480291.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_7424460.mp4",
+   "ss": 1,
+   "dur": 3
+  },
+  {
+   "src": "clients/87d912c39190c1ddc945/prod_0.jpg",
+   "dur": 3,
+   "zoom": 1.06,
+   "own": true,
+   "shows": "businessmen and global network interface"
+  }
+ ],
+ "stock_queries": [
+  "job interview modern office",
+  "person searching job laptop",
+  "happy professional relocation europe"
+ ],
+ "llm_usd": 0.0183,
+ "hookscore": 68.2,
+ "disc": "Информационный сервис, не является визовой гарантией.",
+ "end_text": [
+  "Еще 6 роликов",
+  "на этой неделе"
+ ],
+ "why": "Ролик серии 1 опирается на вирусную механику практического лайфхака поиска работы (донор #3 с 2,5 млн просмотров), наглядно демонстрируя удобство и безопасность платформы KOOS для соискателей в Европе.",
+ "qa": {
+  "score": 70,
+  "parts": {
+   "hook": 14,
+   "relevance": 10,
+   "alive": 14,
+   "text": 13,
+   "match": 12,
+   "cta": 6
+  },
+  "problems": [
+   "Generic stock footage instead of real KOOS platform interface and genuine job offers",
+   "Closing outro is abruptly cut with agency branding ('Тереха') rather than clear WhatsApp contact or company branding"
+  ],
+  "fix": "Replace stock office clips with actual screen recordings of the KOOS portal browsing vacancies and add a clear WhatsApp call-to-action slide at the end."
+ },
+ "cost": {
+  "usd": 0.034,
+  "calls": 16,
+  "by": {
+   "script": 0.0034,
+   "donor_clips": 0.0142,
+   "clean_windows": 0.0054,
+   "fit_filter": 0.0023,
+   "frame_check": 0.0024,
+   "edit_pass": 0.0024,
+   "once": 0.0043
+  }
+ }
+}

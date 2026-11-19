@@ -1,0 +1,83 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s3",
+ "company": "Библия без мифов",
+ "lang": "ru",
+ "hook": "Ищете веру и смысл в Израиле?",
+ "lines": [
+  "Над горными просторами Израиля мы ищем глубокий смысл веры.",
+  "За чашкой чая и открытой книгой открываем еврейские корни Писания.",
+  "В свете рассвета над холмами делимся искренней поддержкой без догм.",
+  "Напишите СЛОВО в наш WhatsApp, чтобы познакомиться с нами лично."
+ ],
+ "say": [
+  "Над горными просторами Израиля мы ищем глубокий смысл веры.",
+  "За чашкой чая и открытой книгой открываем еврейские корни Писания.",
+  "В свете рассвета над холмами делимся искренней поддержкой без догм.",
+  "Напишите слово СЛОВО в наш вотсап, чтобы познакомиться с нами лично."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_9763769.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "legs dangling over rocky cliff"
+  },
+  {
+   "src": "stock/pexels_31729537.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "open book and teacup table"
+  },
+  {
+   "src": "stock/pexels_32197843.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "golden sunrise over silhouetted hills"
+  },
+  {
+   "src": "stock/pexels_34762868.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "bright sunrise over dark landscape"
+  },
+  {
+   "src": "stock/pexels_38498382.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "sunset over darkened landscape horizon"
+  }
+ ],
+ "stock_queries": [
+  "warm sunlight over Jerusalem hills landscape",
+  "open book on rustic table peaceful morning",
+  "Negev desert golden hour majestic vista"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Изучаем Писание через его подлинный исторический контекст в кругу русскоязычных израильтян. Присоединяйтесь к открытому диалогу. Напишите СЛОВО в WhatsApp по номеру в профиле. #еврейскоехристианство #общинаизраиль #вера #иешуа #разговорподушам\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc",
+ "series": "Ты читаешь это не случайно",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия «Ты читаешь это не случайно» (формат прямого оффера). Формулирует позиционирование общины пастора Михаила Карповецкого и переводит зрителя в личную переписку в WhatsApp.",
+ "rules": "Russian videos for a Jewish-Christian congregation in Israel (pastor Mikhail Karpovetsky, «Библия без мифов»). Formats: short 6–25 s, one strong line, big text NEVER over faces. Allowed footage: Israel landscapes, Galilee, desert, sunrise, sea, olive trees, hands with a Bible (no cross on the cover), turning pages, maps, Hebrew letters on paper. FORBIDDEN in any frame: Torah scrolls or synagogue objects, crosses, icons, statues, paintings or images of Jesus, figures in clouds, churches, mosques or other temples, priests, candles of rituals, Getty or other watermarks, any burned-in foreign text. Say «Иешуа» or «Иисус»; framing is Jewish Christianity, no talit/kippah/menorah. No pressure, no promises, never the word «бесплатно», no gifts or benefit for coming, never address children. CTA: a word or question in the comments, or «напишите нам в WhatsApp». Warm, personal tone.",
+ "hookscore": 62.4,
+ "qa": {
+  "score": 72,
+  "parts": {
+   "hook": 13,
+   "relevance": 12,
+   "alive": 12,
+   "text": 13,
+   "match": 13,
+   "cta": 9
+  },
+  "problems": [
+   "Generic stock footage of feet on rocks, tea and sunset doesn't show real community members or pastor",
+   "Voiceover sounds like an AI synthetic narrator rather than a warm personal voice"
+  ],
+  "fix": "Replace the generic stock clip of feet dangling over a cliff with real footage of the community, pastor Mikhail Karpovetsky, or someone studying the Bible in Israel."
+ },
+ "date": "2026-11-21 09:23 UTC"
+}

@@ -1,0 +1,98 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s1",
+ "company": "Библия без мифов",
+ "lang": "ru",
+ "hook": "Он больше твоего страха и боли",
+ "lines": [
+  "Даже в полной тьме надежда не оставляет тебя.",
+  "Напишите слово СЛОВО в личные сообщения или WhatsApp."
+ ],
+ "say": [
+  "Даже в полной тьме надежда не оставляет тебя.",
+  "Напишите слово СЛОВО в личные сообщения или вотсап."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_35118544.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "sunrise over sea of Galilee"
+  },
+  {
+   "src": "stock/pexels_37871174.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "tour boats on calm sea"
+  },
+  {
+   "src": "stock/pexels_31734229.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "rocky canyon at sunset"
+  },
+  {
+   "src": "stock/pexels_20681648.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "calm sea water surface ripples"
+  },
+  {
+   "src": "stock/pexels_36708258.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "rocky shoreline and dark water"
+  },
+  {
+   "src": "stock/pexels_37471472.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "silhouette of biblical nomad walking outdoors"
+  },
+  {
+   "src": "stock/pexels_13929005.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "sea waves washing pebble shore"
+  },
+  {
+   "src": "stock/pexels_6860448.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "hands turning pages in Bible"
+  }
+ ],
+ "stock_queries": [
+  "Judean desert sunrise dramatic lighting",
+  "Sea of Galilee calm water morning",
+  "hands holding open bible peaceful nature"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Иногда кажется, что тревога заполнила все мысли. Но в Писании есть ответ, который возвращает внутренний покой. Напишите СЛОВО в комментариях, чтобы начать разговор. #вера #израиль #библия #иешуа #духовныйпоиск\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc",
+ "series": "Он больше твоего…",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия «Он больше твоего…». Использована механика вирусных роликов о внутренней силе и надежде с более чем 13 млн просмотров. Цель — эмоциональный отклик и первый контакт через личные сообщения.",
+ "rules": "Russian videos for a Jewish-Christian congregation in Israel (pastor Mikhail Karpovetsky, «Библия без мифов»). Formats: short 6–25 s, one strong line, big text NEVER over faces. Allowed footage: Israel landscapes, Galilee, desert, sunrise, sea, olive trees, hands with a Bible (no cross on the cover), turning pages, maps, Hebrew letters on paper. FORBIDDEN in any frame: Torah scrolls or synagogue objects, crosses, icons, statues, paintings or images of Jesus, figures in clouds, churches, mosques or other temples, priests, candles of rituals, Getty or other watermarks, any burned-in foreign text. Say «Иешуа» or «Иисус»; framing is Jewish Christianity, no talit/kippah/menorah. No pressure, no promises, never the word «бесплатно», no gifts or benefit for coming, never address children. CTA: a word or question in the comments, or «напишите нам в WhatsApp». Warm, personal tone.",
+ "hookscore": 56.8,
+ "qa": {
+  "score": 67,
+  "parts": {
+   "hook": 12,
+   "relevance": 11,
+   "alive": 12,
+   "text": 13,
+   "match": 10,
+   "cta": 8
+  },
+  "problems": [
+   "Слишком разрозненный и случайный стоковый видеоряд (озеро, паром, каньон, вода, странный силуэт пастуха), нет ощущения живой общины и Библии",
+   "Голос робота звучит бездушно и неестественно для личной темы надежды и веры",
+   "Текст хука 'Он больше твоего страха и боли' слабо привязан к визуальному ряду с паромом и морем"
+  ],
+  "fix": "Замените случайный сток с паромом и силуэтом на аутентичные кадры Израиля или руки, открывающие Библию, и озвучьте ролик живым теплым голосом пастора."
+ },
+ "date": "2026-11-20 09:17 UTC"
+}

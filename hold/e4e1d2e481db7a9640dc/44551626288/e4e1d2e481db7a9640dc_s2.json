@@ -1,0 +1,91 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s2",
+ "company": "Библия без мифов",
+ "lang": "ru",
+ "hook": "Что на самом деле написано в Писании",
+ "lines": [
+  "Оригинальный текст открывает смысл, потерянный при древних переводах.",
+  "Напишите СЛОВО нам в WhatsApp для подробного разбора."
+ ],
+ "say": [
+  "Оригинальный текст открывает смысл, потерянный при древних переводах.",
+  "Напишите слово СЛОВО нам в вотсап для подробного разбора."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_5975332.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "hands flipping Hebrew Bible pages"
+  },
+  {
+   "src": "stock/pexels_5206014.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "hands following text in Bible"
+  },
+  {
+   "src": "stock/pexels_11274307.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "olive tree branches with olives"
+  },
+  {
+   "src": "stock/pexels_5206116.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "person reading a brown book"
+  },
+  {
+   "src": "stock/pexels_5975317.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "finger pointing at Hebrew text"
+  },
+  {
+   "src": "stock/pexels_40509149.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "sunlight through olive tree leaves"
+  },
+  {
+   "src": "stock/pexels_35752285.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "olive tree against blue sky"
+  }
+ ],
+ "stock_queries": [
+  "person turning pages of old bible book",
+  "ancient Hebrew text on parchment close up",
+  "olive tree branch sunny Israel landscape"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Многие привычные библейские образы искажены стереотипами. Разбираем первоисточник на языке оригинала. Напишите СЛОВО в сообщения, чтобы узнать больше. #библиябесмифов #иврит #еврейскиекорни #толкование #израиль\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc",
+ "series": "Миф и что написано на самом деле",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия «Миф и что написано на самом деле». Механика контраста знания и распространенного заблуждения (36 млн просмотров). Ролик стимулирует интеллектуальный интерес к глубокому изучению.",
+ "rules": "Russian videos for a Jewish-Christian congregation in Israel (pastor Mikhail Karpovetsky, «Библия без мифов»). Formats: short 6–25 s, one strong line, big text NEVER over faces. Allowed footage: Israel landscapes, Galilee, desert, sunrise, sea, olive trees, hands with a Bible (no cross on the cover), turning pages, maps, Hebrew letters on paper. FORBIDDEN in any frame: Torah scrolls or synagogue objects, crosses, icons, statues, paintings or images of Jesus, figures in clouds, churches, mosques or other temples, priests, candles of rituals, Getty or other watermarks, any burned-in foreign text. Say «Иешуа» or «Иисус»; framing is Jewish Christianity, no talit/kippah/menorah. No pressure, no promises, never the word «бесплатно», no gifts or benefit for coming, never address children. CTA: a word or question in the comments, or «напишите нам в WhatsApp». Warm, personal tone.",
+ "hookscore": 56.8,
+ "qa": {
+  "score": 87,
+  "parts": {
+   "hook": 16,
+   "relevance": 18,
+   "alive": 16,
+   "text": 14,
+   "match": 14,
+   "cta": 9
+  },
+  "problems": [
+   "Секунды 0:02-0:04 и 0:07-0:09 содержат перебивки с растениями, которые немного сбивают фокус с чтения оригинального текста",
+   "Статичный финальный пэкшот 0:08-0:10 без движения"
+  ],
+  "fix": "Замените разрозненные перебивки с листьями на макросъемку строк на иврите или живое изучение текста в общине."
+ },
+ "date": "2026-11-20 16:43 UTC"
+}

@@ -1,0 +1,125 @@
+{
+ "id": "63757aacb1b88bbec30a",
+ "pv": "viral",
+ "plan_usd": 0.021,
+ "company": "Death Wish Coffee",
+ "lang": "en",
+ "hook": "Brewing dark roast completely wrong?",
+ "lines": [
+  "Most dark roasts taste bitter from scorching extraction.",
+  "Whisking rich cream yields smooth extra-strength coffee texture.",
+  "Pour velvety bold layers without any harsh acidity.",
+  "Order your favorite fresh bag on our website."
+ ],
+ "say": [
+  "Most dark roasts taste bitter from scorching extraction.",
+  "Whisking rich cream yields smooth extra-strength coffee texture.",
+  "Pour velvety bold layers without any harsh acidity.",
+  "Order your favorite fresh bag on our website."
+ ],
+ "shots": [
+  {
+   "src": "clients/63757aacb1b88bbec30a/donor_igDdTBIORNCtH_0.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "igDdTBIORNCtH",
+    "media": "https://scontent-cph2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMJ8ytoOq98jK74GLyXeBORBk8te454CiHQaNERdjXSW1FccfGRfysYbtFZdcvW4Ixwvi-w8ktixlywX9ngRrjxD7zb9XVzdWqf_0-Jtg.mp4?_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_ohc=7aB8kgLa7dQQ7kNvwGtAMSN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyMDg5MTA4OTIxNzAzNzA2LCJhc3NldF9hZ2VfZGF5cyI6NjksInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=dDjScN1dOz806lKhvQtNbg&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQAmFGSwHorZ3tSF825w3cEo6LhqDejSZDHBuxUhaUfTA&oe=6B05D124",
+    "start": 6.5,
+    "dur": 2.0
+   },
+   "shows": "espresso pouring into two glasses",
+   "cam": null
+  },
+  {
+   "src": "clients/63757aacb1b88bbec30a/donor_igDFTGq4hMyBN_2.mp4",
+   "ss": 0,
+   "dur": 2.15,
+   "donor": {
+    "id": "igDFTGq4hMyBN",
+    "media": "https://scontent-cph2-1.cdninstagram.com/o1/v/t2/f2/m86/AQO3P6k6po13iaU5WbXd4aHykMISS8nqchtQYj4dfoPIngdb_Qvg-mcUqYznuptHTOz1BN5jaWJ_zu4tjta0qZlH6sZSXwoIy4OWD9c.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_ohc=NL8G3gMBKBsQ7kNvwEtQUUw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTE4NDA3MjYzNjU3NDcyMiwiYXNzZXRfYWdlX2RheXMiOjY2MiwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjU3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=fc8dd23943d34018&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85NjQyNUYwRDExMDUwQzNDOTU0MkI2NjZDM0M1MTM5N192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMTI0NTI3MTA5MDUwMjU3XzQxNzkzNTk0NjA0MTQxNjM5NzgubXA0FQICyAESACgAGAAbA4gHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExEmNvcHlfc2FtcGxlX2dyb3VwcwExFQAAJoSwoc6MupoEFQIoAkMzLBdATPMzMzMzMxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gdl5p0BAA&_nc_gid=6QslrWc1BpqwYCceHkGQUw&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQ63mdjycoSd1pnH5rkocGZfz-04IsN8KIBcC1ryW_-Hw&oe=6B01E2E4",
+    "start": 41.5,
+    "dur": 2.2
+   },
+   "free": "top",
+   "shows": "frothing thick coffee cream",
+   "cam": null
+  },
+  {
+   "src": "clients/63757aacb1b88bbec30a/donor_igDCR_BdsgU-q_1.mp4",
+   "ss": 0,
+   "dur": 2.15,
+   "donor": {
+    "id": "igDCR_BdsgU-q",
+    "media": "https://scontent-cph2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMFmA28pePBPm2QGcOMsaKCdGPGHMfvC5F2mlhq_sP5tVWEADQ1tNx4ri3EYb0iIY-qsC1jaxOrZZFrf5xtT0sPv2IJEOYZgYzDG94.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_ohc=ORwn24akCicQ7kNvwEROA8z&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MzgwNjQ5Mjk4Mzc2OTM0LCJhc3NldF9hZ2VfZGF5cyI6NzM3LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=b47ad30f280a5f5d&_nc_vs=HBksFQIYQGlnX2VwaGVtZXJhbC9GRjRENjdBMDYzOTY1ODlENzJGNDY0NzVDQjgyRjRCQV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zNDA1MzMwMzYzMTA3MzYzXzE3OTQwMjczMzY1ODc3MjM0NzUubXA0FQICyAESACgAGAAbA4gHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExEmNvcHlfc2FtcGxlX2dyb3VwcwExFQAAJszjtaPajK0BFQIoAkMzLBdASUAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gdl5p0BAA&_nc_gid=6QslrWc1BpqwYCceHkGQUw&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSLASDtYvK_Qo08PZQIctOsIKM1kY18WgrgbXUbFVXTxA&oe=6B05E387",
+    "start": 27.0,
+    "dur": 2.2
+   },
+   "free": "top",
+   "shows": "whipped coffee poured over ice",
+   "cam": null
+  },
+  {
+   "src": "clients/63757aacb1b88bbec30a/donor_igDFTGq4hMyBN_1.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "igDFTGq4hMyBN",
+    "media": "https://scontent-cph2-1.cdninstagram.com/o1/v/t2/f2/m86/AQO3P6k6po13iaU5WbXd4aHykMISS8nqchtQYj4dfoPIngdb_Qvg-mcUqYznuptHTOz1BN5jaWJ_zu4tjta0qZlH6sZSXwoIy4OWD9c.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_ohc=NL8G3gMBKBsQ7kNvwEtQUUw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTE4NDA3MjYzNjU3NDcyMiwiYXNzZXRfYWdlX2RheXMiOjY2MiwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjU3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=fc8dd23943d34018&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85NjQyNUYwRDExMDUwQzNDOTU0MkI2NjZDM0M1MTM5N192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMTI0NTI3MTA5MDUwMjU3XzQxNzkzNTk0NjA0MTQxNjM5NzgubXA0FQICyAESACgAGAAbA4gHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExEmNvcHlfc2FtcGxlX2dyb3VwcwExFQAAJoSwoc6MupoEFQIoAkMzLBdATPMzMzMzMxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gdl5p0BAA&_nc_gid=6QslrWc1BpqwYCceHkGQUw&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQ63mdjycoSd1pnH5rkocGZfz-04IsN8KIBcC1ryW_-Hw&oe=6B01E2E4",
+    "start": 24.0,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "milk poured into iced glass",
+   "cam": null
+  },
+  {
+   "src": "clients/63757aacb1b88bbec30a/prod_1.jpg",
+   "dur": 3,
+   "zoom": 1.06,
+   "own": true,
+   "shows": "Death Wish coffee bags pack",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "barista pulling espresso shot close up",
+  "pour over coffee brewing dark roast",
+  "morning kitchen person drinking fresh black coffee"
+ ],
+ "llm_usd": 0.0202,
+ "hookscore": 70.8,
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "Series 1 focuses on diagnostic brewing mechanics, utilizing the viral espresso extraction trigger from donor #4 (23.3M views). The goal is to address morning bitterness pains and drive direct bag purchases on the site.\nSome shots come from a viral video in your niche (219.0M views) to boost reach; your product and call to action open and close the video.",
+ "qa": {
+  "score": 76,
+  "parts": {
+   "hook": 16,
+   "relevance": 14,
+   "alive": 13,
+   "text": 13,
+   "match": 14,
+   "cta": 6
+  },
+  "problems": [
+   "Static product shot held for several seconds near the end (0:08-0:12) kills dynamic pacing",
+   "Generic stock preparation shots rather than distinct branded Death Wish Coffee packaging in action"
+  ],
+  "fix": "Add camera movement or dynamic pouring/unboxing footage to the final product shot instead of leaving it completely static."
+ },
+ "cost": {
+  "usd": 0.004,
+  "calls": 18,
+  "by": {
+   "script": 0.0077,
+   "donor_clips": 0.0209,
+   "clean_windows": 0.0039,
+   "fit_filter": 0.0063,
+   "edit_pass": 0.0043,
+   "judge_once": 0.0077
+  }
+ }
+}

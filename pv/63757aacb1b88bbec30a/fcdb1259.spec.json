@@ -1,0 +1,115 @@
+{
+ "id": "63757aacb1b88bbec30a_own",
+ "pv": "own",
+ "plan_usd": 0.0221,
+ "company": "Death Wish Coffee",
+ "lang": "en",
+ "hook": "Tired of weak watery mornings?",
+ "lines": [
+  "Most standard morning coffee feels completely weak and watery.",
+  "Our bold organic dark roast delivers serious morning strength.",
+  "Fair Trade beans give rich flavor with zero bitterness.",
+  "Order your dark roast fresh today on our website."
+ ],
+ "say": [
+  "Most standard morning coffee feels completely weak and watery.",
+  "Our bold organic dark roast delivers serious morning strength.",
+  "Fair Trade beans give rich flavor with zero bitterness.",
+  "Order your dark roast fresh today on our website."
+ ],
+ "shots": [
+  {
+   "src": "clients/63757aacb1b88bbec30a/donor_oiDf2OwBFvZGu_1.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "oiDf2OwBFvZGu",
+    "media": "https://scontent-bru2-1.cdninstagram.com/o1/v/t2/f2/m86/AQOTlAOevOacd9zLZ99xvxe0_Bz297jNwnP5LVJl0z2XPD9kJUh7Kn9dz71HvwMJGQHStwD2I-yihlJyV9vz-l9WeWpT4M9Rn_LhzI4.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_ohc=JS74_Edi4moQ7kNvwFldJ2e&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTYwMjk1ODg0NTM0MzkzOSwiYXNzZXRfYWdlX2RheXMiOjUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=a80dcbf7871a079f&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DNzYyM0UwQUM3NDQ0NzhBQkY5OUQ4NTUzRUM5RDc5OF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzFEODk2M0Y3NkVEQjQ4ODE4N0I5Q0I1RDdEM0I1RjBBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaG44eJvvjYBRUCKAJDMywXQC6IMSbpeNUYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=dLuoF9ZyjHr2nrVxDlhPYw&_nc_ss=7a3ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTCt5vW67vUHlsOrBH2v8-_FaNIcKFZ72a0BFF_9MYOpw&oe=6B01F37F",
+    "start": 13.0,
+    "dur": 2.2
+   },
+   "free": "top",
+   "shows": "Valhalla Java mugs with coffee",
+   "cam": null
+  },
+  {
+   "src": "clients/63757aacb1b88bbec30a/prod_0.jpg",
+   "dur": 1.5,
+   "zoom": 1.06,
+   "own": true,
+   "shows": "Death Wish coffee bags lined up",
+   "cam": null
+  },
+  {
+   "src": "clients/63757aacb1b88bbec30a/donor_oiDffOg4vpYap_0.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "oiDffOg4vpYap",
+    "media": "https://scontent-bru2-1.cdninstagram.com/o1/v/t2/f2/m86/AQOi4TIJt2kKn_YAX6byhOs2XD6VGUrk8QyH6LeCPqh1OFvv8ZoGl3kvyL14-nCdQW16curzWTciDgfZg641ZFDg9OC66Hs8172kU2U.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_ohc=_2Qm8rPVrQ0Q7kNvwFhocI8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc2NTAzMzU2NDU2NzU0NywiYXNzZXRfYWdlX2RheXMiOjExLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e2ede21189485b48&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DODBDQzhEMjUxQUE0M0U4OEM5Qzc1ODU3RjhDMUEwRF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzU2QTg0QjA2NDAwOTRDRUM5RTk1NEJENDE0NjI0QUIzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACb234_qvNKiBhUCKAJDMywXQCAEGJN0vGoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=dLuoF9ZyjHr2nrVxDlhPYw&_nc_ss=7a3ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQfndXgihIy00L5KikLFtOrkg7-nE3eR1-iPPIwb8GM4A&oe=6B01C357",
+    "start": 3.5,
+    "dur": 2.0
+   },
+   "free": "bottom",
+   "shows": "Lynx cat illustration in snow",
+   "cam": null
+  },
+  {
+   "src": "clients/63757aacb1b88bbec30a/prod_1.jpg",
+   "dur": 1.5,
+   "fit": "pad",
+   "own": true,
+   "shows": "Valhalla Java coffee bags and can",
+   "cam": null
+  },
+  {
+   "src": "clients/63757aacb1b88bbec30a/prod_4.jpg",
+   "dur": 3,
+   "fit": "pad",
+   "own": true,
+   "shows": "Death Wish ceramic mug displayed",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "pouring hot fresh black coffee mug morning steam",
+  "grinding fresh coffee beans kitchen morning ritual",
+  "espresso extraction bold dark crema close up"
+ ],
+ "llm_usd": 0.0207,
+ "hookscore": 70.8,
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "Series 1 adapted around the high-performing morning routine pain point, using the bold stance from the brand's top video with 17,625 views to show off extra strength without bitterness.",
+ "qa": {
+  "score": 71,
+  "parts": {
+   "hook": 14,
+   "relevance": 16,
+   "alive": 8,
+   "text": 13,
+   "match": 12,
+   "cta": 7
+  },
+  "problems": [
+   "Multiple static still images with zero camera or subject motion (0:01-0:03, 0:05-0:13)",
+   "Pacing feels lifeless due to static photo slideshow feel after the intro shot",
+   "Generic agency end slate at the end instead of a branded Death Wish Coffee outro"
+  ],
+  "fix": "Replace the static product photos and still cutaways with dynamic video clips of brewing, pouring rich dark coffee, and close-up textured shots of beans."
+ },
+ "cost": {
+  "usd": 0.047,
+  "calls": 16,
+  "by": {
+   "script": 0.0077,
+   "donor_clips": 0.0209,
+   "clean_windows": 0.0039,
+   "fit_filter": 0.0063,
+   "edit_pass": 0.0043,
+   "judge_once": 0.004
+  }
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "id": "cced451b8ad6107db7fb",
+ "pv": "viral",
+ "plan_usd": 0.0279,
+ "company": "Death Wish Coffee",
+ "lang": "en",
+ "hook": "Stop drinking bitter morning coffee",
+ "lines": [
+  "Most dark roasted coffee beans taste burnt and bitter.",
+  "Freshly ground and brewed for certified organic smooth flavor.",
+  "Enjoy maximum bold iced lattes with zero harsh acidity.",
+  "Message us on WhatsApp to order your bag."
+ ],
+ "say": [
+  "Most dark roasted coffee beans taste burnt and bitter.",
+  "Freshly ground and brewed for certified organic smooth flavor.",
+  "Enjoy maximum bold iced lattes with zero harsh acidity.",
+  "Message us on WhatsApp to order your bag."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_16760711.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_32653807.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_15033362.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "clients/cced451b8ad6107db7fb/donor_tt7317525726897458438_1.mp4",
+   "ss": 0,
+   "dur": 2.15,
+   "donor": {
+    "id": "tt7317525726897458438",
+    "media": "https://v16m.tiktokcdn-us.com/ab7dd50f41ac4808e8da7be0dbb51a21/6b004e74/video/tos/useast2a/tos-useast2a-pve-0068/oYASSiBryBIjyi4NYVoWtUBETEEMUQQm0i4vZ/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=471&ft=arR-Iq4fmbdPD12nLApI3wUnmz~AMeF~O5&mime_type=video_mp4&rc=ZTY8ODM1ZjVnNTU0Omk2M0Bpam9kOHI5cm1rcDMzNzczM0BfMTQyNWItNTQxNDBhMi0uYSNlZGheMmRrMTNgLS1kMTZzcw%3D%3D&vvpl=1&l=202611200742430EF5C1CA84B95641C630&btag=e00088000",
+    "start": 23.5,
+    "dur": 2.2
+   },
+   "free": "top",
+   "shows": "Pouring milk into iced coffee",
+   "cam": null
+  },
+  {
+   "src": "clients/cced451b8ad6107db7fb/donor_tt7317525726897458438_2.mp4",
+   "ss": 0,
+   "dur": 2.15,
+   "donor": {
+    "id": "tt7317525726897458438",
+    "media": "https://v16m.tiktokcdn-us.com/ab7dd50f41ac4808e8da7be0dbb51a21/6b004e74/video/tos/useast2a/tos-useast2a-pve-0068/oYASSiBryBIjyi4NYVoWtUBETEEMUQQm0i4vZ/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=471&ft=arR-Iq4fmbdPD12nLApI3wUnmz~AMeF~O5&mime_type=video_mp4&rc=ZTY8ODM1ZjVnNTU0Omk2M0Bpam9kOHI5cm1rcDMzNzczM0BfMTQyNWItNTQxNDBhMi0uYSNlZGheMmRrMTNgLS1kMTZzcw%3D%3D&vvpl=1&l=202611200742430EF5C1CA84B95641C630&btag=e00088000",
+    "start": 27.5,
+    "dur": 2.2
+   },
+   "free": "bottom",
+   "shows": "Placing straw into iced latte",
+   "cam": null
+  },
+  {
+   "src": "clients/cced451b8ad6107db7fb/prod_1.jpg",
+   "dur": 3,
+   "zoom": 1.06,
+   "own": true,
+   "shows": "Death Wish Valhalla Java packaged goods",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "dark coffee beans grinding",
+  "pour over coffee brewing closeup",
+  "person drinking black coffee morning"
+ ],
+ "llm_usd": 0.0191,
+ "hookscore": 64.5,
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "Series 1 focuses on bold signature dark roasts, adopting the high-contrast sensory coffee ritual style from donor video 0 (8.6M views) to target morning coffee drinkers and direct orders to WhatsApp.\nSome shots come from a viral video in your niche (24.5M views) to boost reach; your product and call to action open and close the video.",
+ "qa": {
+  "score": 74,
+  "parts": {
+   "hook": 14,
+   "relevance": 13,
+   "alive": 13,
+   "text": 13,
+   "match": 12,
+   "cta": 8
+  },
+  "problems": [
+   "Static product photo used at 00:10-00:13 instead of dynamic brewing or packaging footage",
+   "Duplicate coffee grounds dosing shot repeated at 00:09",
+   "Overly generic stock-like latte footage at 00:05-00:08"
+  ],
+  "fix": "Replace the static packshot and repeated portafilter clip with dynamic video showing the branded Death Wish bag being opened or poured."
+ },
+ "cost": {
+  "usd": 0.044,
+  "calls": 15,
+  "by": {
+   "viral": 0.0117,
+   "script": 0.0036,
+   "donor_clips": 0.0116,
+   "clean_windows": 0.0054,
+   "fit_filter": 0.0061,
+   "edit_pass": 0.0022,
+   "judge_once": 0.0039
+  }
+ }
+}

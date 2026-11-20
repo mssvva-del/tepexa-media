@@ -1,0 +1,103 @@
+{
+ "id": "96f8e3fe15c613b72b59",
+ "pv": "viral",
+ "plan_usd": 0.0231,
+ "company": "Gordon Ramsay",
+ "lang": "ru",
+ "hook": "Вот как выглядит идеальный сочный срез",
+ "lines": [
+  "Устали от сухого мяса и заурядных ресторанных ужинов",
+  "Мы готовим авторские блюда с идеальной сочной прожаркой",
+  "Каждое блюдо шеф доводит до ресторанного совершенства вкуса",
+  "Напишите нам в WhatsApp для бронирования вашего стола"
+ ],
+ "say": [
+  "Устали от сухого мяса и заурядных ресторанных ужинов",
+  "Мы готовим авторские блюда с идеальной сочной прожаркой",
+  "Каждое блюдо шеф доводит до ресторанного совершенства вкуса",
+  "Напишите нам в вотсап для бронирования вашего стола"
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_32082663.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_39895895.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_39895883.mp4",
+   "ss": 1,
+   "dur": 3
+  },
+  {
+   "src": "stock/pexels_35554468.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "clients/96f8e3fe15c613b72b59/donor_igDRf3Hv_jJmS_1.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "igDRf3Hv_jJmS",
+    "media": "https://scontent-cph2-1.cdninstagram.com/o1/v/t2/f2/m86/AQOmPQyjNI_mIJjdWteEL9iMFSf2XYIUztSHLMm1uiu1ns9DzpuOVx5QGGjq-e7BZiiblwVQJN7lpegJwDyH79obo3s4vQI581ePqKc.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_ohc=G1JruXBhenIQ7kNvwHl23L1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTUzMjUyNzgwNDUzOTI2MCwiYXNzZXRfYWdlX2RheXMiOjM1OSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a43d3ca8cc79a68e&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80RDRBRjIzRENFNTU2RjBCN0ZCOTNFRTUyRkM2QzdBRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMTg4NTM2NDI5MjcyNjc4XzI5ODU1OTE4NDQyODMwNjU0NTYubXA0FQICyAESACgAGAAbA4gHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExEmNvcHlfc2FtcGxlX2dyb3VwcwExFQAAJviFr_bt9LgFFQIoAkMzLBdAM9U_fO2RaBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gdl5p0BAA&_nc_gid=KDQw7jGDz1pwa1d1fW3CAg&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQPTIq9J6dHUOW7EGJY92li_peGwFxRqBf3cHu2Z5VbQA&oe=6B01C5D7",
+    "start": 17.5,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "Lifting pasta with a fork",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_34615187.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "chef slicing steak medium rare",
+  "luxury restaurant interior dining",
+  "fine dining plating meat sauce"
+ ],
+ "llm_usd": 0.0175,
+ "hookscore": 62.0,
+ "end_text": [
+  "Еще 6 Reels",
+  "на этой неделе"
+ ],
+ "why": "Серия «Флагман шефа». Использована формула вирусного хука сочного среза мяса крупным планом (ролик с 64 млн просмотров) для привлечения ценителей гастрономии и конверсии в бронь через WhatsApp.\nЧасть кадров — из вирусного ролика вашей ниши (198.0 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "qa": {
+  "score": 76,
+  "parts": {
+   "hook": 15,
+   "relevance": 12,
+   "alive": 15,
+   "text": 13,
+   "match": 14,
+   "cta": 7
+  },
+  "problems": [
+   "Кадры выглядят как сборная солянка из стоков разного качества и стилистики (уличный мангал сменяется высокой кухней и пастой)",
+   "Хук-плашка закрывает центр кадра в первые секунды",
+   "В CTA на экране нет контакта WhatsApp или плашки с кнопкой перехода, только общий интерьер и заставка сервиса монтажа"
+  ],
+  "fix": "Используйте съемку реальных фирменных блюд ресторана в едином премиальном стиле и добавьте четкую графику контакта WhatsApp на призыве к действию."
+ },
+ "cost": {
+  "usd": 0.027,
+  "calls": 10,
+  "by": {
+   "viral": 0.0076,
+   "script": 0.0033,
+   "donor_clips": 0.0056,
+   "clean_windows": 0.0015,
+   "fit_filter": 0.0026,
+   "edit_pass": 0.0025,
+   "judge_once": 0.0042
+  }
+ }
+}

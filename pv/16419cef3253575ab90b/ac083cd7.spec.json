@@ -1,0 +1,127 @@
+{
+ "id": "16419cef3253575ab90b",
+ "pv": "viral",
+ "plan_usd": 0.0137,
+ "company": "LeaderID",
+ "lang": "ru",
+ "hook": "Сложно подобрать правильный уход?",
+ "lines": [
+  "Сложно подобрать уход за лицом без точного анализа.",
+  "Умный сканер оценивает четыреста шестьдесят восемь точек лица.",
+  "Вы получаете персональный велнес отчет в мобильном телефоне.",
+  "Переходите на сайт и пройдите первый тест прямо сейчас."
+ ],
+ "say": [
+  "Сложно подобрать уход за лицом без точного анализа.",
+  "Умный сканер оценивает четыреста шестьдесят восемь точек лица.",
+  "Вы получаете персональный велнес отчет в мобильном телефоне.",
+  "Переходите на сайт и пройдите первый тест прямо сейчас."
+ ],
+ "shots": [
+  {
+   "src": "clients/16419cef3253575ab90b/donor_tt7708352326179753237_2.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "tt7708352326179753237",
+    "media": "https://v16m.tiktokcdn-us.com/fbeddd282f951b8c91352d3b57fa51e4/6b005a1f/video/tos/alisg/tos-alisg-pve-0037c001/owZhMZA0gInnfsdDyIVIzG1C8RFU4FTeAAKLfj/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=944&ft=gKfIn8s6oA-O12NvR_uslIxRSzUbHF_45SY&mime_type=video_mp4&rc=aTc8OzdmZGdkO2k1OGg1Z0BpanM6PHA5cjdzZTMzODczNEAyLjRiNWAuNjUxMmA0LWE1YSNyLzY2MmQ0MHBhLS1kMWBzcw%3D%3D&vvpl=1&l=202611200831595B9F983E27D31757CD31&btag=e00090000",
+    "start": 36.5,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "man peeling off face mask",
+   "cam": null
+  },
+  {
+   "src": "clients/16419cef3253575ab90b/donor_tt7708352326179753237_0.mp4",
+   "ss": 0,
+   "dur": 1.45,
+   "donor": {
+    "id": "tt7708352326179753237",
+    "media": "https://v16m.tiktokcdn-us.com/fbeddd282f951b8c91352d3b57fa51e4/6b005a1f/video/tos/alisg/tos-alisg-pve-0037c001/owZhMZA0gInnfsdDyIVIzG1C8RFU4FTeAAKLfj/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=944&ft=gKfIn8s6oA-O12NvR_uslIxRSzUbHF_45SY&mime_type=video_mp4&rc=aTc8OzdmZGdkO2k1OGg1Z0BpanM6PHA5cjdzZTMzODczNEAyLjRiNWAuNjUxMmA0LWE1YSNyLzY2MmQ0MHBhLS1kMWBzcw%3D%3D&vvpl=1&l=202611200831595B9F983E27D31757CD31&btag=e00090000",
+    "start": 8.0,
+    "dur": 1.5
+   },
+   "free": "bottom",
+   "shows": "applying skincare eye patches",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_5871181.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "clients/16419cef3253575ab90b/gal_0.jpg",
+   "dur": 1.5,
+   "zoom": 1.06,
+   "own": true,
+   "shows": "beautiful woman smiling closeup",
+   "cam": true
+  },
+  {
+   "src": "stock/pexels_40326823.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Hand reaching for charging smartphone",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_17781721.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Smiling man holding smartphone indoors",
+   "cam": null
+  },
+  {
+   "src": "clients/16419cef3253575ab90b/prod_0.jpg",
+   "dur": 3,
+   "fit": "pad",
+   "own": true,
+   "shows": "website dark interface screen",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "woman face scanning smartphone app",
+  "face analysis technology mobile",
+  "clean skin beauty check"
+ ],
+ "llm_usd": 0.0191,
+ "hookscore": 78.8,
+ "disc": "Не является медицинским диагнозом или врачебной консультацией.",
+ "end_text": [
+  "Еще 6 рилс",
+  "на этой неделе"
+ ],
+ "why": "Серия 1 «Как работает AuraScan». Использована формула вирусного разбора параметров кожи (донор №6 с 39 млн просмотров) для демонстрации простоты AI-тестирования за 60 секунд и перехода на сайт.\nЧасть кадров — из вирусного ролика вашей ниши (34.8 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "qa": {
+  "score": 67,
+  "parts": {
+   "hook": 14,
+   "relevance": 10,
+   "alive": 12,
+   "text": 12,
+   "match": 11,
+   "cta": 7
+  },
+  "problems": [
+   "Кадры со стоковым видео и статичным сайтом выглядят дёшево и абстрактно",
+   "На экране с сайтом текст слишком мелкий и не читается на мобильном",
+   "Финальный кадр агентства 'Тереха' не даёт понятного призыва и контактов сервиса"
+  ],
+  "fix": "Покажите реальный процесс сканирования лица через интерфейс AuraScan и наглядный результат отчета в телефоне крупным планом вместо стоковых людей и мелкого скриншота сайта."
+ },
+ "cost": {
+  "usd": 0.026,
+  "calls": 12,
+  "by": {
+   "script": 0.0036,
+   "donor_clips": 0.0031,
+   "clean_windows": 0.0014,
+   "fit_filter": 0.0065,
+   "edit_pass": 0.0024,
+   "judge_once": 0.0092
+  }
+ }
+}

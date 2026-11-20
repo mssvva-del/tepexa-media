@@ -1,0 +1,96 @@
+{
+ "id": "f9a3afed6f22e5f506fd",
+ "pv": "viral",
+ "plan_usd": 0.0203,
+ "company": "QA Final",
+ "lang": "en",
+ "hook": "Why your gel lifts in days",
+ "lines": [
+  "Most gel manicures lift because cuticle prep was rushed.",
+  "Our Miami studio delivers meticulous, long-lasting gel manicures.",
+  "We gently detail every cuticle so nails stay flawless.",
+  "Message us on WhatsApp now to claim your spot."
+ ],
+ "say": [
+  "Most gel manicures lift because cuticle prep was rushed.",
+  "Our Miami studio delivers meticulous, long-lasting gel manicures.",
+  "We gently detail every cuticle so nails stay flawless.",
+  "Message us on WhatsApp now to claim your spot."
+ ],
+ "shots": [
+  {
+   "src": "clients/f9a3afed6f22e5f506fd/donor_tt7682580389348609300_0.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "tt7682580389348609300",
+    "media": "https://v45.tiktokcdn-us.com/65a32a6a4000b61dd5f234e3272a2b76/6b004d14/video/tos/alisg/tos-alisg-pve-0037c001/ogAIoLGOjIDkBI3NjeIQyPCAAMeAjZGEPVeYZ0/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=381&ft=aEKfuqT0mvRPD12PfApI3wUlLgIVaeF~O5&mime_type=video_mp4&rc=OzVkNzdpNmVpOjdnOWRoN0BpM2Y3NnA5cnMzZDMzODczNEBjMzItLWAxXy4xLTVfYTI2YSNqcjE2MmRrMGNhLS1kMTFzcw%3D%3D&vvpl=1&l=2026112007371598D32F5CD52B5B4287B6&btag=e000b5000",
+    "start": 5.0,
+    "dur": 2.2
+   },
+   "free": "bottom",
+   "shows": "Woman showing off long green nails",
+   "cam": true
+  },
+  {
+   "src": "stock/pexels_4855898.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_10609139.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_3997849.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_35049542.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "manicurist cuticle clean gel prep macro",
+  "gel manicure application nail salon hands",
+  "aesthetic modern nail studio miami"
+ ],
+ "llm_usd": 0.0168,
+ "hookscore": 72.0,
+ "end_text": [
+  "6 more Reels",
+  "this week"
+ ],
+ "why": "This video launches Series 1 by leveraging the macro prep viral formula seen in benchmark videos with over 24 million views. It highlights technical precision to resolve early gel lifting and prompts Miami clients to book directly via WhatsApp.\nSome shots come from a viral video in your niche (24.4M views) to boost reach; your product and call to action open and close the video.",
+ "qa": {
+  "score": 82,
+  "parts": {
+   "hook": 16,
+   "relevance": 18,
+   "alive": 16,
+   "text": 13,
+   "match": 14,
+   "cta": 8
+  },
+  "problems": [
+   "Cuticle prep shot is duplicated at 0:02 and 0:07",
+   "Hook clip shows long claws instead of lifting gel nails to visually represent the hook line"
+  ],
+  "fix": "Replace the repeated cuticle nipper shot around second 7 with a different step like nail shaping or UV curing to maintain visual variety."
+ },
+ "cost": {
+  "usd": 0.024,
+  "calls": 9,
+  "by": {
+   "script": 0.0031,
+   "donor_clips": 0.0106,
+   "clean_windows": 0.0015,
+   "fit_filter": 0.0027,
+   "edit_pass": 0.0023,
+   "judge_once": 0.0041
+  }
+ }
+}

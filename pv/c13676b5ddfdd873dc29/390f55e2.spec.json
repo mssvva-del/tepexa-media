@@ -1,0 +1,129 @@
+{
+ "id": "c13676b5ddfdd873dc29_s13",
+ "company": "Natalia Fitness",
+ "lang": "en",
+ "hook": "Stay energized for your kids",
+ "lines": [
+  "Keeping up with energetic kids takes real strength.",
+  "Fueling your body daily gives you vital stamina.",
+  "Active days become effortless when you build muscle.",
+  "Comment START for my proper squat checklist."
+ ],
+ "say": [
+  "Keeping up with energetic kids takes real strength.",
+  "Fueling your body daily gives you vital stamina.",
+  "Active days become effortless when you build muscle.",
+  "Comment START for my proper squat checklist."
+ ],
+ "shots": [
+  {
+   "src": "clients/c13676b5ddfdd873dc29/drive/1PZrjXEgQb_zsoHPMzwT2Ar5ShHKARBnK_720.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "own": true,
+   "shows": "child riding toy electric quad",
+   "cam": null
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/drive/15KCQpHgbA4OS8_isLy0ryjtrczl4E9bP_720.mp4",
+   "ss": 1,
+   "dur": 3,
+   "own": true,
+   "shows": "child eating breakfast at table",
+   "cam": null
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/drive/1-7LFbj4TxX96LY2_WQmjzdJadct14m7b_720.mp4",
+   "ss": 1,
+   "dur": 3,
+   "own": true,
+   "shows": "fit woman posing outdoors smiling",
+   "cam": true
+  }
+ ],
+ "stock_queries": [
+  "woman demonstrating goblet squat technique holding kettlebell",
+  "close up of fitness trainer pointing out elbow alignment",
+  "trainer smiling confident standing in East Coast gym studio"
+ ],
+ "paid": true,
+ "end": "Comment START below",
+ "caption": "Clean up your goblet squat with one cue: keep that weight glued to your sternum. Comment START to receive my complete exercise technique guide. #gobletsquat #squatform #fitmumsingapore #personaltrainerlife\n\n👉 reels.tepexa.com/w/c13676b5ddfdd873dc29",
+ "series": "Fix this",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "own_voice": true,
+ "el_voice": "z4V6eQevRn1HFFbbAAnF",
+ "el_model": "eleven_v4",
+ "caption_style": {
+  "weight": 800,
+  "italic": true,
+  "upper": true,
+  "words": 2,
+  "pill": false,
+  "stroke": 4,
+  "color": "FFFFFF",
+  "key": "C8A2FF",
+  "keys": [
+   "4",
+   "41",
+   "50",
+   "70",
+   "80",
+   "ACTIVE",
+   "BETTER",
+   "CONSISTENCY",
+   "DISCIPLINE",
+   "FOUR",
+   "GLUTES",
+   "HAMSTRINGS",
+   "HEALTHY",
+   "HEELS",
+   "INDEPENDENT",
+   "LASTS",
+   "LATE",
+   "LIFE",
+   "LIFT",
+   "LIGHTER",
+   "MOM",
+   "MUM",
+   "MUSCLE",
+   "NEVER",
+   "PAUSE",
+   "RIBS",
+   "SQUEEZE",
+   "START",
+   "STRENGTH",
+   "STRONG",
+   "STRONGER",
+   "WEIGHTS"
+  ],
+  "hook_font": "anton",
+  "hook_bg": "C8A2FF",
+  "hook_fg": "140E1E",
+  "note": "Natalia v2 (caption_edit_v2.py): Montserrat ExtraBold italic, 1-2 words, white + lilac keys, Anton hook"
+ },
+ "cam_end": true,
+ "why": "Series Fix this. Addresses a common squat flaw with an exact cue, matching the high-retention 15-second technique format.",
+ "rules": "Videos in English. Natalia = personal trainer, 41, mum of a 4-year-old, Singapore. Audience: women 35+, many mums.\nFOOTAGE: only Natalia's own footage (her Google Drive / her reels). NEVER stock, NEVER strangers, NEVER other people's interviews or viral clips.\nONE topic per video; finish the thought logically. Technique videos: ONE exercise. Exception: follow-along workouts Natalia films herself (e.g. 4 shoulder moves with water bottles) are allowed - one topic, several moves. Never mix exercises that don't belong to one workout.\nOnly expert-grade technique content: cues must be correct and specific (e.g. ribs down, push through heels, pause at top). Weak or generic technique explanation = do not publish.\nHooks: from what goes viral now (technique of legs/glutes, strength for life 35+), concrete, no filler questions (no 'morning or evening', no 'how long is your quick rest').\nNever repeat topics she already posted. Do not recycle hooks from her own old reels.\nEvery shot must match what is said at that moment. No random lifestyle shot as an ending (e.g. running on the field with her son) unless the line is about him.\nFinal CTA frame: Natalia looking directly into the camera saying the call to action. Video must not just cut off.\nCTA: Comment \"START\".\nCaptions: same style in every video - big Montserrat ExtraBold italic, 1-2 words, white with lilac key words; hook plate at start, end card. Always white and lilac.\nVoice: Natalia's real voice when she sends it; otherwise her ElevenLabs clone. Never robotic voice with unnatural pauses.\nNever shame bodies, no before/after, never promise weight loss/results/health outcomes, no medical or nutrition claims. Never write 'free'.\nPlus-size assistant (Strong Together): only strength and confidence, only with her consent, starts when footage exists.\nTone: warm, honest coach-mum, expert.\nNO nudity or semi-nude shots (shower, bare back) - she declines them.\nName exercises exactly: underhand grip = chin-up (biceps + back), not pull-",
+ "hookscore": 60.7,
+ "qa": {
+  "score": 59,
+  "parts": {
+   "hook": 12,
+   "relevance": 13,
+   "alive": 12,
+   "text": 13,
+   "match": 9,
+   "cta": 6
+  },
+  "problems": [
+   "Final CTA frame rule broken: Natalia is not looking directly into the camera saying the call to action, instead it cuts to a static blurred text screen",
+   "Disconnect between topic and CTA: video discusses energy/stamina for kids and daily fueling, but abruptly asks to comment for a 'proper squat checklist' without showing any squats",
+   "Repeated shot/pacing issue between 00:00-00:06 switching back and forth between identical child clips"
+  ],
+  "fix": "Align the CTA and visual content by demonstrating squat strength exercises that help with parenting stamina, and end with Natalia looking at the camera speaking the CTA."
+ },
+ "date": "2026-11-28 10:47 UTC"
+}

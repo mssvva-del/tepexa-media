@@ -1,0 +1,128 @@
+{
+ "id": "c13676b5ddfdd873dc29_s11",
+ "company": "Natalia Fitness",
+ "lang": "en",
+ "hook": "Strength for busy mums",
+ "lines": [
+  "Building real strength takes patience and consistency.",
+  "Fueling your family while making time for training.",
+  "Watching our kids grow active alongside our routine.",
+  "Comment START to begin your progression today."
+ ],
+ "say": [
+  "Building real strength takes patience and consistency.",
+  "Fueling your family while making time for training.",
+  "Watching our kids grow active alongside our routine.",
+  "Comment START to begin your progression today."
+ ],
+ "shots": [
+  {
+   "src": "clients/c13676b5ddfdd873dc29/drive/15KCQpHgbA4OS8_isLy0ryjtrczl4E9bP_720.mp4",
+   "ss": 1,
+   "dur": 3,
+   "own": true,
+   "shows": "child eating breakfast at table",
+   "cam": null
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/drive/1PZrjXEgQb_zsoHPMzwT2Ar5ShHKARBnK_720.mp4",
+   "ss": 1,
+   "dur": 3,
+   "own": true,
+   "shows": "child riding toy electric quad",
+   "cam": null
+  },
+  {
+   "src": "clients/c13676b5ddfdd873dc29/drive/1-7LFbj4TxX96LY2_WQmjzdJadct14m7b_720.mp4",
+   "ss": 1,
+   "dur": 3,
+   "own": true,
+   "shows": "fit woman posing outdoors smiling",
+   "cam": true
+  }
+ ],
+ "stock_queries": [
+  "plus size woman performing banded pull up with trainer support",
+  "two women celebrating progress and high fiving in gym",
+  "trainer looking at camera giving positive encouragement"
+ ],
+ "paid": true,
+ "end": "Comment START below",
+ "caption": "Consistency wins every single time. Proud of this milestone on the pull-up bar! Comment START to get your customized strength starting point. #strengthjourney #pullupprogression #womenwholift #bodypositivityfitness\n\n👉 reels.tepexa.com/w/c13676b5ddfdd873dc29",
+ "series": "Strong journey",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+ "own_voice": true,
+ "el_voice": "z4V6eQevRn1HFFbbAAnF",
+ "el_model": "eleven_v4",
+ "caption_style": {
+  "weight": 800,
+  "italic": true,
+  "upper": true,
+  "words": 2,
+  "pill": false,
+  "stroke": 4,
+  "color": "FFFFFF",
+  "key": "C8A2FF",
+  "keys": [
+   "4",
+   "41",
+   "50",
+   "70",
+   "80",
+   "ACTIVE",
+   "BETTER",
+   "CONSISTENCY",
+   "DISCIPLINE",
+   "FOUR",
+   "GLUTES",
+   "HAMSTRINGS",
+   "HEALTHY",
+   "HEELS",
+   "INDEPENDENT",
+   "LASTS",
+   "LATE",
+   "LIFE",
+   "LIFT",
+   "LIGHTER",
+   "MOM",
+   "MUM",
+   "MUSCLE",
+   "NEVER",
+   "PAUSE",
+   "RIBS",
+   "SQUEEZE",
+   "START",
+   "STRENGTH",
+   "STRONG",
+   "STRONGER",
+   "WEIGHTS"
+  ],
+  "hook_font": "anton",
+  "hook_bg": "C8A2FF",
+  "hook_fg": "140E1E",
+  "note": "Natalia v2 (caption_edit_v2.py): Montserrat ExtraBold italic, 1-2 words, white + lilac keys, Anton hook"
+ },
+ "cam_end": true,
+ "why": "Series Strong journey. Follows the assistant's progressive strength development, proving strength is built step-by-step regardless of starting weight.",
+ "rules": "Videos in English. Natalia = personal trainer, 41, mum of a 4-year-old, Singapore. Audience: women 35+, many mums.\nFOOTAGE: only Natalia's own footage (her Google Drive / her reels). NEVER stock, NEVER strangers, NEVER other people's interviews or viral clips.\nONE topic per video; finish the thought logically. Technique videos: ONE exercise. Exception: follow-along workouts Natalia films herself (e.g. 4 shoulder moves with water bottles) are allowed - one topic, several moves. Never mix exercises that don't belong to one workout.\nOnly expert-grade technique content: cues must be correct and specific (e.g. ribs down, push through heels, pause at top). Weak or generic technique explanation = do not publish.\nHooks: from what goes viral now (technique of legs/glutes, strength for life 35+), concrete, no filler questions (no 'morning or evening', no 'how long is your quick rest').\nNever repeat topics she already posted. Do not recycle hooks from her own old reels.\nEvery shot must match what is said at that moment. No random lifestyle shot as an ending (e.g. running on the field with her son) unless the line is about him.\nFinal CTA frame: Natalia looking directly into the camera saying the call to action. Video must not just cut off.\nCTA: Comment \"START\".\nCaptions: same style in every video - big Montserrat ExtraBold italic, 1-2 words, white with lilac key words; hook plate at start, end card. Always white and lilac.\nVoice: Natalia's real voice when she sends it; otherwise her ElevenLabs clone. Never robotic voice with unnatural pauses.\nNever shame bodies, no before/after, never promise weight loss/results/health outcomes, no medical or nutrition claims. Never write 'free'.\nPlus-size assistant (Strong Together): only strength and confidence, only with her consent, starts when footage exists.\nTone: warm, honest coach-mum, expert.\nNO nudity or semi-nude shots (shower, bare back) - she declines them.\nName exercises exactly: underhand grip = chin-up (biceps + back), not pull-",
+ "hookscore": 56.8,
+ "qa": {
+  "score": 70,
+  "parts": {
+   "hook": 11,
+   "relevance": 14,
+   "alive": 13,
+   "text": 13,
+   "match": 12,
+   "cta": 8
+  },
+  "problems": [
+   "Hook is too generic and visually weak: showing a toddler clapping at breakfast does not stop the thumb for strength training.",
+   "Voiceover mentions 'making time for training' while showing only a child on a toy car, lacking actual strength training footage until the very end."
+  ],
+  "fix": "Replace the child clips with footage of Natalia demonstrating strength workouts or lifting while balancing mom life to directly match the voiceover and deliver a strong fitness hook."
+ },
+ "date": "2026-11-27 10:11 UTC"
+}

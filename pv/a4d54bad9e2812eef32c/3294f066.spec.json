@@ -1,0 +1,64 @@
+{
+ "id": "kinor_v1",
+ "company": "Кинор Давид",
+ "lang": "ru",
+ "ad_end": true,
+ "end": "Бар-мицва у Стены Плача · 052-260-0640",
+ "music": "~/Projects/tepexa-clients/kinor-david/music/m475.mp3",
+ "hook": "Так проходит бар-мицва у Стены Плача",
+ "lines": [
+  "Шествие с музыкантами и шофарами — прямо к Стене Плача.",
+  "Пайтан, фото и видео, завтрак и личное сопровождение — всё берём на себя.",
+  "Мы проводим бар-мицвы у Котеля с 2007 года.",
+  "Посмотрите на эти лица — ради них мы и работаем.",
+  "Напишите нам — подберём дату и пакет под вашу семью."
+ ],
+ "shots": [
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/kinor-david/src/v_6Vmzdwzjxyk.mp4",
+   "ss": 2,
+   "dur": 3.0
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/kinor-david/src/v_iP2yGmFIbkQ.mp4",
+   "ss": 3,
+   "dur": 2.8
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/kinor-david/src/v_iP2yGmFIbkQ.mp4",
+   "ss": 18,
+   "dur": 3.0
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/kinor-david/src/v_iP2yGmFIbkQ.mp4",
+   "ss": 36,
+   "dur": 2.8
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/kinor-david/src/v_iP2yGmFIbkQ.mp4",
+   "ss": 45,
+   "dur": 3.0
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/kinor-david/src/v_iP2yGmFIbkQ.mp4",
+   "ss": 57,
+   "dur": 3.0
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/kinor-david/src/v_5ZtsYhqJin4.mp4",
+   "ss": 2,
+   "dur": 2.6
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/kinor-david/src/v_eSC8ApZudbM.mp4",
+   "ss": 2,
+   "dur": 2.6
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/kinor-david/src/v_6Vmzdwzjxyk.mp4",
+   "ss": 14,
+   "dur": 3.4
+  }
+ ],
+ "caption": "Так проходит бар-мицва у Стены Плача 🎺✡️\n\nШествие с музыкантами и шофарами, пайтан, фото и видео, завтрак и личное сопровождение — с 2007 года.\n\nНапишите нам — подберём дату и пакет под вашу семью 👉 052-260-0640\n\n#бармицва #стенаплача #котель #иерусалим #израиль #бармицвавиерусалиме"
+}

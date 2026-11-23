@@ -1,0 +1,92 @@
+{
+ "id": "7b477d6c3ef5c4afc0fa",
+ "pv": "viral",
+ "plan_usd": 0.0034,
+ "company": "LedgerLine",
+ "lang": "en",
+ "hook": "Startup accounting mess costing you money?",
+ "lines": [
+  "Mixing personal accounts with startup spending creates expensive mess.",
+  "LedgerLine sets up your dedicated books from day 1.",
+  "Our New York team handles taxes, payroll, and reports.",
+  "Book your initial consultation through our profile link today."
+ ],
+ "say": [
+  "Mixing personal accounts with startup spending creates expensive mess.",
+  "LedgerLine sets up your dedicated books from day one.",
+  "Our New York team handles taxes, payroll, and reports.",
+  "Book your initial consultation through our profile link today."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_6794390.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_8479267.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_7247829.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_6781916.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_19332993.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_13801266.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "startup founder financial spreadsheets laptop",
+  "accountant reviewing business receipts office",
+  "modern new york finance office work"
+ ],
+ "llm_usd": 0.018,
+ "hookscore": 62.0,
+ "disc": "General information, not formal tax advice.",
+ "end_text": [
+  "Book consultation",
+  "Audit-ready startup book"
+ ],
+ "ad_end": true,
+ "end": "Book consultation",
+ "why": "Series 1 founder onboarding format following Duke Tax's viral regulatory and deduction breakdown (340,309 views), designed to convert early-stage founders seeking clean bookkeeping and tax setup.",
+ "qa": {
+  "score": 74,
+  "parts": {
+   "hook": 14,
+   "relevance": 12,
+   "alive": 12,
+   "text": 13,
+   "match": 14,
+   "cta": 9
+  },
+  "rule_break": false,
+  "problems": [
+   "Reused the same clip of the man with a calculator twice (00:00 and 00:08)",
+   "Stock footage feels generic and repeated",
+   "Static street sign at the end lingers too long"
+  ],
+  "fix": "Replace the repeated calculator clip at second 8 with fresh footage of software reporting or team collaboration, and shorten the ending static shot."
+ },
+ "cost": {
+  "usd": 0.003,
+  "calls": 1,
+  "by": {
+   "script": 0.0034
+  }
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "id": "b4696f13b05ac57237e2",
+ "pv": "viral",
+ "plan_usd": 0.0035,
+ "company": "FreightBridge",
+ "lang": "en",
+ "hook": "Why freight delays stall production",
+ "lines": [
+  "Late warehouse dispatches stall manufacturing production daily.",
+  "FreightBridge connects dedicated trucking with integrated warehousing.",
+  "Pallets move seamlessly through docks without congestion.",
+  "Send us your route details for reliable capacity."
+ ],
+ "say": [
+  "Late warehouse dispatches stall manufacturing production daily.",
+  "FreightBridge connects dedicated trucking with integrated warehousing.",
+  "Pallets move seamlessly through docks without congestion.",
+  "Send us your route details for reliable capacity."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_34479230.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_16971219.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_20654627.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_15170997.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_20654629.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "warehouse loading dock forklift truck",
+  "semi truck backing into loading bay",
+  "industrial warehouse pallet logistics Chicago"
+ ],
+ "llm_usd": 0.0376,
+ "hookscore": 82.8,
+ "end_text": [
+  "Request capacity today",
+  "Chicago freight partner"
+ ],
+ "ad_end": true,
+ "end": "Request capacity today",
+ "why": "Series 1 intro adapted from warehouse dock dynamics (donor 0 with 96M views), using a high-tension numerical pain hook to target plant managers suffering dispatch bottlenecks.",
+ "qa": {
+  "score": 83,
+  "parts": {
+   "hook": 14,
+   "relevance": 17,
+   "alive": 16,
+   "text": 13,
+   "match": 14,
+   "cta": 9
+  },
+  "rule_break": false,
+  "problems": [
+   "Static text header remains stuck on screen for the first 3-4 seconds obscuring warehouse footage",
+   "Low camera angle shot of the truck repeats twice at 0:00 and 0:07"
+  ],
+  "fix": "Replace the repeated truck drive-by shot around second 7 with dynamic footage of loading docks or pallet handling."
+ },
+ "cost": {
+  "usd": 0.003,
+  "calls": 1,
+  "by": {
+   "script": 0.0035
+  }
+ }
+}

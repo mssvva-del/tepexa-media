@@ -1,0 +1,119 @@
+{
+ "id": "22c5a436a7f756bdc2b2",
+ "pv": "viral",
+ "plan_usd": 0.0043,
+ "company": "Maryna Real Estate",
+ "lang": "ru",
+ "hook": "Реально ли купить дом без переплат?",
+ "lines": [
+  "Многие уверены, что в Долине невозможно купить роскошное жилье.",
+  "Мы подбираем дома и защищаем ваш бюджет на сделках.",
+  "Детально анализируем скрытые расходы и налоги каждого района Калифорнии.",
+  "Напишите нам в WhatsApp для расчета персональной стратегии покупки."
+ ],
+ "say": [
+  "Многие уверены, что в Долине невозможно купить роскошное жилье.",
+  "Мы подбираем дома и защищаем ваш бюджет на сделках.",
+  "Детально анализируем скрытые расходы и налоги каждого района Калифорнии.",
+  "Напишите нам в вотсап для расчета персональной стратегии покупки."
+ ],
+ "shots": [
+  {
+   "src": "clients/22c5a436a7f756bdc2b2/donor_tt7671702925307153677_0.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "tt7671702925307153677",
+    "media": "https://v45.tiktokcdn-us.com/f2d558400918dd9e89ee69313f00b3b1/6b045c95/video/tos/useast5/tos-useast5-ve-0068c002-tx/ogQ3IgDeRX9dAzDqMFZOf0QvYsyE1EWgSc1XBv/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=1535&ft=aEKfuqT0mX9PD12c0RaS3wU-Qm3qjeF~O5&mime_type=video_mp4&rc=NzRpaTg5NmY3aDNkOWdpOUBpM3R0OHM5cmdvPDMzZzczNEBeNC1jXzYwXi8xYmIvNS01YSMzcHMwMmRjam9hLS1kMS9zcw%3D%3D&vvpl=1&l=202611230931363E50CE289B3781045F06&btag=e00095000",
+    "start": 2.0,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "Modern luxury house exterior at night",
+   "cam": null
+  },
+  {
+   "src": "clients/22c5a436a7f756bdc2b2/donor_tt7671702925307153677_1.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "tt7671702925307153677",
+    "media": "https://v45.tiktokcdn-us.com/f2d558400918dd9e89ee69313f00b3b1/6b045c95/video/tos/useast5/tos-useast5-ve-0068c002-tx/ogQ3IgDeRX9dAzDqMFZOf0QvYsyE1EWgSc1XBv/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=1535&ft=aEKfuqT0mX9PD12c0RaS3wU-Qm3qjeF~O5&mime_type=video_mp4&rc=NzRpaTg5NmY3aDNkOWdpOUBpM3R0OHM5cmdvPDMzZzczNEBeNC1jXzYwXi8xYmIvNS01YSMzcHMwMmRjam9hLS1kMS9zcw%3D%3D&vvpl=1&l=202611230931363E50CE289B3781045F06&btag=e00095000",
+    "start": 12.0,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "Spacious luxury home interior entrance",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_35168164.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_27066154.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "clients/22c5a436a7f756bdc2b2/donor_tt7671702925307153677_2.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "tt7671702925307153677",
+    "media": "https://v45.tiktokcdn-us.com/f2d558400918dd9e89ee69313f00b3b1/6b045c95/video/tos/useast5/tos-useast5-ve-0068c002-tx/ogQ3IgDeRX9dAzDqMFZOf0QvYsyE1EWgSc1XBv/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=1535&ft=aEKfuqT0mX9PD12c0RaS3wU-Qm3qjeF~O5&mime_type=video_mp4&rc=NzRpaTg5NmY3aDNkOWdpOUBpM3R0OHM5cmdvPDMzZzczNEBeNC1jXzYwXi8xYmIvNS01YSMzcHMwMmRjam9hLS1kMS9zcw%3D%3D&vvpl=1&l=202611230931363E50CE289B3781045F06&btag=e00095000",
+    "start": 26.0,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "Home theater with starry ceiling",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_7982690.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "silicon valley luxury modern house exterior",
+  "california suburban modern home interior",
+  "san jose neighborhood residential street"
+ ],
+ "llm_usd": 0.0231,
+ "hookscore": 69.2,
+ "disc": "Не является индивидуальной финансовой консультацией.",
+ "end_text": [
+  "Напишите в WhatsApp",
+  "Недвижимость в Калифорни"
+ ],
+ "ad_end": true,
+ "end": "Напишите в WhatsApp",
+ "why": "Серия 1 из стратегии о реалиях рынка Кремниевой долины. Хук опирается на формулу разбора финансовой реальности и формата рум-тура элитного жилья (донор №6 с 3 млн просмотров), цель — привлечь покупателей на расчет бюджета через WhatsApp.\nЧасть кадров — из вирусного ролика вашей ниши (3.0 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "qa": {
+  "score": 71,
+  "parts": {
+   "hook": 14,
+   "relevance": 12,
+   "alive": 13,
+   "text": 13,
+   "match": 11,
+   "cta": 8
+  },
+  "rule_break": false,
+  "problems": [
+   "Duplicate aerial footage repeated at 00:03-00:05 and 00:09-00:11",
+   "Duplicate house footage repeated at 00:05-00:07 and 00:10-00:12",
+   "Robotic AI voiceover lacks warmth and authenticity of a real agent"
+  ],
+  "fix": "Replace the repeated clips of the city aerial view and backyard pool with unique footage of Silicon Valley neighborhoods and feature the expert agent speaking on camera."
+ },
+ "cost": {
+  "usd": 0.004,
+  "calls": 1,
+  "by": {
+   "script": 0.0043
+  }
+ }
+}

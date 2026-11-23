@@ -1,0 +1,64 @@
+{
+ "id": "frostpro_v3",
+ "company": "FrostPro",
+ "lang": "uk",
+ "ad_end": true,
+ "end": "Все для холодильних майстрів — frostpro.com.ua",
+ "music": "~/Projects/tepexa-clients/kinor-david/music/m475.mp3",
+ "hook": "3 помилки при заправці кондиціонера, через які гине компресор",
+ "lines": [
+  "Перша: дозаправити й не шукати витік — за місяць фреону знову немає.",
+  "Друга: не вакуумувати систему — волога всередині вбиває компресор.",
+  "Третя: заправляти R410A газом. Суміш — тільки рідкою фазою.",
+  "Манометри, вакуумні насоси й фреон — на frostpro.com.ua."
+ ],
+ "say": [
+  "Перша: дозаправити й не шукати витік — за місяць фреону знову немає.",
+  "Друга: не вакуумувати систему — волога всередині вбиває компресор.",
+  "Третя: заправляти чотириста десятий фреон газом. Суміш — тільки рідкою фазою.",
+  "Манометри, вакуумні насоси й фреон — на фростпро крапка ком крапка юа."
+ ],
+ "shots": [
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/frostpro/donors/tt7055273564433386753.mp4",
+   "ss": 1.0,
+   "dur": 2.1
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/frostpro/donors/tt7699557616409758984.mp4",
+   "ss": 0.2,
+   "dur": 2.3
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/frostpro/donors/tt7546074754206256401.mp4",
+   "ss": 18.8,
+   "dur": 2.4
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/frostpro/donors/tt7546074754206256401.mp4",
+   "ss": 21.5,
+   "dur": 2.1
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/frostpro/donors/tt7055273564433386753.mp4",
+   "ss": 14.0,
+   "dur": 2.1
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/frostpro/donors/tt7055273564433386753.mp4",
+   "ss": 20.5,
+   "dur": 1.9
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/frostpro/donors/tt7679941362376117522.mp4",
+   "ss": 1.0,
+   "dur": 1.8
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/frostpro/donors/tt7055273564433386753.mp4",
+   "ss": 5.5,
+   "dur": 1.8
+  }
+ ],
+ "caption": "3 помилки при заправці кондиціонера, через які гине компресор ❄️\n\n1. Дозаправка без пошуку витоку.\n2. Заправка без вакуумування — волога й повітря в системі.\n3. R410A газом — суміші заправляють тільки рідкою фазою.\n\nПравильно: пошук витоку → вакуум → перевірка на герметичність → заправка за вагою.\n\nІнструмент і фреон для майстрів — frostpro.com.ua\n\n#кондиціонер #холодильнемайстер #фреон #r410a #кліматтехніка #frostpro"
+}

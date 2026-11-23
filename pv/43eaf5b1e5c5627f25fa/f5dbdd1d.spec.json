@@ -1,0 +1,95 @@
+{
+ "id": "43eaf5b1e5c5627f25fa",
+ "pv": "viral",
+ "plan_usd": 0.0038,
+ "company": "Lawn Livin",
+ "lang": "en",
+ "hook": "Overgrown Lawns Ruining Your Curb Appeal?",
+ "lines": [
+  "Overgrown grass and messy edges ruin curb appeal.",
+  "Our team handles complete trimming and mowing maintenance.",
+  "We clear seasonal leaves across the entire yard.",
+  "Visit lawnlivin.com today to request your upfront estimate."
+ ],
+ "say": [
+  "Overgrown grass and messy edges ruin curb appeal.",
+  "Our team handles complete trimming and mowing maintenance.",
+  "We clear seasonal leaves across the entire yard.",
+  "Visit Lawn Livin dot com today to request your upfront estimate."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_4823979.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_40092014.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_34985119.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_9323229.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "sprinkler head in green grass",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_12542989.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "aerial view of residential cul-de-sac",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_11489795.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "lawn mower cutting tall grass",
+  "lawn edger sidewalk cleanup",
+  "neat landscaped backyard aerial"
+ ],
+ "llm_usd": 0.0203,
+ "hookscore": 82.2,
+ "end_text": [
+  "Visit lawnlivin.com",
+  "Dependable yard care"
+ ],
+ "ad_end": true,
+ "end": "Visit lawnlivin.com · lawnlivin.com",
+ "why": "Aligns directly with the client's explicit vision for a 'Full yard transformation' and Series #1/Leader overgrowth format (1.6M+ views on donor 9), converting neglected lawn chaos into satisfying order to drive estimate requests on lawnlivin.com.",
+ "qa": {
+  "score": 70,
+  "parts": {
+   "hook": 13,
+   "relevance": 12,
+   "alive": 14,
+   "text": 13,
+   "match": 10,
+   "cta": 9
+  },
+  "rule_break": false,
+  "problems": [
+   "Irrelevant shot of picking up litter/trash with a grabber at 0:05 while talking about leaf clearing",
+   "Mismatched stock aerial footage of UK-style terraced housing at 0:07-0:12 that doesn't fit a Tennessee lawn care service",
+   "Voice mentions trimming and mowing while footage shows leaf blowing on a mower and trash pickup"
+  ],
+  "fix": "Replace the trash pickup shot and UK aerial drone footage with real clips of residential lawn mowing, edging, and leaf removal in Tennessee neighborhoods."
+ },
+ "cost": {
+  "usd": 0.004,
+  "calls": 1,
+  "by": {
+   "script": 0.0038
+  }
+ }
+}

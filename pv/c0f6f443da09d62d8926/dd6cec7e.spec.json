@@ -1,0 +1,96 @@
+{
+ "id": "c0f6f443da09d62d8926",
+ "pv": "viral",
+ "plan_usd": 0.0035,
+ "company": "Atelier Nord",
+ "lang": "en",
+ "hook": "Transforming dark layouts into modern living",
+ "lines": [
+  "Most London homes suffer from cramped, dark layouts.",
+  "We integrate architecture and interior design seamlessly together.",
+  "Bespoke joinery and natural daylight transform everyday living.",
+  "Explore our recent projects via link in bio."
+ ],
+ "say": [
+  "Most London homes suffer from cramped, dark layouts.",
+  "We integrate architecture and interior design seamlessly together.",
+  "Bespoke joinery and natural daylight transform everyday living.",
+  "Explore our recent projects via link in bio."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_36030664.mp4",
+   "ss": 1,
+   "dur": 1.6
+  },
+  {
+   "src": "stock/pexels_37674129.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_8829707.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_37674124.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_38413575.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_6376510.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_38413518.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "minimalist luxury interior design london",
+  "modern architecture bespoke joinery timber",
+  "architectural interior natural light living room"
+ ],
+ "llm_usd": 0.0184,
+ "hookscore": 64.2,
+ "end_text": [
+  "Explore our portfolio",
+  "London architecture stud"
+ ],
+ "ad_end": true,
+ "end": "Explore our portfolio",
+ "why": "Following Series #1 from the strategy, this video uses the proven tactile detail reveal format (17.0M views) to showcase Atelier Nord's architectural craftsmanship and attract prospective renovation inquiries.",
+ "qa": {
+  "score": 71,
+  "parts": {
+   "hook": 13,
+   "relevance": 11,
+   "alive": 14,
+   "text": 13,
+   "match": 11,
+   "cta": 9
+  },
+  "rule_break": false,
+  "problems": [
+   "Voiceover mentions dark, cramped London layouts while showing already bright, luxurious modern interiors",
+   "Shot at 00:03 shows timber frame construction in a pine forest, totally disconnected from typical London renovations",
+   "Shot at 00:07 shows tropical palm trees and resort-style architecture not typical of London"
+  ],
+  "fix": "Show genuine before-and-after footage of Victorian or dark London layouts transforming into bright, modern spaces with custom joinery."
+ },
+ "cost": {
+  "usd": 0.003,
+  "calls": 1,
+  "by": {
+   "script": 0.0035
+  }
+ }
+}

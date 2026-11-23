@@ -1,0 +1,109 @@
+{
+ "id": "4a8283ae86f691dd3b32",
+ "pv": "viral",
+ "plan_usd": 0.0035,
+ "company": "Skyline Estates",
+ "lang": "en",
+ "hook": "Luxury waterfront living in Dubai",
+ "lines": [
+  "Buying remote overseas property brings hidden investment risks.",
+  "We curate prime waterfront villas and residential communities.",
+  "Our advisors provide direct access and transparent analysis.",
+  "Message us today to view our private coastal catalog."
+ ],
+ "say": [
+  "Buying remote overseas property brings hidden investment risks.",
+  "We curate prime waterfront villas and residential communities.",
+  "Our advisors provide direct access and transparent analysis.",
+  "Message us today to view our private coastal catalog."
+ ],
+ "shots": [
+  {
+   "src": "clients/4a8283ae86f691dd3b32/donor_igDHBihXfMPDA_1.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "igDHBihXfMPDA",
+    "media": "https://scontent-cph2-1.cdninstagram.com/o1/v/t2/f2/m367/AQNW7mOkO8FDUDgVEH7juD7BD3S_VkBK07GcabGYQxcVzTCBKxLAo0P3c7EpUCm0QdrethEHQSCAnv-O3qCFpSHTktbtMP1YksctZYo.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_ohc=OxeOpUBu1-EQ7kNvwF9cUcv&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6NjQ1MjA4ODkxODExMDI0LCJhc3NldF9hZ2VfZGF5cyI6NjIyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=bee4600140e63058&_nc_vs=HBksFQIYQGlnX2VwaGVtZXJhbC83MDQwMzUyOTAzRkRCMUNCRDNCMDg4MEFCODFGNDM4OF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYRmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82NTU5MjcyNjM1NTA1MTJfMzk5ODAwOTgzMTQ0ODM0MDg0Mi5tcDQVAgLIARIAKAAYABsDiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATESY29weV9zYW1wbGVfZ3JvdXBzATEVAAAmoJPr7Iy0pQIVAigCQzMsF0ApMzMzMzMzGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&_nc_gid=b9JeDbFvymYyS_ea2XozFA&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTBXXhi47pnvONsWe_9Mk72bkfCG80WZRxiJrWiudchOQ&oe=6B0A12CC",
+    "start": 5.0,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "Luxury villa during sunset exterior",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_33024003.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "clients/4a8283ae86f691dd3b32/donor_igDHBihXfMPDA_2.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "igDHBihXfMPDA",
+    "media": "https://scontent-cph2-1.cdninstagram.com/o1/v/t2/f2/m367/AQNW7mOkO8FDUDgVEH7juD7BD3S_VkBK07GcabGYQxcVzTCBKxLAo0P3c7EpUCm0QdrethEHQSCAnv-O3qCFpSHTktbtMP1YksctZYo.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_ohc=OxeOpUBu1-EQ7kNvwF9cUcv&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6NjQ1MjA4ODkxODExMDI0LCJhc3NldF9hZ2VfZGF5cyI6NjIyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=bee4600140e63058&_nc_vs=HBksFQIYQGlnX2VwaGVtZXJhbC83MDQwMzUyOTAzRkRCMUNCRDNCMDg4MEFCODFGNDM4OF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYRmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82NTU5MjcyNjM1NTA1MTJfMzk5ODAwOTgzMTQ0ODM0MDg0Mi5tcDQVAgLIARIAKAAYABsDiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATESY29weV9zYW1wbGVfZ3JvdXBzATEVAAAmoJPr7Iy0pQIVAigCQzMsF0ApMzMzMzMzGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&_nc_gid=b9JeDbFvymYyS_ea2XozFA&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTBXXhi47pnvONsWe_9Mk72bkfCG80WZRxiJrWiudchOQ&oe=6B0A12CC",
+    "start": 10.5,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "Luxury terrace and bedroom views",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_34593442.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_27908345.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_35790814.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "luxury waterfront villa dubai aerial",
+  "modern penthouse terrace ocean view",
+  "dubai marina luxury interior walkthrough"
+ ],
+ "llm_usd": 0.0374,
+ "hookscore": 85.8,
+ "disc": "Informational overview, not financial or investment advice.",
+ "end_text": [
+  "Message Us Today",
+  "Prime Waterfront Portfol"
+ ],
+ "ad_end": true,
+ "end": "Message Us Today",
+ "why": "Built on Series #1 using the viral Trophy Asset format of video #0 (34.7M views) to hook international investors with a high-stakes question before presenting curated coastal assets.\nSome shots come from a viral video in your niche (34.8M views) to boost reach; your product and call to action open and close the video.",
+ "qa": {
+  "score": 86,
+  "parts": {
+   "hook": 17,
+   "relevance": 18,
+   "alive": 15,
+   "text": 13,
+   "match": 14,
+   "cta": 9
+  },
+  "rule_break": false,
+  "problems": [
+   "Repeated shot of suburban community used twice at 00:02 and 00:08",
+   "Static AI/render look on early villa shots"
+  ],
+  "fix": "Replace the duplicate suburban footage at 00:08 with a new shot showcasing a luxury waterfront property interior or marina view."
+ },
+ "cost": {
+  "usd": 0.003,
+  "calls": 1,
+  "by": {
+   "script": 0.0035
+  }
+ }
+}

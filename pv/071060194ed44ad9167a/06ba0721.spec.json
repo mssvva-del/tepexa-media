@@ -1,0 +1,67 @@
+{
+ "id": "myst_v2",
+ "pv": "viral",
+ "plan_usd": 0.0035,
+ "company": "mystrarium",
+ "lang": "ru",
+ "hook": "Чувствуете застой? Проверьте дату рождения",
+ "lines": [
+  "Когда кажется, что вы застряли на сложном перепутье,",
+  "задумайтесь над поиском ответов и чтением тайных знаков.",
+  "В mystrarium мы делаем расчеты циклов по символам судьбы,",
+  "Напишите в WhatsApp, чтобы получить персональный разбор судьбы."
+ ],
+ "say": [
+  "Когда кажется, что вы застряли на сложном перепутье,",
+  "задумайтесь над поиском ответов и чтением тайных знаков.",
+  "В Мистрариуме мы делаем расчёты циклов по символам судьбы,",
+  "Напишите в вотсап, чтобы получить персональный разбор судьбы."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_7709310.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_27599861.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "woman writing in journal outdoors",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_7265700.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "woman holding a lit candle",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_7221439.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "woman holding beads at table",
+   "cam": true
+  },
+  {
+   "src": "stock/pexels_20406177.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "woman looking at notebook contemplation",
+  "numerology birth chart calculation writing",
+  "calm mystical woman holding phone"
+ ],
+ "llm_usd": 0.0189,
+ "hookscore": 64.5,
+ "end_text": [
+  "Напишите в WhatsApp",
+  "Точный расчет судьбы"
+ ],
+ "ad_end": true,
+ "end": "Напишите в WhatsApp",
+ "why": "Серия 1 «Пролог»: знакомство с блогом и точкой входа через практичную нумерологию. Хук опирается на механику вирусного видео о кодах и дате рождения (77,2 млн просмотров) для конверсии зрителей на консультацию в WhatsApp."
+}

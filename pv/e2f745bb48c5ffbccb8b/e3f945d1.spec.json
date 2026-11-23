@@ -1,0 +1,100 @@
+{
+ "id": "e2f745bb48c5ffbccb8b",
+ "pv": "viral",
+ "plan_usd": 0.0035,
+ "company": "Harbor & Vale Law",
+ "lang": "en",
+ "hook": "Registering a Florida business? Avoid this",
+ "lines": [
+  "Most founders lose money before day one begins.",
+  "Carefully review contracts, agreements, and your equity documents.",
+  "Our Miami legal team protects founders and families.",
+  "Book your initial consultation through our bio link."
+ ],
+ "say": [
+  "Most founders lose money before day one begins.",
+  "Carefully review contracts, agreements, and your equity documents.",
+  "Our Miami legal team protects founders and families.",
+  "Book your initial consultation through our bio link."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_7822019.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_8731553.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_8061745.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_8731452.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_6101352.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "lawyer reviewing documents at desk",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_34828883.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "hands counting cash and papers",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_8061743.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "lawyer reviewing contract business",
+  "entrepreneur signing documents office",
+  "miami corporate lawyer consultation"
+ ],
+ "llm_usd": 0.0187,
+ "hookscore": 69.0,
+ "disc": "General information, not formal legal advice.",
+ "end_text": [
+  "Book your consultation",
+  "Miami business counsel"
+ ],
+ "ad_end": true,
+ "end": "Book your consultation",
+ "why": "Built on Series 1 (The Initial Consultation) using the curiosity fine-print hook mechanic seen across legal creators like Erika Kullberg with over 240K–1M views, designed to drive paid strategy consultation bookings.\nSome shots come from a viral video in your niche (2.0M views) to boost reach; your product and call to action open and close the video.",
+ "qa": {
+  "score": 70,
+  "parts": {
+   "hook": 14,
+   "relevance": 10,
+   "alive": 14,
+   "text": 12,
+   "match": 12,
+   "cta": 9
+  },
+  "rule_break": false,
+  "problems": [
+   "Footage is entirely generic stock video rather than authentic firm footage",
+   "Cut at 00:01 overexposed/washed out transition disrupts quality"
+  ],
+  "fix": "Replace generic stock footage with real B-roll of the actual Miami legal team working with clients and reviewing documents."
+ },
+ "cost": {
+  "usd": 0.004,
+  "calls": 1,
+  "by": {
+   "script": 0.0035
+  }
+ }
+}

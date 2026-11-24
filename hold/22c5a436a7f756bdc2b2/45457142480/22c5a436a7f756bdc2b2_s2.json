@@ -1,0 +1,85 @@
+{
+ "id": "22c5a436a7f756bdc2b2_s2",
+ "company": "Maryna Real Estate",
+ "lang": "ru",
+ "hook": "Эта деталь в ванной подняла цену",
+ "lines": [
+  "Эффектный дизайн ванной часто скрывает мелкие ошибки быстрого флиппинга.",
+  "Напишите РАСЧЕТ в WhatsApp для проверки реального состояния дома."
+ ],
+ "say": [
+  "Эффектный дизайн ванной часто скрывает мелкие ошибки быстрого флиппинга.",
+  "Напишите РАСЧЕТ в вотсап для проверки реального состояния дома."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_34236995.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Luxury bathtub beside large window",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_38746559.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "hallway into modern bathroom interior",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_6810468.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "water filling a modern bathtub",
+   "cam": null
+  },
+  {
+   "src": "clients/22c5a436a7f756bdc2b2/donor_tt7675294764253629728_2.mp4",
+   "ss": 0,
+   "dur": 3,
+   "donor": {
+    "id": "tt7675294764253629728",
+    "media": "https://v16m.tiktokcdn-us.com/584a1cac9f12067ca881b7a3bf9080b7/6b0628c9/video/tos/useast2a/tos-useast2a-ve-0068-euttp/oscCMgnRGz31DDQ4gIeDAgAf6LvF7VGIedUjGI/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=1663&ft=aERpiq4fmbdPD12iy2aS3wUfHMtwMeF~O5&mime_type=video_mp4&rc=Zmg6ZmRlMzhnaDs1OTk8M0BpamhtdnE5cmY0ZDMzZjczNUAvLi4yMC81Xl4xMC5iLzNiYSMvcV9hMmRzcS9hLS1kMTNzcw%3D%3D&vvpl=1&l=2026112418145571E1DC023C64E81CFF17&btag=e00090000",
+    "start": 33.5,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "Fountain in front of grand estate",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "luxury bathroom tour modern",
+  "freestanding bathtub interior",
+  "modern mansion bathroom"
+ ],
+ "paid": true,
+ "end": "Напишите РАСЧЕТ в WhatsApp",
+ "caption": "Красивый ремонт или дешевый флиппинг? Проверяем каждый угол дома перед сделкой. Напишите РАСЧЕТ в WhatsApp для аудита объекта. #недвижимостьсша #кремниеваядолина #байокружение #жильекалифорния\n\n👉 reels.tepexa.com/w/22c5a436a7f756bdc2b2",
+ "series": "Анатомия дома",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "disc": "Не является индивидуальной финансовой рекомендацией",
+ "why": "Серия «Анатомия дома». Механика ролика с необычной ванной на 67,1 млн просмотров. Вирусный интерес к дорогой детали переводится в экспертную проверку объекта.\nЧасть кадров — из вирусного ролика вашей ниши (14.9 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "hookscore": 56.8,
+ "qa": {
+  "score": 60,
+  "parts": {
+   "hook": 11,
+   "relevance": 10,
+   "alive": 12,
+   "text": 11,
+   "match": 8,
+   "cta": 8
+  },
+  "rule_break": false,
+  "problems": [
+   "Hook text contradicts the voiceover (hook promises a detail that increased price, voiceover warns about flip flaws)",
+   "Stock footage used lacks specific Bay Area real estate identity",
+   "The promised bathroom detail is never shown or explained"
+  ],
+  "fix": "Align the hook title with the voiceover by discussing hidden flipping mistakes directly, and show concrete examples of poor bathroom finishes rather than generic luxury clips."
+ }
+}

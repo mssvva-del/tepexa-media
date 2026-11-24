@@ -1,0 +1,110 @@
+{
+ "id": "22c5a436a7f756bdc2b2_s7",
+ "company": "Maryna Real Estate",
+ "lang": "ru",
+ "hook": "Покупка дома в Silicon Valley",
+ "lines": [
+  "Планируете покупку роскошного дома в живописной Кремниевой долине?",
+  "Я помогу подобрать отличный район и дом мечты.",
+  "Мы вместе поднимемся на просмотр и проверим документы.",
+  "Напишите РАСЧЕТ в WhatsApp для индивидуального разбора вашей ситуации."
+ ],
+ "say": [
+  "Планируете покупку роскошного дома в живописной Кремниевой долине?",
+  "Я помогу подобрать отличный район и дом мечты.",
+  "Мы вместе поднимемся на просмотр и проверим документы.",
+  "Напишите РАСЧЕТ в вотсап для индивидуального разбора вашей ситуации."
+ ],
+ "shots": [
+  {
+   "src": "clients/22c5a436a7f756bdc2b2/donor_tt7618369782701772045_0.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "tt7618369782701772045",
+    "media": "https://v16m.tiktokcdn-us.com/a7360a9afbbe1badb2be443db4ee0090/6b06288e/video/tos/useast5/tos-useast5-ve-0068c002-tx/oMeKLmgqQEhM6GIHexTIzDhCcIN4kbzfAANFNj/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=2520&ft=aERpiq4fmbdPD12iy2aS3wUfHMtwMeF~O5&mime_type=video_mp4&rc=ODNkODNpNWQ0ZmYzOmhoaEBpampyaW05cmx4OTMzZzczNEA2NjJfXmAxXzIxY2NfNDMtYSNuby0wMmRrMnBhLS1kMS9zcw%3D%3D&vvpl=1&l=2026112418145571E1DC023C64E81CFF17&btag=e000b0000",
+    "start": 2.0,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "luxury mansion infinity pool view",
+   "cam": null
+  },
+  {
+   "src": "clients/22c5a436a7f756bdc2b2/donor_tt7618369782701772045_1.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "tt7618369782701772045",
+    "media": "https://v16m.tiktokcdn-us.com/a7360a9afbbe1badb2be443db4ee0090/6b06288e/video/tos/useast5/tos-useast5-ve-0068c002-tx/oMeKLmgqQEhM6GIHexTIzDhCcIN4kbzfAANFNj/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=2520&ft=aERpiq4fmbdPD12iy2aS3wUfHMtwMeF~O5&mime_type=video_mp4&rc=ODNkODNpNWQ0ZmYzOmhoaEBpampyaW05cmx4OTMzZzczNEA2NjJfXmAxXzIxY2NfNDMtYSNuby0wMmRrMnBhLS1kMS9zcw%3D%3D&vvpl=1&l=2026112418145571E1DC023C64E81CFF17&btag=e000b0000",
+    "start": 6.0,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "modern interior bar scenic lake",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_6868891.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "Suburban street with residential houses",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_8814206.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "Agent showing clients up staircase",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_8814204.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Real estate agent showing house documents",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_7646371.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "Realtor shaking hands with buyers",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "silicon valley residential neighborhood",
+  "happy couple with real estate agent",
+  "realtor consulting clients house"
+ ],
+ "paid": true,
+ "end": "Напишите РАСЧЕТ в WhatsApp",
+ "caption": "Полное сопровождение покупки и продажи жилья в Кремниевой долине. Напишите РАСЧЕТ в WhatsApp для личной консультации. #недвижимостьсанхосе #риелторсша #жильевкремниевойдолине #недвижимостьbayarea\n\n👉 reels.tepexa.com/w/22c5a436a7f756bdc2b2",
+ "series": "Честная математика",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "disc": "Не является индивидуальной финансовой рекомендацией",
+ "why": "Прямой оффер на экспертное сопровождение покупки и продажи недвижимости в Bay Area с четким призывом к действию.\nЧасть кадров — из вирусного ролика вашей ниши (8.4 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "hookscore": 61.7,
+ "qa": {
+  "score": 64,
+  "parts": {
+   "hook": 12,
+   "relevance": 9,
+   "alive": 12,
+   "text": 12,
+   "match": 11,
+   "cta": 8
+  },
+  "rule_break": false,
+  "problems": [
+   "Банальный стоковый видеоряд вместо реальной съемки объектов и риелтора Марины",
+   "Повторяющийся кадр с велосипедистом (00:04 и 00:10), не имеющий отношения к роскошным домам",
+   "Текст в хуке банальный и не цепляет конкретной болью или выгодой"
+  ],
+  "fix": "Замените стоковые клипы на живые авторские кадры реальных домов Кремниевой долины и личное присутствие риелтора в кадре."
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "id": "22c5a436a7f756bdc2b2_s5",
+ "company": "Maryna Real Estate",
+ "lang": "ru",
+ "hook": "Как не потерять депозит за дом",
+ "lines": [
+  "Покупая элитный дом, важно грамотно проверять условия сделки.",
+  "Инспектор и эксперты найдут дефекты до подписания документов.",
+  "Мы сопровождаем сделку на каждом этапе и защищаем деньги.",
+  "Напишите РАСЧЕТ в WhatsApp для разбора вашего контракта."
+ ],
+ "say": [
+  "Покупая элитный дом, важно грамотно проверять условия сделки.",
+  "Инспектор и эксперты найдут дефекты до подписания документов.",
+  "Мы сопровождаем сделку на каждом этапе и защищаем деньги.",
+  "Напишите РАСЧЕТ в вотсап для разбора вашего контракта."
+ ],
+ "shots": [
+  {
+   "src": "clients/22c5a436a7f756bdc2b2/donor_tt7640560493609880845_1.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "tt7640560493609880845",
+    "media": "https://v16m.tiktokcdn-us.com/b00c98ef047460f891ff01d338ea357d/6b06288d/video/tos/useast5/tos-useast5-ve-0068c003-tx/oEjokHftAthI1gsUwXkFEHdEQCIfaCfRzADcIk/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=784&ft=aERpiq4fmbdPD12iy2aS3wUfHMtwMeF~O5&mime_type=video_mp4&rc=aGc6ZmVmNDY5MzhmOjc4OUBpM3R0NHA5cnllOzMzZzczNEAxNWFjMF5eNS4xMjExYWM0YSNwcS9tMmRzZTFhLS1kMS9zcw%3D%3D&vvpl=1&l=2026112418145571E1DC023C64E81CFF17&btag=e000b0000",
+    "start": 8.0,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "Luxury dining patio overlooking city skyline",
+   "cam": null
+  },
+  {
+   "src": "clients/22c5a436a7f756bdc2b2/donor_tt7640560493609880845_0.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "tt7640560493609880845",
+    "media": "https://v16m.tiktokcdn-us.com/b00c98ef047460f891ff01d338ea357d/6b06288d/video/tos/useast5/tos-useast5-ve-0068c003-tx/oEjokHftAthI1gsUwXkFEHdEQCIfaCfRzADcIk/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=784&ft=aERpiq4fmbdPD12iy2aS3wUfHMtwMeF~O5&mime_type=video_mp4&rc=aGc6ZmVmNDY5MzhmOjc4OUBpM3R0NHA5cnllOzMzZzczNEAxNWFjMF5eNS4xMjExYWM0YSNwcS9tMmRzZTFhLS1kMS9zcw%3D%3D&vvpl=1&l=2026112418145571E1DC023C64E81CFF17&btag=e000b0000",
+    "start": 5.0,
+    "dur": 2.0
+   },
+   "shows": "Modern luxury home garage showroom",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_8293129.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "home inspector testing electrical outlet",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_8482300.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "people touring building under construction",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_7646363.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "realtor showing apartment to family",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_7817045.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "woman checking documents near sale sign",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_7647323.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "people signing real estate contract indoors",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "real estate agent signing contract",
+  "realtor walking into house",
+  "home inspection professional"
+ ],
+ "paid": true,
+ "end": "Напишите РАСЧЕТ в WhatsApp",
+ "caption": "Как не потерять депозит при покупке первого жилья в Калифорнии. Напишите РАСЧЕТ в WhatsApp для консультации перед оффером. #риелторкалифорния #покупкажильясша #договоркуплипродажи #инвестициисша\n\n👉 reels.tepexa.com/w/22c5a436a7f756bdc2b2",
+ "series": "Ошибки покупателя",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "disc": "Не является индивидуальной финансовой рекомендацией",
+ "why": "Серия «Ошибки покупателя». Фокус на финансовой безопасности покупателей из Кремниевой долины и разборе пунктов контракта.\nЧасть кадров — из вирусного ролика вашей ниши (8.6 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "hookscore": 66.3,
+ "qa": {
+  "score": 70,
+  "parts": {
+   "hook": 14,
+   "relevance": 11,
+   "alive": 14,
+   "text": 12,
+   "match": 12,
+   "cta": 8
+  },
+  "rule_break": false,
+  "problems": [
+   "Нарезка состоит из разрозненных стоковых видео вместо реальных объектов эксперта в Калифорнии",
+   "Призыв написать слово 'РАСЧЕТ' нелогичен для оффера 'разбор контракта'"
+  ],
+  "fix": "Используйте авторские кадры домов из Кремниевой долины/Bay Area и согласуйте кодовое слово в CTA с аудитом контракта, например заменив на 'РАЗБОР'."
+ },
+ "date": "2026-11-25 19:47 UTC"
+}

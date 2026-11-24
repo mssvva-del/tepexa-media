@@ -1,0 +1,98 @@
+{
+ "id": "22c5a436a7f756bdc2b2_s4",
+ "company": "Maryna Real Estate",
+ "lang": "ru",
+ "hook": "Купили бы дом с нюансом?",
+ "lines": [
+  "Сложный рельеф участка в долине увеличивает расходы на обслуживание.",
+  "Напишите РАСЧЕТ в WhatsApp перед подачей предложения продавцу."
+ ],
+ "say": [
+  "Сложный рельеф участка в долине увеличивает расходы на обслуживание.",
+  "Напишите РАСЧЕТ в вотсап перед подачей предложения продавцу."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_41182597.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "large modern home overlooking town",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_38277164.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "hillside houses behind garden greenery",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_39576509.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "modern luxury house with driveway",
+   "cam": null
+  },
+  {
+   "src": "clients/22c5a436a7f756bdc2b2/donor_tt7675294764253629728_0.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "tt7675294764253629728",
+    "media": "https://v16m.tiktokcdn-us.com/584a1cac9f12067ca881b7a3bf9080b7/6b0628c9/video/tos/useast2a/tos-useast2a-ve-0068-euttp/oscCMgnRGz31DDQ4gIeDAgAf6LvF7VGIedUjGI/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=1663&ft=aERpiq4fmbdPD12iy2aS3wUfHMtwMeF~O5&mime_type=video_mp4&rc=Zmg6ZmRlMzhnaDs1OTk8M0BpamhtdnE5cmY0ZDMzZjczNUAvLi4yMC81Xl4xMC5iLzNiYSMvcV9hMmRzcS9hLS1kMTNzcw%3D%3D&vvpl=1&l=2026112418145571E1DC023C64E81CFF17&btag=e00090000",
+    "start": 10.0,
+    "dur": 2.0
+   },
+   "shows": "car driving through tree-lined driveway",
+   "cam": null
+  },
+  {
+   "src": "clients/22c5a436a7f756bdc2b2/donor_tt7675294764253629728_2.mp4",
+   "ss": 0,
+   "dur": 3,
+   "donor": {
+    "id": "tt7675294764253629728",
+    "media": "https://v16m.tiktokcdn-us.com/584a1cac9f12067ca881b7a3bf9080b7/6b0628c9/video/tos/useast2a/tos-useast2a-ve-0068-euttp/oscCMgnRGz31DDQ4gIeDAgAf6LvF7VGIedUjGI/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=1663&ft=aERpiq4fmbdPD12iy2aS3wUfHMtwMeF~O5&mime_type=video_mp4&rc=Zmg6ZmRlMzhnaDs1OTk8M0BpamhtdnE5cmY0ZDMzZjczNUAvLi4yMC81Xl4xMC5iLzNiYSMvcV9hMmRzcS9hLS1kMTNzcw%3D%3D&vvpl=1&l=2026112418145571E1DC023C64E81CFF17&btag=e00090000",
+    "start": 42.0,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "luxury outdoor pool and patio",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "modern mansion hillside view",
+  "luxury glass house exterior",
+  "california modern architecture"
+ ],
+ "paid": true,
+ "end": "Напишите РАСЧЕТ в WhatsApp",
+ "caption": "Красивый вид или бесконечные расходы на укрепление фундамента? Напишите РАСЧЕТ в WhatsApp для оценки рисков перед покупкой. #калифорниянедвижимость #санхосе #жильевсша #переездвсша\n\n👉 reels.tepexa.com/w/22c5a436a7f756bdc2b2",
+ "series": "Реальность рынка",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "disc": "Не является индивидуальной финансовой рекомендацией",
+ "why": "Серия «Реальность рынка». Формула спорного компромисса на 19,4 млн просмотров. Привлекает внимание к неочевидным техническим рискам в Bay Area.\nЧасть кадров — из вирусного ролика вашей ниши (9.1 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "hookscore": 61.5,
+ "qa": {
+  "score": 65,
+  "parts": {
+   "hook": 13,
+   "relevance": 9,
+   "alive": 14,
+   "text": 13,
+   "match": 8,
+   "cta": 8
+  },
+  "rule_break": false,
+  "problems": [
+   "Кадры не соответствуют недвижимости Калифорнии и Кремниевой долины: показаны тропические курортные виллы и поселки из СНГ/Азии",
+   "Видеоряд плохо иллюстрирует суть сложного рельефа и проблем с фундаментами/дренажем в Bay Area",
+   "Слишком обобщенный стоковый видеоряд без эксперта или реальных калифорнийских домов"
+  ],
+  "fix": "Замените случайные курортные и поселковые кадры реальными видео домов на холмах Bay Area (свайные фундаменты, склоны, подпорные стены) с экспертом в кадре."
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "id": "22c5a436a7f756bdc2b2_s3",
+ "company": "Maryna Real Estate",
+ "lang": "ru",
+ "hook": "Сколько уходит на дом в месяц?",
+ "lines": [
+  "Скрытые расходы на налоги и страховку часто превышают базовую ипотеку.",
+  "Напишите РАСЧЕТ в WhatsApp для точной сметы владения жильем."
+ ],
+ "say": [
+  "Скрытые расходы на налоги и страховку часто превышают базовую ипотеку.",
+  "Напишите РАСЧЕТ в вотсап для точной сметы владения жильем."
+ ],
+ "shots": [
+  {
+   "src": "clients/22c5a436a7f756bdc2b2/donor_tt7424817776738553121_0.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "tt7424817776738553121",
+    "media": "https://v16m.tiktokcdn-us.com/3e6cf106e68c7fcbe9237edf181e7631/6b062886/video/tos/useast2a/tos-useast2a-ve-68c810-euttp/ocKBhSAsiwAYpN4wB0QWZKQiIQUBITZTPTEXE/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=1082&ft=gKfIn8QLodzR12Nvx8v3lIxRNB8biq_45SY&mime_type=video_mp4&rc=ZDY4MzM3NjtkaDloZjM0M0BpamRobXI5cmw3djMzZjczM0BeNWIvMmJiNjYxMC0zLTRiYSNkbF5gMmQ0LTJgLS1kMWNzcw%3D%3D&vvpl=1&l=20261124181451AC841FEF15C5B815094B&btag=e000b0000",
+    "start": 0.0,
+    "dur": 1.5
+   },
+   "shows": "modern luxury mansion at night",
+   "cam": null
+  },
+  {
+   "src": "clients/22c5a436a7f756bdc2b2/donor_tt7640560493609880845_1.mp4",
+   "ss": 0,
+   "dur": 1.45,
+   "donor": {
+    "id": "tt7640560493609880845",
+    "media": "https://v16m.tiktokcdn-us.com/b00c98ef047460f891ff01d338ea357d/6b06288d/video/tos/useast5/tos-useast5-ve-0068c003-tx/oEjokHftAthI1gsUwXkFEHdEQCIfaCfRzADcIk/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=784&ft=aERpiq4fmbdPD12iy2aS3wUfHMtwMeF~O5&mime_type=video_mp4&rc=aGc6ZmVmNDY5MzhmOjc4OUBpM3R0NHA5cnllOzMzZzczNEAxNWFjMF5eNS4xMjExYWM0YSNwcS9tMmRzZTFhLS1kMS9zcw%3D%3D&vvpl=1&l=2026112418145571E1DC023C64E81CFF17&btag=e000b0000",
+    "start": 8.0,
+    "dur": 1.5
+   },
+   "free": "top",
+   "shows": "cozy luxury living room terrace",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_36030659.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "modern open living room interior",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_40187579.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "elegant mansion living room area",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_40187597.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "grand two story dining hall",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "luxury dining room table",
+  "modern kitchen living room",
+  "expensive house interior"
+ ],
+ "paid": true,
+ "end": "Напишите РАСЧЕТ в WhatsApp",
+ "caption": "Реальная смета расходов на дом в Bay Area без иллюзий. Напишите РАСЧЕТ в WhatsApp, чтобы получить калькуляцию под ваш бюджет. #недвижимостькалифорния #байокруг #купитьдомвсша #ипотекасша\n\n👉 reels.tepexa.com/w/22c5a436a7f756bdc2b2",
+ "series": "Честная математика",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "disc": "Не является индивидуальной финансовой рекомендацией",
+ "why": "Серия «Честная математика». Механика интерактивной оценки стоимости стола на 19,9 млн просмотров. Вовлекает зрителя в подсчет реальной ежемесячной нагрузки.\nЧасть кадров — из вирусного ролика вашей ниши (14.9 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "hookscore": 60.7,
+ "qa": {
+  "score": 68,
+  "parts": {
+   "hook": 14,
+   "relevance": 11,
+   "alive": 12,
+   "text": 13,
+   "match": 10,
+   "cta": 8
+  },
+  "rule_break": false,
+  "problems": [
+   "Кадры выглядят как стоковая нарезка элитных особняков, а не реальные дома в Bay Area / Silicon Valley от риелтора",
+   "Визуальный ряд не иллюстрирует налоги, страховку или ипотечные расчеты, о которых говорит диктор",
+   "Один длинный пролет камеры в гостиной длится почти 5 секунд (00:04-00:09) без динамичной смены планов"
+  ],
+  "fix": "Покажите Марину лично на фоне реального дома в Кремниевой долине с инфографикой расходов (ипотека, налоги, страховка) прямо на экране."
+ }
+}

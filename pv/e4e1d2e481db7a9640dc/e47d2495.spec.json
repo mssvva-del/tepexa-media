@@ -1,0 +1,85 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s16",
+ "company": "Библия без мифов",
+ "lang": "ru",
+ "hook": "Почему в пустыне рождается истинная вера?",
+ "lines": [
+  "Пустыня обнажает сердце и учит доверять Создателю по-настоящему.",
+  "Напишите СЛОВО в WhatsApp, чтобы задать свой честный вопрос."
+ ],
+ "say": [
+  "Пустыня обнажает сердце и учит доверять Создателю по-настоящему.",
+  "Напишите СЛОВО в вотсап, чтобы задать свой честный вопрос."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_27740324.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "rippled desert sand dune slope",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_28829394.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "beach umbrella overlooking hazy sea",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_8865368.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "wavy sand dunes under sky",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_12095619.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "hand reaching out over sand",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_39820909.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "lonely boat on calm lake",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "Negev desert landscape wind ripples",
+  "sun rising over desert mountains",
+  "quiet calm morning Israel hills"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "В Писании пустыня — это не наказание, а место честной встречи с Богом. Напишите СЛОВО в WhatsApp, чтобы задать любой волнующий вопрос о вере. #вопросовере #израиль #библия #пустыня\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc",
+ "series": "Вопрос-интрига",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия «Вопрос-интрига». Формула интригующего вопроса о духовной практике (21,2 млн просмотров у донора 0), побуждает задать встречный вопрос в переписке.\nЧасть кадров — из вирусного ролика вашей ниши (10.6 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "rules": "Russian videos for a Jewish-Christian congregation in Israel (pastor Mikhail Karpovetsky, «Библия без мифов»). Formats: short 6–25 s, one strong line, big text NEVER over faces. Allowed footage: Israel landscapes, Galilee, desert, sunrise, sea, olive trees, hands with a Bible (no cross on the cover), turning pages, maps, Hebrew letters on paper. FORBIDDEN in any frame: Torah scrolls or synagogue objects, crosses, icons, statues, paintings or images of Jesus, figures in clouds, churches, mosques or other temples, priests, candles of rituals, Getty or other watermarks, any burned-in foreign text. Say «Иешуа» or «Иисус»; framing is Jewish Christianity, no talit/kippah/menorah. No pressure, no promises, never the word «бесплатно», no gifts or benefit for coming, never address children. CTA: a word or question in the comments, or «напишите нам в WhatsApp». Warm, personal tone.",
+ "hookscore": 65.5,
+ "qa": {
+  "score": 76,
+  "parts": {
+   "hook": 14,
+   "relevance": 14,
+   "alive": 14,
+   "text": 13,
+   "match": 12,
+   "cta": 8
+  },
+  "rule_break": false,
+  "problems": [
+   "Слишком абстрактный стоковый видеоряд без привязки к контексту общины и изучению Писания",
+   "Кадр с зонтиком и туманом (00:01-00:03) выбивается из темы пустыни"
+  ],
+  "fix": "Замените случайные стоковые кадры тумана и лодки на узнаваемые пустынные пейзажи Израиля (Негев, Иудейская пустыня) и кадры чтения Библии."
+ },
+ "date": "2026-12-04 09:49 UTC"
+}

@@ -1,0 +1,102 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s17",
+ "company": "Библия без мифов",
+ "lang": "ru",
+ "hook": "Где найти живое общение по Писанию",
+ "lines": [
+  "В нашей общине мы собираемся вместе в теплой атмосфере.",
+  "Мы открываем тетради и внимательно изучаем слова текста.",
+  "Каждый делает заметки и делится своими мыслями за столом.",
+  "Напишите СЛОВО в WhatsApp, чтобы присоединиться к нашей беседе."
+ ],
+ "say": [
+  "В нашей общине мы собираемся вместе в теплой атмосфере.",
+  "Мы открываем тетради и внимательно изучаем слова текста.",
+  "Каждый делает заметки и делится своими мыслями за столом.",
+  "Напишите СЛОВО в вотсап, чтобы присоединиться к нашей беседе."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_38629556.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "people sitting in audience watching presentation",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_6550432.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "hand writing on notebook with pen",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_36641400.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "hands resting on blank notepad",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_39425781.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "close up hand writing in notepad",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_6245719.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "person writing notes in notebook",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_6747718.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "hands holding coffee cup near books",
+   "cam": null
+  },
+  {
+   "src": "clients/e4e1d2e481db7a9640dc/gal_0.jpg",
+   "dur": 3,
+   "fit": "pad",
+   "own": true
+  }
+ ],
+ "stock_queries": [
+  "people sitting in circle talking warm light",
+  "notebook open hands writing cozy room",
+  "hands holding hot tea cup table"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Живые встречи еврейской христианской общины в Израиле: честный диалог, еврейский контекст и поддержка. Напишите СЛОВО в WhatsApp для знакомства. #общинаизраиль #библиябезмифов #вера #общение\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc",
+ "series": "Живые фрагменты Михаила",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия «Живые фрагменты Михаила». Демонстрирует открытый и безопасный формат встреч общины, снимает страх секты или манипуляций.",
+ "rules": "Russian videos for a Jewish-Christian congregation in Israel (pastor Mikhail Karpovetsky, «Библия без мифов»). Formats: short 6–25 s, one strong line, big text NEVER over faces. Allowed footage: Israel landscapes, Galilee, desert, sunrise, sea, olive trees, hands with a Bible (no cross on the cover), turning pages, maps, Hebrew letters on paper. FORBIDDEN in any frame: Torah scrolls or synagogue objects, crosses, icons, statues, paintings or images of Jesus, figures in clouds, churches, mosques or other temples, priests, candles of rituals, Getty or other watermarks, any burned-in foreign text. Say «Иешуа» or «Иисус»; framing is Jewish Christianity, no talit/kippah/menorah. No pressure, no promises, never the word «бесплатно», no gifts or benefit for coming, never address children. CTA: a word or question in the comments, or «напишите нам в WhatsApp». Warm, personal tone.",
+ "hookscore": 55.3,
+ "qa": {
+  "score": 74,
+  "parts": {
+   "hook": 14,
+   "relevance": 12,
+   "alive": 13,
+   "text": 13,
+   "match": 14,
+   "cta": 8
+  },
+  "rule_break": false,
+  "problems": [
+   "Много стоковых общих планов письма в тетради подряд",
+   "Кадр с 00:11 квадратный с черными полосами по бокам (pillarbox) и выглядит слишком мрачно/аскетично по сравнению с остальным видео"
+  ],
+  "fix": "Замените однотипные стоковые кадры письма и темный кадр 1:1 на вертикальные живые кадры обсуждения Библии в кругу общины и вид Израиля."
+ },
+ "date": "2026-12-05 09:53 UTC"
+}

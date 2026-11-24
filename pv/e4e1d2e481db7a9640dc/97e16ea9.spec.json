@@ -1,0 +1,105 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s13",
+ "company": "Библия без мифов",
+ "lang": "ru",
+ "hook": "Эти библейские места существуют в Израиле",
+ "lines": [
+  "Древняя Галилея и сегодня шумит ветром в оливковых рощах.",
+  "Напишите СЛОВО в комментариях, чтобы разобрать Писание на языке оригинала."
+ ],
+ "say": [
+  "Древняя Галилея и сегодня шумит ветром в оливковых рощах.",
+  "Напишите СЛОВО в комментариях, чтобы разобрать Писание на языке оригинала."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_29450492.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "aerial view of stone ruins",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_11102870.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "calm sea under clear sky",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_38672963.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "sunrise over water and hills",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_41203769.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "sunlight shining through olive trees",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_36863774.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "sunset over rough sea waters",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_36708257.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "sea waves splashing against rocks",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_16026413.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "man standing under olive tree",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_38090894.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "winding river through green valley",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "Sea of Galilee Israel sunrise",
+  "ancient olive grove Israel wind",
+  "Jordan river valley landscape"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Земля Писания оживает, когда видишь знакомые холмы и тропы своими глазами. Напишите СЛОВО в комментариях, чтобы изучать еврейский контекст Библии вместе. #библиябезмифов #израиль #галилея #еврейскиекорни\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc",
+ "series": "Места из Библии сегодня",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия «Места из Библии сегодня». Использован вирусный хук с географической привязкой древних мест к сегодняшнему дню (13,8 млн просмотров в исследовании), привлекает русскоязычных израильтян через узнаваемые пейзажи.",
+ "rules": "Russian videos for a Jewish-Christian congregation in Israel (pastor Mikhail Karpovetsky, «Библия без мифов»). Formats: short 6–25 s, one strong line, big text NEVER over faces. Allowed footage: Israel landscapes, Galilee, desert, sunrise, sea, olive trees, hands with a Bible (no cross on the cover), turning pages, maps, Hebrew letters on paper. FORBIDDEN in any frame: Torah scrolls or synagogue objects, crosses, icons, statues, paintings or images of Jesus, figures in clouds, churches, mosques or other temples, priests, candles of rituals, Getty or other watermarks, any burned-in foreign text. Say «Иешуа» or «Иисус»; framing is Jewish Christianity, no talit/kippah/menorah. No pressure, no promises, never the word «бесплатно», no gifts or benefit for coming, never address children. CTA: a word or question in the comments, or «напишите нам в WhatsApp». Warm, personal tone.",
+ "hookscore": 54.0,
+ "qa": {
+  "score": 80,
+  "parts": {
+   "hook": 14,
+   "relevance": 16,
+   "alive": 16,
+   "text": 13,
+   "match": 14,
+   "cta": 8
+  },
+  "rule_break": false,
+  "problems": [
+   "Призыв к действию двоится: голос и субтитры говорят 'в комментариях', а финальная плашка требует 'в WhatsApp'"
+  ],
+  "fix": "Синхронизируйте финальный титр с озвучкой, указав призыв написать именно в комментарии либо обновив голос до WhatsApp."
+ },
+ "date": "2026-12-01 09:17 UTC"
+}

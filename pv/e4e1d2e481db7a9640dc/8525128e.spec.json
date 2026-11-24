@@ -1,0 +1,89 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s18",
+ "company": "Библия без мифов",
+ "lang": "ru",
+ "hook": "Читаем текст там, где ходил Иешуа",
+ "lines": [
+  "Мы живем на земле, где происходили ключевые библейские события.",
+  "Изучаем контекст каждого холма, города и древней дороги Галилеи.",
+  "Так древний библейский текст освобождается от многовековых стереотипов.",
+  "Напишите СЛОВО в WhatsApp, чтобы узнать расписание открытых встреч."
+ ],
+ "say": [
+  "Мы живем на земле, где происходили ключевые библейские события.",
+  "Изучаем контекст каждого холма, города и древней дороги Галилеи.",
+  "Так древний библейский текст освобождается от многовековых стереотипов.",
+  "Напишите СЛОВО в вотсап, чтобы узнать расписание открытых встреч."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_37871174.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "boats docked on open water lake",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_35040540.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "people walking through ancient stone arch",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_30354458.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "top view ancient stone ruins colonnade",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_35752285.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "olive tree branches against clear sky",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_20541502.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "panoramic view of lake and hills",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "ancient stone road Israel landscape",
+  "olive branches swaying blue sky",
+  "Galilee lake calm water horizon"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Изучение веры через призму реальной земли Израиля меняет привычное восприятие текста. Напишите СЛОВО в WhatsApp, чтобы узнать детали встреч. #библия #израиль #галилея #иешуа\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc",
+ "series": "Места из Библии сегодня",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия «Места из Библии сегодня». Подчеркивает аутентичность еврейского христианства в Израиле и ведет на встречу общины.",
+ "rules": "Russian videos for a Jewish-Christian congregation in Israel (pastor Mikhail Karpovetsky, «Библия без мифов»). Formats: short 6–25 s, one strong line, big text NEVER over faces. Allowed footage: Israel landscapes, Galilee, desert, sunrise, sea, olive trees, hands with a Bible (no cross on the cover), turning pages, maps, Hebrew letters on paper. FORBIDDEN in any frame: Torah scrolls or synagogue objects, crosses, icons, statues, paintings or images of Jesus, figures in clouds, churches, mosques or other temples, priests, candles of rituals, Getty or other watermarks, any burned-in foreign text. Say «Иешуа» or «Иисус»; framing is Jewish Christianity, no talit/kippah/menorah. No pressure, no promises, never the word «бесплатно», no gifts or benefit for coming, never address children. CTA: a word or question in the comments, or «напишите нам в WhatsApp». Warm, personal tone.",
+ "hookscore": 55.6,
+ "qa": {
+  "score": 80,
+  "parts": {
+   "hook": 13,
+   "relevance": 16,
+   "alive": 14,
+   "text": 14,
+   "match": 14,
+   "cta": 9
+  },
+  "rule_break": false,
+  "problems": [
+   "Кадры с катером на причале (00:00 и 00:08) повторяются и выглядят как обычный туризм, а не изучение контекста Писания",
+   "Длинный статичный план на оливковом дереве и пейзаже в конце сбавляет динамику"
+  ],
+  "fix": "Замените кадры с современным прогулочным катером на видео рук с Библией, древних карт Галилеи или видов раскопок с людьми, чтобы подчеркнуть изучение текстов."
+ },
+ "date": "2026-12-06 09:07 UTC"
+}

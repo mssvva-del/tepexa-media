@@ -1,0 +1,100 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s15",
+ "company": "Библия без мифов",
+ "lang": "ru",
+ "hook": "Одно слово на иврите меняет стих",
+ "lines": [
+  "Привычный перевод часто скрывает глубокие корни древнего текста.",
+  "Напишите СЛОВО в WhatsApp, чтобы взглянуть на оригинал вместе."
+ ],
+ "say": [
+  "Привычный перевод часто скрывает глубокие корни древнего текста.",
+  "Напишите СЛОВО в вотсап, чтобы взглянуть на оригинал вместе."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_5975317.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "Finger reading Hebrew prayer book",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_5975332.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "hands flipping Hebrew book pages",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_27333682.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "hands opening a blank book",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_9115655.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "hands opening old vintage book",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_36862846.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "flipping pages of open book",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_36688893.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "hands writing on illuminated manuscript paper",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_11384843.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "Pages turning on open book",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "Hebrew manuscript close up daylight",
+  "hands open old book pages",
+  "warm sunlight dust particles room"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Библейский текст на языке оригинала говорит яснее любых поздних толкований. Напишите СЛОВО в WhatsApp, чтобы открыть Писание без наслоений. #библиябезмифов #иврит #оригинал #смысл\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc",
+ "series": "Миф и что написано на самом деле",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия «Миф и что написано на самом деле». Формат раскрытия неожиданного библейского смысла (донор 7 с 9,5 млн), привлекает скептиков и интеллектуально ищущих людей.",
+ "rules": "Russian videos for a Jewish-Christian congregation in Israel (pastor Mikhail Karpovetsky, «Библия без мифов»). Formats: short 6–25 s, one strong line, big text NEVER over faces. Allowed footage: Israel landscapes, Galilee, desert, sunrise, sea, olive trees, hands with a Bible (no cross on the cover), turning pages, maps, Hebrew letters on paper. FORBIDDEN in any frame: Torah scrolls or synagogue objects, crosses, icons, statues, paintings or images of Jesus, figures in clouds, churches, mosques or other temples, priests, candles of rituals, Getty or other watermarks, any burned-in foreign text. Say «Иешуа» or «Иисус»; framing is Jewish Christianity, no talit/kippah/menorah. No pressure, no promises, never the word «бесплатно», no gifts or benefit for coming, never address children. CTA: a word or question in the comments, or «напишите нам в WhatsApp». Warm, personal tone.",
+ "hookscore": 56.4,
+ "qa": {
+  "score": 72,
+  "parts": {
+   "hook": 14,
+   "relevance": 11,
+   "alive": 13,
+   "text": 13,
+   "match": 12,
+   "cta": 8
+  },
+  "rule_break": false,
+  "problems": [
+   "На 00:03 показана современная книга с надписью Feride вместо древнего библейского текста или еврейских корней",
+   "На 00:06-00:08 показана арабская каллиграфия/письмо пером вместо иврита, что противоречит теме видео об иврите",
+   "Слишком абстрактная нарезка стоковых книг вместо конкретного разбора стиха"
+  ],
+  "fix": "Замените кадры с романом Feride и арабской вязью на крупный план стиха на иврите с указанием конкретного слова, о котором идет речь в хуке."
+ },
+ "date": "2026-12-03 09:41 UTC"
+}

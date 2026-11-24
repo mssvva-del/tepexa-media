@@ -1,0 +1,85 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s14",
+ "company": "Библия без мифов",
+ "lang": "ru",
+ "hook": "Ты в Израиле читаешь это неслучайно",
+ "lines": [
+  "Слово Писания утешает сердце даже в дни тревог.",
+  "Напишите СЛОВО в комментариях для искреннего дружеского разговора."
+ ],
+ "say": [
+  "Слово Писания утешает сердце даже в дни тревог.",
+  "Напишите СЛОВО в комментариях для искреннего дружеского разговора."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_17439606.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "dry desert hills at sunset",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_5206014.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "person reading Chronicles in Bible",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_29045877.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "rocky beach during sunset",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_7034162.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "blurred open book pages",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_35539097.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "pink sunset over vast hilly landscape",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "Judean desert sunrise golden light",
+  "hands turning bible pages macro",
+  "man walking alone Galilee hills"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Когда вокруг шум и тревога, важно услышать голос надежды без религиозного давления. Напишите СЛОВО в комментариях, если ищете искренний диалог о вере. #библия #вера #израиль #поддержка\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc",
+ "series": "Ты читаешь это не случайно",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия «Ты читаешь это не случайно». Опора на формулу вирусного личного обращения (10,9 млн просмотров донора 4), задача — дать тихое утешение и вовлечь в диалог.\nЧасть кадров — из вирусного ролика вашей ниши (10.6 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "rules": "Russian videos for a Jewish-Christian congregation in Israel (pastor Mikhail Karpovetsky, «Библия без мифов»). Formats: short 6–25 s, one strong line, big text NEVER over faces. Allowed footage: Israel landscapes, Galilee, desert, sunrise, sea, olive trees, hands with a Bible (no cross on the cover), turning pages, maps, Hebrew letters on paper. FORBIDDEN in any frame: Torah scrolls or synagogue objects, crosses, icons, statues, paintings or images of Jesus, figures in clouds, churches, mosques or other temples, priests, candles of rituals, Getty or other watermarks, any burned-in foreign text. Say «Иешуа» or «Иисус»; framing is Jewish Christianity, no talit/kippah/menorah. No pressure, no promises, never the word «бесплатно», no gifts or benefit for coming, never address children. CTA: a word or question in the comments, or «напишите нам в WhatsApp». Warm, personal tone.",
+ "hookscore": 56.3,
+ "qa": {
+  "score": 82,
+  "parts": {
+   "hook": 15,
+   "relevance": 16,
+   "alive": 16,
+   "text": 13,
+   "match": 14,
+   "cta": 8
+  },
+  "rule_break": false,
+  "problems": [
+   "Voiceover instructs to write in comments, but ending card says 'в WhatsApp', creating conflicting calls to action",
+   "Hook text plate overlaps and clusters together with the subtitle boxes"
+  ],
+  "fix": "Синхронизируйте призыв к действию: если в титрах указан WhatsApp, озвучьте 'напишите нам в WhatsApp', либо приведите плашку в соответствие с озвучкой про комментарии."
+ },
+ "date": "2026-12-02 09:07 UTC"
+}

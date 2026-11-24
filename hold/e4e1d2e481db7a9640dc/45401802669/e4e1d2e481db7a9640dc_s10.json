@@ -1,0 +1,106 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s10",
+ "company": "Библия без мифов",
+ "lang": "ru",
+ "hook": "Если ты читаешь это сегодня в Израиле",
+ "lines": [
+  "Твоя внутренняя тяжесть и вопросы не остаются незамеченными Создателем ни на минуту.",
+  "Напишите СЛОВО в комментариях, если хотите искренне поговорить о вере."
+ ],
+ "say": [
+  "Твоя внутренняя тяжесть и вопросы не остаются незамеченными Создателем ни на минуту.",
+  "Напишите СЛОВО в комментариях, если хотите искренне поговорить о вере."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_41203769.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "olive trees during sunset landscape",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_35684737.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "silhouette of man looking away",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_30734889.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "man looking out room window",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_27332725.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "reading book near vintage typewriter",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_31406057.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "man looking at distant landscape",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_41203770.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "dirt path between trees landscape",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_39864454.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "hands holding coffee cup over book",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_32332684.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "hands flipping pages of book",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "person thoughtful looking at Jerusalem hills sunset",
+  "olive trees grove sunlight gentle breeze",
+  "hands resting on open book table"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Каждый поиск смысла начинается с честного вопроса. Напишите СЛОВО в комментариях, чтобы поговорить и найти поддержку. #поддержка #вера #израиль #библия\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc",
+ "series": "Ты читаешь это не случайно",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия «Ты читаешь это не случайно». Формула личного утешения и обращения (9,1 млн у донора 6, 3,4 млн в стратегии).",
+ "rules": "Russian videos for a Jewish-Christian congregation in Israel (pastor Mikhail Karpovetsky, «Библия без мифов»). Formats: short 6–25 s, one strong line, big text NEVER over faces. Allowed footage: Israel landscapes, Galilee, desert, sunrise, sea, olive trees, hands with a Bible (no cross on the cover), turning pages, maps, Hebrew letters on paper. FORBIDDEN in any frame: Torah scrolls or synagogue objects, crosses, icons, statues, paintings or images of Jesus, figures in clouds, churches, mosques or other temples, priests, candles of rituals, Getty or other watermarks, any burned-in foreign text. Say «Иешуа» or «Иисус»; framing is Jewish Christianity, no talit/kippah/menorah. No pressure, no promises, never the word «бесплатно», no gifts or benefit for coming, never address children. CTA: a word or question in the comments, or «напишите нам в WhatsApp». Warm, personal tone.",
+ "hookscore": 55.2,
+ "qa": {
+  "score": 70,
+  "parts": {
+   "hook": 14,
+   "relevance": 12,
+   "alive": 13,
+   "text": 13,
+   "match": 12,
+   "cta": 7
+  },
+  "rule_break": false,
+  "problems": [
+   "Voiceover asks to write in comments, but the final screen displays 'Напишите СЛОВО в WhatsApp', creating conflicting CTAs",
+   "Stock footage feels generic (typewriter, person at window, aesthetic coffee scene) rather than authentic Israel/community footage"
+  ],
+  "fix": "Align the voiceover and end screen to the same CTA and replace stock filler shots with real Israel landscapes or a Tanakh reading."
+ },
+ "date": "2026-11-27 09:49 UTC"
+}

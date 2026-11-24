@@ -1,0 +1,97 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s13",
+ "company": "Библия без мифов",
+ "lang": "ru",
+ "hook": "Как понять древний контекст Писания",
+ "lines": [
+  "Древние камни хранят подлинную историю времен апостолов.",
+  "Мы возвращаем библейские тексты в их родную культуру.",
+  "Честное изучение строк Писания открывает живой первоначальный смысл.",
+  "Напишите СЛОВО в комментариях, чтобы получить материалы наших разборов."
+ ],
+ "say": [
+  "Древние камни хранят подлинную историю времен апостолов.",
+  "Мы возвращаем библейские тексты в их родную культуру.",
+  "Честное изучение строк Писания открывает живой первоначальный смысл.",
+  "Напишите СЛОВО в комментариях, чтобы получить материалы наших разборов."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_6577541.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Hand touching ancient stone inscription",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_12966266.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "sunlight on ancient stone walls",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_33454156.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Hand drawing calligraphy on paper",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_19511991.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "arched window overlooking landscape view",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_10177095.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "open printed book on table",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_39189487.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "open book and vintage radio",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "close up fingers tracing Hebrew letters scroll text",
+  "ancient stones Galilee sunlight",
+  "open book on table morning soft light"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Понять Новый Завет невозможно в отрыве от земли и народа, где он был дан. Напишите СЛОВО в комментариях, чтобы исследовать Писание честно. #библия #историяизраиля #вера #смысл\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc",
+ "series": "Вопрос-интрига",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия «Вопрос-интрига». Демонстрирует экспертную работу пастора и общины с первоисточниками, привлекая ищущих логику и историчность.",
+ "rules": "Russian videos for a Jewish-Christian congregation in Israel (pastor Mikhail Karpovetsky, «Библия без мифов»). Formats: short 6–25 s, one strong line, big text NEVER over faces. Allowed footage: Israel landscapes, Galilee, desert, sunrise, sea, olive trees, hands with a Bible (no cross on the cover), turning pages, maps, Hebrew letters on paper. FORBIDDEN in any frame: Torah scrolls or synagogue objects, crosses, icons, statues, paintings or images of Jesus, figures in clouds, churches, mosques or other temples, priests, candles of rituals, Getty or other watermarks, any burned-in foreign text. Say «Иешуа» or «Иисус»; framing is Jewish Christianity, no talit/kippah/menorah. No pressure, no promises, never the word «бесплатно», no gifts or benefit for coming, never address children. CTA: a word or question in the comments, or «напишите нам в WhatsApp». Warm, personal tone.",
+ "hookscore": 60.3,
+ "qa": {
+  "score": 70,
+  "parts": {
+   "hook": 13,
+   "relevance": 12,
+   "alive": 13,
+   "text": 13,
+   "match": 12,
+   "cta": 6
+  },
+  "rule_break": false,
+  "problems": [
+   "Generic stock footage of coffee, vintage radio and modern calligraphy unrelated to ancient Israel or apostolic times",
+   "CTA mismatch: voice says 'в комментариях', final packshot says 'в WhatsApp'",
+   "Pacing drags with slow stock shots"
+  ],
+  "fix": "Replace the stock calligraphy and coffee-with-radio b-roll with real Israeli archaeological sites, ancient Hebrew/Aramaic inscriptions, or authentic study footage, and synchronize the CTA text with the voiceover."
+ },
+ "date": "2026-11-29 09:07 UTC"
+}

@@ -1,0 +1,106 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s8",
+ "company": "Библия без мифов",
+ "lang": "ru",
+ "hook": "Эти библейские места есть на карте Израиля",
+ "lines": [
+  "Древний Кфар-Нахум и библейское Кинерет сегодня открыты для каждого жителя Израиля.",
+  "Напишите СЛОВО в комментариях, чтобы разобрать Писание без искажений."
+ ],
+ "say": [
+  "Древний Кфар-Нахум и библейское Кинерет сегодня открыты для каждого жителя Израиля.",
+  "Напишите СЛОВО в комментариях, чтобы разобрать Писание без искажений."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_30768991.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "drone shot of ancient ruins",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_34613165.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "sunset over sea and rocks",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_38475930.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "boats on calm sunset sea",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_39752936.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "fog rolling through mountain valley",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_36863774.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "sunset over rough ocean waves",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_39557405.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "stone watchtower on coastal cliff",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_5199738.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "hand holding closed leather book",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_30547199.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "aerial view of archaeological excavation",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "Sea of Galilee drone sunrise",
+  "Capernaum ruins aerial landscape",
+  "open Hebrew Bible pages wind"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Библия оживает, когда смотришь на неё на земле Израиля. Напишите СЛОВО в комментариях, чтобы открыть оригинальный смысл Писания. #библиябезмифов #израиль #галилея #вера\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc",
+ "series": "Места из Библии сегодня",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия «Места из Библии сегодня». Использован вирусный триггер географической привязки Писания (13,8 млн просмотров в исследовании) для русскоязычных израильтян.",
+ "rules": "Russian videos for a Jewish-Christian congregation in Israel (pastor Mikhail Karpovetsky, «Библия без мифов»). Formats: short 6–25 s, one strong line, big text NEVER over faces. Allowed footage: Israel landscapes, Galilee, desert, sunrise, sea, olive trees, hands with a Bible (no cross on the cover), turning pages, maps, Hebrew letters on paper. FORBIDDEN in any frame: Torah scrolls or synagogue objects, crosses, icons, statues, paintings or images of Jesus, figures in clouds, churches, mosques or other temples, priests, candles of rituals, Getty or other watermarks, any burned-in foreign text. Say «Иешуа» or «Иисус»; framing is Jewish Christianity, no talit/kippah/menorah. No pressure, no promises, never the word «бесплатно», no gifts or benefit for coming, never address children. CTA: a word or question in the comments, or «напишите нам в WhatsApp». Warm, personal tone.",
+ "hookscore": 54.1,
+ "qa": {
+  "score": 79,
+  "parts": {
+   "hook": 14,
+   "relevance": 15,
+   "alive": 16,
+   "text": 13,
+   "match": 14,
+   "cta": 8
+  },
+  "rule_break": false,
+  "problems": [
+   "Противоречие в призыве: голос говорит «напишите в комментариях», а плашка в конце — «в WhatsApp»",
+   "Кадры на 06-08 с башней на скале выглядят как европейский сток, а не библейские места Израиля"
+  ],
+  "fix": "Синхронизируйте призыв к действию (оставьте везде либо WhatsApp, либо комментарии) и замените кадр с приморской башней на реальные виды библейских мест Израиля."
+ },
+ "date": "2026-11-25 09:07 UTC"
+}

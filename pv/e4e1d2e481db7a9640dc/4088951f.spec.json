@@ -1,0 +1,89 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s12",
+ "company": "Библия без мифов",
+ "lang": "ru",
+ "hook": "Как читать Писание без мифов",
+ "lines": [
+  "Открываем еврейский текст Писания без штампов.",
+  "На закате ищем ответы на сложные вопросы.",
+  "Вместе читаем строки и находим верных друзей.",
+  "Напишите СЛОВО в WhatsApp, чтобы присоединиться к нашей открытой встрече."
+ ],
+ "say": [
+  "Открываем еврейский текст Писания без штампов.",
+  "На закате ищем ответы на сложные вопросы.",
+  "Вместе читаем строки и находим верных друзей.",
+  "Напишите СЛОВО в вотсап, чтобы присоединиться к нашей открытой встрече."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_5975332.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "hands turning pages with Hebrew",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_40524218.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "sunset over mountain hills silhouette",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_5206014.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "hands reading open Bible book",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_38926621.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "mountain landscape at sunrise or sunset",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_32726945.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "sunlit desert lake and hills",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "group of friends talking warm living room tea",
+  "hands holding open Bible reading together",
+  "warm sunlight Israel landscape hills"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Живое общение, искренние вопросы и Писание без наслоений традиции. Напишите СЛОВО в WhatsApp, чтобы узнать о наших встречах в Израиле. #общинаизраиль #библиябезмифов #иешуа #вера\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc\n\n📍 Израиль · Библия без мифов — община еврейского христианства для русскоязычных в Израиле. Пастор Михаил Карповецкий.\nВопросы — в комментариях или в WhatsApp (ссылка в профиле).\n\n#израиль #русскиевизраиле #иерусалим #тельавив #хайфа #библия #библиябезмифов #иешуа",
+ "series": "Живые фрагменты Михаила",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия «Живые фрагменты Михаила / внутренняя жизнь». Показывает искреннюю атмосферу общины от первого лица для снятия барьера недоверия скептиков.",
+ "rules": "Russian videos for a Jewish-Christian congregation in Israel (pastor Mikhail Karpovetsky, «Библия без мифов»). Formats: short 6–25 s, one strong line, big text NEVER over faces. Allowed footage: Israel landscapes, Galilee, desert, sunrise, sea, olive trees, hands with a Bible (no cross on the cover), turning pages, maps, Hebrew letters on paper. FORBIDDEN in any frame: Torah scrolls or synagogue objects, crosses, icons, statues, paintings or images of Jesus, figures in clouds, churches, mosques or other temples, priests, candles of rituals, Getty or other watermarks, any burned-in foreign text. Say «Иешуа» or «Иисус»; framing is Jewish Christianity, no talit/kippah/menorah. No pressure, no promises, never the word «бесплатно», no gifts or benefit for coming, never address children. CTA: a word or question in the comments, or «напишите нам в WhatsApp». Warm, personal tone.",
+ "hookscore": 66.1,
+ "qa": {
+  "score": 81,
+  "parts": {
+   "hook": 14,
+   "relevance": 16,
+   "alive": 16,
+   "text": 13,
+   "match": 14,
+   "cta": 8
+  },
+  "rule_break": false,
+  "problems": [
+   "Кадр на 00:04 показывает англоязычную Библию (Chronicles), хотя речь идет о еврейском тексте Писания",
+   "Кадры заката и гор на 00:01 и 00:06 выглядят довольно однообразно"
+  ],
+  "fix": "Замените кадр с английским текстом на 00:04 на чтение текста на иврите или аутентичный израильский пейзаж Галилеи."
+ },
+ "date": "2026-11-28 09:49 UTC"
+}

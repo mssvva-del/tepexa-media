@@ -1,0 +1,106 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s9",
+ "company": "Библия без мифов",
+ "lang": "ru",
+ "hook": "Иврит открывает смысл этого слова иначе",
+ "lines": [
+  "Слово «шалом» в оригинале означает не просто мир, а полную целостность и восстановление.",
+  "Напишите СЛОВО в WhatsApp, чтобы изучать библейский текст без домыслов."
+ ],
+ "say": [
+  "Слово шалом в оригинале означает не просто мир, а полную целостность и восстановление.",
+  "Напишите СЛОВО в вотсап, чтобы изучать библейский текст без домыслов."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_36862846.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "Open book pages fluttering outside",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_31659555.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Ibex in Israel desert landscape",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_9080219.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Book pages turning rapidly closeup",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_35539097.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Dramatic pink sunset over hills",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_28773428.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "elderly man writing with pencil",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_36652471.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "dipping calligraphic brush into ink",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_9080221.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "hand resting on open book",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_17439606.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "Desert hills at sunset landscape",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "hands writing Hebrew calligraphy ink",
+  "ancient book pages turning close up",
+  "Judean desert sunrise Israel"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Что на самом деле скрывает язык Писания за привычными переводами? Напишите СЛОВО в WhatsApp, чтобы исследовать еврейские корни веры вместе. #библия #иврит #вера #израиль\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc\n\n📍 Израиль · Библия без мифов — община еврейского христианства для русскоязычных в Израиле. Пастор Михаил Карповецкий.\nВопросы — в комментариях или в WhatsApp (ссылка в профиле).\n\n#израиль #русскиевизраиле #иерусалим #тельавив #хайфа #библия #библиябезмифов #иешуа",
+ "series": "Миф и что написано на самом деле",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия «Миф и что написано на самом деле». Опирается на топ-формат канала с разбором иврита (19 тыс. просмотров) и донор мудрости Притчей.",
+ "rules": "Russian videos for a Jewish-Christian congregation in Israel (pastor Mikhail Karpovetsky, «Библия без мифов»). Formats: short 6–25 s, one strong line, big text NEVER over faces. Allowed footage: Israel landscapes, Galilee, desert, sunrise, sea, olive trees, hands with a Bible (no cross on the cover), turning pages, maps, Hebrew letters on paper. FORBIDDEN in any frame: Torah scrolls or synagogue objects, crosses, icons, statues, paintings or images of Jesus, figures in clouds, churches, mosques or other temples, priests, candles of rituals, Getty or other watermarks, any burned-in foreign text. Say «Иешуа» or «Иисус»; framing is Jewish Christianity, no talit/kippah/menorah. No pressure, no promises, never the word «бесплатно», no gifts or benefit for coming, never address children. CTA: a word or question in the comments, or «напишите нам в WhatsApp». Warm, personal tone.",
+ "hookscore": 55.0,
+ "qa": {
+  "score": 83,
+  "parts": {
+   "hook": 14,
+   "relevance": 16,
+   "alive": 16,
+   "text": 14,
+   "match": 14,
+   "cta": 9
+  },
+  "rule_break": false,
+  "problems": [
+   "Первый кадр с листанием книги довольно блеклый и медленный для мощного хука",
+   "Кадр с чернильницей на 00:07 выглядит статично и затянуто"
+  ],
+  "fix": "Замените первый кадр на яркий динамичный вид пустыни или написания иврита пером, чтобы зацепить внимание с первых секунд."
+ },
+ "date": "2026-11-26 09:13 UTC"
+}

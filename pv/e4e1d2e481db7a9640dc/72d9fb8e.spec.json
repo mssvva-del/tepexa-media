@@ -1,0 +1,90 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s14",
+ "company": "Библия без мифов",
+ "lang": "ru",
+ "hook": "Ищете общину веры в Израиле?",
+ "lines": [
+  "Открываем Писание вместе с русскоязычной общиной в Израиле.",
+  "Вместе с пастором исследуем библейские рассветы и древние корни.",
+  "Находим честные ответы посреди величественных холмов и долин.",
+  "Напишите СЛОВО в WhatsApp, чтобы познакомиться с нами и узнать время встречи."
+ ],
+ "say": [
+  "Открываем Писание вместе с русскоязычной общиной в Израиле.",
+  "Вместе с пастором исследуем библейские рассветы и древние корни.",
+  "Находим честные ответы посреди величественных холмов и долин.",
+  "Напишите СЛОВО в вотсап, чтобы познакомиться с нами и узнать время встречи."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_28965654.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "hands holding open bible outside",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_26611833.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "sunrise over green hilly valley",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_31905208.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "scenic mountain landscape under cloudy sky",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_15253652.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "dramatic dark clouds above sunset horizon",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_27696928.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "sunset across rolling rural hills",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "warm friendly community meeting table conversation",
+  "scenic view of hills Israel sunset peaceful",
+  "hands holding open Bible pages outdoors"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Приглашаем русскоязычных жителей Израиля на открытые встречи общины «Библия без мифов». Напишите СЛОВО в WhatsApp на номер +972546352238 для знакомства. #община #израиль #вера #библиябезмифов\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc\n\n📍 Израиль · Библия без мифов — община еврейского христианства для русскоязычных в Израиле. Пастор Михаил Карповецкий.\nВопросы — в комментариях или в WhatsApp (ссылка в профиле).\n\n#израиль #русскиевизраиле #иерусалим #тельавив #хайфа #библия #библиябезмифов #иешуа",
+ "series": "Живые фрагменты Михаила",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Прямой оффер. Четко формулирует предложение для целевой аудитории (русскоязычные израильтяне), указывая пастора и переводя в личный диалог через лид-слово.",
+ "rules": "Russian videos for a Jewish-Christian congregation in Israel (pastor Mikhail Karpovetsky, «Библия без мифов»). Formats: short 6–25 s, one strong line, big text NEVER over faces. Allowed footage: Israel landscapes, Galilee, desert, sunrise, sea, olive trees, hands with a Bible (no cross on the cover), turning pages, maps, Hebrew letters on paper. FORBIDDEN in any frame: Torah scrolls or synagogue objects, crosses, icons, statues, paintings or images of Jesus, figures in clouds, churches, mosques or other temples, priests, candles of rituals, Getty or other watermarks, any burned-in foreign text. Say «Иешуа» or «Иисус»; framing is Jewish Christianity, no talit/kippah/menorah. No pressure, no promises, never the word «бесплатно», no gifts or benefit for coming, never address children. CTA: a word or question in the comments, or «напишите нам в WhatsApp». Warm, personal tone.",
+ "hookscore": 60.3,
+ "qa": {
+  "score": 75,
+  "parts": {
+   "hook": 14,
+   "relevance": 14,
+   "alive": 12,
+   "text": 13,
+   "match": 13,
+   "cta": 9
+  },
+  "rule_break": false,
+  "problems": [
+   "Длинные одинаковые пролеты дрона над холмами замедляют динамику в середине ролика",
+   "Кадр с Библией повторяется в начале и на 00:08 (в ч/б варианте), что выглядит как нехватка футажей",
+   "Нет конкретики, какое именно кодовое слово писать в WhatsApp"
+  ],
+  "fix": "Замените повтор чтения Библии и однотипные общие планы гор на кадры с оливковыми деревьями или картами Писания, а в CTA укажите точное слово для отправки в WhatsApp."
+ },
+ "date": "2026-11-30 09:49 UTC"
+}

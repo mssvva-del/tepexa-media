@@ -1,0 +1,109 @@
+{
+ "id": "8ff955d78c1be0b1c40f",
+ "pv": "viral",
+ "plan_usd": 0.0041,
+ "company": "Max Tors",
+ "lang": "ru",
+ "hook": "Как заменить часы рутины менеджера?",
+ "lines": [
+  "Умные роботы меняют привычный рабочий процесс в офисах.",
+  "Сотрудники устают от разбора бесконечных таблиц и задач.",
+  "Мы настраиваем ИИ-агентов для автоматизации и маршрутизации процессов.",
+  "Напишите нам в WhatsApp для аудита процессов вашего бизнеса."
+ ],
+ "say": [
+  "Умные роботы меняют привычный рабочий процесс в офисах.",
+  "Сотрудники устают от разбора бесконечных таблиц и задач.",
+  "Мы настраиваем ИИ-агентов для автоматизации и маршрутизации процессов.",
+  "Напишите нам в вотсап для аудита процессов вашего бизнеса."
+ ],
+ "shots": [
+  {
+   "src": "clients/8ff955d78c1be0b1c40f/donor_tt7611203132298661142_2.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "tt7611203132298661142",
+    "media": "https://v19.tiktokcdn-us.com/e72ef6a19609a6c835b9395d9a3b6c98/6b05cb79/video/tos/useast2a/tos-useast2a-ve-68c810-euttp/ogDSyiBJICClREqLagiIoXAAbP5wP1xi00fbiS/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=537&ft=gKfIn8s6oA-O12Nv5R.3lIxRSJwy~3_45SY&mime_type=video_mp4&rc=Nzk0NGY8ZWVoZWg8aDdpNEBpajVlZG85cjg5OTMzbzczNUAzLy9fYmNiNjMxX2MtY2I0YSNhZzE2MmRza2RhLS1kMTFzcw%3D%3D&vvpl=1&l=202611241137452246F2F2F7C23202BBA0&btag=e000b8000",
+    "start": 10.0,
+    "dur": 2.0
+   },
+   "free": "bottom",
+   "shows": "futuristic humanoid robot head closeup",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_6930973.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_7448471.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "clients/8ff955d78c1be0b1c40f/donor_tt7611203132298661142_1.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "tt7611203132298661142",
+    "media": "https://v19.tiktokcdn-us.com/e72ef6a19609a6c835b9395d9a3b6c98/6b05cb79/video/tos/useast2a/tos-useast2a-ve-68c810-euttp/ogDSyiBJICClREqLagiIoXAAbP5wP1xi00fbiS/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=537&ft=gKfIn8s6oA-O12Nv5R.3lIxRSJwy~3_45SY&mime_type=video_mp4&rc=Nzk0NGY8ZWVoZWg8aDdpNEBpajVlZG85cjg5OTMzbzczNUAzLy9fYmNiNjMxX2MtY2I0YSNhZzE2MmRza2RhLS1kMTFzcw%3D%3D&vvpl=1&l=202611241137452246F2F2F7C23202BBA0&btag=e000b8000",
+    "start": 5.5,
+    "dur": 2.0
+   },
+   "free": "bottom",
+   "shows": "digital luminous figure walking abstract",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_8479267.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_7679387.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "business workflow automation screen",
+  "entrepreneur looking at laptop data",
+  "modern software interface workflow"
+ ],
+ "llm_usd": 0.0221,
+ "hookscore": 80.2,
+ "end_text": [
+  "Напишите в WhatsApp",
+  "Аудит бизнес-процессов"
+ ],
+ "ad_end": true,
+ "end": "Напишите в WhatsApp",
+ "why": "Первое видео серии «Анатомия ИИ-агента», опирающееся на механику наглядного теста и оцифровки пользы (по аналогии с разборами Matt Wolfe на 1,7 млн просмотров). Ролик прагматично показывает решение проблемы утренней рутины менеджеров и ведет на аудит процессов в WhatsApp.\nЧасть кадров — из вирусного ролика вашей ниши (7.4 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "qa": {
+  "score": 65,
+  "parts": {
+   "hook": 12,
+   "relevance": 9,
+   "alive": 13,
+   "text": 12,
+   "match": 10,
+   "cta": 8
+  },
+  "rule_break": false,
+  "problems": [
+   "generic stock footage throughout the video without real interface demos or personal brand presence",
+   "voiceover is an unnatural robotic TTS voice",
+   "hook text overlay disappears too early leaving empty space"
+  ],
+  "fix": "Replace generic 3D robots and stock office footage with real screencasts of working AI agents/CRM integrations and live footage of Max speaking."
+ },
+ "cost": {
+  "usd": 0.004,
+  "calls": 1,
+  "by": {
+   "script": 0.0041
+  }
+ }
+}

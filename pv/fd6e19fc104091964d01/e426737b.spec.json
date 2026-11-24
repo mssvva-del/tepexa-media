@@ -1,0 +1,81 @@
+{
+ "id": "maris_v2",
+ "company": "MARIS KABA",
+ "lang": "en",
+ "ad_end": true,
+ "end": "Premium European fabrics · Riga · WhatsApp",
+ "el_voice": "pFZP5JQG7iQjIQuC4Bku",
+ "el_model": "eleven_multilingual_v2",
+ "music": "~/Projects/tepexa-clients/church-ilya/music/m127.mp3",
+ "hook": "Fabrics you won't find in a mass-market store",
+ "lines": [
+  "Italian silk satin with artistic prints.",
+  "Viscose and silk velvet in rich, deep colours.",
+  "Tweed with feathers, safari toile denim, designer quilted fabric.",
+  "Branded stock fabrics in limited cuts.",
+  "Visit us in Riga or message us on WhatsApp to reserve yours."
+ ],
+ "shots": [
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/maris-kaba/src/r01.mp4",
+   "ss": 1.0,
+   "dur": 1.8
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/maris-kaba/src/r00.mp4",
+   "ss": 2.0,
+   "dur": 1.5
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/maris-kaba/src/r04.mp4",
+   "ss": 5.0,
+   "dur": 1.75
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/maris-kaba/src/r04.mp4",
+   "ss": 20.0,
+   "dur": 1.75
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/maris-kaba/src/r09.mp4",
+   "ss": 3.0,
+   "dur": 1.9
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/maris-kaba/src/r10.mp4",
+   "ss": 4.0,
+   "dur": 1.8
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/maris-kaba/src/r08.mp4",
+   "ss": 1.0,
+   "dur": 1.8
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/maris-kaba/src/r05.mp4",
+   "ss": 2.0,
+   "dur": 1.6
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/maris-kaba/src/r07.mp4",
+   "ss": 0.5,
+   "dur": 1.5
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/maris-kaba/src/r06.mp4",
+   "ss": 3.0,
+   "dur": 1.5
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/maris-kaba/src/r02.mp4",
+   "ss": 5.0,
+   "dur": 1.7
+  },
+  {
+   "src": "/Users/sergmols/Projects/tepexa-clients/maris-kaba/src/r06.mp4",
+   "ss": 15.0,
+   "dur": 1.8
+  }
+ ],
+ "caption": "Fabrics you won't find in a mass-market store ✨\n\nItalian silk satin with artistic prints, viscose & silk velvet, feather tweed, safari toile denim, designer quilted fabric — branded stock in limited cuts.\n\n📍 Riga · Message us on WhatsApp to reserve yours\n\n#fabricstore #silkfabric #italianfabric #riga #audumi #sewing #fabriclover"
+}

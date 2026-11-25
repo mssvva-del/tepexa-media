@@ -1,0 +1,78 @@
+{
+ "id": "5347ab92bdba713bdb58_s25",
+ "company": "Roman Group ArtVitrage",
+ "lang": "ru",
+ "hook": "Почему стекло не шатается от сквозняка",
+ "lines": [
+  "Закаленное стекло толщиной 10 миллиметров фиксируется в усиленный алюминиевый профиль.",
+  "Напишите СТЕКЛО в WhatsApp."
+ ],
+ "say": [
+  "Закаленное стекло толщиной десять миллиметров фиксируется в усиленный алюминиевый профиль.",
+  "Напишите СТЕКЛО в вотсап."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1p1NE7rviWBXyMRYPXAK7gilUncnZxjgy.jpg",
+   "dur": 1.6,
+   "own": true,
+   "shows": "man opening frameless balcony glass",
+   "cam": null
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1pmJLi4MWHmpEQe3XZL7fTABpWSoyIyBH.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "wide glass enclosed balcony space",
+   "cam": null
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1pcghf43Ofu8KCZk0FhoySPKB87KdxIgd.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "glazed balcony terrace panorama view",
+   "cam": null
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1rl1AnKCMJelK8JjXVpNARELxqGX2lHkg.jpg",
+   "dur": 3,
+   "own": true,
+   "shows": "installed glass railing and enclosure",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "thick tempered glass balcony railing",
+  "installing glass balcony panels",
+  "strong glass terrace system"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Закаленное стекло толщиной 10 мм выдерживает сильные порывы ветра и морской бриз. Напишите СТЕКЛО в WhatsApp. #закаленноестекло #балкон #безрамноеостекление #израиль #мастер\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Установка глазами мастера",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия Установка глазами мастера. Базируется на теме надежности стекла (похожий ролик про закаленное стекло стал лучшим у клиента с охватом 1607) и доноре 6.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "hookscore": 68.8,
+ "qa": {
+  "score": 83,
+  "parts": {
+   "hook": 15,
+   "relevance": 18,
+   "alive": 14,
+   "text": 13,
+   "match": 14,
+   "cta": 9
+  },
+  "rule_break": false,
+  "problems": [
+   "Начиная со 2-й секунды идут статичные или медленно плывущие кадры балкона без демонстрации работы профиля или движения",
+   "Не показан крупным планом сам усиленный профиль в момент озвучки про него"
+  ],
+  "fix": "Покажите в макросъемке, как именно стекло входит и зажимается в усиленный алюминиевый профиль, вместо статичных общих планов балкона."
+ },
+ "date": "2026-11-28 09:43 UTC"
+}

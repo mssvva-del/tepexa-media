@@ -1,0 +1,104 @@
+{
+ "id": "0c944ce2f688a6a80cbf",
+ "pv": "viral",
+ "plan_usd": 0.004,
+ "company": "Virro",
+ "lang": "ru",
+ "hook": "Что ИИ видит в ваших рилсах?",
+ "lines": [
+  "Сложные рум-туры часто не собирают просмотры у клиентов.",
+  "Платформа Вирро оценивает виральный потенциал любого ролика недвижимости.",
+  "ИИ находит скрытые триггеры алгоритмов и точки роста.",
+  "Проверьте ваши видео на сайте virro точка pro."
+ ],
+ "say": [
+  "Сложные рум-туры часто не собирают просмотры у клиентов.",
+  "Платформа Вирро оценивает виральный потенциал любого ролика недвижимости.",
+  "ИИ находит скрытые триггеры алгоритмов и точки роста.",
+  "Проверьте ваши видео на сайте вирро точка про."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_7646763.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "clients/0c944ce2f688a6a80cbf/s0.png",
+   "dur": 1.5,
+   "fit": "pad"
+  },
+  {
+   "src": "stock/pexels_7817217.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "clients/0c944ce2f688a6a80cbf/gal_1.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "Mobile UI real estate AI analysis",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_7646792.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "clients/0c944ce2f688a6a80cbf/gal_0.jpg",
+   "dur": 1.5,
+   "fit": "pad",
+   "own": true,
+   "shows": "Video scoring dashboard UI gallery",
+   "cam": null
+  },
+  {
+   "src": "clients/0c944ce2f688a6a80cbf/gal_3.jpg",
+   "dur": 3,
+   "fit": "pad",
+   "own": true,
+   "shows": "Analytics platform dashboard with graphs",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "real estate agent filming smartphone",
+  "modern luxury interior tour camera",
+  "software dashboard analytics on screen"
+ ],
+ "llm_usd": 0.0215,
+ "hookscore": 68.2,
+ "end_text": [
+  "Проверьте ваши видео",
+  "Аналитика от Virro"
+ ],
+ "ad_end": true,
+ "end": "Проверьте ваши видео · virro.pro",
+ "why": "Серия №1 из стратегии (превью возможностей и разбор по скорингу). Формат зацепа построен на механике алгоритмического аудита контента по примеру B2B-разборов VidIQ (ролики на 40 000–60 000 просмотров), цель — привлечь риелторов к тестированию скоринга на virro.pro.",
+ "qa": {
+  "score": 76,
+  "parts": {
+   "hook": 14,
+   "relevance": 14,
+   "alive": 15,
+   "text": 12,
+   "match": 14,
+   "cta": 8
+  },
+  "rule_break": false,
+  "problems": [
+   "Stock footage of realtors in masks breaks immersion and looks cheap/dated",
+   "Screen recordings of the dashboard have very tiny, unreadable text on mobile screens",
+   "Hook text is partially blocked by dynamic captions in the lower part"
+  ],
+  "fix": "Replace generic stock footage with actual high-converting viral real estate reels and zoom in on platform interface metrics to make the scoring data readable on phones."
+ },
+ "cost": {
+  "usd": 0.004,
+  "calls": 1,
+  "by": {
+   "script": 0.004
+  }
+ }
+}

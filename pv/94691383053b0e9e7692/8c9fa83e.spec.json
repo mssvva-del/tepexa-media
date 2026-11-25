@@ -1,0 +1,136 @@
+{
+ "id": "94691383053b0e9e7692_own",
+ "pv": "own",
+ "plan_usd": 0.0,
+ "company": "Guidenation",
+ "lang": "ru",
+ "hook": "Устали от банальных туристических маршрутов?",
+ "lines": [
+  "Устали от скучных экскурсий и обычных мостов города?",
+  "Guidenation находит частных русскоязычных гидов по всему миру.",
+  "Местные жители покажут скрытые панорамы и древние храмы.",
+  "Переходите на сайт и бронируйте авторскую экскурсию."
+ ],
+ "say": [
+  "Устали от скучных экскурсий и обычных мостов города?",
+  "Гайднейшн находит частных русскоязычных гидов по всему миру.",
+  "Местные жители покажут скрытые панорамы и древние храмы.",
+  "Переходите на сайт и бронируйте авторскую экскурсию."
+ ],
+ "shots": [
+  {
+   "src": "clients/94691383053b0e9e7692/donor_oiDf6UUeJAZ-j_2.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "oiDf6UUeJAZ-j",
+    "media": "https://scontent-cph2-1.cdninstagram.com/o1/v/t2/f2/m86/AQO7nCRUSrvETWt1Rkir9Jn5HHlvzFMSbYy_Ws0DxiPxpDpgQzda_VZbDXArFKftMs7o6dATqm9B0ET-gtAbkx51mfgVJy7XL9fYl9Q.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_ohc=QAIYssqy1aUQ7kNvwEbrzo4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNjA4LmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTM4NDc5ODY2NjkxMDM2NSwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo2MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f126a83d4d488e60&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82N0Y5Mzc3QjMwQjE0OTQ3QkE5OTY5RTI3NEU3QkQ4Ml92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0YwMDNCMzc1RDE5QzQ5QTNBQjUxMEI2QzNGQjkwNTQyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACa6qoOK8t31BBUCKAJDMywXQE4zMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=ZMsyPCTVk8ImfnfHwNqCzw&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQJFVNed3MUelVcoY2JAohAo2c_ixN8TIxOggw2RTW23w&oe=6B08AC75",
+    "start": 26.5,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "drawbridge opening over city river",
+   "cam": null
+  },
+  {
+   "src": "clients/94691383053b0e9e7692/donor_oiDa-wvw7DEwe_1.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "oiDa-wvw7DEwe",
+    "media": "https://scontent-cph2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOviEJjfz8t94aL2k5DVuLgnNEmzKhGJmNZawA8H8-KPZZ1dmao14QWJWpFWAdmXaBZ_duikkYqWM3GbiVwsvQiBg7NSA7i9twNIGR2lg.mp4?_nc_cat=108&_nc_sid=8bf8fe&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_ohc=pHy4dEnBk28Q7kNvwHgEwK9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNzkyMzc1NTgxOTM5MDUyMCwiYXNzZXRfYWdlX2RheXMiOjEyOCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ZMsyPCTVk8ImfnfHwNqCzw&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQrGKtxufIzo0du7v7NNk8orunrmcf76DPgathpgTHTLQ&oe=6B0CA752",
+    "start": 8.0,
+    "dur": 2.0
+   },
+   "shows": "mountain river cut to ancient temple",
+   "cam": null
+  },
+  {
+   "src": "clients/94691383053b0e9e7692/donor_oiDf6UUeJAZ-j_0.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "oiDf6UUeJAZ-j",
+    "media": "https://scontent-cph2-1.cdninstagram.com/o1/v/t2/f2/m86/AQO7nCRUSrvETWt1Rkir9Jn5HHlvzFMSbYy_Ws0DxiPxpDpgQzda_VZbDXArFKftMs7o6dATqm9B0ET-gtAbkx51mfgVJy7XL9fYl9Q.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_ohc=QAIYssqy1aUQ7kNvwEbrzo4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNjA4LmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTM4NDc5ODY2NjkxMDM2NSwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo2MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f126a83d4d488e60&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82N0Y5Mzc3QjMwQjE0OTQ3QkE5OTY5RTI3NEU3QkQ4Ml92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0YwMDNCMzc1RDE5QzQ5QTNBQjUxMEI2QzNGQjkwNTQyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACa6qoOK8t31BBUCKAJDMywXQE4zMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=ZMsyPCTVk8ImfnfHwNqCzw&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQJFVNed3MUelVcoY2JAohAo2c_ixN8TIxOggw2RTW23w&oe=6B08AC75",
+    "start": 10.5,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "couple kissing by bridge and driving",
+   "cam": null
+  },
+  {
+   "src": "clients/94691383053b0e9e7692/donor_oiDa-wvw7DEwe_2.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "oiDa-wvw7DEwe",
+    "media": "https://scontent-cph2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOviEJjfz8t94aL2k5DVuLgnNEmzKhGJmNZawA8H8-KPZZ1dmao14QWJWpFWAdmXaBZ_duikkYqWM3GbiVwsvQiBg7NSA7i9twNIGR2lg.mp4?_nc_cat=108&_nc_sid=8bf8fe&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_ohc=pHy4dEnBk28Q7kNvwHgEwK9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNzkyMzc1NTgxOTM5MDUyMCwiYXNzZXRfYWdlX2RheXMiOjEyOCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ZMsyPCTVk8ImfnfHwNqCzw&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQrGKtxufIzo0du7v7NNk8orunrmcf76DPgathpgTHTLQ&oe=6B0CA752",
+    "start": 18.0,
+    "dur": 2.0
+   },
+   "free": "top",
+   "shows": "buddha statue with prayer flags",
+   "cam": null
+  },
+  {
+   "src": "clients/94691383053b0e9e7692/donor_oiDf6UUeJAZ-j_1.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "oiDf6UUeJAZ-j",
+    "media": "https://scontent-cph2-1.cdninstagram.com/o1/v/t2/f2/m86/AQO7nCRUSrvETWt1Rkir9Jn5HHlvzFMSbYy_Ws0DxiPxpDpgQzda_VZbDXArFKftMs7o6dATqm9B0ET-gtAbkx51mfgVJy7XL9fYl9Q.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_ohc=QAIYssqy1aUQ7kNvwEbrzo4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNjA4LmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTM4NDc5ODY2NjkxMDM2NSwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo2MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f126a83d4d488e60&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82N0Y5Mzc3QjMwQjE0OTQ3QkE5OTY5RTI3NEU3QkQ4Ml92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0YwMDNCMzc1RDE5QzQ5QTNBQjUxMEI2QzNGQjkwNTQyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACa6qoOK8t31BBUCKAJDMywXQE4zMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=ZMsyPCTVk8ImfnfHwNqCzw&_nc_ss=703ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQJFVNed3MUelVcoY2JAohAo2c_ixN8TIxOggw2RTW23w&oe=6B08AC75",
+    "start": 21.0,
+    "dur": 2.0
+   },
+   "free": "bottom",
+   "shows": "ferry passing bridge cut to city",
+   "cam": null
+  },
+  {
+   "src": "clients/94691383053b0e9e7692/prod_0.jpg",
+   "dur": 3,
+   "own": true,
+   "shows": "people sitting in central park lawn",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "harvard campus walking tour",
+  "historic university architecture footage",
+  "tourist with local guide walking"
+ ],
+ "llm_usd": 0.0213,
+ "hookscore": 63.0,
+ "end_text": [
+  "Выбрать гида",
+  "Авторские экскурсии"
+ ],
+ "ad_end": true,
+ "end": "Выбрать гида · Guidenation.club",
+ "why": "Ролик открывает серию #1 из утвержденной стратегии, используя любопытство к закрытым деталям культовых локаций (формат собирает от 50 000 до 112 000 просмотров у лидеров ниши) для привлечения туристов на сайт.",
+ "qa": {
+  "score": 72,
+  "parts": {
+   "hook": 14,
+   "relevance": 12,
+   "alive": 12,
+   "text": 13,
+   "match": 13,
+   "cta": 9
+  },
+  "rule_break": false,
+  "problems": [
+   "Кадр с 00:08 по 00:16 длится слишком долго (более 7 секунд) без смены плана, динамика проседает",
+   "Использованы случайные стоковые кадры путешествий без интерфейса сервиса или взаимодействия с гидом"
+  ],
+  "fix": "Разрежьте затянувшийся план с сидящими людьми на 00:08-00:16 на несколько динамичных кадров авторских экскурсий или добавьте скринкаст выбора гида на сайте."
+ },
+ "cost": {
+  "usd": 0.004,
+  "calls": 1,
+  "by": {
+   "script": 0.0039
+  }
+ }
+}

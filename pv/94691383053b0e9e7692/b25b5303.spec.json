@@ -1,0 +1,101 @@
+{
+ "id": "94691383053b0e9e7692",
+ "pv": "viral",
+ "plan_usd": 0.0039,
+ "company": "Guidenation",
+ "lang": "ru",
+ "hook": "📍Бостон, США 🇺🇸 Лучшие авторские экскурсии",
+ "lines": [
+  "Устали от скучных туристических групп на улицах городов?",
+  "Мы подберем проверенного частного гида на удобном сайте.",
+  "Вы увидите тайные исторические арки и секретные уголки.",
+  "Выберите авторскую экскурсию на нашем сайте прямо сейчас."
+ ],
+ "say": [
+  "Устали от скучных туристических групп на улицах городов?",
+  "Мы подберем проверенного частного гида на удобном сайте гайднация клаб.",
+  "Вы увидите тайные исторические арки и секретные уголки.",
+  "Выберите авторскую экскурсию на сайте гайднация клаб прямо сейчас."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_36757424.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_36032725.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "people walking in European city square",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_18892667.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "tourists strolling along urban street",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_20685205.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "woman walking towards classic building entrance",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_18892668.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "historic city street leading to tower",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_31302085.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "historic city street with cars",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "Harvard campus historic architecture walking tour",
+  "Boston historic streets tourist guide walking",
+  "traveler walking ancient courtyard university"
+ ],
+ "llm_usd": 0.021,
+ "hookscore": 63.0,
+ "end_text": [
+  "Выбрать маршрут",
+  "Гиды по всему миру"
+ ],
+ "ad_end": true,
+ "end": "Выбрать маршрут · Guidenation.club",
+ "why": "Ролик открывает Серию #1 из стратегии через конкретный интригующий маршрут по кампусу Гарварда. Формула анти-шаблона и скрытых локаций привлекает до 112 000 просмотров у лидеров ниши и направляет аудиторию на сайт за авторской прогулкой.",
+ "qa": {
+  "score": 71,
+  "parts": {
+   "hook": 12,
+   "relevance": 13,
+   "alive": 13,
+   "text": 12,
+   "match": 12,
+   "cta": 9
+  },
+  "rule_break": false,
+  "problems": [
+   "Repeated footage: 00:00 and 00:10 are the same arch shot, 00:01 and 00:12 are also identical shots",
+   "Shots at 00:01 and 00:12 do not look like Boston (look like South Asia or different architecture)",
+   "Unnatural robotic AI voiceover"
+  ],
+  "fix": "Replace duplicated and out-of-context clips with unique authentic views of Boston and show genuine guided tour interactions."
+ },
+ "cost": {
+  "usd": 0.0,
+  "calls": 1,
+  "by": {
+   "script": 0.0039
+  }
+ }
+}

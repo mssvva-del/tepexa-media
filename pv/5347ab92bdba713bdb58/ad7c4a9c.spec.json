@@ -1,0 +1,96 @@
+{
+ "id": "5347ab92bdba713bdb58_s23",
+ "company": "Roman Group ArtVitrage",
+ "lang": "ru",
+ "hook": "Балкон превращается в веранду за секунды",
+ "lines": [
+  "Створки безрамного стекла сдвигаются вбок одной рукой, открывая панораму целиком.",
+  "Напишите СТЕКЛО в WhatsApp."
+ ],
+ "say": [
+  "Створки безрамного стекла сдвигаются вбок одной рукой, открывая панораму целиком.",
+  "Напишите СТЕКЛО в вотсап."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1mQBT2uttha6z7BmIpFR_jK2KIOgh5L8V_720.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "own": true,
+   "shows": "sliding balcony glass pane detail",
+   "cam": null
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1vbjws4qdZTr4bYo8EPPOAW1OWGk8QljX_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true,
+   "shows": "frameless balcony glazing corner view",
+   "cam": null
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/12suUvh1yveKnE80VMrWs9Fzo19JHBo2v.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "balcony frameless glass panels view",
+   "cam": null
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1qWK2LJeasAbV-cydY4pzm203nyOqXck-_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true,
+   "shows": "glass panel track and railing",
+   "cam": null
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1s8o4r8XuyoJI4MUNc_RyaC0JV-xjxMNo.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "frameless glass balcony installation view",
+   "cam": null
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1pmJLi4MWHmpEQe3XZL7fTABpWSoyIyBH.jpg",
+   "dur": 3,
+   "own": true,
+   "shows": "wide glass enclosed balcony space",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "frameless sliding glass balcony",
+  "modern glass balcony folding",
+  "luxury apartment balcony glass terrace"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Безрамное остекление открывает балкон на сто процентов в хорошую погоду и защищает в бурю. Напишите СТЕКЛО в WhatsApp. #безрамноеостекление #балкон #пергола #израиль #стекло\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Балкон + пергола",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия Балкон + пергола. Вирусный формат преображения балкона (донор 1, более 21 миллиона просмотров) для максимального охвата и демонстрации удобства раздвижной системы.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "hookscore": 56.8,
+ "qa": {
+  "score": 77,
+  "parts": {
+   "hook": 14,
+   "relevance": 18,
+   "alive": 12,
+   "text": 13,
+   "match": 11,
+   "cta": 9
+  },
+  "rule_break": false,
+  "problems": [
+   "Voiceover says 'сдвигаются одной рукой', but no hand is shown moving the glass panels",
+   "Static scenes without movement of the mechanism in action",
+   "Pacing is a bit slow and repetitive with static views of glass"
+  ],
+  "fix": "Show dynamic footage of a hand actively sliding and folding the frameless glass panels open to directly demonstrate the hook and voiceover."
+ },
+ "date": "2026-11-27 09:43 UTC"
+}

@@ -1,0 +1,93 @@
+{
+ "id": "5347ab92bdba713bdb58_s26",
+ "company": "Roman Group ArtVitrage",
+ "lang": "ru",
+ "hook": "Защита террасы от дождя и хамсина",
+ "lines": [
+  "Сочетание биоклиматической перголы и сдвижного стекла делает балкон герметичной комнатой.",
+  "Напишите СТЕКЛО в WhatsApp."
+ ],
+ "say": [
+  "Сочетание биоклиматической перголы и сдвижного стекла делает балкон герметичной комнатой.",
+  "Напишите СТЕКЛО в вотсап."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1rl1AnKCMJelK8JjXVpNARELxqGX2lHkg.jpg",
+   "dur": 1.6,
+   "own": true,
+   "shows": "installed glass railing and enclosure",
+   "cam": null
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1pcghf43Ofu8KCZk0FhoySPKB87KdxIgd.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "glazed balcony terrace panorama view",
+   "cam": null
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1vbjws4qdZTr4bYo8EPPOAW1OWGk8QljX_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true,
+   "shows": "frameless balcony glazing corner view",
+   "cam": null
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1p1NE7rviWBXyMRYPXAK7gilUncnZxjgy.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "man opening frameless balcony glass",
+   "cam": null
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1Uwf2_d5WpSP6d90epHeBFlZ-AzTHwgIm.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "balcony glass railing open view",
+   "cam": null
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1cRb6yvLU0WQfgIb9k0g4BIfDH36fdYv5.jpg",
+   "dur": 3,
+   "own": true,
+   "shows": "glass panels on sunny balcony",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "pergola roof with sliding glass walls",
+  "modern patio pergola glass enclosure",
+  "rain on balcony glass system"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Пергола защищает от палящего солнца, а стекло от пыли хамсина и косого дождя. Напишите СТЕКЛО в WhatsApp. #пергола #безрамноеостекление #терраса #израиль #стекло\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Балкон + пергола",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия Балкон + пергола. Собственный топовый хит клиента (донор 0, 47 тысяч просмотров). Показывает решение проблемы израильского климата.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "hookscore": 56.2,
+ "qa": {
+  "score": 84,
+  "parts": {
+   "hook": 14,
+   "relevance": 18,
+   "alive": 16,
+   "text": 13,
+   "match": 14,
+   "cta": 9
+  },
+  "rule_break": false,
+  "problems": [
+   "Хук недостаточно динамичный: статичный общий план балкона без движения человека в первые 2 секунды",
+   "В кадре 00:03-00:05 зашторенные панели и флажки отвлекают от демонстрации самой системы стекла"
+  ],
+  "fix": "Начните ролик с динамичного кадра открывания или закрывания сдвижного стекла руками (как на 00:06), чтобы сразу захватить внимание действием."
+ },
+ "date": "2026-11-28 16:47 UTC"
+}

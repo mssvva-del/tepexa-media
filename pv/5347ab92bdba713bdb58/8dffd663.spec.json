@@ -1,0 +1,95 @@
+{
+ "id": "5347ab92bdba713bdb58_s24",
+ "company": "Roman Group ArtVitrage",
+ "lang": "ru",
+ "hook": "Как безопасно мыть остекление балкона?",
+ "lines": [
+  "Стеклянные створки удобно сдвигаются внутрь для легкого мытья.",
+  "Напишите СТЕКЛО в WhatsApp."
+ ],
+ "say": [
+  "Стеклянные створки удобно сдвигаются внутрь для легкого мытья.",
+  "Напишите СТЕКЛО в вотсап."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/donor_aMm1RMyJqEo_1.mp4",
+   "ss": 0,
+   "dur": 1.6,
+   "donor": {
+    "id": "aMm1RMyJqEo",
+    "media": "",
+    "start": 2.0,
+    "dur": 2.0
+   },
+   "shows": "retractable glass pergola sliding open outdoors",
+   "cam": null
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1vbjws4qdZTr4bYo8EPPOAW1OWGk8QljX_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true,
+   "shows": "frameless balcony glazing corner view",
+   "cam": null
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1mQBT2uttha6z7BmIpFR_jK2KIOgh5L8V_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true,
+   "shows": "sliding balcony glass pane detail",
+   "cam": null
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1qWK2LJeasAbV-cydY4pzm203nyOqXck-_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true,
+   "shows": "glass panel track and railing",
+   "cam": null
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1sZSUSln5bcBGzush4JzedCgb_IegOD8x.jpg",
+   "dur": 3,
+   "own": true,
+   "shows": "glass balcony glazing from corner",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "cleaning frameless balcony glass",
+  "folding glass system balcony",
+  "modern glazed balcony view"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Мыть окна снаружи на высоте больше не опасно. Каждая панель открывается внутрь балкона. Напишите СТЕКЛО в WhatsApp. #безрамноеостекление #уборка #балкон #стекло #хайфа\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Вопрос мастеру",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия Вопрос мастеру. Вирусная зацепка с миллионного ролика с остеклением (донор 7, 98 миллионов просмотров). Снимает главное возражение владельцев высоких этажей.\nЧасть кадров — из вирусного ролика вашей ниши (43.0 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "hookscore": 65.9,
+ "qa": {
+  "score": 72,
+  "parts": {
+   "hook": 12,
+   "relevance": 18,
+   "alive": 12,
+   "text": 13,
+   "match": 8,
+   "cta": 9
+  },
+  "rule_break": false,
+  "problems": [
+   "Voice claims sashes slide inward for easy washing, but video never shows opening/sliding or washing",
+   "First frame shows a patio pergola in rain instead of balcony glazing mentioned in hook",
+   "Slow panning shots without showing actual operation"
+  ],
+  "fix": "Show hands actually opening, sliding and safely washing the frameless glass panels from inside the balcony to match the voiceover."
+ },
+ "date": "2026-11-27 16:41 UTC"
+}

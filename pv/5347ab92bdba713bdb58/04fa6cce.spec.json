@@ -1,0 +1,91 @@
+{
+ "id": "5347ab92bdba713bdb58_s27",
+ "company": "Roman Group ArtVitrage",
+ "lang": "ru",
+ "hook": "Идеально плавный ход стеклянных створок",
+ "lines": [
+  "Стеклянная панель плавно скользит по установленным направляющим.",
+  "Мы выверяем геометрию конструкции точно до каждого миллиметра.",
+  "Такая плотная подгонка защищает балкон от сквозняков круглосуточно.",
+  "Напишите СТЕКЛО в WhatsApp."
+ ],
+ "say": [
+  "Стеклянная панель плавно скользит по установленным направляющим.",
+  "Мы выверяем геометрию конструкции точно до каждого миллиметра.",
+  "Такая плотная подгонка защищает балкон от сквозняков круглосуточно.",
+  "Напишите СТЕКЛО в вотсап."
+ ],
+ "shots": [
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1mQBT2uttha6z7BmIpFR_jK2KIOgh5L8V_720.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "own": true,
+   "shows": "sliding balcony glass pane detail",
+   "cam": null
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1cRb6yvLU0WQfgIb9k0g4BIfDH36fdYv5.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "glass panels on sunny balcony",
+   "cam": null
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1vbjws4qdZTr4bYo8EPPOAW1OWGk8QljX_720.mp4",
+   "ss": 1,
+   "dur": 3.0,
+   "own": true,
+   "shows": "frameless balcony glazing corner view",
+   "cam": null
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/12suUvh1yveKnE80VMrWs9Fzo19JHBo2v.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "balcony frameless glass panels view",
+   "cam": null
+  },
+  {
+   "src": "clients/5347ab92bdba713bdb58/drive/1rl1AnKCMJelK8JjXVpNARELxqGX2lHkg.jpg",
+   "dur": 3,
+   "own": true,
+   "shows": "installed glass railing and enclosure",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "craftsman installing glass panel level",
+  "laser level balcony glass installation",
+  "sliding glass hardware detail"
+ ],
+ "paid": true,
+ "end": "Напишите СТЕКЛО в WhatsApp",
+ "caption": "Точная геометрия при монтаже — основа плавного скольжения безрамного стекла на долгие годы. Напишите СТЕКЛО в WhatsApp. #монтажокон #безрамноеостекление #стекло #семейнаямастерская #израиль\n\n👉 reels.tepexa.com/w/5347ab92bdba713bdb58",
+ "series": "Установка глазами мастера",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия Установка глазами мастера. Показ экспертизы и реальной точности работы семейной мастерской со стеклом, укрепляет доверие.",
+ "rules": "Roman Group (ArtVitrage) works ONLY with glass. Main product (about 2 of 3 videos): frameless glazing of balconies and verandas (windows for balconies), pergolas, balcony blinds. Also: stained glass, decorative mirrors, glass kitchen backsplashes (skinali), glass partitions. EVERY shot must clearly show glass work as the main subject. Forbidden shots: kitchens or rooms where cabinets, appliances or furniture are the subject and no glass is clearly visible in focus; furniture or cabinets being built or assembled; woodwork; drinking glasses, glassware, bottles or jars; tiles, plaster or other trades; mosques, churches and religious images (synagogue stained glass only from his own photos). Never mention furniture. No prices, no deadlines, no client names, no other companies' objects.",
+ "hookscore": 55.4,
+ "qa": {
+  "score": 76,
+  "parts": {
+   "hook": 12,
+   "relevance": 18,
+   "alive": 10,
+   "text": 13,
+   "match": 14,
+   "cta": 9
+  },
+  "rule_break": false,
+  "problems": [
+   "Затянутый статичный план балкона длится почти 7 секунд без движения",
+   "В хуке текст обещает плавный ход створок, но сама створка на видео почти не двигается"
+  ],
+  "fix": "Замените длинную статичную сцену балкона на динамичный показ открывания и закрывания створок крупным планом."
+ },
+ "date": "2026-11-29 09:23 UTC"
+}

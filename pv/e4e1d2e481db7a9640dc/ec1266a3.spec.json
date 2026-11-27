@@ -1,0 +1,97 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s25",
+ "company": "Библия без мифов",
+ "lang": "ru",
+ "hook": "Ищете общину в Израиле без давления?",
+ "lines": [
+  "Община открыта для русскоязычных жителей Израиля среди древних улиц.",
+  "Мы открываем цветущую землю и еврейские корни веры.",
+  "На природе страницы Писания оживают в теплой беседе.",
+  "Напишите СЛОВО в WhatsApp на номер плюс девять семь два пять четыре шесть три пять два два три восемь."
+ ],
+ "say": [
+  "Община открыта для русскоязычных жителей Израиля среди древних улиц.",
+  "Мы открываем цветущую землю и еврейские корни веры.",
+  "На природе страницы Писания оживают в теплой беседе.",
+  "Напишите СЛОВО в вотсап на номер плюс девятьсот семьдесят два, пятьдесят четыре, шестьсот тридцать пять, двадцать два, тридцать восемь."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_35040540.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "people walking through ancient stone arch",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_37990482.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "red poppies blooming under blue sky",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_39396487.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "horses grazing in desert landscape",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_40760572.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "green apples hanging on tree branch",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_14116456.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "open book pages flipping outdoors",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_36474503.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "open books on wooden table",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "friends having friendly conversation tea indoors",
+  "Israel countryside tranquil sunny day",
+  "open book on rustic wooden table"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Приглашаем русскоязычных жителей Израиля на открытые встречи общины «Библия без мифов». Напишите СЛОВО в WhatsApp на номер +972546352238 для знакомства. #община #израиль #библиябезмифов #иешуа\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc",
+ "series": "Живые фрагменты общины",
+ "kind": "offer",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Формат offer. Прямой оффер на основе самого конверсионного паттерна клиента (993 охвата), выводящий заинтересованных русскоязычных израильтян на личный WhatsApp.",
+ "rules": "Russian videos for a Jewish-Christian congregation in Israel (pastor Mikhail Karpovetsky, «Библия без мифов»). Formats: short 6–25 s, one strong line, big text NEVER over faces. Allowed footage: Israel landscapes, Galilee, desert, sunrise, sea, olive trees, hands with a Bible (no cross on the cover), turning pages, maps, Hebrew letters on paper. FORBIDDEN in any frame: Torah scrolls or synagogue objects, crosses, icons, statues, paintings or images of Jesus, figures in clouds, churches, mosques or other temples, priests, candles of rituals, Getty or other watermarks, any burned-in foreign text. Say «Иешуа» or «Иисус»; framing is Jewish Christianity, no talit/kippah/menorah. No pressure, no promises, never the word «бесплатно», no gifts or benefit for coming, never address children. CTA: a word or question in the comments, or «напишите нам в WhatsApp». Warm, personal tone.",
+ "hookscore": 68.1,
+ "qa": {
+  "score": 74,
+  "parts": {
+   "hook": 14,
+   "relevance": 14,
+   "alive": 13,
+   "text": 12,
+   "match": 14,
+   "cta": 7
+  },
+  "rule_break": false,
+  "problems": [
+   "Voiceover spells out a long phone number digit by digit, which sounds awkward and tedious in short video format",
+   "On-screen text does not display the phone number while the voice dictates it",
+   "Ending shot with blurry background lingers too long (00:18-00:21)"
+  ],
+  "fix": "Remove dictating the phone number digit-by-digit from the voiceover, instead tell viewers to tap the WhatsApp link in profile or show the written phone number briefly on screen."
+ },
+ "date": "2026-12-10 09:49 UTC"
+}

@@ -1,0 +1,93 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s21",
+ "company": "Библия без мифов",
+ "lang": "ru",
+ "hook": "Если тебе одиноко в чужой стране",
+ "lines": [
+  "Среди зелени и света страниц вера находит родину.",
+  "Напишите СЛОВО в WhatsApp для тёплой беседы."
+ ],
+ "say": [
+  "Среди зелени и света страниц вера находит родину.",
+  "Напишите СЛОВО в вотсап для тёплой беседы."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_15860506.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "silhouette of man walking against sunset",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_40509149.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "olive or laurel tree branch",
+   "cam": null
+  },
+  {
+   "src": "clients/e4e1d2e481db7a9640dc/donor_tt7616922782424730910_0.mp4",
+   "ss": 0,
+   "dur": 1.95,
+   "donor": {
+    "id": "tt7616922782424730910",
+    "media": "https://v16m.tiktokcdn-us.com/510727675fed4899ce1c7ba0dfbb4ee0/6b09f514/video/tos/useast8/tos-useast8-ve-0068c003-tx2/owfPREyeLpDtQAEmvODFVEpDBPL2tIR04jVAgE/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=684&ft=WgSBMNdkVcy5Uxl7KStG-XD5SsZzckPXt2XPZfcyqF_4&mime_type=video_mp4&rc=ZzU1Ojg5aDM3ODU7N2Y5M0BpajV2O2s5cjZlOTMzaTczNEAvYC4uXmI0NTYxXl8uMDIzYSNhMGBpMmRzcG5hLS1kMTJzcw%3D%3D&vvpl=1&l=202611271523280EC2095424F8D702BD69&btag=e00090000",
+    "start": 13.5,
+    "dur": 2.0
+   },
+   "free": "bottom",
+   "shows": "sunlight shining through misty trees",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_4769627.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "turning pages of an open book",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_29279469.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "person on wide sandy beach",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "person walking contemplative seaside sunset",
+  "warm sunlight through olive tree leaves",
+  "man hands holding open paper book"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Переезд в Израиль и поиск себя — путь, который легче проходить вместе. Напишите СЛОВО в WhatsApp, чтобы пообщаться и найти единомышленников. #израиль #поддержка #библиябезмифов #вера\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc",
+ "series": "Ты читаешь это не случайно",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия «Ты читаешь это не случайно». Опирается на формат эмпатичной поддержки (донор 5, 10,9 млн). Цель — привести русскоязычных репатриантов к личной переписке.\nЧасть кадров — из вирусного ролика вашей ниши (27.7 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "rules": "Russian videos for a Jewish-Christian congregation in Israel (pastor Mikhail Karpovetsky, «Библия без мифов»). Formats: short 6–25 s, one strong line, big text NEVER over faces. Allowed footage: Israel landscapes, Galilee, desert, sunrise, sea, olive trees, hands with a Bible (no cross on the cover), turning pages, maps, Hebrew letters on paper. FORBIDDEN in any frame: Torah scrolls or synagogue objects, crosses, icons, statues, paintings or images of Jesus, figures in clouds, churches, mosques or other temples, priests, candles of rituals, Getty or other watermarks, any burned-in foreign text. Say «Иешуа» or «Иисус»; framing is Jewish Christianity, no talit/kippah/menorah. No pressure, no promises, never the word «бесплатно», no gifts or benefit for coming, never address children. CTA: a word or question in the comments, or «напишите нам в WhatsApp». Warm, personal tone.",
+ "hookscore": 56.8,
+ "qa": {
+  "score": 70,
+  "parts": {
+   "hook": 14,
+   "relevance": 12,
+   "alive": 12,
+   "text": 13,
+   "match": 11,
+   "cta": 8
+  },
+  "rule_break": false,
+  "problems": [
+   "Низкое качество и странный темный артефакт в кадре на 00:03-00:04",
+   "Не совсем понятный зрителям CTA: какое именно кодовое слово писать в WhatsApp (написано буквально 'слово')",
+   "Голос и визуал не создают сильной эмоциональной связки с хуком об одиночестве в эмиграции"
+  ],
+  "fix": "Замените темный неразборчивый кадр на 00:03 качественным пейзажем Израиля и укажите в CTA конкретное кодовое слово (например, 'ШАЛОМ' или 'ОБЩИНА')."
+ },
+ "date": "2026-12-08 09:37 UTC"
+}

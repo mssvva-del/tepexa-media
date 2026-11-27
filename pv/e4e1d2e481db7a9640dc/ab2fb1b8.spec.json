@@ -1,0 +1,85 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s19",
+ "company": "Библия без мифов",
+ "lang": "ru",
+ "hook": "В Новом Завете нет слова христианин?",
+ "lines": [
+  "Листая страницы, узнаем подлинные имена первых учеников Иешуа.",
+  "Напишите СЛОВО в WhatsApp чтобы узнать подлинный контекст."
+ ],
+ "say": [
+  "Листая страницы, узнаем подлинные имена первых учеников Иешуа.",
+  "Напишите СЛОВО в вотсап чтобы узнать подлинный контекст."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_40128881.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "Flipping through book pages",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_26611833.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Sunrise over valley landscape",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_9080217.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Hand turning pages of book",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_29281063.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "view of hills from moving car",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_26847910.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "Golden wheat field and hills",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "hands turning old book pages closeup",
+  "Galilee landscape sunset hills",
+  "ancient map Middle East parchment"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Как изначально называли первых последователей Иешуа в Иудее? Открываем Писание без поздних наслоений и стереотипов. Напишите СЛОВО в WhatsApp для искреннего диалога. #библиябезмифов #иврит #израиль #иешуа\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc",
+ "series": "Миф и что написано на самом деле",
+ "kind": "viral",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Серия «Миф и оригинал». Опирается на топ-тему клиента о евреях и вере (1761 просмотр) и вирусный донор 0 (27 млн). Цель — вовлечь скептиков в разбор текста оригинала.\nЧасть кадров — из вирусного ролика вашей ниши (27.7 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "rules": "Russian videos for a Jewish-Christian congregation in Israel (pastor Mikhail Karpovetsky, «Библия без мифов»). Formats: short 6–25 s, one strong line, big text NEVER over faces. Allowed footage: Israel landscapes, Galilee, desert, sunrise, sea, olive trees, hands with a Bible (no cross on the cover), turning pages, maps, Hebrew letters on paper. FORBIDDEN in any frame: Torah scrolls or synagogue objects, crosses, icons, statues, paintings or images of Jesus, figures in clouds, churches, mosques or other temples, priests, candles of rituals, Getty or other watermarks, any burned-in foreign text. Say «Иешуа» or «Иисус»; framing is Jewish Christianity, no talit/kippah/menorah. No pressure, no promises, never the word «бесплатно», no gifts or benefit for coming, never address children. CTA: a word or question in the comments, or «напишите нам в WhatsApp». Warm, personal tone.",
+ "hookscore": 63.0,
+ "qa": {
+  "score": 72,
+  "parts": {
+   "hook": 14,
+   "relevance": 13,
+   "alive": 12,
+   "text": 13,
+   "match": 12,
+   "cta": 8
+  },
+  "rule_break": false,
+  "problems": [
+   "Первая книга на 00:00-00:01 на турецком/иностранном языке (видно слово 'Suresi' — Коран), что совершенно неуместно для проекта о Новом Завете",
+   "Кадр на 00:06-00:09 слишком затянут и статичен (около 3 секунд одного плана)"
+  ],
+  "fix": "Замените начальный футаж с иностранным текстом на чтение Библии или Танаха на иврите/русском и сократите финальный статичный кадр поля."
+ },
+ "date": "2026-12-07 09:07 UTC"
+}

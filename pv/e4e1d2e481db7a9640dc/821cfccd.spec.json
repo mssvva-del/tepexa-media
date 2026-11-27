@@ -1,0 +1,89 @@
+{
+ "id": "e4e1d2e481db7a9640dc_s23",
+ "company": "Библия без мифов",
+ "lang": "ru",
+ "hook": "Как читать Писание без религиозных мифов",
+ "lines": [
+  "Открываем страницы Писания и вникаем в подлинный смысл.",
+  "Среди холмов Галилеи мы ищем ответы на вопросы.",
+  "Держим Слово близко к сердцу в открытом диалоге.",
+  "Напишите СЛОВО в WhatsApp чтобы познакомиться лично."
+ ],
+ "say": [
+  "Открываем страницы Писания и вникаем в подлинный смысл.",
+  "Среди холмов Галилеи мы ищем ответы на вопросы.",
+  "Держим Слово близко к сердцу в открытом диалоге.",
+  "Напишите СЛОВО в вотсап чтобы познакомиться лично."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_6860448.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "hands turning pages of Bible",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_34778448.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "green hills under blue sky",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_5199738.mp4",
+   "ss": 1,
+   "dur": 1.6,
+   "shows": "person holding closed leather bible",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_40216664.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Bird perched on boat railing",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_34648416.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "lush green mountain slope landscape",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "hands holding open bible table warm light",
+  "group of friends talking indoors smile warm",
+  "Galilee mountains peaceful landscape"
+ ],
+ "paid": true,
+ "end": "Напишите СЛОВО в WhatsApp",
+ "caption": "Открытый разговор о Писании без формализма и давления. Напишите СЛОВО в WhatsApp, чтобы прийти на встречу общины в Израиле. #общинаизраиль #библиябезмифов #вера #иешуа\n\n👉 reels.tepexa.com/w/e4e1d2e481db7a9640dc",
+ "series": "Живые фрагменты общины",
+ "kind": "work",
+ "engine": "fish",
+ "fish_voice": "6ada82e315e648b6a30a2e2210844cbf",
+ "own_voice": false,
+ "why": "Формат work. Показывает жизнь общины изнутри в развитие успешного приглашающего ролика клиента (993 охвата), снижает барьер перед первой встречей.",
+ "rules": "Russian videos for a Jewish-Christian congregation in Israel (pastor Mikhail Karpovetsky, «Библия без мифов»). Formats: short 6–25 s, one strong line, big text NEVER over faces. Allowed footage: Israel landscapes, Galilee, desert, sunrise, sea, olive trees, hands with a Bible (no cross on the cover), turning pages, maps, Hebrew letters on paper. FORBIDDEN in any frame: Torah scrolls or synagogue objects, crosses, icons, statues, paintings or images of Jesus, figures in clouds, churches, mosques or other temples, priests, candles of rituals, Getty or other watermarks, any burned-in foreign text. Say «Иешуа» or «Иисус»; framing is Jewish Christianity, no talit/kippah/menorah. No pressure, no promises, never the word «бесплатно», no gifts or benefit for coming, never address children. CTA: a word or question in the comments, or «напишите нам в WhatsApp». Warm, personal tone.",
+ "hookscore": 66.8,
+ "qa": {
+  "score": 75,
+  "parts": {
+   "hook": 13,
+   "relevance": 14,
+   "alive": 14,
+   "text": 13,
+   "match": 14,
+   "cta": 8
+  },
+  "rule_break": false,
+  "problems": [
+   "At 00:03-00:05 the English inscription 'HOLY BIBLE' on the cover breaks visual immersion for Russian-speaking Israelis",
+   "Pacing slows down on a generic green hill in the second half"
+  ],
+  "fix": "Replace the English Bible cover shot and the generic green slope with authentic Galilee/Israel landscapes and Tanakh pages with Hebrew lettering."
+ },
+ "date": "2026-12-09 09:17 UTC"
+}

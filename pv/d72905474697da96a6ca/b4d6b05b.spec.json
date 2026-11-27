@@ -1,0 +1,94 @@
+{
+ "id": "d72905474697da96a6ca",
+ "pv": "viral",
+ "plan_usd": 0.0033,
+ "company": "Dream Doors",
+ "lang": "en",
+ "hook": "Why standard doors warp so quickly",
+ "lines": [
+  "Standard store doors warp and jam after 1 season.",
+  "We engineer solid custom doors fitted to the millimeter.",
+  "Our Toronto workshop crafts every piece to last decades.",
+  "Message us on WhatsApp to start your custom project."
+ ],
+ "say": [
+  "Standard store doors warp and jam after one season.",
+  "We engineer solid custom doors fitted to the millimeter.",
+  "Our Toronto workshop crafts every piece to last decades.",
+  "Message us on WhatsApp to start your custom project."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_6789599.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_6790700.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "carpenter working in woodworking workshop",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_35099110.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Plain interior door with handle",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_35417846.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "Ornate decorative entrance doors opening",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_5089228.mp4",
+   "ss": 1,
+   "dur": 3,
+   "shows": "carpenter inspecting raw wooden plank",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "carpenter installing custom wooden door",
+  "craftsman sanding solid wood workshop",
+  "modern interior luxury entrance door"
+ ],
+ "llm_usd": 0.0358,
+ "hookscore": 70.8,
+ "end_text": [
+  "Message on WhatsApp",
+  "Precision custom doors"
+ ],
+ "ad_end": true,
+ "end": "Message on WhatsApp",
+ "why": "Серия «Custom Project Showcase». Хук построен на острой боли кривых зазоров и перекоса массовых дверей (вирусный донор #5 с 27 млн просмотров), закрывая клиента на расчет в WhatsApp.",
+ "qa": {
+  "score": 71,
+  "parts": {
+   "hook": 13,
+   "relevance": 11,
+   "alive": 14,
+   "text": 12,
+   "match": 11,
+   "cta": 9
+  },
+  "rule_break": false,
+  "problems": [
+   "Excessive use of generic stock carpentry footage instead of actual door manufacturing and portfolio",
+   "Visual disconnect: ornate mosque/palace-style door shown briefly contrasts with standard custom residential/commercial work",
+   "The opening hook lacks visual demonstration of a warped or jammed door"
+  ],
+  "fix": "Replace stock woodworking clips with authentic footage of warped store doors being compared directly against custom-crafted, finished residential doors installed by your Toronto team."
+ },
+ "cost": {
+  "usd": 0.003,
+  "calls": 1,
+  "by": {
+   "script": 0.0033
+  }
+ }
+}

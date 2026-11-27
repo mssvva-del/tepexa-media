@@ -1,0 +1,93 @@
+{
+ "id": "d72905474697da96a6ca",
+ "pv": "viral",
+ "plan_usd": 0.0043,
+ "company": "Kitchen Gallery",
+ "lang": "en",
+ "hook": "Why Standard Cabinets Fail in Homes",
+ "lines": [
+  "Cheap store cabinets warp and sag within 2 years.",
+  "We craft solid custom cabinetry fitted to every millimeter.",
+  "Toronto homeowners get flawless joinery and durable finishes.",
+  "Send your measurements on WhatsApp for a quick estimate."
+ ],
+ "say": [
+  "Cheap store cabinets warp and sag within two years.",
+  "We craft solid custom cabinetry fitted to every millimeter.",
+  "Toronto homeowners get flawless joinery and durable finishes.",
+  "Send your measurements on WhatsApp for a quick estimate."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_39774498.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_39109119.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_7314254.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_40664902.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_40187587.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_40187593.mp4",
+   "ss": 1,
+   "dur": 3
+  }
+ ],
+ "stock_queries": [
+  "modern custom kitchen cabinets wood",
+  "carpenter installing kitchen cabinet hinges",
+  "luxury custom kitchen interior design"
+ ],
+ "llm_usd": 0.0182,
+ "hookscore": 61.3,
+ "engine": "fish",
+ "fish_voice": "933563129e564b19a115bedd57b7406a",
+ "end_text": [
+  "Message on WhatsApp",
+  "Custom Millwork Toronto"
+ ],
+ "ad_end": true,
+ "end": "Message on WhatsApp",
+ "why": "Серия «Custom Project Showcase». Использован виральный паттерн разбора фабричных дефектов против кастомного производства (вирусный донор с 28 млн просмотров), чтобы привлечь домовладельцев Торонто в WhatsApp.",
+ "qa": {
+  "score": 78,
+  "parts": {
+   "hook": 14,
+   "relevance": 14,
+   "alive": 14,
+   "text": 13,
+   "match": 14,
+   "cta": 8
+  },
+  "rule_break": false,
+  "problems": [
+   "Flash transitions between cuts look washed out and distract from cabinet quality",
+   "Hook frame at 00:00 starts on a static modern kitchen instead of immediately showing broken/sagging cabinets"
+  ],
+  "fix": "Start immediately with footage of damaged or sagging cabinets to boost the hook, and replace the washed-out white flash transitions with clean direct cuts."
+ },
+ "cost": {
+  "usd": 0.004,
+  "calls": 3,
+  "by": {
+   "viral": 0.0009,
+   "script": 0.0034
+  }
+ }
+}

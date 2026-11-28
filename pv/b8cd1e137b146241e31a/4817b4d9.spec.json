@@ -1,0 +1,99 @@
+{
+ "id": "b8cd1e137b146241e31a",
+ "pv": "viral",
+ "plan_usd": 0.0059,
+ "company": "ENCANTO",
+ "lang": "es",
+ "hook": "¿Tu base queda a rayas?",
+ "lines": [
+  "Aplicar tu base diaria no debería dejar parches.",
+  "Para casa necesitas estas brochas básicas seleccionadas.",
+  "El pelo suave difumina sin absorber tu maquillaje.",
+  "Encuentra tu kit ideal en el enlace."
+ ],
+ "say": [
+  "Aplicar tu base diaria no debería dejar parches.",
+  "Para casa necesitas estas brochas básicas seleccionadas.",
+  "El pelo suave difumina sin absorber tu maquillaje.",
+  "Encuentra tu kit ideal en el enlace."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_8999074.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "clients/b8cd1e137b146241e31a/prod_38.jpg",
+   "dur": 1.5,
+   "fit": "pad",
+   "own": true,
+   "shows": "single professional makeup brush",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_3894704.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "clients/b8cd1e137b146241e31a/prod_14.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "brush set product display",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_8999288.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "clients/b8cd1e137b146241e31a/prod_11.jpg",
+   "dur": 3,
+   "fit": "pad",
+   "own": true,
+   "shows": "makeup brush set lineup",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "woman applying foundation makeup brush macro",
+  "makeup artist blending powder skin close up",
+  "professional makeup brushes set soft bristles"
+ ],
+ "llm_usd": 0.0268,
+ "hookscore": 74.5,
+ "end_text": [
+  "Visita nuestra web",
+  "Kits profesionales diari"
+ ],
+ "ad_end": true,
+ "end": "Visita nuestra web · encantoshop.es",
+ "why": "Ролик серии 1 отвечает на прямой запрос клиента «Как подобрать домашний уход и базовые кисти». Использована формула выявления ошибки нанесения тона с переходом к базовому набору (по образцу вирусных разборов Rose Siard с 22+ млн просмотров) для конверсии на сайт encantoshop.es.",
+ "qa": {
+  "score": 86,
+  "parts": {
+   "hook": 17,
+   "relevance": 18,
+   "alive": 15,
+   "text": 13,
+   "match": 14,
+   "cta": 9
+  },
+  "rule_break": false,
+  "problems": [
+   "Static product catalog images break live video flow at 0:01, 0:04, 0:07",
+   "Stock footage makeup application looks generic compared to CTR branded tools"
+  ],
+  "fix": "Replace static product catalog shots with dynamic live demonstration footage of using the CTR brushes."
+ },
+ "cost": {
+  "usd": 0.0,
+  "calls": 3,
+  "by": {
+   "viral": 0.0009,
+   "script": 0.005
+  }
+ }
+}

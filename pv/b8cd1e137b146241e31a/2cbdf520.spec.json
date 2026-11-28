@@ -1,0 +1,95 @@
+{
+ "id": "b8cd1e137b146241e31a",
+ "pv": "viral",
+ "plan_usd": 0.0062,
+ "company": "ENCANTO",
+ "lang": "es",
+ "hook": "¿Marcas líneas al aplicar corrector?",
+ "lines": [
+  "Aplicar tu corrector sin técnica marca líneas indeseadas.",
+  "El secreto para difuminar en casa es taklon.",
+  "Nuestras brochas artesanales integran el producto en piel.",
+  "Encuentra en nuestra web la guía para tu rutina diaria."
+ ],
+ "say": [
+  "Aplicar tu corrector sin técnica marca líneas indeseadas.",
+  "El secreto para difuminar en casa es taklon.",
+  "Nuestras brochas artesanales integran el producto en piel.",
+  "Encuentra en nuestra web la guía para tu rutina diaria."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_12322771.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_8479190.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "stock/pexels_8999284.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "woman opening liquid makeup product",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_8999067.mp4",
+   "ss": 1,
+   "dur": 1.4,
+   "shows": "applying mascara to woman eyelashes",
+   "cam": null
+  },
+  {
+   "src": "clients/b8cd1e137b146241e31a/prod_14.jpg",
+   "dur": 3,
+   "fit": "pad",
+   "own": true,
+   "shows": "basic mini brush set display",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "woman applying concealer under eye close up",
+  "makeup brush blending concealer macro skin texture",
+  "professional soft makeup brush detail"
+ ],
+ "llm_usd": 0.0282,
+ "hookscore": 67.9,
+ "engine": "fish",
+ "fish_voice": "35929683c49c4ec0bf779dc07d22620b",
+ "end_text": [
+  "Descubre tu rutina",
+  "Asesoría en web"
+ ],
+ "ad_end": true,
+ "end": "Descubre tu rutina · encantoshop.es",
+ "why": "Серия разбора частых ошибок домашнего макияжа и ухода (по формуле Rose Siard с 303 тыс. просмотров и донора #8 с 22,3 млн просмотров). Ролик уходит от прямой рекламы к экспертному решению проблемы скатывания консилера и мягко приглашает на сайт за готовой шпаргалкой по подбору.\nЧасть кадров — из вирусного ролика вашей ниши (64.5 млн просмотров), чтобы разогнать охват; ваш продукт и призыв — в начале и в конце.",
+ "qa": {
+  "score": 73,
+  "parts": {
+   "hook": 14,
+   "relevance": 12,
+   "alive": 13,
+   "text": 13,
+   "match": 12,
+   "cta": 9
+  },
+  "rule_break": false,
+  "problems": [
+   "Generic stock footage of eye makeup and mascara application rather than specifically demonstrating blending concealer with taklon brushes",
+   "Static product catalogue slide shown for too long at the end (0:09-0:14)"
+  ],
+  "fix": "Replace the generic makeup clips and static product card with a real video demo showing concealer being seamlessly blended out using the CTR taklon brush."
+ },
+ "cost": {
+  "usd": 0.006,
+  "calls": 3,
+  "by": {
+   "viral": 0.0009,
+   "script": 0.0053
+  }
+ }
+}

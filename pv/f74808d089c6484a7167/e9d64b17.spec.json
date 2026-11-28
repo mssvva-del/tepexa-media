@@ -1,0 +1,99 @@
+{
+ "id": "f74808d089c6484a7167",
+ "pv": "viral",
+ "plan_usd": 0.0046,
+ "company": "Creostar.ai",
+ "lang": "en",
+ "hook": "Stop wasting hours finding influencers manually",
+ "lines": [
+  "Manual influencer outreach takes dozens of wasted team hours.",
+  "Our AI platform finds targeted creators across your niche.",
+  "Smart algorithms craft personalized emails and automate first contact.",
+  "Visit creostar.ai today and explore our live demo."
+ ],
+ "say": [
+  "Manual influencer outreach takes dozens of wasted team hours.",
+  "Our AI platform finds targeted creators across your niche.",
+  "Smart algorithms craft personalized emails and automate first contact.",
+  "Visit cree-oh-star dot a-eye today and explore our live demo."
+ ],
+ "shots": [
+  {
+   "src": "stock/pexels_7967298.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "clients/f74808d089c6484a7167/gal_0.jpg",
+   "dur": 1.5,
+   "own": true,
+   "shows": "Graphics showing hashtags and blogger avatars",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_7681471.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "clients/f74808d089c6484a7167/gal_2.jpg",
+   "dur": 1.5,
+   "fit": "pad",
+   "own": true,
+   "shows": "Network diagram connecting influencer profiles",
+   "cam": null
+  },
+  {
+   "src": "stock/pexels_38410501.mp4",
+   "ss": 1,
+   "dur": 1.4
+  },
+  {
+   "src": "clients/f74808d089c6484a7167/gal_1.jpg",
+   "dur": 3,
+   "fit": "pad",
+   "own": true,
+   "shows": "Outreach messaging interface graphics mockup",
+   "cam": null
+  }
+ ],
+ "stock_queries": [
+  "marketer working laptop screen",
+  "influencer social media scrolling",
+  "software dashboard interface work"
+ ],
+ "llm_usd": 0.0205,
+ "hookscore": 80.8,
+ "end_text": [
+  "Visit creostar.ai",
+  "AI influencer outreach"
+ ],
+ "ad_end": true,
+ "end": "Visit creostar.ai · creostar.ai",
+ "why": "Серия 1 («Как это работает») по брифу Наиля: демонстрируем решение проблемы ручного поиска блогеров через AI-автоматизацию по проверенной формуле продуктивности и подборки инструментов (2,7M просмотров у донора #3).",
+ "qa": {
+  "score": 72,
+  "parts": {
+   "hook": 14,
+   "relevance": 12,
+   "alive": 12,
+   "text": 13,
+   "match": 12,
+   "cta": 9
+  },
+  "rule_break": false,
+  "problems": [
+   "Generic stock footage of typing and phone scrolling instead of showing the actual SaaS platform UI/dashboard",
+   "Static graphic mockups feel repetitive and lack dynamic platform demo visuals"
+  ],
+  "fix": "Replace generic stock clips of phone scrolling and typing with actual screencasts and interactive UI walkthroughs of the Creostar platform finding creators and generating outreach."
+ },
+ "cost": {
+  "usd": 0.005,
+  "calls": 3,
+  "by": {
+   "viral": 0.0008,
+   "script": 0.0039
+  }
+ }
+}
